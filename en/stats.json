@@ -1,0 +1,186 @@
+
+{
+    "stats.strength.short" : "STR",
+    "stats.strength.categorized" : "STR",
+
+    "stats.dexterity.short" : "DEX",
+    "stats.dexterity.categorized" : "DEX",
+
+    "stats.constitution.short" : "CON",
+    "stats.constitution.categorized" : "CON",
+
+    "stats.wisdom.short" : "WIS",
+    "stats.wisdom.categorized" : "WIS",
+    
+    "stats.intelligence.short" : "INT",
+    "stats.intelligence.categorized" : "INT",
+    
+    "stats.charisma.short" : "CHA",
+    "stats.charisma.categorized" : "CHA",
+
+    "stats.health_max.short" : "HP",
+    "stats.health_max.categorized" : "MAX",
+    
+    "stats.health_regen.short" : "HP REGEN",
+    "stats.health_regen.categorized" : "RGN",
+
+    "stats.health_regen_delay.short" : "HP REGEN DELAY",
+    "stats.health_regen_delay.categorized" : "DLY",
+    
+    "stats.heal_multiplier.short" : "HEAL MOD",
+    "stats.heal_multiplier.categorized" : "HEAL",
+
+    "stats.stamina_max.short" : "STM",
+    "stats.stamina_max.categorized" : "MAX",
+    
+    "stats.stamina_regen.short" : "STM REGEN",
+    "stats.stamina_regen.categorized" : "RGN",
+    
+    "stats.stamina_regen_delay.short" : "STM REGEN DELAY",
+    "stats.stamina_regen_delay.categorized" : "DLY",
+    
+    "stats.stamina_cost_multiplier.short" : "STM COST",
+    "stats.stamina_cost_multiplier.categorized" : "COST",
+
+    "stats.concentration_max.short" : "CONC.",
+    "stats.concentration_max.categorized" : "MAX",
+
+    "stats.concentration_regen.short" : "CONC. REGEN",
+    "stats.concentration_regen.categorized" : "RGN",
+
+    "stats.concentration_regen_delay.short" : "CONC. REGEN DELAY",
+    "stats.concentration_regen_delay.categorized" : "DLY",
+    
+    "stats.concentration_cost_multiplier.short" : "CONC. COST",
+    "stats.concentration_cost_multiplier.categorized" : "COST",
+
+    "stats.posture_max.short" : "POSTURE",
+    "stats.posture_max.categorized" : "MAX",
+    
+    "stats.posture_regen.short" : "POSTURE REGEN",
+    "stats.posture_regen.categorized" : "RGN",
+    
+    "stats.posture_regen_delay.short" : "POSTURE REGEN DELAY",
+    "stats.posture_regen_delay.categorized" : "DLY",
+
+    "stats.attack_speed.short" : "ATTACK SPEED",
+    "stats.attack_speed.categorized" : "SPD",
+    
+    "stats.spell_speed.short" : "SPELL SPEED",
+    "stats.spell_speed.categorized" : "SPD",
+
+    "stats.spell_charges.short" : "SPELL CHARGES",
+    "stats.spell_charges.categorized" : "CHRG",
+
+    "stats.move_speed_multiplier.short" : "MOVE SPEED",
+    "stats.move_speed_multiplier.categorized" : "SPD",
+    
+    "stats.jump_height_multiplier.short" : "JUMP HEIGHT",
+    "stats.jump_height_multiplier.categorized" : "JMP",
+
+    "stats.attack_power.short" : "ATTACK POWER",
+    "stats.attack_power.categorized" : "PWR",
+    
+    "stats.spell_power.short" : "SPELL POWER",
+    "stats.spell_power.categorized" : "PWR",
+
+    "stats.fire_power.short" : "FIRE POWER",
+    "stats.fire_power.categorized" : "FIRE",
+    
+    "stats.frost_power.short" : "FROST POWER",
+    "stats.frost_power.categorized" : "FROST",
+    
+    "stats.electric_power.short" : "ELEC. POWER",
+    "stats.electric_power.categorized" : "ELEC.",
+    
+    "stats.poison_power.short" : "POISON POWER",
+    "stats.poison_power.categorized" : "PSN",
+    
+    "stats.necrotic_power.short" : "NECR. POWER",
+    "stats.necrotic_power.categorized" : "NECR.",
+
+    "stats.arcane_power.short" : "ARCANE POWER",
+    "stats.arcane_power.categorized" : "ARC.",
+    
+    "stats.divine_power.short" : "DIVINE POWER",
+    "stats.divine_power.categorized" : "DIV.",
+    
+    "stats.occult_power.short" : "OCCULT POWER",
+    "stats.occult_power.categorized" : "OCLT",
+
+    "stats.armor_penetration.short" : "ARMOR PEN.",
+    "stats.armor_penetration.categorized" : "ARM",
+    "stats.warding_penetration.short" : "WARDING PEN.",
+    "stats.warding_penetration.categorized" : "WARD",
+
+    "stats.fire_penetration.short" : "FIRE PEN.",
+    "stats.fire_penetration.categorized" : "FIRE",
+    
+    "stats.frost_penetration.short" : "FROST PEN.",
+    "stats.frost_penetration.categorized" : "FRST",
+    
+    "stats.electric_penetration.short" : "ELEC. PEN.",
+    "stats.electric_penetration.categorized" : "ELEC.",
+    
+    "stats.poison_penetration.short" : "POISON PEN.",
+    "stats.poison_penetration.categorized" : "PSN",
+    
+    "stats.necrotic_penetration.short" : "NECR. PEN.",
+    "stats.necrotic_penetration.categorized" : "NECR.",
+    
+    "stats.arcane_penetration.short" : "ARCANE PEN.",
+    "stats.arcane_penetration.categorized" : "ARC.",
+    
+    "stats.divine_penetration.short" : "DIVINE PEN.",
+    "stats.divine_penetration.categorized" : "DIV.",
+    
+    "stats.occult_penetration.short" : "OCCULT PEN.",
+    "stats.occult_penetration.categorized" : "OCLT",
+
+    "stats.critical_multiplier.short" : "CRT. MULT.",
+    "stats.critical_multiplier.categorized" : "CRT",
+    
+    "stats.knockback.short" : "KNOCKBACK",
+    "stats.knockback.categorized" : "KBK",
+
+    "stats.armor.short" : "ARMOR",
+    "stats.armor.categorized" : "ARM",
+    
+    "stats.warding.short" : "WARDING",
+    "stats.warding.categorized" : "WARD",
+    
+    "stats.critical_negation.short" : "CRT. NEG.",
+    "stats.critical_negation.categorized" : "CRT",
+    "stats.knockback_resistance.short" : "KNOCKBACK RES.",
+    "stats.knockback_resistance.categorized" : "KBK",
+
+    "stats.fire_resistance.short" : "FIRE RES.",
+    "stats.fire_resistance.categorized" : "FIRE",
+    
+    "stats.frost_resistance.short" : "FROST RES.",
+    "stats.frost_resistance.categorized" : "FRST",
+    
+    "stats.electric_resistance.short" : "ELEC. RES.",
+    "stats.electric_resistance.categorized" : "ELEC.",
+    
+    "stats.poison_resistance.short" : "POISON RES.",
+    "stats.poison_resistance.categorized" : "PSN",
+    
+    "stats.necrotic_resistance.short" : "NECR. RES.",
+    "stats.necrotic_resistance.categorized" : "NECR.",
+    
+    "stats.arcane_resistance.short" : "ARCANE RES.",
+    "stats.arcane_resistance.categorized" : "ARC.",
+    
+    "stats.divine_resistance.short" : "DIVINE RES.",
+    "stats.divine_resistance.categorized" : "DIV.",
+    
+    "stats.occult_resistance.short" : "OCCULT RES.",
+    "stats.occult_resistance.categorized" : "OCLT",
+    
+    "stats.carry_weight.short" : "WEIGHT",
+    "stats.carry_weight.categorized" : "WGT",
+    
+    "stats.luck.short" : "LUCK",
+    "stats.luck.categorized" : "LCK"
+}
