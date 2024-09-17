@@ -69,8 +69,8 @@
     "stats.spell_speed.short" : "SPELL SPEED",
     "stats.spell_speed.categorized" : "SPD",
 
-    "stats.spell_charges.short" : "SPELL CHARGES",
-    "stats.spell_charges.categorized" : "CHRG",
+    "stats.mana_max.short" : "MANA",
+    "stats.mana_max.categorized" : "MANA",
 
     "stats.move_speed_multiplier.short" : "MOVE SPEED",
     "stats.move_speed_multiplier.categorized" : "SPD",
