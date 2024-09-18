@@ -20,10 +20,10 @@
     "stats.health_max.short" : "HP",
     "stats.health_max.categorized" : "MAX",
     
-    "stats.health_regen.short" : "HP REGEN",
+    "stats.health_regen.short" : "HP RGN",
     "stats.health_regen.categorized" : "RGN",
 
-    "stats.health_regen_delay.short" : "HP REGEN DELAY",
+    "stats.health_regen_delay.short" : "HP RGN DLY",
     "stats.health_regen_delay.categorized" : "DLY",
     
     "stats.heal_multiplier.short" : "HEAL MOD",
@@ -44,10 +44,10 @@
     "stats.concentration_max.short" : "CONC.",
     "stats.concentration_max.categorized" : "MAX",
 
-    "stats.concentration_regen.short" : "CONC. REGEN",
+    "stats.concentration_regen.short" : "CONC. RGN",
     "stats.concentration_regen.categorized" : "RGN",
 
-    "stats.concentration_regen_delay.short" : "CONC. REGEN DELAY",
+    "stats.concentration_regen_delay.short" : "CONC. RGN DLY",
     "stats.concentration_regen_delay.categorized" : "DLY",
     
     "stats.concentration_cost_multiplier.short" : "CONC. COST",
@@ -56,40 +56,40 @@
     "stats.posture_max.short" : "POSTURE",
     "stats.posture_max.categorized" : "MAX",
     
-    "stats.posture_regen.short" : "POSTURE REGEN",
+    "stats.posture_regen.short" : "POSTURE RGN",
     "stats.posture_regen.categorized" : "RGN",
     
-    "stats.posture_regen_delay.short" : "POSTURE REGEN DELAY",
+    "stats.posture_regen_delay.short" : "POSTURE RGN DLY",
     "stats.posture_regen_delay.categorized" : "DLY",
 
-    "stats.attack_speed.short" : "ATTACK SPEED",
+    "stats.attack_speed.short" : "ATK SPD",
     "stats.attack_speed.categorized" : "SPD",
     
-    "stats.spell_speed.short" : "SPELL SPEED",
+    "stats.spell_speed.short" : "SPELL SPD",
     "stats.spell_speed.categorized" : "SPD",
 
     "stats.mana_max.short" : "MANA",
     "stats.mana_max.categorized" : "MANA",
 
-    "stats.move_speed_multiplier.short" : "MOVE SPEED",
+    "stats.move_speed_multiplier.short" : "MOVE SPD",
     "stats.move_speed_multiplier.categorized" : "SPD",
     
     "stats.jump_height_multiplier.short" : "JUMP HEIGHT",
     "stats.jump_height_multiplier.categorized" : "JMP",
 
-    "stats.attack_power.short" : "ATTACK POWER",
+    "stats.attack_power.short" : "ATK PWR",
     "stats.attack_power.categorized" : "PWR",
     
-    "stats.spell_power.short" : "SPELL POWER",
+    "stats.spell_power.short" : "SPELL PWR",
     "stats.spell_power.categorized" : "PWR",
 
     "stats.fire_power.short" : "FIRE POWER",
     "stats.fire_power.categorized" : "FIRE",
     
-    "stats.frost_power.short" : "FROST POWER",
+    "stats.frost_power.short" : "FROST PWR",
     "stats.frost_power.categorized" : "FROST",
     
-    "stats.electric_power.short" : "ELEC. POWER",
+    "stats.electric_power.short" : "ELEC. PWR",
     "stats.electric_power.categorized" : "ELEC.",
     
     "stats.poison_power.short" : "POISON POWER",
@@ -98,10 +98,10 @@
     "stats.necrotic_power.short" : "NECR. POWER",
     "stats.necrotic_power.categorized" : "NECR.",
 
-    "stats.arcane_power.short" : "ARCANE POWER",
+    "stats.arcane_power.short" : "ARCANE PWR",
     "stats.arcane_power.categorized" : "ARC.",
     
-    "stats.divine_power.short" : "DIVINE POWER",
+    "stats.divine_power.short" : "DIVINE PWR",
     "stats.divine_power.categorized" : "DIV.",
     
     "stats.occult_power.short" : "OCCULT POWER",
@@ -139,8 +139,8 @@
     "stats.critical_multiplier.short" : "CRT. MULT.",
     "stats.critical_multiplier.categorized" : "CRT",
     
-    "stats.knockback.short" : "KNOCKBACK",
-    "stats.knockback.categorized" : "KBK",
+    "stats.knockback.short" : "KBCK",
+    "stats.knockback.categorized" : "KBCK", 
 
     "stats.armor.short" : "ARMOR",
     "stats.armor.categorized" : "ARM",
@@ -150,8 +150,8 @@
     
     "stats.critical_negation.short" : "CRT. NEG.",
     "stats.critical_negation.categorized" : "CRT",
-    "stats.knockback_resistance.short" : "KNOCKBACK RES.",
-    "stats.knockback_resistance.categorized" : "KBK",
+    "stats.knockback_resistance.short" : "KBCK RES.",
+    "stats.knockback_resistance.categorized" : "KBCK",
 
     "stats.fire_resistance.short" : "FIRE RES.",
     "stats.fire_resistance.categorized" : "FIRE",
