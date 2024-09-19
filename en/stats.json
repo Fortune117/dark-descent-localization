@@ -8,14 +8,8 @@
     "stats.constitution.short" : "CON",
     "stats.constitution.categorized" : "CON",
 
-    "stats.wisdom.short" : "WIS",
-    "stats.wisdom.categorized" : "WIS",
-    
-    "stats.intelligence.short" : "INT",
-    "stats.intelligence.categorized" : "INT",
-    
-    "stats.charisma.short" : "CHA",
-    "stats.charisma.categorized" : "CHA",
+    "stats.mind.short" : "MIND",
+    "stats.mind.categorized" : "MIND",
 
     "stats.health_max.short" : "HP",
     "stats.health_max.categorized" : "MAX",
@@ -29,10 +23,10 @@
     "stats.heal_multiplier.short" : "HEAL MOD",
     "stats.heal_multiplier.categorized" : "HEAL",
 
-    "stats.stamina_max.short" : "STM",
+    "stats.stamina_max.short" : "STAMINA",
     "stats.stamina_max.categorized" : "MAX",
     
-    "stats.stamina_regen.short" : "STM REGEN",
+    "stats.stamina_regen.short" : "STAMINA RGN",
     "stats.stamina_regen.categorized" : "RGN",
     
     "stats.stamina_regen_delay.short" : "STM REGEN DELAY",
@@ -106,6 +100,15 @@
     
     "stats.occult_power.short" : "OCCULT POWER",
     "stats.occult_power.categorized" : "OCLT",
+
+    "stats.heal_power.short" : "HEAL PWR",
+    "stats.heal_power.categorized" : "HEAL",
+
+    "stats.buff_power.short" : "BUFF PWR",
+    "stats.buff_power.categorized" : "BUFF",
+
+    "stats.debuff_power.short" : "DBUFF PWR",
+    "stats.debuff_power.categorized" : "DBUFF",
 
     "stats.armor_penetration.short" : "ARMOR PEN.",
     "stats.armor_penetration.categorized" : "ARM",
