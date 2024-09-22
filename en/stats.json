@@ -1,188 +1,321 @@
 {
+    "stats.strength.name" : "Strength",
     "stats.strength.short" : "STR",
     "stats.strength.categorized" : "STR",
+    "stats.strength.description" : "Strength is responsible for damage with heavier melee weapons, stamina costs, knockback & knockback resistance, jump height and maximum carry weight.",
 
+    "stats.dexterity.name" : "Dexterity",
     "stats.dexterity.short" : "DEX",
     "stats.dexterity.categorized" : "DEX",
+    "stats.dexterity.description" : "Dexterity is responsible for damage with lighter melee weapons, ranged weapons, attack speed, stamina regeneration speed and movement speed.",
 
+    "stats.constitution.name" : "Constitution",
     "stats.constitution.short" : "CON",
     "stats.constitution.categorized" : "CON",
+    "stats.constitution.description" : "Constitution is responsible for maximum health, maximum stamina and your heal multiplier.",
 
+    "stats.mind.name" : "Mind",
     "stats.mind.short" : "MIND",
     "stats.mind.categorized" : "MIND",
+    "stats.mind.description" : "Mind is responsible for your spell power, spell casting speed and concentration cost reduction.",
 
+    "stats.willpower.name" : "Willpower",
+    "stats.willpower.short" : "WILL",
+    "stats.willpower.categorized" : "WILL",
+    "stats.willpower.description" : "Willpower is responsible for your maximum concentration, concentration regeneration speed, and a small amount of critical resistance.",
+
+    "stats.luck.name" : "Luck",
+    "stats.luck.short" : "LUCK",
+    "stats.luck.categorized" : "LCK",
+    "stats.luck.description" : "Luck affects the loot you find in the dungeon, among many other small things...",
+
+    "stats.health_max.name" : "Maximum Health",
     "stats.health_max.short" : "HP",
     "stats.health_max.categorized" : "MAX",
+    "stats.health_max.description" : "When your health reaches zero, you die.\n\nSo try to avoid that!",
     
+    "stats.health_regen.name" : "Health Regeneration",
     "stats.health_regen.short" : "HP RGN",
     "stats.health_regen.categorized" : "RGN",
+    "stats.health_regen.description" : "Health regeneration per second.",
 
+    "stats.health_regen_delay.name" : "Health Regeneration Delay",
     "stats.health_regen_delay.short" : "HP RGN DLY",
     "stats.health_regen_delay.categorized" : "DLY",
+    "stats.health_regen_delay.description" : "The delay in seconds after taking damage before your health regeneration begins to work.",
     
+    "stats.heal_multiplier.name" : "Healing Multiplier",
     "stats.heal_multiplier.short" : "HEAL MOD",
     "stats.heal_multiplier.categorized" : "HEAL",
+    "stats.heal_multiplier.description" : "The percentage multiplier for all healing you receive.",
 
+    "stats.stamina_max.name" : "Maximum Stamina",
     "stats.stamina_max.short" : "STAMINA",
     "stats.stamina_max.categorized" : "MAX",
+    "stats.stamina_max.description" : "Stamina is required for attacking, blocking, sprinting and jumping.",
     
+    "stats.stamina_regen.name" : "Stamina Regeneration",
     "stats.stamina_regen.short" : "STAMINA RGN",
     "stats.stamina_regen.categorized" : "RGN",
+    "stats.stamina_regen.description" : "Your stamina regeneration per second.",
     
+    "stats.stamina_regen_delay.name" : "Stamina Regeneration Delay",
     "stats.stamina_regen_delay.short" : "STM REGEN DELAY",
     "stats.stamina_regen_delay.categorized" : "DLY",
+    "stats.stamina_regen_delay.description" : "The delay in seconds after taking an action that spends stamina before your stamina regeneration starts again.",
     
+    "stats.stamina_cost_multiplier.name" : "Stamina Cost Multiplier",
     "stats.stamina_cost_multiplier.short" : "STM COST",
     "stats.stamina_cost_multiplier.categorized" : "COST",
+    "stats.stamina_cost_multiplier.description" : "Multiplies all stamina costs you pay by this value.",
 
+    "stats.concentration_max.name" : "Maximum Concentration",
     "stats.concentration_max.short" : "CONC.",
     "stats.concentration_max.categorized" : "MAX",
+    "stats.concentration_max.description" : "Concentration is used to maintain buff and debuff spells. Certain spells consume it over time, others lower your maximum while they are active.",
 
+    "stats.concentration_regen.name" : "Concentration Regeneration",
     "stats.concentration_regen.short" : "CONC. RGN",
     "stats.concentration_regen.categorized" : "RGN",
+    "stats.concentration_regen.description" : "Your concentration regeneration per second.",
 
+    "stats.concentration_regen_delay.name" : "Concentration Regeneration Delay",
     "stats.concentration_regen_delay.short" : "CONC. RGN DLY",
     "stats.concentration_regen_delay.categorized" : "DLY",
+    "stats.concentration_regen_delay.description" : "The delay in seconds until you start regenerating concentration once you finish expending it.",
     
+    "stats.concentration_cost_multiplier.name" : "Concentration Cost Multiplier",
     "stats.concentration_cost_multiplier.short" : "CONC. COST",
     "stats.concentration_cost_multiplier.categorized" : "COST",
+    "stats.concentration_cost_multiplier.description" : "Multiplies all concentration costs you pay by this value.",
 
+    "stats.posture_max.name" : "Maximum Posture",
     "stats.posture_max.short" : "POSTURE",
     "stats.posture_max.categorized" : "MAX",
+    "stats.posture_max.description" : "Doesn't really do anything at the moment!",
     
+    "stats.posture_regen.name" : "Posture Regeneration",
     "stats.posture_regen.short" : "POSTURE RGN",
     "stats.posture_regen.categorized" : "RGN",
+    "stats.posture_regen.description" : "Your posture regeneration in seconds.",
     
+    "stats.posture_regen_delay.name" : "Posture Regeneration Delay",
     "stats.posture_regen_delay.short" : "POSTURE RGN DLY",
     "stats.posture_regen_delay.categorized" : "DLY",
+    "stats.posture_regen_delay.description" : "The delay seconds after taking posture damage until your posture begins to regenerate again.",
 
-    "stats.attack_speed.short" : "ATK SPD",
-    "stats.attack_speed.categorized" : "SPD",
-    
-    "stats.spell_speed.short" : "SPELL SPD",
-    "stats.spell_speed.categorized" : "SPD",
-
+    "stats.mana_max.name" : "Maximum Mana",
     "stats.mana_max.short" : "MANA",
     "stats.mana_max.categorized" : "MANA",
+    "stats.mana_max.description" : "Mana is used to cast spells, with higher level spells costing more mana.\nIt does not regenerate naturally.",
+    
+    "stats.attack_speed.name" : "Attack Speed",
+    "stats.attack_speed.short" : "ATK SPD",
+    "stats.attack_speed.categorized" : "SPD",
+    "stats.attack_speed.description" : "The percentage multiplier for how quickly you can attack with weapons. Occasionally affects the speed at which you perform other physical actions.",
+    
+    "stats.spell_speed.name" : "Spellcasting Speed",
+    "stats.spell_speed.short" : "SPELL SPD",
+    "stats.spell_speed.categorized" : "SPD",
+    "stats.spell_speed.description" : "The percentage multiplier for how quickly you can cast spells.",
 
+    "stats.move_speed_multiplier.name" : "Move Speed",
     "stats.move_speed_multiplier.short" : "MOVE SPD",
     "stats.move_speed_multiplier.categorized" : "SPD",
+    "stats.move_speed_multiplier.description" : "The percentage multiplier for how quickly you move.",
     
+    "stats.jump_height_multiplier.name" : "Jump Height",
     "stats.jump_height_multiplier.short" : "JUMP HEIGHT",
     "stats.jump_height_multiplier.categorized" : "JMP",
+    "stats.jump_height_multiplier.description" : "The percentage multiplier for how high you can jump.",
 
+    "stats.attack_power.name" : "Attack Power",
     "stats.attack_power.short" : "ATK PWR",
     "stats.attack_power.categorized" : "PWR",
+    "stats.attack_power.description" : "Your damage with weapons scales off your attack power. Attack power will be calculated using strength for heavy weapons and dexterity for light and ranged weapons.",
     
+    "stats.spell_power.name" : "Spell Power",
     "stats.spell_power.short" : "SPELL PWR",
     "stats.spell_power.categorized" : "PWR",
+    "stats.spell_power.description" : "Generic spell power. Almost all spells will scale off this in some way.",
 
-    "stats.fire_power.short" : "FIRE POWER",
+    "stats.fire_power.name" : "Fire Power",
+    "stats.fire_power.short" : "FIRE PWR",
     "stats.fire_power.categorized" : "FIRE",
+    "stats.fire_power.description" : "Fire spells will typically scale off this in higher amounts.",
     
+    "stats.frost_power.name" : "Frost Power",
     "stats.frost_power.short" : "FROST PWR",
     "stats.frost_power.categorized" : "FROST",
+    "stats.frost_power.description" : "Frost spells will typically scale off this in higher amounts.",
     
+    "stats.electric_power.name" : "Electric Power",
     "stats.electric_power.short" : "ELEC. PWR",
     "stats.electric_power.categorized" : "ELEC.",
+    "stats.electric_power.description" : "Electric spells will typically scale off this in higher amounts.",
     
-    "stats.poison_power.short" : "POISON POWER",
+    "stats.poison_power.name" : "Poison Power",
+    "stats.poison_power.short" : "POISON PWR",
     "stats.poison_power.categorized" : "PSN",
+    "stats.poison_power.description" : "Poison spells will typically scale off this in higher amounts.",
     
-    "stats.necrotic_power.short" : "NECR. POWER",
+    "stats.necrotic_power.name" : "Necrotic Power",
+    "stats.necrotic_power.short" : "NECR. PWR",
     "stats.necrotic_power.categorized" : "NECR.",
+    "stats.necrotic_power.description" : "Necrotic spells will typically scale off this in higher amounts.",
 
+    "stats.arcane_power.name" : "Arcane Power",
     "stats.arcane_power.short" : "ARCANE PWR",
     "stats.arcane_power.categorized" : "ARC.",
+    "stats.arcane_power.description" : "Arcane spells will typically scale off this in higher amounts.",
     
+    "stats.divine_power.name" : "Divine Power",
     "stats.divine_power.short" : "DIVINE PWR",
     "stats.divine_power.categorized" : "DIV.",
+    "stats.divine_power.description" : "Divine spells will typically scale off this in higher amounts.",
     
+    "stats.occult_power.name" : "Occult Power",
     "stats.occult_power.short" : "OCCULT POWER",
     "stats.occult_power.categorized" : "OCLT",
+    "stats.occult_power.description" : "Occult spells will typically scale off this in higher amounts.",
 
+    "stats.heal_power.name" : "Heal Power",
     "stats.heal_power.short" : "HEAL PWR",
     "stats.heal_power.categorized" : "HEAL",
+    "stats.heal_power.description" : "Healing effects will typically scale off this in higher amounts.",
 
+    "stats.buff_power.name" : "Buff Power",
     "stats.buff_power.short" : "BUFF PWR",
     "stats.buff_power.categorized" : "BUFF",
+    "stats.buff_power.description" : "The effectivness of beneficial buffs you apply will scale off this.",
 
+    "stats.debuff_power.name" : "Debuff Power",
     "stats.debuff_power.short" : "DBUFF PWR",
     "stats.debuff_power.categorized" : "DBUFF",
+    "stats.debuff_power.description" : "The effectiveness of detrimental debuffs you apply will scale off this.",
 
-    "stats.armor_penetration.short" : "ARMOR PEN.",
+    "stats.armor_penetration.name" : "Armor Penetration",
+    "stats.armor_penetration.short" : "AMR PEN.",
     "stats.armor_penetration.categorized" : "ARM",
-    "stats.warding_penetration.short" : "WARDING PEN.",
+    "stats.armor_penetration.description" : "This is subtracted from the targets armor before calculating damage.",
+    
+    "stats.warding_penetration.name" : "Warding Penetration",
+    "stats.warding_penetration.short" : "WARD PEN.",
     "stats.warding_penetration.categorized" : "WARD",
+    "stats.warding_penetration.description" : "This is subtracted from the targets warding before calculating damage.",
 
+    "stats.fire_penetration.name" : "Fire Penetration",
     "stats.fire_penetration.short" : "FIRE PEN.",
     "stats.fire_penetration.categorized" : "FIRE",
+    "stats.fire_penetration.description" : "This is subtracted from the targets fire resistance before calculating damage.",
     
+    "stats.frost_penetration.name" : "Frost Penetration",
     "stats.frost_penetration.short" : "FROST PEN.",
     "stats.frost_penetration.categorized" : "FRST",
+    "stats.frost_penetration.description" : "This is subtracted from the targets frost resistance before calculating damage.",
     
+    "stats.electric_penetration.name" : "Electric Penetration",
     "stats.electric_penetration.short" : "ELEC. PEN.",
     "stats.electric_penetration.categorized" : "ELEC.",
+    "stats.electric_penetration.description" : "This is subtracted from the targets electric resistance before calculating damage.",
     
+    "stats.poison_penetration.name" : "Poison Penetration",
     "stats.poison_penetration.short" : "POISON PEN.",
     "stats.poison_penetration.categorized" : "PSN",
+    "stats.poison_penetration.description" : "This is subtracted from the targets poison resistance before calculating damage.",
     
+    "stats.necrotic_penetration.name" : "Necrotic Penetration.",
     "stats.necrotic_penetration.short" : "NECR. PEN.",
     "stats.necrotic_penetration.categorized" : "NECR.",
+    "stats.necrotic_penetration.description" : "This is subtracted from the targets necrotic resistance before calculating damage.",
     
-    "stats.arcane_penetration.short" : "ARCANE PEN.",
+    "stats.arcane_penetration.name" : "Arcane Penetration",
+    "stats.arcane_penetration.short" : "ARC. PEN.",
     "stats.arcane_penetration.categorized" : "ARC.",
+    "stats.arcane_penetration.description" : "This is subtracted from the targets arcane resistance before calculating damage.",
     
+    "stats.divine_penetration.name" : "Divine Penetration",
     "stats.divine_penetration.short" : "DIVINE PEN.",
     "stats.divine_penetration.categorized" : "DIV.",
+    "stats.divine_penetration.description" : "This is subtracted from the targets divine resistance before calculating damage.",
     
+    "stats.occult_penetration.name" : "Occult Penetration",
     "stats.occult_penetration.short" : "OCCULT PEN.",
     "stats.occult_penetration.categorized" : "OCLT",
+    "stats.occult_penetration.description" : "This is subtracted from the targets occult resistance before calculating damage.",
 
+    "stats.critical_multiplier.name" : "Critical Multiplier",
     "stats.critical_multiplier.short" : "CRT. MULT.",
     "stats.critical_multiplier.categorized" : "CRT",
+    "stats.critical_multiplier.description" : "When scoring a critical hit, it will be multiplied by this percentage.",
     
+    "stats.knockback.name" : "Knockback",
     "stats.knockback.short" : "KBCK",
     "stats.knockback.categorized" : "KBCK", 
+    "stats.knockback.description" : "This score represents how far you'll move an enemy when you hit them.\nIt is reduced by the targets knockback resistance. ", 
 
+    "stats.armor.name" : "Armor",
     "stats.armor.short" : "ARMOR",
     "stats.armor.categorized" : "ARM",
+    "stats.armor.description" : "All physical damage is reduced by your armor.",
     
+    "stats.warding.name" : "Warding",
     "stats.warding.short" : "WARDING",
     "stats.warding.categorized" : "WARD",
+    "stats.warding.description" : "All magical damage is reduced by your warding.",
     
+    "stats.critical_negation.name" : "Critical Negation",
     "stats.critical_negation.short" : "CRT. NEG.",
     "stats.critical_negation.categorized" : "CRT",
+    "stats.critical_negation.description" : "Critical damage you receive have their multiplier reduced by this value.\nThis cannot reduce critical damage below a regular hit.",
+    
+    "stats.knockback_resistance.name" : "Knockback Resistance",
     "stats.knockback_resistance.short" : "KBCK RES.",
     "stats.knockback_resistance.categorized" : "KBCK",
+    "stats.knockback_resistance.description" : "Knockback you receive is reduced by this amount.",
 
+    "stats.fire_resistance.name" : "Fire Resistance",
     "stats.fire_resistance.short" : "FIRE RES.",
     "stats.fire_resistance.categorized" : "FIRE",
+    "stats.fire_resistance.description" : "Fire damage you take is reduced by this stat.",
     
+    "stats.frost_resistance.name" : "Frost Resistance",
     "stats.frost_resistance.short" : "FROST RES.",
     "stats.frost_resistance.categorized" : "FRST",
+    "stats.frost_resistance.description" : "Frost damage you take is reduced by this stat.",
     
+    "stats.electric_resistance.name" : "Electric Resistance",
     "stats.electric_resistance.short" : "ELEC. RES.",
     "stats.electric_resistance.categorized" : "ELEC.",
+    "stats.electric_resistance.description" : "Electrical damage you take is reduced by this stat.",
     
-    "stats.poison_resistance.short" : "POISON RES.",
+    "stats.poison_resistance.name" : "Poison Resistance",
+    "stats.poison_resistance.short" : "PSN RES.",
     "stats.poison_resistance.categorized" : "PSN",
+    "stats.poison_resistance.description" : "Poison damage you take is reduced by this stat.",
     
+    "stats.necrotic_resistance.name" : "Necrotic Resistance",
     "stats.necrotic_resistance.short" : "NECR. RES.",
     "stats.necrotic_resistance.categorized" : "NECR.",
+    "stats.necrotic_resistance.description" : "Necrotic damage you take is reduced by this stat.",
     
-    "stats.arcane_resistance.short" : "ARCANE RES.",
+    "stats.arcane_resistance.name" : "Arcane Resistance",
+    "stats.arcane_resistance.short" : "ARC. RES.",
     "stats.arcane_resistance.categorized" : "ARC.",
+    "stats.arcane_resistance.description" : "Arcane damage you take is reduced by this stat.",
     
+    "stats.divine_resistance.name" : "Divine Resistance.",
     "stats.divine_resistance.short" : "DIVINE RES.",
     "stats.divine_resistance.categorized" : "DIV.",
+    "stats.divine_resistance.description" : "Divine damage you take is reduced by this stat.",
     
+    "stats.occult_resistance.name" : "Occult Resistance",
     "stats.occult_resistance.short" : "OCCULT RES.",
     "stats.occult_resistance.categorized" : "OCLT",
+    "stats.occult_resistance.description" : "Occult damage you take is reduced by this stat.",
     
+    "stats.carry_weight.name" : "Carry Weight",
     "stats.carry_weight.short" : "WEIGHT",
     "stats.carry_weight.categorized" : "WGT",
-    
-    "stats.luck.short" : "LUCK",
-    "stats.luck.categorized" : "LCK"
+    "stats.carry_weight.description" : "How much weight you can carry before being negatively effected.\nThis scales off your strength."
 }
