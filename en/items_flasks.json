@@ -1,5 +1,18 @@
 {
   "item.flask.basic.healing.name" : "Healing Flask",
   "item.flask.basic.healing.description" : "",
-  "item.flask.basic.healing.flavour" : "A flask a task a mask it's really all I ask."
+  "item.flask.basic.healing.flavour" : "A flask a task a mask it's really all I ask.",
+
+  "item.flask.charge_cost" : "Cost",
+
+  "item.flask.restores" : "Restores",
+
+  "item.flask.resource.health.max" : "Max Health",
+  "item.flask.resource.health.missing" : "Missing Health",
+  "item.flask.resource.mana.max" : "Max Mana",
+  "item.flask.resource.mana.missing" : "Missing Mana",
+  "item.flask.resource.stamina.max" : "Max Stamina",
+  "item.flask.resource.stamina.missing" : "Missing Stamina",
+  "item.flask.resource.concentration.max" : "Max Conc.",
+  "item.flask.resource.concentration.missing" : "Missing Conc."
 }
