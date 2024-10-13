@@ -5,5 +5,13 @@
 
   "item.weapon.ultra_greatsword.name" : "Ultra Greatsword",
   "item.weapon.ultra_greatsword.description" : "",
-  "item.weapon.ultra_greatsword.flavour"  : "That thing was too big to be called a sword. Too big, too thick, too heavy, and too rough, it was more like a large hunk of iron."
+  "item.weapon.ultra_greatsword.flavour"  : "That thing was too big to be called a sword. Too big, too thick, too heavy, and too rough, it was more like a large hunk of iron.",
+
+  "item.weapon.shovel.name" : "Shovel",
+  "item.weapon.shovel.description" : "",
+  "item.weapon.shovel.flavour"  : "",
+
+  "item.weapon.saw.name" : "Saw",
+  "item.weapon.saw.description" : "",
+  "item.weapon.saw.flavour"  : ""
 }
