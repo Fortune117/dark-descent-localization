@@ -13,5 +13,13 @@
 
   "item.weapon.saw.name" : "Saw",
   "item.weapon.saw.description" : "",
-  "item.weapon.saw.flavour"  : ""
+  "item.weapon.saw.flavour"  : "",
+
+  "item.weapon.zweihander.name" : "Zweihander",
+  "item.weapon.zweihander.description" : "",
+  "item.weapon.zweihander.flavour"  : "",
+
+  "item.weapon.battle_axe.name" : "Battle Axe",
+  "item.weapon.battle_axe.description" : "",
+  "item.weapon.battle_axe.flavour"  : ""
 }
