@@ -1,9 +1,9 @@
 {
-  "item.accessory.ring.haste.name" : "Ring of Haste",
-  "item.accessory.ring.haste.description" : "",
-  "item.accessory.ring.haste.flavour" : "",
-  
-  "item.accessory.ring.strength.name" : "Ring of Strength",
-  "item.accessory.ring.strength.description" : "",
-  "item.accessory.ring.strength.flavour" : ""
+  "item.accessory.ring.generic.name" : "Ring",
+  "item.accessory.ring.generic.description" : "",
+  "item.accessory.ring.generic.flavour" : "",
+
+  "item.accessory.amulet.generic.name" : "Amulet",
+  "item.accessory.amulet.generic.description" : "",
+  "item.accessory.amulet.generic.flavour" : ""
 }

@@ -1,5 +1,9 @@
 {
   "item.weapon.short_sword.name" : "Short Sword",
   "item.weapon.short_sword.description" : "",
-  "item.weapon.short_sword.flavour"  : ""
+  "item.weapon.short_sword.flavour"  : "",
+  
+  "item.weapon.hammer.name" : "Hammer",
+  "item.weapon.hammer.description" : "",
+  "item.weapon.hammer.flavour" : ""
 }

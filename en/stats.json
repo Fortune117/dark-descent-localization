@@ -70,17 +70,17 @@
     "stats.stamina_cost_multiplier.description" : "Multiplies all stamina costs you pay by this value.",
 
     "stats.concentration_max.name" : "Maximum Concentration",
-    "stats.concentration_max.short" : "CONC.",
+    "stats.concentration_max.short" : "CONC",
     "stats.concentration_max.categorized" : "MAX",
     "stats.concentration_max.description" : "Concentration is used to maintain buff and debuff spells. Certain spells consume it over time, others lower your maximum while they are active.",
 
     "stats.concentration_regen.name" : "Concentration Regeneration",
-    "stats.concentration_regen.short" : "CONC. RGN",
+    "stats.concentration_regen.short" : "CONC RGN",
     "stats.concentration_regen.categorized" : "RGN",
     "stats.concentration_regen.description" : "Your concentration regeneration per second.",
 
     "stats.concentration_regen_delay.name" : "Concentration Regeneration Delay",
-    "stats.concentration_regen_delay.short" : "CONC. RGN DLY",
+    "stats.concentration_regen_delay.short" : "CONC RGN DLY",
     "stats.concentration_regen_delay.categorized" : "DLY",
     "stats.concentration_regen_delay.description" : "The delay in seconds until you start regenerating concentration once you finish expending it.",
     
@@ -146,11 +146,11 @@
     
     "stats.frost_power.name" : "Frost Power",
     "stats.frost_power.short" : "FROST PWR",
-    "stats.frost_power.categorized" : "FROST",
+    "stats.frost_power.categorized" : "FRST",
     "stats.frost_power.description" : "Frost spells will typically scale off this in higher amounts.",
     
     "stats.electric_power.name" : "Electric Power",
-    "stats.electric_power.short" : "ELEC. PWR",
+    "stats.electric_power.short" : "ELEC PWR",
     "stats.electric_power.categorized" : "ELEC.",
     "stats.electric_power.description" : "Electric spells will typically scale off this in higher amounts.",
     
@@ -160,18 +160,18 @@
     "stats.poison_power.description" : "Poison spells will typically scale off this in higher amounts.",
     
     "stats.necrotic_power.name" : "Necrotic Power",
-    "stats.necrotic_power.short" : "NECR. PWR",
-    "stats.necrotic_power.categorized" : "NECR.",
+    "stats.necrotic_power.short" : "NECR PWR",
+    "stats.necrotic_power.categorized" : "NECR",
     "stats.necrotic_power.description" : "Necrotic spells will typically scale off this in higher amounts.",
 
     "stats.arcane_power.name" : "Arcane Power",
     "stats.arcane_power.short" : "ARCANE PWR",
-    "stats.arcane_power.categorized" : "ARC.",
+    "stats.arcane_power.categorized" : "ARC",
     "stats.arcane_power.description" : "Arcane spells will typically scale off this in higher amounts.",
     
     "stats.divine_power.name" : "Divine Power",
     "stats.divine_power.short" : "DIVINE PWR",
-    "stats.divine_power.categorized" : "DIV.",
+    "stats.divine_power.categorized" : "DIV",
     "stats.divine_power.description" : "Divine spells will typically scale off this in higher amounts.",
     
     "stats.occult_power.name" : "Occult Power",
@@ -191,61 +191,61 @@
 
     "stats.debuff_power.name" : "Debuff Power",
     "stats.debuff_power.short" : "DBUFF PWR",
-    "stats.debuff_power.categorized" : "DBUFF",
+    "stats.debuff_power.categorized" : "DBUF",
     "stats.debuff_power.description" : "The effectiveness of detrimental debuffs you apply will scale off this.",
 
     "stats.armor_penetration.name" : "Armor Penetration",
-    "stats.armor_penetration.short" : "AMR PEN.",
+    "stats.armor_penetration.short" : "AMR PEN",
     "stats.armor_penetration.categorized" : "ARM",
     "stats.armor_penetration.description" : "This is subtracted from the targets armor before calculating damage.",
     
     "stats.warding_penetration.name" : "Warding Penetration",
-    "stats.warding_penetration.short" : "WARD PEN.",
+    "stats.warding_penetration.short" : "WARD PEN",
     "stats.warding_penetration.categorized" : "WARD",
     "stats.warding_penetration.description" : "This is subtracted from the targets warding before calculating damage.",
 
     "stats.fire_penetration.name" : "Fire Penetration",
-    "stats.fire_penetration.short" : "FIRE PEN.",
+    "stats.fire_penetration.short" : "FIRE PEN",
     "stats.fire_penetration.categorized" : "FIRE",
     "stats.fire_penetration.description" : "This is subtracted from the targets fire resistance before calculating damage.",
     
     "stats.frost_penetration.name" : "Frost Penetration",
-    "stats.frost_penetration.short" : "FROST PEN.",
+    "stats.frost_penetration.short" : "FROST PEN",
     "stats.frost_penetration.categorized" : "FRST",
     "stats.frost_penetration.description" : "This is subtracted from the targets frost resistance before calculating damage.",
     
     "stats.electric_penetration.name" : "Electric Penetration",
-    "stats.electric_penetration.short" : "ELEC. PEN.",
-    "stats.electric_penetration.categorized" : "ELEC.",
+    "stats.electric_penetration.short" : "ELEC PEN",
+    "stats.electric_penetration.categorized" : "ELEC",
     "stats.electric_penetration.description" : "This is subtracted from the targets electric resistance before calculating damage.",
     
     "stats.poison_penetration.name" : "Poison Penetration",
-    "stats.poison_penetration.short" : "POISON PEN.",
+    "stats.poison_penetration.short" : "POISON PEN",
     "stats.poison_penetration.categorized" : "PSN",
     "stats.poison_penetration.description" : "This is subtracted from the targets poison resistance before calculating damage.",
     
     "stats.necrotic_penetration.name" : "Necrotic Penetration.",
-    "stats.necrotic_penetration.short" : "NECR. PEN.",
-    "stats.necrotic_penetration.categorized" : "NECR.",
+    "stats.necrotic_penetration.short" : "NECR PEN",
+    "stats.necrotic_penetration.categorized" : "NECR",
     "stats.necrotic_penetration.description" : "This is subtracted from the targets necrotic resistance before calculating damage.",
     
     "stats.arcane_penetration.name" : "Arcane Penetration",
-    "stats.arcane_penetration.short" : "ARC. PEN.",
-    "stats.arcane_penetration.categorized" : "ARC.",
+    "stats.arcane_penetration.short" : "ARC PEN",
+    "stats.arcane_penetration.categorized" : "ARC",
     "stats.arcane_penetration.description" : "This is subtracted from the targets arcane resistance before calculating damage.",
     
     "stats.divine_penetration.name" : "Divine Penetration",
-    "stats.divine_penetration.short" : "DIVINE PEN.",
-    "stats.divine_penetration.categorized" : "DIV.",
+    "stats.divine_penetration.short" : "DIVINE PEN",
+    "stats.divine_penetration.categorized" : "DIV",
     "stats.divine_penetration.description" : "This is subtracted from the targets divine resistance before calculating damage.",
     
     "stats.occult_penetration.name" : "Occult Penetration",
-    "stats.occult_penetration.short" : "OCCULT PEN.",
+    "stats.occult_penetration.short" : "OCCULT PEN",
     "stats.occult_penetration.categorized" : "OCLT",
     "stats.occult_penetration.description" : "This is subtracted from the targets occult resistance before calculating damage.",
 
     "stats.critical_multiplier.name" : "Critical Multiplier",
-    "stats.critical_multiplier.short" : "CRT. MULT.",
+    "stats.critical_multiplier.short" : "CRT MULT",
     "stats.critical_multiplier.categorized" : "CRT",
     "stats.critical_multiplier.description" : "When scoring a critical hit, it will be multiplied by this percentage.",
     
@@ -265,52 +265,52 @@
     "stats.warding.description" : "All magical damage is reduced by your warding.",
     
     "stats.critical_negation.name" : "Critical Negation",
-    "stats.critical_negation.short" : "CRT. NEG.",
+    "stats.critical_negation.short" : "CRT NEG",
     "stats.critical_negation.categorized" : "CRT",
     "stats.critical_negation.description" : "Critical damage you receive have their multiplier reduced by this value.\nThis cannot reduce critical damage below a regular hit.",
     
     "stats.knockback_resistance.name" : "Knockback Resistance",
-    "stats.knockback_resistance.short" : "KBCK RES.",
+    "stats.knockback_resistance.short" : "KBCK RES",
     "stats.knockback_resistance.categorized" : "KBCK",
     "stats.knockback_resistance.description" : "Knockback you receive is reduced by this amount.",
 
     "stats.fire_resistance.name" : "Fire Resistance",
-    "stats.fire_resistance.short" : "FIRE RES.",
+    "stats.fire_resistance.short" : "FIRE RES",
     "stats.fire_resistance.categorized" : "FIRE",
     "stats.fire_resistance.description" : "Fire damage you take is reduced by this stat.",
     
     "stats.frost_resistance.name" : "Frost Resistance",
-    "stats.frost_resistance.short" : "FROST RES.",
+    "stats.frost_resistance.short" : "FROST RES",
     "stats.frost_resistance.categorized" : "FRST",
     "stats.frost_resistance.description" : "Frost damage you take is reduced by this stat.",
     
     "stats.electric_resistance.name" : "Electric Resistance",
-    "stats.electric_resistance.short" : "ELEC. RES.",
-    "stats.electric_resistance.categorized" : "ELEC.",
+    "stats.electric_resistance.short" : "ELEC RES",
+    "stats.electric_resistance.categorized" : "ELEC",
     "stats.electric_resistance.description" : "Electrical damage you take is reduced by this stat.",
     
     "stats.poison_resistance.name" : "Poison Resistance",
-    "stats.poison_resistance.short" : "PSN RES.",
+    "stats.poison_resistance.short" : "PSN RES",
     "stats.poison_resistance.categorized" : "PSN",
     "stats.poison_resistance.description" : "Poison damage you take is reduced by this stat.",
     
     "stats.necrotic_resistance.name" : "Necrotic Resistance",
-    "stats.necrotic_resistance.short" : "NECR. RES.",
-    "stats.necrotic_resistance.categorized" : "NECR.",
+    "stats.necrotic_resistance.short" : "NECR RES",
+    "stats.necrotic_resistance.categorized" : "NECR",
     "stats.necrotic_resistance.description" : "Necrotic damage you take is reduced by this stat.",
     
     "stats.arcane_resistance.name" : "Arcane Resistance",
-    "stats.arcane_resistance.short" : "ARC. RES.",
-    "stats.arcane_resistance.categorized" : "ARC.",
+    "stats.arcane_resistance.short" : "ARC RES",
+    "stats.arcane_resistance.categorized" : "ARC",
     "stats.arcane_resistance.description" : "Arcane damage you take is reduced by this stat.",
     
     "stats.divine_resistance.name" : "Divine Resistance.",
-    "stats.divine_resistance.short" : "DIVINE RES.",
-    "stats.divine_resistance.categorized" : "DIV.",
+    "stats.divine_resistance.short" : "DIVINE RES",
+    "stats.divine_resistance.categorized" : "DIV",
     "stats.divine_resistance.description" : "Divine damage you take is reduced by this stat.",
     
     "stats.occult_resistance.name" : "Occult Resistance",
-    "stats.occult_resistance.short" : "OCCULT RES.",
+    "stats.occult_resistance.short" : "OCCULT RES",
     "stats.occult_resistance.categorized" : "OCLT",
     "stats.occult_resistance.description" : "Occult damage you take is reduced by this stat.",
     
