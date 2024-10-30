@@ -15,12 +15,17 @@
   "enchantment.shocking.suffix" : "",
   
   "enchantment.riposte.name" : "Riposte",
-  "enchantment.riposte.description" : "After a successful parry, for 3 seconds your next attack has +50% attack speed.",
+  "enchantment.riposte.description" : "After a successful parry, for 3 seconds your next attack has +{0} attack speed.",
   "enchantment.riposte.prefix" : "",
   "enchantment.riposte.suffix" : "",
 
   "enchantment.frenzy.name" : "Frenzy",
-  "enchantment.frenzy.description" : "After a successful hit, gain 7% attack speed and 10% move speed for 4 seconds. Stacks up to 3 times.",
+  "enchantment.frenzy.description" : "After a successful hit, gain {0} attack speed and {1} move speed for 4 seconds. Stacks up to 3 times.",
   "enchantment.frenzy.prefix" : "",
-  "enchantment.frenzy.suffix" : ""
+  "enchantment.frenzy.suffix" : "",
+
+  "enchantment.double_strike.name" : "Double Strike",
+  "enchantment.double_strike.description" : "After a successful hit, there is a {0} chance the target is hit again for {1} damage after a short delay.",
+  "enchantment.double_strike.prefix" : "",
+  "enchantment.double_strike.suffix" : ""
 }
