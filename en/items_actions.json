@@ -1,0 +1,13 @@
+{
+  "item.action.drop.name" : "Drop",
+  "item.action.drop.description" : "Drop this item.",
+  
+  "item.action.equip.name" : "Equip",
+  "item.action.equip.description" : "Equip this item.",
+  
+  "item.action.unequip.name" : "Unequip",
+  "item.action.unequip.description" : "Unequip this item.",
+
+  "item.flask.action.drink.name" : "Drink",
+  "item.flask.action.drink.description" : "Drink from this flask."
+}
