@@ -1,0 +1,5 @@
+{
+    "item.consumable.key.name" : "Key",
+    "item.consumable.key.description" : "A skeleton key, capable of opening many of the locks within the dungeon.",
+    "item.consumable.key.flavour" : ""
+}

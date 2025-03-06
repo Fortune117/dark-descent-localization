@@ -1,0 +1,13 @@
+{
+  "item.trinket.str_talisman.name": "Bull's Pendant",
+  "item.trinket.str_talisman.description": "A small bull carved out of sun-bleached wood.",
+  "item.trinket.str_talisman.flavour": "It feels warm.",
+
+  "item.trinket.dex_talisman.name": "Cat's Pendant",
+  "item.trinket.dex_talisman.description": "A small, black cat.\nPrecisely cut from obsidian and finely polished.",
+  "item.trinket.dex_talisman.flavour": "The slitted eyes seem to follow you.",
+
+  "item.trinket.con_talisman.name": "Bear's Pendant",
+  "item.trinket.con_talisman.description": "A rugged looking bear, unevenly hewn from an old oak branch.",
+  "item.trinket.con_talisman.flavour": "The bark seems to be growing back in places."
+}
