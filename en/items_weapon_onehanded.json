@@ -9,5 +9,9 @@
 
   "item.weapon.dagger.name" : "Dagger",
   "item.weapon.dagger.description" : "",
-  "item.weapon.dagger.flavour"  : ""
+  "item.weapon.dagger.flavour"  : "",
+
+  "item.weapon.torch.name" : "Torch",
+  "item.weapon.torch.description" : "",
+  "item.weapon.torch.flavour"  : "Bid the darkness stay away..."
 }
