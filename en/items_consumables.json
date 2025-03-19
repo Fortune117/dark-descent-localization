@@ -1,5 +1,18 @@
 {
     "item.consumable.key.name" : "Key",
-    "item.consumable.key.description" : "A skeleton key, capable of opening many of the locks within the dungeon.",
-    "item.consumable.key.flavour" : ""
+    "item.consumable.key.description" : "A skeleton key, capable of opening the many locks within the dungeon.",
+    "item.consumable.key.flavour" : "",
+
+    "item.potion.healing.minor.name" : "Minor Healing Potion",
+    "item.potion.healing.minor.description" : "",
+    "item.potion.healing.minor.flavour" : "Golden flecks spark and swirl amidst the crimson liquid.",
+
+    
+    "item.potion.healing.small.name" : "Small Healing Potion",
+    "item.potion.healing.small.description" : "",
+    "item.potion.healing.small.flavour" : "Golden flecks spark and swirl amidst the crimson liquid.",
+
+    
+    "item.consumable.cost" : "Cost",
+    "item.consumable.restores" : "Restores"
 }
