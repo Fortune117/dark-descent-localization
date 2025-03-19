@@ -3,9 +3,8 @@
   "item.flask.basic.healing.description" : "",
   "item.flask.basic.healing.flavour" : "A flask a task a mask it's really all I ask.",
 
-  "item.flask.charge_cost" : "Cost",
-
-  "item.flask.restores" : "Restores",
+  "item.consumable.cost" : "Cost",
+  "item.consumable.restores" : "Restores",
 
   "item.flask.resource.health.max" : "Max Health",
   "item.flask.resource.health.missing" : "Missing Health",
