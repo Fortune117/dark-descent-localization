@@ -12,6 +12,31 @@
     "item.potion.healing.small.description" : "",
     "item.potion.healing.small.flavour" : "Small golden lights roil amidst the crimson liquid.",
 
+    "item.potion.healing.moderate.name" : "Moderate Healing Potion",
+    "item.potion.healing.moderate.description" : "",
+    "item.potion.healing.moderate.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
+    "item.potion.healing.large.name" : "Large Healing Potion",
+    "item.potion.healing.large.description" : "",
+    "item.potion.healing.large.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
+    "item.potion.healing.greater.name" : "Greater Healing Potion",
+    "item.potion.healing.greater.description" : "",
+    "item.potion.healing.greater.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
+    "item.potion.healing.grand.name" : "Greater Healing Potion",
+    "item.potion.healing.grand.description" : "",
+    "item.potion.healing.grand.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
+    "item.potion.healing.divine.name" : "Divine Healing Potion",
+    "item.potion.healing.divine.description" : "",
+    "item.potion.healing.divine.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
+    
+    "item.potion.healing.eternal.name" : "Eternal Healing Potion",
+    "item.potion.healing.eternal.description" : "",
+    "item.potion.healing.eternal.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
     
     "item.consumable.cost" : "Cost",
     "item.consumable.restores" : "Restores",
