@@ -6,7 +6,6 @@
     "item.potion.healing.minor.name" : "Minor Healing Potion",
     "item.potion.healing.minor.description" : "",
     "item.potion.healing.minor.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
     
     "item.potion.healing.small.name" : "Small Healing Potion",
     "item.potion.healing.small.description" : "",
@@ -31,11 +30,14 @@
     "item.potion.healing.divine.name" : "Divine Healing Potion",
     "item.potion.healing.divine.description" : "",
     "item.potion.healing.divine.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
     
     "item.potion.healing.eternal.name" : "Eternal Healing Potion",
     "item.potion.healing.eternal.description" : "",
     "item.potion.healing.eternal.flavour" : "Small golden lights roil amidst the crimson liquid.",
+
+    "item.potion.haste.minor.name" : "Minor Haste Potion",
+    "item.potion.haste.minor.description" : "",
+    "item.potion.haste.minor.flavour" : "Small sparks leap out of the swirling liquid.",
 
     
     "item.consumable.cost" : "Cost",
