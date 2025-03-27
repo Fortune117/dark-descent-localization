@@ -25,5 +25,10 @@
 
   "item.weapon.battle_axe.name" : "Battle Axe",
   "item.weapon.battle_axe.description" : "",
-  "item.weapon.battle_axe.flavour"  : ""
+  "item.weapon.battle_axe.flavour"  : "",
+
+  
+  "item.weapon.longbow.name" : "Longbow",
+  "item.weapon.longbow.description" : "",
+  "item.weapon.longbow.flavour"  : "I wonder what a medium bow is."
 }
