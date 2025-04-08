@@ -1,0 +1,17 @@
+{
+  "item.armor.plate.helmet.name" : "Plate Helmet",
+  "item.armor.plate.helmet.description" : "",
+  "item.armor.plate.helmet.flavour" : "",
+  
+  "item.armor.plate.chest.name" : "Plate Armor",
+  "item.armor.plate.chest.description" : "",
+  "item.armor.plate.chest.flavour" : "",
+  
+  "item.armor.plate.gloves.name" : "Plate Gauntlets",
+  "item.armor.plate.gloves.description" : "",
+  "item.armor.plate.gloves.flavour" : "",
+  
+  "item.armor.plate.boots.name" : "Plate Boots",
+  "item.armor.plate.boots.description" : "",
+  "item.armor.plate.boots.flavour" : ""
+}

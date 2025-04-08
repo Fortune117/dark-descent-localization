@@ -196,7 +196,7 @@
 
     "stats.armor_penetration.name" : "Armor Penetration",
     "stats.armor_penetration.short" : "AMR PEN",
-    "stats.armor_penetration.categorized" : "ARM",
+    "stats.armor_penetration.categorized" : "AMR",
     "stats.armor_penetration.description" : "This is subtracted from the targets armor before calculating damage.",
     
     "stats.warding_penetration.name" : "Warding Penetration",

@@ -1,0 +1,17 @@
+{
+  "item.armor.peasant.helmet.name" : "Peasant Hat",
+  "item.armor.peasant.helmet.description" : "",
+  "item.armor.peasant.helmet.flavour" : "",
+  
+  "item.armor.peasant.chest.name" : "Plain Shirt",
+  "item.armor.peasant.chest.description" : "",
+  "item.armor.peasant.chest.flavour" : "Stained with sweat and dust.",
+  
+  "item.armor.peasant.gloves.name" : "Worn Gloves",
+  "item.armor.peasant.gloves.description" : "",
+  "item.armor.peasant.gloves.flavour" : "The leather is split and cracked from use.",
+  
+  "item.armor.peasant.boots.name" : "Plain Boots",
+  "item.armor.peasant.boots.description" : "",
+  "item.armor.peasant.boots.flavour" : ""
+}
