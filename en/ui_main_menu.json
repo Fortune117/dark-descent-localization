@@ -1,5 +1,6 @@
 {
   "ui.main_menu.title" : "Dark Descent",
+  "ui.main_menu.singleplayer" : "Singleplayer",
   "ui.main_menu.create_lobby" : "Create Lobby",
   "ui.main_menu.continue" : "Continue",
   "ui.main_menu.join_lobby" : "Join Lobby",
