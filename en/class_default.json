@@ -1,0 +1,9 @@
+{
+    "class.default.loadout.none.name" : "Nothing",
+
+    "class.default.trinket.con.name" : "Bear Talisman",
+    "class.default.trinket.dex.name" : "Cat's Pendant",
+    "class.default.trinket.str.name" : "Bear's Pendant",
+    "class.default.trinket.health_potions.name" : "Health Potions",
+    "class.default.trinket.key.name" : "Key"
+  }

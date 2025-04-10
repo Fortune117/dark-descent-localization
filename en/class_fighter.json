@@ -1,0 +1,12 @@
+{
+    "class.fighter.name" : "Fighter",
+    "class.fighter.description.short" : "A martial class with a broad range of expertise and ability. Can specialize into nearly any class of weapon, but has no magical ability.",
+    "class.fighter.description.long" : "The fighter embodies the spirit of martial mastery. They are the ultimate in physical prowess and ability, with skills focused on their fighting style and weapon specialisation.",
+
+
+    "class.fighter.loadout.peasant.name" : "Peasant",
+    "class.fighter.loadout.ranger.name" : "Ranger",
+    "class.fighter.loadout.skirmisher.name" : "Skirmisher",
+    "class.fighter.loadout.knight.name" : "Knight",
+    "class.fighter.loadout.warrior.name" : "Warrior"
+  }
