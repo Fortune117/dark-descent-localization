@@ -8,5 +8,11 @@
     "class.fighter.loadout.ranger.name" : "Ranger",
     "class.fighter.loadout.skirmisher.name" : "Skirmisher",
     "class.fighter.loadout.knight.name" : "Knight",
-    "class.fighter.loadout.warrior.name" : "Warrior"
+    "class.fighter.loadout.warrior.name" : "Warrior",
+
+    "class.fighter.skill.riposte.name" : "Riposte",
+    "class.fighter.skill.riposte.description" : "On Parry: Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
+   
+    "class.fighter.skill.grit.name" : "Grit",
+    "class.fighter.skill.grit.description" : "On Parry: Gain {1} temporary health during your next {2} melee attacks within {0} seconds."
   }
