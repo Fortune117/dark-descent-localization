@@ -1,0 +1,7 @@
+{
+    "ui.achievement.eligibility" : "You are {0}.",
+    "ui.achievement.eligibility.true" : "currently eligible",
+    "ui.achievement.eligibility.false" : "not eligible",
+    "ui.achievement.eligibility.true.tooltip" : "If you finish the dungeon, you will unlock this achievement.",
+    "ui.achievement.eligibility.false.tooltip" : "If you finish the dungeon, you will NOT unlock this achievement."
+  }
