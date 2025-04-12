@@ -1,0 +1,16 @@
+{
+    "actor.bandit.name" : "Bandit",
+    "actor.bandit.description" : "Oooo an evil bandit!!",
+
+    "actor.bandit_shield.name" : "Shield Bandit",
+    "actor.bandit_shield.description" : "Shield bandit go unga bunga",
+
+    "actor.bandit_archer.name" : "Bandit Archer",
+    "actor.bandit_archer.description" : "Shoot arrow... oweie oof ouch",
+
+    "actor.bandit_swordmaster.name" : "Bandit Swordmaster",
+    "actor.bandit_swordmaster.description" : "Swing sword... big hurty!",
+
+    "actor.looter_pitchfork.name" : "Grave Robber",
+    "actor.looter_pitchfork.description" : "I'm robbin' ya grave!!"
+}
