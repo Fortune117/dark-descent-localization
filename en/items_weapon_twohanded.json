@@ -30,5 +30,9 @@
   
   "item.weapon.longbow.name" : "Longbow",
   "item.weapon.longbow.description" : "",
-  "item.weapon.longbow.flavour"  : "I wonder what a medium bow is."
+  "item.weapon.longbow.flavour"  : "I wonder what a medium bow is.",
+
+  "item.weapon.pickaxe.name" : "Pickaxe",
+  "item.weapon.pickaxe.description" : "",
+  "item.weapon.pickaxe.flavour"  : "By the rock and soil I toil,\n'till the blood fled my hands."
 }
