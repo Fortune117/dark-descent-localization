@@ -1,7 +1,7 @@
 {
     "game.descension.level.0" : "The regular difficulty of the dungeon.\n\nThis is what the game is balanced around.",
     "game.descension.level.1" : "Your starting equipment is worse.",
-    "game.descension.level.2" : "You start each run damaged.",
+    "game.descension.level.2" : "You start the dungeon damaged.",
     "game.descension.level.3" : "Enemies have higher stats.",
     "game.descension.level.4" : "You start with lower stats.",
     "game.descension.level.5" : "Your maximum flask charge is reduced by 1."
