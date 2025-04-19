@@ -1,4 +1,7 @@
 {
-    "actor.skeleton.name" : "Skeleton",
-    "actor.skeleton.description" : "Oooo spooky scary skeleton oooo"
+    "actor.skeleton_swordsman.name" : "Skeleton",
+    "actor.skeleton_swordsman.description" : "Oooo spooky scary skeleton oooo",
+
+    "actor.skeleton_axeman.name" : "Skeleton",
+    "actor.skeleton_axeman.description" : "Oooo spooky scary skeleton oooo"
 }
