@@ -6,5 +6,8 @@
     "actor.skeleton_axeman.description" : "Oooo spooky scary skeleton oooo",
 
     "actor.skeleton_feral.name" : "Feral Skeleton",
-    "actor.skeleton_feral.description" : "Oooo spooky scary skeleton oooo"
+    "actor.skeleton_feral.description" : "Oooo spooky scary skeleton oooo",
+
+    "actor.skeleton_archer.name" : "Skeleton Archer",
+    "actor.skeleton_archer.description" : "Oooo spooky scary skeleton oooo"
 }
