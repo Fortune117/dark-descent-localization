@@ -2,12 +2,15 @@
     "actor.skeleton_swordsman.name" : "Skeleton",
     "actor.skeleton_swordsman.description" : "Oooo spooky scary skeleton oooo",
 
-    "actor.skeleton_axeman.name" : "Skeleton",
+    "actor.skeleton_axeman.name" : "Skeleton Axeman",
     "actor.skeleton_axeman.description" : "Oooo spooky scary skeleton oooo",
 
     "actor.skeleton_feral.name" : "Feral Skeleton",
     "actor.skeleton_feral.description" : "Oooo spooky scary skeleton oooo",
 
     "actor.skeleton_archer.name" : "Skeleton Archer",
-    "actor.skeleton_archer.description" : "Oooo spooky scary skeleton oooo"
+    "actor.skeleton_archer.description" : "Oooo spooky scary skeleton oooo",
+
+    "actor.skeleton_greatsword.name" : "Skeleton Warrior",
+    "actor.skeleton_greatsword.description" : "Oooo spooky scary skeleton oooo"
 }
