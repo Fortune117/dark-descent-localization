@@ -1,0 +1,25 @@
+{
+    "obj_candle.name" : "Candle",
+    "obj_candle.description" : "A flickering flame in the darkness.",
+
+    "obj_candelabra.name" : "Candelabra",
+    "obj_candelabra.description" : "A rare echo of decadence in these dark halls.",
+
+    "obj_torch.name" : "Torch",
+    "obj_torch.description" : "A source of light for the prospective adventurer.",
+
+    "obj_crate_wooden.name" : "Wooden Crate",
+    "obj_crate_wooden.description" : "A rotting container from days past. Maybe there's still something useful inside...",
+
+    "obj_barrel_wooden.name" : "Barrel",
+    "obj_barrel_wooden.description" : "An old decaying barrel. There might yet be valuables still inside...",
+
+    "obj_bottle.name" : "Bottle",
+    "obj_bottle.description" : "Dusty, dry and useless.",
+
+    "obj_body_bag.name" : "Corpse",
+    "obj_body_bag.description" : "One of the many denizens buried in this dungeon. Some of these are fresher than the others...",
+
+    "obj_book.name" : "Book",
+    "obj_book.description" : "Rotten pages and smeared ink are all that lines the spine of this forgotten tome."
+}
