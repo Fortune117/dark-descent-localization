@@ -8,11 +8,11 @@
     "obj_torch.name" : "Torch",
     "obj_torch.description" : "A source of light for the prospective adventurer.",
 
-    "obj_crate_wooden.name" : "Wooden Crate",
-    "obj_crate_wooden.description" : "A rotting container from days past. Maybe there's still something useful inside...",
+    "obj_crate_wood.name" : "Wooden Crate",
+    "obj_crate_wood.description" : "A rotting container from days past. Maybe there's still something useful inside...",
 
-    "obj_barrel_wooden.name" : "Barrel",
-    "obj_barrel_wooden.description" : "An old decaying barrel. There might yet be valuables still inside...",
+    "obj_barrel_wood.name" : "Barrel",
+    "obj_barrel_wood.description" : "An old decaying barrel. There might yet be valuables still inside...",
 
     "obj_bottle.name" : "Bottle",
     "obj_bottle.description" : "Dusty, dry and useless.",
