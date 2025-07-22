@@ -1,4 +1,7 @@
 {
     "obj_door_wood.name" : "Wooden Door",
-    "obj_door_wood.description" : "You can peer through the splintering, rotten planks of this old door."
+    "obj_door_wood.description" : "You can peer through the splintering, rotten planks of this old door.",
+    
+    "obj_chest_wood.name" : "Chest",
+    "obj_chest_wood.description" : "Filled with wondrous potential..."
 }
