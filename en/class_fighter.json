@@ -29,7 +29,7 @@
     "class.fighter.skill.sadist.description" : "[key.trigger.on_execute]: Gain {0} [key.stat.grit] and restore {1} [key.stat.stamina] per second for {2} seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
-    "class.fighter.skill.weight_training.description" : "Your movement speed penalty during attacks with [key.hold_type.two_handed] weapons is reduced by {0}.",
+    "class.fighter.skill.weight_training.description" : "Your movement speed penalty during attacks with [key.hold_type.two_handed] weapons is reduced by {0} and your attack speed with them is increased by {1}.",
 
     "class.fighter.skill.sword_retort.name" : "Swordsmans Retort",
     "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry] window for [key.hold_type.two_handed] [key.item_tag.sword](swords) increases by {0}.",
