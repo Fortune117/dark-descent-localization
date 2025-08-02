@@ -1,7 +1,7 @@
 {
     "class.fighter.name" : "Fighter",
     "class.fighter.description.short" : "A martial class with a broad range of expertise and ability. Can specialize into nearly any class of weapon, but has no magical ability.",
-    "class.fighter.description.long" : "The fighter embodies the spirit of martial mastery. They are the ultimate in physical prowess and ability, with skills focused on their fighting style and weapon specialisation.",
+    "class.fighter.description.long" : "The fighter embodies the spirit of martial mastery. Fighters represent the pinnacle of physical prowess and ability, with skills focused on their preffered style of combat and weapon specialisation.",
 
 
     "class.fighter.loadout.peasant.name" : "Peasant",
@@ -11,8 +11,17 @@
     "class.fighter.loadout.warrior.name" : "Warrior",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "On Parry: Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]: Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
+
+    "class.fighter.skill.sword_retort.name" : "Swordsmans Retort",
+    "class.fighter.skill.sword_retort.description" : "Your parry window for two handed sword type weapons increases by {0}.",
    
+    "class.fighter.skill.shield_counter.name" : "Counter Bash",
+    "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry]: Your block will become active during your next melee attack, allowing you to block during your swing.",
+
+    "class.fighter.skill.shield_confidence.name" : "Rhymthic Barrier",
+    "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_block]: Your next block will automatically be upgraded to a parry for the next {0} seconds.",
+
     "class.fighter.skill.grit.name" : "Grit",
-    "class.fighter.skill.grit.description" : "On Parry: Gain {1} temporary health during your next {2} melee attacks within {0} seconds."
+    "class.fighter.skill.grit.description" : "[key.trigger.on_parry]: Gain {1} temporary health during your next {2} melee attacks within {0} seconds."
   }
