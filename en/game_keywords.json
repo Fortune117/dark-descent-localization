@@ -22,6 +22,7 @@
     "key.trigger.on_parry" : "On Parry",
     "key.trigger.on_block" : "On Block",
     "key.trigger.on_execute" : "On Execute",
+    "key.trigger.on_death" : "On Death",
 
     "key.item_tag.shield" : "Shield",
     "key.item_tag.sword" : "Sword",

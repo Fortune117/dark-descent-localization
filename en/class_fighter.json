@@ -17,7 +17,16 @@
     "class.fighter.skill.fleet.description" : "Reduces the penalty to movement when not moving forwards by {0} and increases weapon swap speed by {1}.",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]: Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry] Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
+
+    "class.fighter.skill.opportunist.name" : "Opportunist",
+    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun] You gain {0} attack speed on your next melee attack for {1} second(s).",
+
+    "class.fighter.skill.cleave.name" : "Cleave",
+    "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] weapon, deal an extra {0} damage for each enemy hit beyond the first during a swing. Stacks up to {1} times.",
+
+    "class.fighter.skill.sadist.name" : "Sadist",
+    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute]: Gain {0} [key.stat.grit] and restore {1} [key.stat.stamina] per second for {2} seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
     "class.fighter.skill.weight_training.description" : "Your movement speed penalty during attacks with [key.hold_type.two_handed] weapons is reduced by {0}.",
@@ -27,6 +36,9 @@
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
     "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess posture damage when stunning a target is converted into damage at a ratio of {0}.\nAdditionally, deal {1} more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",
+
+    "class.fighter.skill.push_forwards.name" : "Push Forwards",
+    "class.fighter.skill.push_forwards.description" : "After taking damage, you can regain a portion of the health lost as [key.stat.grit] by dealing damage for up to {0} seconds.",
 
     "class.fighter.skill.lunge.name" : "Lunge",
     "class.fighter.skill.lunge.description" : "[key.trigger.ability]: When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike. Kills with this ability refresh its cooldown.",
@@ -44,7 +56,7 @@
     "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](stunned) enemy with both weapons while [key.mechanic.dual_wielding] within {0} second(s) of each other, apply a {1} strength [key.status.bleed] and restore {2} [key.stat.stamina].",
 
     "class.fighter.skill.executor.name" : "Executor",
-    "class.fighter.skill.executor.description" : "[key.trigger.on_execute] If performed with a [key.hold_type.one_handed] weapon gain {0} [key.stat.movespeed] for {1} seconds(s).",
+    "class.fighter.skill.executor.description" : "[key.trigger.on_execute] If performed with a [key.hold_type.one_handed] weapon gain {0} [key.stat.movespeed] for {1} seconds(s) and apply a strength {2} [key.status.bleed]. In addition, you will instantly kill executed targets put below {3} health.",
 
     "class.fighter.skill.rhythmic_fighting.name" : "Rythmic Fighting",
     "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within {0} seconds gains {1} [key.stat.attack_speed] and {2} damage. Stacks up to {3} times.",
@@ -57,6 +69,12 @@
 
     "class.fighter.skill.grit.name" : "Grit",
     "class.fighter.skill.grit.description" : "[key.trigger.on_parry] Gain {0} [key.stat.grit] during your next {1} melee attack(s) within {2} seconds.",
+
+    "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
+    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below {0}, take no damage instead.\nIncrease stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by {1}.",
+
+    "class.fighter.skill.steel_soul.name" : "Steel of Soul",
+    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death] Instead of dying, enter a beserked state for {0} seconds. If you kill an enemy within that time you will prevent the death and be returned to {1} health. This effect has a {2} second cooldown.",
    
     "class.fighter.skill.shield_counter.name" : "Counter Bash",
     "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry] Your block will become active during your next melee attack with a [key.item_tag.shield] within {0} seconds",
@@ -73,7 +91,7 @@
     "class.fighter.skill.shield_daze.name" : "Dazing Blow",
     "class.fighter.skill.shield_daze.description" : "When you perform an [key.mechanic.execute](execution) with a [key.item_tag.shield], restore {0} [key.stat.stamina] and [key.status.slow] that target by {1} for {2} seconds.",
 
-    "class.fighter.skill.shield_satisfying_crush.name" : "Sadistic Bash",
+    "class.fighter.skill.shield_satisfying_crush.name" : "Crush Defiance",
     "class.fighter.skill.shield_satisfying_crush.description" : "When you perform an [key.mechanic.execute](execution) with a shield, gain {0} [key.stat.grit] and restore {1} [key.stat.posture] per second for {2} seconds.",
 
     "class.fighter.skill.shield_perfect_defense.name" : "Perfect Defense",
