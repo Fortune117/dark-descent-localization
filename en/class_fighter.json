@@ -26,7 +26,7 @@
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] weapon, deal an extra {0} damage for each enemy hit beyond the first during a swing. Stacks up to {1} times.",
 
     "class.fighter.skill.sadist.name" : "Sadist",
-    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute]: Gain {0} [key.stat.grit] and restore {1} [key.stat.stamina] per second for {2} seconds.",
+    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute] Gain {0} [key.stat.grit] and restore {1} [key.stat.stamina] per second for {2} seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
     "class.fighter.skill.weight_training.description" : "Your movement speed penalty during attacks with [key.hold_type.two_handed] weapons is reduced by {0} and your attack speed with them is increased by {1}.",
@@ -35,13 +35,13 @@
     "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry] window for [key.hold_type.two_handed] [key.item_tag.sword](swords) increases by {0}.",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
-    "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess posture damage when stunning a target is converted into damage at a ratio of {0}.\nAdditionally, deal {1} more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",
+    "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess posture damage dealt when stunning a target is converted into damage at a ratio of {0}.\n\nAdditionally, deal {1} more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",
 
     "class.fighter.skill.push_forwards.name" : "Push Forwards",
-    "class.fighter.skill.push_forwards.description" : "After taking damage, you can regain a portion of the health lost as [key.stat.grit] by dealing damage for up to {0} seconds.",
+    "class.fighter.skill.push_forwards.description" : "After taking damage, you can restore a portion of the health lost as [key.stat.grit] by dealing damage for up to {0} seconds.",
 
     "class.fighter.skill.lunge.name" : "Lunge",
-    "class.fighter.skill.lunge.description" : "[key.trigger.ability]: When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike. Kills with this ability refresh its cooldown.",
+    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate] When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike. Kills with this ability refresh its cooldown.",
 
     "class.fighter.skill.blademaster.name" : "Blademaster",
     "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand while attacking when [key.mechanic.dual_wielding] ([key.item_tag.shield](shields) excluded). Does not allow blocking during this window.",
@@ -86,7 +86,7 @@
     "class.fighter.skill.shield_mastery.description" : "Your [key.mechanic.parry](parries) with [key.item_tag.shield](shields) can now break an enemies [key.stat.posture] and deal {0} more posture damage.",
 
     "class.fighter.skill.shield_combo.name" : "Deflect and Return",
-    "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block] When blocking with a [key.item_tag.shield], for {0} seconds, the next attack with your opposite hand gains {1} attack speed and {2} damage.",
+    "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block] After blocking with a [key.item_tag.shield], for {0} seconds the next attack with your opposite hand gains {1} attack speed and {2} damage.",
 
     "class.fighter.skill.shield_daze.name" : "Dazing Blow",
     "class.fighter.skill.shield_daze.description" : "When you perform an [key.mechanic.execute](execution) with a [key.item_tag.shield], restore {0} [key.stat.stamina] and [key.status.slow] that target by {1} for {2} seconds.",

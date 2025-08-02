@@ -23,11 +23,13 @@
     "key.trigger.on_block" : "On Block",
     "key.trigger.on_execute" : "On Execute",
     "key.trigger.on_death" : "On Death",
+    "key.trigger.on_activate" : "On Activation",
 
     "key.item_tag.shield" : "Shield",
     "key.item_tag.sword" : "Sword",
 
     "key.item_tag.light" : "Light",
+    "key.item_tag.heavy" : "Heavy",
     "key.item_tag.armor" : "Armor",
 
     "key.hold_type.two_handed" : "Two-Handed",
