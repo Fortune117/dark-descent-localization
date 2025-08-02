@@ -1,4 +1,34 @@
 {
+    "key.stat.health" : "Health",
+    "key.stat.grit" : "Grit",
+    "key.stat.stamina" : "Stamina",
+    "key.stat.stamina_regen" : "Stamina Regen",
+    "key.stat.posture" : "Posture",
+    "key.stat.attack_speed" : "Attack Speed",
+    "key.stat.armor" : "Armor",
+    "key.stat.movespeed" : "Move Speed",
+
+    "key.mechanic.block_guard" : "Guard",
+    "key.mechanic.execute" : "Execute",
+    "key.mechanic.parry" : "Parry",
+    "key.mechanic.stun" : "Stun",
+
+    "key.mechanic.dual_wielding" : "Dual-Wielding",
+
+    "key.status.bleed" : "Bleed",
+    "key.status.slow" : "Slow",
+
+
     "key.trigger.on_parry" : "On Parry",
-    "key.trigger.on_block" : "On Block"
+    "key.trigger.on_block" : "On Block",
+    "key.trigger.on_execute" : "On Execute",
+
+    "key.item_tag.shield" : "Shield",
+    "key.item_tag.sword" : "Sword",
+
+    "key.item_tag.light" : "Light",
+    "key.item_tag.armor" : "Armor",
+
+    "key.hold_type.two_handed" : "Two-Handed",
+    "key.hold_type.one_handed" : "One-Handed"
 }
