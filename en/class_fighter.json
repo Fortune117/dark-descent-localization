@@ -11,28 +11,28 @@
     "class.fighter.loadout.warrior.name" : "Warrior",
 
     "class.fighter.skill.armor_light_foot.name" : "Light Footed",
-    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] armor you're wearing grants you {0} [key.stat.movespeed] and {1} [key.stat.stamina_regen].",
+    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you {0} [key.stat.movespeed] and {1} [key.stat.stamina_regen].",
 
     "class.fighter.skill.fleet.name" : "Fleet",
-    "class.fighter.skill.fleet.description" : "Reduces the penalty to movement when not moving forwards by {0} and increases weapon swap speed by {1}.",
+    "class.fighter.skill.fleet.description" : "Reduces the penalty to movement when not moving forwards by {0}, increase your item swap speed by {1}.",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry] Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]Your next {0} melee attack(s) within {1} seconds gain {2} attack speed.",
 
     "class.fighter.skill.opportunist.name" : "Opportunist",
-    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun] You gain {0} attack speed on your next melee attack for {1} second(s).",
+    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun]You gain {0} attack speed on your next melee attack for {1} second(s).",
 
     "class.fighter.skill.cleave.name" : "Cleave",
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] weapon, deal an extra {0} damage for each enemy hit beyond the first during a swing. Stacks up to {1} times.",
 
     "class.fighter.skill.sadist.name" : "Sadist",
-    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute] Gain {0} [key.stat.grit] and restore {1} [key.stat.stamina] per second for {2} seconds.",
+    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute]Gain {0} [key.stat.grit] and restore {1} [key.stat.stamina] per second for {2} seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
     "class.fighter.skill.weight_training.description" : "Your movement speed penalty during attacks with [key.hold_type.two_handed] weapons is reduced by {0} and your attack speed with them is increased by {1}.",
 
-    "class.fighter.skill.sword_retort.name" : "Swordsmans Retort",
-    "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry] window for [key.hold_type.two_handed] [key.item_tag.sword](swords) increases by {0}.",
+    "class.fighter.skill.sword_retort.name" : "Duelist",
+    "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by {0} and you restore {1} [key.stat.stamina] on successful parries, but your [key.mechanic.block_guard] is reduced by {2}.",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
     "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess posture damage dealt when stunning a target is converted into damage at a ratio of {0}.\n\nAdditionally, deal {1} more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",
@@ -41,10 +41,10 @@
     "class.fighter.skill.push_forwards.description" : "After taking damage, you can restore a portion of the health lost as [key.stat.grit] by dealing damage for up to {0} seconds.",
 
     "class.fighter.skill.lunge.name" : "Lunge",
-    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate] When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike. Kills with this ability refresh its cooldown.",
+    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike. Kills with this ability refresh its cooldown.",
 
     "class.fighter.skill.blademaster.name" : "Blademaster",
-    "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand while attacking when [key.mechanic.dual_wielding] ([key.item_tag.shield](shields) excluded). Does not allow blocking during this window.",
+    "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand while attacking when [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\n\nDoes not allow blocking during this window.",
 
     "class.fighter.skill.lightning_reflexes.name" : "Lightning Reflexes",
     "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a non-magical projectile it will be reflected in the direction you're looking",
@@ -53,46 +53,46 @@
     "class.fighter.skill.sundering_strikes.description" : "Your melee attacks apply a {0} [key.stat.armor] penalty to the target for {1} seconds. Stacks up to {2} times.",
 
     "class.fighter.skill.twin_strike.name" : "Twin Strike",
-    "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](stunned) enemy with both weapons while [key.mechanic.dual_wielding] within {0} second(s) of each other, apply a {1} strength [key.status.bleed] and restore {2} [key.stat.stamina].",
+    "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within {0} second(s) of each other, apply a {1} strength [key.status.bleed] and restore {2} [key.stat.stamina].",
 
     "class.fighter.skill.executor.name" : "Executor",
-    "class.fighter.skill.executor.description" : "[key.trigger.on_execute] If performed with a [key.hold_type.one_handed] weapon gain {0} [key.stat.movespeed] for {1} seconds(s) and apply a strength {2} [key.status.bleed]. In addition, you will instantly kill executed targets put below {3} health.",
+    "class.fighter.skill.executor.description" : "[key.trigger.on_execute]If performed with a [key.hold_type.one_handed] weapon gain {0} [key.stat.movespeed] for {1} seconds(s) and apply a strength {2} [key.status.bleed].\n\nIn addition, you will instantly kill [key.mechanic.execute](Executed) targets put below {3} health.",
 
     "class.fighter.skill.rhythmic_fighting.name" : "Rythmic Fighting",
     "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within {0} seconds gains {1} [key.stat.attack_speed] and {2} damage. Stacks up to {3} times.",
 
     "class.fighter.skill.fang_and_claw.name" : "Fang and Claw",
-    "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](shields) excluded), gain {0} attack speed with the [key.item_tag.dagger] after each attack with the opposite weapon but at a {1} damage penalty.",
+    "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](Shields) excluded), gain {0} attack speed with the [key.item_tag.dagger] after each attack with the opposite weapon but at a {1} damage penalty.",
 
     "class.fighter.skill.dual_weapon_fighting.name" : "Dual Weapon Fighting",
     "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] penalty for [key.mechanic.dual_wielding] by {0} and gain {1} [key.stat.movespeed] while [key.mechanic.dual_wielding].",
 
     "class.fighter.skill.grit.name" : "Grit",
-    "class.fighter.skill.grit.description" : "[key.trigger.on_parry] Gain {0} [key.stat.grit] during your next {1} melee attack(s) within {2} seconds.",
+    "class.fighter.skill.grit.description" : "[key.trigger.on_parry]Gain {0} [key.stat.grit] during your next {1} melee attack(s) within {2} seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
-    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below {0}, take no damage instead.\nIncrease stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by {1}.",
+    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below {0}, take no damage instead.\n\nIncrease stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by {1}.",
 
     "class.fighter.skill.steel_soul.name" : "Steel of Soul",
-    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death] Instead of dying, enter a beserked state for {0} seconds. If you kill an enemy within that time you will prevent the death and be returned to {1} health. This effect has a {2} second cooldown.",
+    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death]Instead of dying, enter a beserked state for {0} seconds. If you kill an enemy within that time you will prevent the death and be returned to {1} health.\n\nThis effect has a {2} second cooldown.",
    
     "class.fighter.skill.shield_counter.name" : "Counter Bash",
-    "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry] Your block will become active during your next melee attack with a [key.item_tag.shield] within {0} seconds",
+    "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry]Your block will become active during your next melee attack with a [key.item_tag.shield] within {0} seconds",
 
     "class.fighter.skill.shield_confidence.name" : "Shield Drum",
-    "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_block] Your next [key.mechanic.block] will automatically be upgraded to a [key.mechanic.parry] for the next {0} seconds.",
+    "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_block]Your next [key.mechanic.block] will automatically be upgraded to a [key.mechanic.parry] for the next {0} seconds.",
 
     "class.fighter.skill.shield_mastery.name" : "Shield Mastery",
-    "class.fighter.skill.shield_mastery.description" : "Your [key.mechanic.parry](parries) with [key.item_tag.shield](shields) can now break an enemies [key.stat.posture] and deal {0} more posture damage.",
+    "class.fighter.skill.shield_mastery.description" : "Your [key.mechanic.parry](Parries) with [key.item_tag.shield](Shields) can now break an enemies [key.stat.posture] and deal {0} more posture damage.",
 
     "class.fighter.skill.shield_combo.name" : "Deflect and Return",
-    "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block] After blocking with a [key.item_tag.shield], for {0} seconds the next attack with your opposite hand gains {1} attack speed and {2} damage.",
+    "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block]After blocking with a [key.item_tag.shield], for {0} seconds the next attack with your opposite hand gains {1} attack speed and {2} damage.",
 
     "class.fighter.skill.shield_daze.name" : "Dazing Blow",
-    "class.fighter.skill.shield_daze.description" : "When you perform an [key.mechanic.execute](execution) with a [key.item_tag.shield], restore {0} [key.stat.stamina] and [key.status.slow] that target by {1} for {2} seconds.",
+    "class.fighter.skill.shield_daze.description" : "When you perform an [key.mechanic.execute](Execution) with a [key.item_tag.shield], restore {0} [key.stat.stamina] and [key.status.slow] that target by {1} for {2} seconds.",
 
     "class.fighter.skill.shield_satisfying_crush.name" : "Crush Defiance",
-    "class.fighter.skill.shield_satisfying_crush.description" : "When you perform an [key.mechanic.execute](execution) with a shield, gain {0} [key.stat.grit] and restore {1} [key.stat.posture] per second for {2} seconds.",
+    "class.fighter.skill.shield_satisfying_crush.description" : "When you perform an [key.mechanic.execute](Execution) with a shield, gain {0} [key.stat.grit] and restore {1} [key.stat.posture] per second for {2} seconds.",
 
     "class.fighter.skill.shield_perfect_defense.name" : "Perfect Defense",
     "class.fighter.skill.shield_perfect_defense.description" : "You may still attack with your opposite hand while blocking with a [key.item_tag.shield].",
