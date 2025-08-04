@@ -1,13 +1,26 @@
 {
     "key.stat.health" : "Health",
+    "key.stat.health.max" : "Maximum Health",
+    "key.stat.health.heal_mult" : "Heal Multiplier",
+
     "key.stat.stamina" : "Stamina",
+    "key.stat.stamina.max" : "Maximum Stamina",
     "key.stat.stamina.regen" : "Stamina Regen",
+
     "key.stat.posture" : "Posture",
+
+    "key.stat.concentration" : "Concentration",
+    "key.stat.concentration.max" : "Maximum Concentration",
+    "key.stat.concentration.regen" : "Concentration Regen",
+    "key.stat.concentration.cost" : "Concentration Cost",
 
     "key.stat.grit" : "Grit",
     
     "key.stat.attack.speed" : "Attack Speed",
     "key.stat.attack.knockback" : "Knockback",
+
+    "key.stat.magic.power" : "Spell Power",
+    "key.stat.magic.speed" : "Spellcasting Speed",
 
     "key.stat.defense.armor" : "Armor",
 
@@ -15,6 +28,7 @@
     "key.stat.movement.jump_height" : "Jump Height",
 
     "key.stat.resistance.knockback" : "Knockback Resistance",
+    "key.stat.resistance.critical" : "Critical Resistance",
 
     "key.stat.misc.carry_weight" : "Carry Weight",
 
@@ -32,6 +46,7 @@
     "key.mechanic.death" : "Death",
 
     "key.mechanic.damage" : "Damage",
+    "key.mechanic.healing" : "Healing",
     "key.mechanic.posture_damage" : "Posture Damage",
 
     "key.mechanic.rest" : "Rest",
