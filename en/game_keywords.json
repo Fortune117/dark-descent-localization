@@ -15,6 +15,11 @@
     "key.mechanic.parry" : "Parry",
     "key.mechanic.block" : "Block",
     "key.mechanic.stun" : "Stun",
+    "key.mechanic.kill" : "Kill",
+
+    "key.mechanic.stacks" : "Stacks",
+
+    "key.mechanic.death" : "Death",
 
     "key.mechanic.damage" : "Damage",
 
