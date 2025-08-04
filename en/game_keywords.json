@@ -8,10 +8,15 @@
     "key.stat.armor" : "Armor",
     "key.stat.movespeed" : "Move Speed",
 
+    "key.stat.parry_window" : "Parry Window",
+
     "key.mechanic.block_guard" : "Guard",
     "key.mechanic.execute" : "Execute",
     "key.mechanic.parry" : "Parry",
+    "key.mechanic.block" : "Block",
     "key.mechanic.stun" : "Stun",
+
+    "key.mechanic.damage" : "Damage",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
 
