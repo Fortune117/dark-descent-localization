@@ -22,6 +22,9 @@
     "key.mechanic.death" : "Death",
 
     "key.mechanic.damage" : "Damage",
+    "key.mechanic.posture_damage" : "Posture Damage",
+
+    "key.mechanic.rest" : "Rest",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
 
@@ -45,5 +48,11 @@
     "key.item_tag.armor" : "Armor",
 
     "key.hold_type.two_handed" : "Two-Handed",
-    "key.hold_type.one_handed" : "One-Handed"
+    "key.hold_type.one_handed" : "One-Handed",
+
+    "key.flavour.positive" : "You shouldn't see this! Yell at fortune :)",
+    "key.flavour.negative" : "You shouldn't see this! Yell at fortune :)",
+
+    "key.variable.positive" : "You shouldn't see me!! Yell at fortune :)",
+    "key.variable.negative" : "You shouldn't see me!! Yell at fortune :)"
 }
