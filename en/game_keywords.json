@@ -19,12 +19,12 @@
     "key.status.slow" : "Slow",
 
 
-    "key.trigger.on_parry" : "On Parry\n",
-    "key.trigger.on_block" : "On Block\n",
-    "key.trigger.on_execute" : "On Execute\n",
-    "key.trigger.on_stun" : "On Stun\n",
-    "key.trigger.on_death" : "On Death\n",
-    "key.trigger.on_activate" : "On Activation\n",
+    "key.trigger.on_parry" : "On Parry",
+    "key.trigger.on_block" : "On Block",
+    "key.trigger.on_execute" : "On Execute",
+    "key.trigger.on_stun" : "On Stun",
+    "key.trigger.on_death" : "On Death",
+    "key.trigger.on_activate" : "On Activation",
 
     "key.item_tag.shield" : "Shield",
     "key.item_tag.sword" : "Sword",
