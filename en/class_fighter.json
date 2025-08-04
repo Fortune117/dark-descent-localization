@@ -11,16 +11,16 @@
     "class.fighter.loadout.warrior.name" : "Warrior",
 
     "class.fighter.skill.armor_light_foot.name" : "Lightfoot",
-    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P0}) [key.stat.movespeed] and [key.variable.positive]({1}) [key.stat.stamina_regen].",
+    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P0}) [key.stat.movement.speed] and [key.variable.positive]({1}) [key.stat.stamina.regen].",
 
     "class.fighter.skill.fleet.name" : "Fleet",
-    "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movespeed] penalty while not moving forwards by [key.variable.positive]({0:P0}) and increase your item swap speed by [key.variable.positive]({1:P0}).",
+    "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] penalty while not moving forwards by [key.variable.positive]({0:P0}) and increase your item swap speed by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]Your next [key.variable.positive]({0}) melee attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack_speed].",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]Your next [key.variable.positive]({0}) melee attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
 
     "class.fighter.skill.opportunist.name" : "Opportunist",
-    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun]You gain {0:P0} [key.stat.attack_speed] on your next melee attack for [key.variable.positive]({1}) second(s).",
+    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun]You gain {0:P0} [key.stat.attack.speed] on your next melee attack for [key.variable.positive]({1}) second(s).",
 
     "class.fighter.skill.cleave.name" : "Cleave",
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] weapon, deal an extra [key.variable.positive]({0:P0}) damage for each enemy hit beyond the first during a swing.\n[key.mechanic.stacks] up to [key.variable.positive]({1}) times.",
@@ -29,10 +29,10 @@
     "class.fighter.skill.sadist.description" : "[key.trigger.on_execute]Gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
-    "class.fighter.skill.weight_training.description" : "Your [key.stat.movespeed] penalty during attacks with [key.hold_type.two_handed] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.stat.attack_speed] with them is increased by [key.variable.positive]({1:P0}).",
+    "class.fighter.skill.weight_training.description" : "Your [key.stat.movement.speed] penalty during attacks with [key.hold_type.two_handed] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.stat.attack.speed] with them is increased by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.sword_retort.name" : "Duelist",
-    "class.fighter.skill.sword_retort.description" : "Your [key.stat.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] is reduced by [key.variable.negative]({2:P0}).",
+    "class.fighter.skill.sword_retort.description" : "Your [key.stat.defense.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] is reduced by [key.variable.negative]({2:P0}).",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
     "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess [key.stat.posture](Posture Damage) dealt when [key.mechanic.stun](Stunning) a target is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",
@@ -50,25 +50,25 @@
     "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a non-magical projectile it will be reflected in the direction you're looking",
 
     "class.fighter.skill.sundering_strikes.name" : "Shred",
-    "class.fighter.skill.sundering_strikes.description" : "Your melee attacks apply a [key.variable.positive]({0}) [key.stat.armor] penalty to the target for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
+    "class.fighter.skill.sundering_strikes.description" : "Your melee attacks apply a [key.variable.positive]({0}) [key.stat.defense.armor] penalty to the target for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
 
     "class.fighter.skill.twin_strike.name" : "Twin Strike",
     "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within [key.variable.positive]({0}) second(s) of each other, apply [key.variable.positive]({1}) [key.status.bleed] and restore [key.variable.positive]({2}) [key.stat.stamina].",
 
     "class.fighter.skill.executor.name" : "Executor",
-    "class.fighter.skill.executor.description" : "[key.trigger.on_execute]If performed with a [key.hold_type.one_handed] weapon gain [key.variable.positive]({0}) [key.stat.movespeed] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will instantly [key.mechanic.kill] [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:P0}) [key.stat.health].",
+    "class.fighter.skill.executor.description" : "[key.trigger.on_execute]If performed with a [key.hold_type.one_handed] weapon gain [key.variable.positive]({0}) [key.stat.move.speed] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will instantly [key.mechanic.kill] [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:P0}) [key.stat.health].",
 
     "class.fighter.skill.rhythmic_fighting.name" : "Rythmic Fighting",
-    "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within [key.variable.positive]({0:0.0#}) seconds of each other gains [key.variable.positive]({1:P0}) [key.stat.attack_speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage]. [key.mechanic.stacks] up to [key.variable.positive]({3}) times.\n[key.flavour.negative](Attacking out of rhythm will remove all Stacks.)",
+    "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within [key.variable.positive]({0:0.0#}) seconds of each other gains [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage]. [key.mechanic.stacks] up to [key.variable.positive]({3}) times.\n[key.flavour.negative](Attacking out of rhythm will remove all Stacks.)",
 
     "class.fighter.skill.fang_and_claw.name" : "Fang and Claw",
-    "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](Shields) excluded), gain [key.variable.positive]({0:P0}) [key.stat.attack_speed] with the [key.item_tag.dagger] after each attack with the opposite weapon but at a [key.variable.negative]({1:P0}) [key.mechanic.Damage] penalty.",
+    "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](Shields) excluded), gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] with the [key.item_tag.dagger] after each attack with the opposite weapon but at a [key.variable.negative]({1:P0}) [key.mechanic.Damage] penalty.",
 
     "class.fighter.skill.dual_weapon_fighting.name" : "Dual Weapon Fighting",
-    "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] penalty for attacks while [key.mechanic.dual_wielding] by {0:P0}.\nAdditionaly, you gain {1:P0} [key.stat.movespeed] while [key.mechanic.dual_wielding].",
+    "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] penalty for attacks while [key.mechanic.dual_wielding] by {0:P0}.\nAdditionaly, you gain {1:P0} [key.stat.movement.speed] while [key.mechanic.dual_wielding].",
 
     "class.fighter.skill.grit.name" : "Confidence",
-    "class.fighter.skill.grit.description" : "[key.trigger.on_parry]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful melee attack(s) within [key.variable.positive]({2}) seconds.",
+    "class.fighter.skill.grit.description" : "[key.trigger.on_parry]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
     "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below [key.variable.positive]({0}), take no damage instead.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",

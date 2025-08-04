@@ -2,7 +2,7 @@
     "stats.strength.name" : "Strength",
     "stats.strength.short" : "STR",
     "stats.strength.categorized" : "STR",
-    "stats.strength.description" : "Strength is responsible for damage with heavier melee weapons, stamina costs, knockback & knockback resistance, jump height and maximum carry weight.",
+    "stats.strength.description" : "[key.flavour.important](Strength) is responsible for damage scaling with most [key.hold_type.two_handed] [key.flag.melee] weapons and many [key.hold_type.one_handed] weapons as well.\nIt also affects [key.stat.stamina](Stamina Costs), [key.stat.attack.knockback] & [key.stat.resistance.knockback], [key.stat.movement.jump_height] and [key.stat.misc.carry_weight].",
 
     "stats.dexterity.name" : "Dexterity",
     "stats.dexterity.short" : "DEX",

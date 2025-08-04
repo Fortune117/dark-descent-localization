@@ -1,14 +1,24 @@
 {
     "key.stat.health" : "Health",
-    "key.stat.grit" : "Grit",
     "key.stat.stamina" : "Stamina",
-    "key.stat.stamina_regen" : "Stamina Regen",
+    "key.stat.stamina.regen" : "Stamina Regen",
     "key.stat.posture" : "Posture",
-    "key.stat.attack_speed" : "Attack Speed",
-    "key.stat.armor" : "Armor",
-    "key.stat.movespeed" : "Move Speed",
 
-    "key.stat.parry_window" : "Parry Window",
+    "key.stat.grit" : "Grit",
+    
+    "key.stat.attack.speed" : "Attack Speed",
+    "key.stat.attack.knockback" : "Knockback",
+
+    "key.stat.defense.armor" : "Armor",
+
+    "key.stat.movement.speed" : "Move Speed",
+    "key.stat.movement.jump_height" : "Jump Height",
+
+    "key.stat.resistance.knockback" : "Knockback Resistance",
+
+    "key.stat.misc.carry_weight" : "Carry Weight",
+
+    "key.stat.defense.parry_window" : "Parry Window",
 
     "key.mechanic.block_guard" : "Guard",
     "key.mechanic.execute" : "Execute",
@@ -47,8 +57,14 @@
     "key.item_tag.heavy" : "Heavy",
     "key.item_tag.armor" : "Armor",
 
+    "key.flag.melee" : "Melee",
+    "key.flag.ranged" : "Ranged",
+    "key.flag.magic" : "Magic",
+
     "key.hold_type.two_handed" : "Two-Handed",
     "key.hold_type.one_handed" : "One-Handed",
+
+    "key.flavour.important" : "You shouldn't see this! Yell at fortune :)",
 
     "key.flavour.positive" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.negative" : "You shouldn't see this! Yell at fortune :)",
