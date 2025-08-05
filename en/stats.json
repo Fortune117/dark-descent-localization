@@ -2,7 +2,7 @@
     "stats.strength.name" : "Strength",
     "stats.strength.short" : "STR",
     "stats.strength.categorized" : "STR",
-    "stats.strength.description" : "[key.flavour.important](Strength) is responsible for damage scaling with [key.item_tag.heavy](Heavier) [key.flag.melee] weapons.\nIt also affects [key.stat.stamina](Stamina Costs), [key.stat.attack.knockback] & [key.stat.resistance.knockback], [key.stat.movement.jump_height] and [key.stat.misc.carry_weight].",
+    "stats.strength.description" : "[key.flavour.important](Strength) is responsible for damage scaling with [key.item_tag.heavy](Heavier) [key.flag.melee] weapons, but nearly all [key.flag.melee] weapons are scaled by it to an extent.\nIt also affects [key.stat.stamina](Stamina Costs), [key.stat.attack.knockback] & [key.stat.resistance.knockback], [key.stat.movement.jump_height] and [key.stat.misc.carry_weight].",
 
     "stats.dexterity.name" : "Dexterity",
     "stats.dexterity.short" : "DEX",
