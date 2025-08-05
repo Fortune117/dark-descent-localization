@@ -45,11 +45,22 @@
     "key.stat.defense.parry_window" : "Parry Window",
 
     "key.mechanic.block_guard" : "Guard",
+    "key.mechanic.block_guard.description" : "Guard",
+
     "key.mechanic.execute" : "Execute",
+    "key.mechanic.execute.description" : "Execute",
+
     "key.mechanic.parry" : "Parry",
+    "key.mechanic.parry.description" : "Parry",
+
     "key.mechanic.block" : "Block",
+    "key.mechanic.block.description" : "Block",
+
     "key.mechanic.stun" : "Stun",
+    "key.mechanic.stun.description" : "Stun",
+
     "key.mechanic.kill" : "Kill",
+    "key.mechanic.kill.description" : "Kill",
 
     "key.mechanic.knockback" : "Knockback",
     "key.mechanic.critical_hit" : "Critical Hit",
@@ -58,36 +69,69 @@
 
     "key.mechanic.death" : "Death",
 
+    "key.mechanic.penetration" : "Penetration",
+    "key.mechanic.penetration.description" : "Penetration",
+
+    "key.mechanic.resistance" : "Resistance",
+    "key.mechanic.resistance.description" : "Resistance",
+
     "key.mechanic.damage" : "Damage",
+    "key.mechanic.damage.description" : "Damage",
+
     "key.mechanic.healing" : "Healing",
+    "key.mechanic.healing.description" : "Healing",
+
     "key.mechanic.posture_damage" : "Posture Damage",
+    "key.mechanic.posture_damage.description" : "Posture Damage",
 
     "key.mechanic.rest" : "Rest",
+    "key.mechanic.rest.description" : "Rest",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
+    "key.mechanic.dual_wielding.description" : "Dual-Wielding",
 
     "key.status.bleed" : "Bleed",
+    "key.status.bleed.description" : "Bleed",
     "key.status.slow" : "Slow",
+    "key.status.slow.description" : "Slow",
 
     "key.trigger.on_parry" : "On Parry",
     "key.trigger.on_block" : "On Block",
     "key.trigger.on_execute" : "On Execute",
+    "key.trigger.on_execute.description" : "On Execute",
     "key.trigger.on_stun" : "On Stun",
     "key.trigger.on_death" : "On Death",
     "key.trigger.on_activate" : "On Activation",
 
     "key.item_tag.shield" : "Shield",
+    "key.item_tag.shield.description" : "Shield",
+
     "key.item_tag.sword" : "Sword",
+    "key.item_tag.sword.description" : "Sword",
+
     "key.item_tag.dagger" : "Dagger",
+    "key.item_tag.dagger.description" : "Dagger",
 
     "key.item_tag.light" : "Light",
+    "key.item_tag.light.description" : "Light",
+
     "key.item_tag.heavy" : "Heavy",
+    "key.item_tag.heavy.description" : "Heavy",
+    
     "key.item_tag.armor" : "Armor",
+    "key.item_tag.armor.description" : "Armor",
 
     "key.flag.melee" : "Melee",
+    "key.flag.melee.description" : "Melee",
+
     "key.flag.ranged" : "Ranged",
+    "key.flag.ranged.description" : "Ranged",
+
     "key.flag.physical" : "Physical",
+    "key.flag.physical.description" : "Physical",
+
     "key.flag.magic" : "Magic",
+    "key.flag.magic.description" : "Magic",
 
     "key.flag.arcane" : "Arcane",
     "key.flag.divine" : "Divine",
@@ -114,6 +158,6 @@
     "key.flavour.positive" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.negative" : "You shouldn't see this! Yell at fortune :)",
 
-    "key.variable.positive" : "You shouldn't see me!! Yell at fortune :)",
+    "key.variable.positive" : "You shouldn't see me!! Yell at fortune :)", 
     "key.variable.negative" : "You shouldn't see me!! Yell at fortune :)"
 }
