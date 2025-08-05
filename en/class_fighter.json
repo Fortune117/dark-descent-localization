@@ -32,7 +32,7 @@
     "class.fighter.skill.weight_training.description" : "Your [key.stat.movement.speed] penalty during attacks with [key.hold_type.two_handed] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.stat.attack.speed] with them is increased by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.sword_retort.name" : "Duelist",
-    "class.fighter.skill.sword_retort.description" : "Your [key.stat.defense.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] is reduced by [key.variable.negative]({2:P0}).",
+    "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] is reduced by [key.variable.negative]({2:P0}).",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
     "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess [key.stat.posture](Posture Damage) dealt when [key.mechanic.stun](Stunning) a target is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",

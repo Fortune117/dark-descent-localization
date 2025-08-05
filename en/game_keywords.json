@@ -42,19 +42,37 @@
 
     "key.stat.misc.carry_weight" : "Carry Weight",
 
-    "key.stat.defense.parry_window" : "Parry Window",
+    "key.mechanic.parry_window" : "Parry Window",
+    "key.mechanic.parry_window.tooltip.name" : "Parry Window",
+    "key.mechanic.parry_window.tooltip.description" : "Your [key.mechanic.parry_window] is how long in seconds after you start [key.mechanic.block](Blocking) that any attack [key.mechanic.block](Blocked) will instead be [key.mechanic.parry](Parried).",
 
     "key.mechanic.block_guard" : "Guard",
-    "key.mechanic.block_guard.description" : "Guard",
+    "key.mechanic.block_guard.tooltip.name" : "Guard",
+    "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) is the property of [key.mechanic.block](Blocking) implements that determines how much of the blocked damage is converted into [key.mechanic.posture_damage].\nHigher guard values will result in less [key.stat.posture] being lost during your blocks, allowing you to block more damaging attacks safely.",
 
     "key.mechanic.execute" : "Execute",
-    "key.mechanic.execute.description" : "Execute",
+    "key.mechanic.execute.tooltip.name" : "Execute",
+    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stunned] enemy on its weak spot your strike will be a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.const.execution_mult] more damage by default, but many other effects will [key.mechanic.trigger] off them as well.",
+
+    "key.mechanic.trigger" : "Trigger",
+    "key.mechanic.trigger.tooltip.name" : "Triggers",
+    "key.mechanic.trigger.tooltip.description" : "Some effects will \"[key.mechanic.trigger]\" other effects.\nFor instance [key.trigger.on_parry] triggers are triggered when you successfully [key.mechanic.parry] an attack. When an effect is triggered it may produce new results or augment whatever action initiated the trigger in some way.",
 
     "key.mechanic.parry" : "Parry",
-    "key.mechanic.parry.description" : "Parry",
+    "key.mechanic.parry.tooltip.name" : "Parrying",
+    "key.mechanic.parry.tooltip.description" : "You can [key.mechanic.parry] most attacks by [key.mechanic.block](Blocking) just before the attack lands.\nYou must start the [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with (0.25 seconds by default).\nSome effects will be able to upgrade your [key.mechanic.block](Blocks) into [key.mechanic.parry](Parries) or otherwise manipulate your [key.mechanic.parry_window].\n[key.mechanic.parry](Parries) will completely negate the damage of an attack and also prevent any [key.mechanic.posture_damage] you may receive.",
 
     "key.mechanic.block" : "Block",
-    "key.mechanic.block.description" : "Block",
+    "key.mechanic.block.tooltip.name" : "Blocking",
+    "key.mechanic.block.tooltip.description" : "You can [key.mechanic.block] by holding an object capable of blocking (most weapons will work) in one of your hands and pressing your [key.input.block] key.\nWhen you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the damage dealt by the attack and the [key.mechanic.block_guard] values on your blocking implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above zero, you will take no damage from the blocked attack. You may still receive some other effects from the blocket attack however.\nIf your [key.stat.posture] reaches zero you will be [key.mechanic.posture_break](Posture Broken) and any excess damage will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).\nYou can [key.mechanic.parry] nearly every attack that you can [key.mechanic.block] by starting your block within the [key.mechanic.parry_window] of the implement you're using (0.25 seconds by default).",
+
+    "key.mechanic.posture_damage" : "Posture Damage",
+    "key.mechanic.posture_damage.tooltip.name" : "Posture Damage",
+    "key.mechanic.posture_damage.tooltip.description" : "[key.mechanic.posture_damage] is received (usually) when you [key.mechanic.block] an attack without [key.mechanic.parry](Parrying) it.\nSome effects will be able to damage your [key.stat.posture] without being able to [key.mechanic.posture_break](Break) it.\n Taking [key.mechanic.posture_damage] does not carry any immediate downsides, but can be dangerous if you run out of [key.stat.posture].\nIf you [key.mechanic.block] an attack that takes your [key.stat.posture] to zero you will become [key.mechanic.posture_break](Posture Broken), preventing you from [key.mechanic.block](Blocking) until your [key.stat.posture] regenerates completely.",
+
+    "key.mechanic.stability" : "Stability",
+    "key.mechanic.stability.tooltip.name" : "Stability",
+    "key.mechanic.stability.tooltip.description" :"Funny", 
 
     "key.mechanic.stun" : "Stun",
     "key.mechanic.stun.description" : "Stun",
@@ -80,9 +98,6 @@
 
     "key.mechanic.healing" : "Healing",
     "key.mechanic.healing.description" : "Healing",
-
-    "key.mechanic.posture_damage" : "Posture Damage",
-    "key.mechanic.posture_damage.description" : "Posture Damage",
 
     "key.mechanic.rest" : "Rest",
     "key.mechanic.rest.description" : "Rest",
