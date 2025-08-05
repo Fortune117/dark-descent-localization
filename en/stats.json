@@ -87,7 +87,7 @@
     "stats.concentration_cost_multiplier.name" : "Concentration Cost Multiplier",
     "stats.concentration_cost_multiplier.short" : "CONC. COST",
     "stats.concentration_cost_multiplier.categorized" : "COST",
-    "stats.concentration_cost_multiplier.description" : "Multiplies all [key.stat.concentration](Concentration Costs) you pay by this value.",
+    "stats.concentration_cost_multiplier.description" : "Multiplies all [key.stat.concentration.cost](Concentration Costs) you pay by this value.",
 
     "stats.posture_max.name" : "Maximum Posture",
     "stats.posture_max.short" : "POSTURE",
