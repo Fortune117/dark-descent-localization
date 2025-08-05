@@ -16,6 +16,7 @@
 
     "key.stat.grit" : "Grit",
     
+    "key.stat.attack.power" : "Attack Power",
     "key.stat.attack.speed" : "Attack Speed",
     "key.stat.attack.knockback" : "Knockback",
 
@@ -23,6 +24,15 @@
     "key.stat.magic.speed" : "Spellcasting Speed",
 
     "key.stat.defense.armor" : "Armor",
+    "key.stat.defense.ward" : "Ward",
+    "key.stat.defense.fire" : "Fire Resistance",
+    "key.stat.defense.frost" : "Frost Resistance",
+    "key.stat.defense.electric" : "Electric Resistance",
+    "key.stat.defense.poison" : "Poison Resistance",
+    "key.stat.defense.necrotic" : "Necrotic Resistance",
+    "key.stat.defense.arcane" : "Arcane Resistance",
+    "key.stat.defense.divine" : "Divine Resistance",
+    "key.stat.defense.occult" : "Occult Resistance",
 
     "key.stat.movement.speed" : "Move Speed",
     "key.stat.movement.jump_height" : "Jump Height",
@@ -41,6 +51,9 @@
     "key.mechanic.stun" : "Stun",
     "key.mechanic.kill" : "Kill",
 
+    "key.mechanic.knockback" : "Knockback",
+    "key.mechanic.critical_hit" : "Critical Hit",
+
     "key.mechanic.stacks" : "Stacks",
 
     "key.mechanic.death" : "Death",
@@ -55,7 +68,6 @@
 
     "key.status.bleed" : "Bleed",
     "key.status.slow" : "Slow",
-
 
     "key.trigger.on_parry" : "On Parry",
     "key.trigger.on_block" : "On Block",
@@ -74,7 +86,25 @@
 
     "key.flag.melee" : "Melee",
     "key.flag.ranged" : "Ranged",
+    "key.flag.physical" : "Physical",
     "key.flag.magic" : "Magic",
+
+    "key.flag.arcane" : "Arcane",
+    "key.flag.divine" : "Divine",
+    "key.flag.occult" : "Occult",
+
+    "key.flag.fire" : "Fire",
+    "key.flag.frost" : "Frost",
+    "key.flag.electric" : "Electric",
+    "key.flag.poison" : "Poison",
+    "key.flag.necrotic" : "Necrotic",
+
+    "key.flag.almighty" : "Almighty",
+    "key.flag.chaotic" : "Chaotic",
+
+    "key.flag.healing" : "Healing",
+    "key.flag.buff" : "Buff",
+    "key.flag.debuff" : "Debuff",
 
     "key.hold_type.two_handed" : "Two-Handed",
     "key.hold_type.one_handed" : "One-Handed",
