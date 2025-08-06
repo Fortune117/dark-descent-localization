@@ -33,11 +33,11 @@
 
     "key.stat.category.power" : "Power",
     "key.stat.category.power.tooltip.name" : "Power",
-    "key.stat.category.power.tooltip.description" : "Your [key.stat.category.power] stats represent how strong the effects you create will be.\nHow much [key.stat.category.power] effects the strength of the actions you take is determined by the action itself.\nFor instance, spells will have their own individual scalings, with more specialized spells having stronger scalings in specific types and less scalings in generic types (e.g. [key.flag.fire] spells may have a higher [key.stat.power.fire] scaling than it does [key.stat.magic.power] scaling).",
+    "key.stat.category.power.tooltip.description" : "Your [key.stat.category.power] stats represent how strong the effects you create will be.\nHow much [key.stat.category.power] influences the strength of these effects is determined by the effect itself.\nFor instance, spells that are more specialized will have stronger, more focused scalings in fewer categories.\nAs an example, [key.flag.fire] spells may have a higher [key.stat.power.fire] scaling than it does [key.stat.magic.power] - meaning that each point of [key.stat.power.fire] you have matters more than each point of [key.stat.magic.power].",
 
     "key.stat.category.penetration" : "Penetration",
     "key.stat.category.penetration.tooltip.name" : "Penetration",
-    "key.stat.category.penetration.tooltip.description" : "Penetration",
+    "key.stat.category.penetration.tooltip.description" : "Your [key.stat.category.penetration] stats are used to reduce your targets [key.stat.category.defense](Defensive) stats before your any [key.mechanic.damage] you deal is applied.\n[key.stat.category.penetration] is a dual stat, it has a flat value and a percentage value [key.flavour.reminder]((you can swap between them by hodling CTRL.))\n[key.stat.category.penetration] first reduces the targets [key.stat.category.defense] by the [key.stat.category.penetration] stats percentage value, and then reduce the targets [key.stat.category.defense] by the [key.stat.category.penetration](Penetrations) flat value.\nThis final [key.stat.category.defense] value is now used for the rest of the [key.mechanic.damage] calculation.\n[key.stat.category.penetration] can bring a targets [key.stat.category.defense] below zero.",
     
     "key.stat.category.resistance" : "Resistance",
     "key.stat.category.resistance.tooltip.name" : "Resistance",
@@ -200,10 +200,6 @@
     "key.mechanic.damage.tooltip.name" : "Damage",
     "key.mechanic.damage.tooltip.description" : "[key.mechanic.damage] is how you reduce an enemies [key.stat.health] to zero.\n[key.mechanic.damage] can have its own damage type (e.g. [key.flag.fire] or [key.flag.poison]) and can be flagged as [key.flag.magic](Magical) or [key.flag.physical](Physical).",
 
-    "key.mechanic.healing" : "Healing",
-    "key.mechanic.healing.tooltip.name" : "Healing",
-    "key.mechanic.healing.tooltip.description" : "[key.mechanic.healing] effcts include anything that restores your [key.stat.health].\n[key.mechanic.healing] effects can be flagged as both [key.flag.magic](Magical) and [key.flag.physical](Physical).",
-
     "key.mechanic.rest" : "Rest",
     "key.mechanic.rest.description" : "Rest",
 
@@ -253,7 +249,7 @@
 
     "key.item_tag.sword" : "Sword",
     "key.item_tag.sword.tooltip.name" : "Swords",
-    "key.item_tag.sword.tooltip.description" : "Swords is a broad category of weapons that can include [key.hold_type.one_handed] weapons or [key.hold_type.two_handed] weapons.",
+    "key.item_tag.sword.tooltip.description" : "Swords are a broad category of weapons that can include [key.hold_type.one_handed] weapons or [key.hold_type.two_handed] weapons.",
 
     "key.item_tag.dagger" : "Dagger",
     "key.item_tag.dagger.tooltip.name" : "Daggers",
@@ -277,7 +273,7 @@
 
     "key.item_tag.arrow" : "Arrow",
     "key.item_tag.arrow.tooltip.name" : "Arrow",
-    "key.item_tag.arrow.tooltip.description" : "Arrow",
+    "key.item_tag.arrow.tooltip.description" : "[key.flag.physical] projectile typically fired by a [key.item_tag.bow].\nArrows will inherit the flags of whatever weapon fires them.",
 
     "key.item_tag.flask" : "Flask",
     "key.item_tag.flask.tooltip.name" : "Flask",
@@ -293,7 +289,7 @@
 
     "key.flag.physical" : "Physical",
     "key.flag.physical.tooltip.name" : "Physical",
-    "key.flag.physical.tooltip.description" : "Attacks flagged as [key.flag.physical] usually means you're hitting them with a physical object, such as a sword or arrow.\nSome [key.flag.spell](Spells) may count as physical if, say, they throw a physics object or boulder made of earth.",
+    "key.flag.physical.tooltip.description" : "Attacks are usually flagged as [key.flag.physical] when you're hitting something with a physical object, such as a [key.item_tag.sword] or [key.item_tag.arrow].\nSome [key.flag.spell](Spells) may count as physical if, say, they throw a physics object or boulder made of earth.",
 
     "key.flag.magic" : "Magic",
     "key.flag.magic.tooltip.name" : "Magic (Flag)",
@@ -307,20 +303,45 @@
     "key.flag.spell.tooltip.name" : "Magic",
     "key.flag.spell.tooltip.description" : "Magic",
 
+    "key.flag.healing" : "Healing",
+    "key.flag.healing.tooltip.name" : "Healing (Flag)",
+    "key.flag.healing.tooltip.description" : "[key.flag.healing] effcts include anything that restores [key.stat.health].\n[key.flag.healing] effects can be flagged as both [key.flag.magic](Magical) and [key.flag.physical](Physical).",
+
     "key.flag.arcane" : "Arcane",
+    "key.flag.arcane.tooltip.name" : "Arcane",
+    "key.flag.arcane.tooltip.description" : "Arcane",
+
     "key.flag.divine" : "Divine",
+    "key.flag.divine.tooltip.name" : "Divine",
+    "key.flag.divine.tooltip.description" : "Divine",
+
     "key.flag.occult" : "Occult",
+    "key.flag.occult.tooltip.name" : "Occult",
+    "key.flag.occult.tooltip.description" : "Occult",
 
     "key.flag.fire" : "Fire",
+    "key.flag.fire.tooltip.name" : "Fire",
+    "key.flag.fire.tooltip.description" : "Fire",
+
     "key.flag.frost" : "Frost",
+    "key.flag.frost.tooltip.name" : "Frost",
+    "key.flag.frost.tooltip.description" : "Frost",
+
     "key.flag.electric" : "Electric",
+    "key.flag.electric.tooltip.name" : "Electric",
+    "key.flag.electric.tooltip.description" : "Electric",
+
     "key.flag.poison" : "Poison",
+    "key.flag.poison.tooltip.name" : "Poison",
+    "key.flag.poison.tooltip.description" : "Poison",
+
     "key.flag.necrotic" : "Necrotic",
+    "key.flag.necrotic.tooltip.name" : "Necrotic",
+    "key.flag.necrotic.tooltip.description" : "Necrotic",
 
     "key.flag.almighty" : "Almighty",
     "key.flag.chaotic" : "Chaotic",
 
-    "key.flag.healing" : "Healing",
     "key.flag.buff" : "Buff",
     "key.flag.debuff" : "Debuff",
 
@@ -331,6 +352,7 @@
 
     "key.flavour.positive" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.negative" : "You shouldn't see this! Yell at fortune :)",
+    "key.flavour.reminder" :"You shouldn't see this! Yell at fortune :)",
 
     "key.variable.positive" : "You shouldn't see me!! Yell at fortune :)", 
     "key.variable.negative" : "You shouldn't see me!! Yell at fortune :)"
