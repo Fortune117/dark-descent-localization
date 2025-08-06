@@ -32,7 +32,7 @@
     "stats.health_max.name" : "Maximum Health",
     "stats.health_max.short" : "HP",
     "stats.health_max.categorized" : "MAX",
-    "stats.health_max.description" : "When your [key.stat.health] reaches zero, you [key.mechanic.death](Die).\nTry to avoid that!",
+    "stats.health_max.description" : "The maximum value your [key.stat.health] can reach.",
     
     "stats.health_regen.name" : "Health Regeneration",
     "stats.health_regen.short" : "HP RGN",
@@ -52,7 +52,7 @@
     "stats.stamina_max.name" : "Maximum Stamina",
     "stats.stamina_max.short" : "STAMINA",
     "stats.stamina_max.categorized" : "MAX",
-    "stats.stamina_max.description" : "[key.stat.stamina] is required for attacking, blocking, kicking and jumping.",
+    "stats.stamina_max.description" : "The maximum value your [key.stat.stamina] can reach.",
     
     "stats.stamina_regen.name" : "Stamina Regeneration",
     "stats.stamina_regen.short" : "STAMINA RGN",
@@ -72,7 +72,7 @@
     "stats.concentration_max.name" : "Maximum Concentration",
     "stats.concentration_max.short" : "CONC",
     "stats.concentration_max.categorized" : "MAX",
-    "stats.concentration_max.description" : "[key.stat.concentration] is used to maintain spells that require a greater degree of mental focus.\nSome spells will consume it over time, others will lower your maximum while they are active.",
+    "stats.concentration_max.description" : "The maximum value your [key.stat.concentration] can reach.",
 
     "stats.concentration_regen.name" : "Concentration Regeneration",
     "stats.concentration_regen.short" : "CONC RGN",
@@ -92,7 +92,7 @@
     "stats.posture_max.name" : "Maximum Posture",
     "stats.posture_max.short" : "POSTURE",
     "stats.posture_max.categorized" : "MAX",
-    "stats.posture_max.description" : "Your [key.stat.posture] represents how stable you are while [key.mechanic.block](Blocking).\nAs long as your [key.stat.posture] doesn't break, you will take no damage while [key.mechanic.block](Blocking).\nWeapons all have their own [key.mechanic.block_guard] values, which determines how much of the damage blocked is converted into [key.mechanic.posture_damage].",
+    "stats.posture_max.description" : "The maximum value your [key.stat.posture] can reach.",
     
     "stats.posture_regen.name" : "Posture Regeneration",
     "stats.posture_regen.short" : "POSTURE RGN",
@@ -104,10 +104,10 @@
     "stats.posture_regen_delay.categorized" : "DLY",
     "stats.posture_regen_delay.description" : "The delay in seconds after taking [key.stat.posture](Posture Damage) (usually from blocking) before your [key.stat.posture.regen] kicks in.",
 
-    "stats.mana_max.name" : "Maximum Mana",
-    "stats.mana_max.short" : "MANA",
+    "stats.mana_max.name" : "Max Mana",
+    "stats.mana_max.short" : "MAX MANA",
     "stats.mana_max.categorized" : "MANA",
-    "stats.mana_max.description" : "Mana is used to cast spells, with higher level spells costing more mana.\nIt does not regenerate naturally.",
+    "stats.mana_max.description" : "The maximum amount of [key.stat.magic.mana] you can have.",
     
     "stats.attack_speed.name" : "Attack Speed",
     "stats.attack_speed.short" : "ATK SPD",
@@ -264,10 +264,10 @@
     "stats.warding.categorized" : "WARD",
     "stats.warding.description" : "All [key.flag.magic] damage you take is reduced by your [key.stat.ward].",
     
-    "stats.critical_negation.name" : "Critical Negation",
-    "stats.critical_negation.short" : "CRT NEG",
-    "stats.critical_negation.categorized" : "CRT",
-    "stats.critical_negation.description" : "[key.mechanic.critical_hit](Critical) damage you receive have their multiplier reduced by this value.\nThis cannot reduce damage from a [key.mechanic.critical](Critical) below its baseline.",
+    "stats.critical_negation.name" : "Critical Resistance",
+    "stats.critical_negation.short" : "CRT RES",
+    "stats.critical_negation.categorized" : "CRES",
+    "stats.critical_negation.description" : "[key.mechanic.critical_hit](Critical Hits) you receive have their [key.stat.attack.critical_multiplier] reduced by this value.\nThis cannot reduce damage from a [key.mechanic.critical](Critical) below its regular damage.",
     
     "stats.knockback_resistance.name" : "Knockback Resistance",
     "stats.knockback_resistance.short" : "KBCK RES",

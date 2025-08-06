@@ -17,10 +17,10 @@
     "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] penalty while not moving forwards by [key.variable.positive]({0:P0}) and increase your item swap speed by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]Your next [key.variable.positive]({0}) melee attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry]Your next [key.variable.positive]({0}) [key.flag.melee] attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
 
     "class.fighter.skill.opportunist.name" : "Opportunist",
-    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun]You gain {0:P0} [key.stat.attack.speed] on your next melee attack for [key.variable.positive]({1}) second(s).",
+    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun]You gain {0:P0} [key.stat.attack.speed] on your next [key.flag.melee] attack for [key.variable.positive]({1}) second(s).",
 
     "class.fighter.skill.cleave.name" : "Cleave",
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] weapon, deal an extra [key.variable.positive]({0:P0}) damage for each enemy hit beyond the first during a swing.\n[key.mechanic.stacks] up to [key.variable.positive]({1}) times.",
@@ -35,7 +35,7 @@
     "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] is reduced by [key.variable.negative]({2:P0}).",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
-    "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess [key.stat.posture](Posture Damage) dealt when [key.mechanic.stun](Stunning) a target is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.stat.posture] damage with [key.hold_type.two_handed] weapons.",
+    "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess [key.mechanic.posture_damage_enemy] dealt when [key.mechanic.posture_break_enemy](Posture Breaking) a target is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.mechanic.posture_damage_enemy] with [key.hold_type.two_handed] weapons.",
 
     "class.fighter.skill.push_forwards.name" : "Push Forwards",
     "class.fighter.skill.push_forwards.description" : "After taking damage, you can restore up to [key.variable.positive]({0:P0}) of the health lost as [key.stat.grit] by dealing [key.mechanic.damage] for up to [key.variable.positive]({1}) seconds.",
@@ -50,7 +50,7 @@
     "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a non-magical projectile it will be reflected in the direction you're looking",
 
     "class.fighter.skill.sundering_strikes.name" : "Shred",
-    "class.fighter.skill.sundering_strikes.description" : "Your melee attacks apply a [key.variable.positive]({0}) [key.stat.defense.armor] penalty to the target for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
+    "class.fighter.skill.sundering_strikes.description" : "Your [key.flag.melee] attacks apply a [key.variable.positive]({0}) [key.stat.defense.armor] penalty to the target for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
 
     "class.fighter.skill.twin_strike.name" : "Twin Strike",
     "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within [key.variable.positive]({0}) second(s) of each other, apply [key.variable.positive]({1}) [key.status.bleed] and restore [key.variable.positive]({2}) [key.stat.stamina].",
@@ -74,10 +74,10 @@
     "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below [key.variable.positive]({0}), take no damage instead.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.steel_soul.name" : "Steel of Soul",
-    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death]Instead of dying, enter a beserked state for [key.variable.positive]({0}) seconds. If you [key.mechanic.kill] an enemy within that time you will prevent the death and be returned to [key.variable.positive]({1:P0}) [key.stat.health].\nThis effect does not prevent further damage while active.\nThis effect takes a lot out of you and requires a [key.mechanic.rest] to recover.",
+    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death]Instead of [key.mechanic.death](Dying), enter a beserked state for [key.variable.positive]({0}) seconds. If you [key.mechanic.kill] an enemy within that time you will prevent the death and be returned to [key.variable.positive]({1:P0}) [key.stat.health].\nThis effect does not prevent further damage while active.\nThis effect takes a lot out of you and requires a [key.mechanic.rest] to recover.",
    
     "class.fighter.skill.shield_counter.name" : "Counter Bash",
-    "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry]Your [key.mechanic.block] will become active during your next melee attack with a [key.item_tag.shield] within [key.variable.positive]({0}) seconds",
+    "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry]Your [key.mechanic.block] will become active during your next [key.flag.melee] attack with a [key.item_tag.shield] within [key.variable.positive]({0}) seconds",
 
     "class.fighter.skill.shield_confidence.name" : "Shield Drum",
     "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_block]Your next [key.mechanic.block] will automatically be upgraded to a [key.mechanic.parry] for the next [key.variable.positive]({0}) seconds.",

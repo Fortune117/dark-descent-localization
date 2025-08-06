@@ -1,4 +1,65 @@
 {
+    "key.stat.category.core" : "Core",
+    "key.stat.category.core.tooltip.name" : "Core Stats",
+    "key.stat.category.core.tooltip.description" : "Core Stats",
+
+    "key.stat.category.health" : "Health",
+    "key.stat.category.health.tooltip.name" : "Health",
+    "key.stat.category.health.tooltip.description" : "When your [key.stat.health] reaches zero, you [key.mechanic.death](Die).\nTry to avoid that!",
+
+    "key.stat.category.stamina" : "Stamina",
+    "key.stat.category.stamina.tooltip.name" : "Stamina",
+    "key.stat.category.stamina.tooltip.description" : "[key.stat.stamina] is required for attacking, [key.mechanic.block](Blocking), [key.mechanic.kick](Kicking) and [key.mechanic.jump](Jumping).",
+
+    "key.stat.category.concentration" : "Concentration",
+    "key.stat.category.concentration.tooltip.name" : "Concentration",
+    "key.stat.category.concentration.tooltip.description" : "[key.stat.concentration] is used to maintain spells that require a greater degree of mental focus.\nSome spells will lower your [key.stat.concentration.max] while they are active and others will actively drain your [key.stat.concentration] while you maintain them.",
+
+    "key.stat.category.posture" : "Posture",
+    "key.stat.category.posture.tooltip.name" : "Posture",
+    "key.stat.category.posture.tooltip.description" : "Your [key.stat.posture] represents how stable you are while [key.mechanic.block](Blocking).\nAs long as your [key.stat.posture] doesn't [key.mechanic.posture_break](Break), you will take no damage while [key.mechanic.block](Blocking).\nWeapons all have their own [key.mechanic.block_guard] values, which determines how much of the damage blocked is converted into [key.mechanic.posture_damage].",
+
+    "key.stat.category.magic" : "Magic",
+    "key.stat.category.magic.tooltip.name" : "Magic",
+    "key.stat.category.magic.tooltip.description" : "Magic represents your apptitude at casting spells.\nSpells are cast using [key.stat.magic.mana].\n[key.flavour.negative](Spellcasting is not yet implemented. Sorry!)",
+
+    "key.stat.category.physical" : "Physical",
+    "key.stat.category.physical.tooltip.name" : "Physical",
+    "key.stat.category.physical.tooltip.description" : "Physical",
+
+    "key.stat.category.movement" : "Movement",
+    "key.stat.category.movement.tooltip.name" : "Movement",
+    "key.stat.category.movement.tooltip.description" : "Movement",
+
+    "key.stat.category.power" : "Power",
+    "key.stat.category.power.tooltip.name" : "Power",
+    "key.stat.category.power.tooltip.description" : "Power",
+
+    "key.stat.category.penetration" : "Penetration",
+    "key.stat.category.penetration.tooltip.name" : "Penetration",
+    "key.stat.category.penetration.tooltip.description" : "Penetration",
+    
+    "key.stat.category.resistance" : "Resistance",
+    "key.stat.category.resistance.tooltip.name" : "Resistance",
+    "key.stat.category.resistance.tooltip.description" : "Resistance",
+
+    "key.stat.category.defense" : "Defense",
+    "key.stat.category.defense.tooltip.name" : "Defense",
+    "key.stat.category.defense.tooltip.description" : "Defense",
+
+    "key.stat.category.misc" : "Misc",
+    "key.stat.category.misc.tooltip.name" : "Misc",
+    "key.stat.category.misc.tooltip.description" : "Misc",
+
+    "key.stat.strength" : "Strength",
+    "key.stat.dexterity" : "Dexterity",
+    "key.stat.mind" : "Mind",
+    "key.stat.willpower" : "Willpower",
+    "key.stat.luck" : "Luck",
+
+    "key.stat.flask_charges" : "Flask Charges",
+    "key.stat.flask_charges.max" : "Max Flask Charges",
+
     "key.stat.health" : "Health",
     "key.stat.health.max" : "Maximum Health",
     "key.stat.health.heal_mult" : "Heal Multiplier",
@@ -15,13 +76,20 @@
     "key.stat.concentration.cost" : "Concentration Cost",
 
     "key.stat.grit" : "Grit",
+    "key.stat.grit.tooltip.name" : "Grit",
+    "key.stat.grit.tooltip.description" : "Grit",
     
     "key.stat.attack.power" : "Attack Power",
     "key.stat.attack.speed" : "Attack Speed",
     "key.stat.attack.knockback" : "Knockback",
+    "key.stat.attack.critical_multiplier" : "Critical Multiplier",
 
     "key.stat.magic.power" : "Spell Power",
     "key.stat.magic.speed" : "Spellcasting Speed",
+
+    "key.stat.magic.mana" : "Mana",
+    "key.stat.magic.mana.tooltip.name" : "Mana",
+    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast spells, with higher level spells costing more mana.\nIt does not regenerate naturally.\nMost spellcasting classes will start each run with a [key.item_tag.flask] that will restore [key.stat.mana].",
 
     "key.stat.defense.armor" : "Armor",
     "key.stat.defense.ward" : "Ward",
@@ -48,11 +116,11 @@
 
     "key.mechanic.block_guard" : "Guard",
     "key.mechanic.block_guard.tooltip.name" : "Guard",
-    "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) is the property of [key.mechanic.block](Blocking) implements that determines how much of the blocked damage is converted into [key.mechanic.posture_damage].\nHigher guard values will result in less [key.stat.posture] being lost during your blocks, allowing you to block more damaging attacks safely.",
+    "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) is the property of [key.mechanic.block](Blocking) implements that determines how much of the blocked damage is converted into [key.mechanic.posture_damage].\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] being lost during your blocks, allowing you to block more damaging attacks safely.",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
-    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stunned] enemy on its weak spot your strike will be a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.const.execution_mult] more damage by default, but many other effects will [key.mechanic.trigger] off them as well.",
+    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.const.execution_mult] more damage by default, but many other effects will [key.mechanic.trigger] off them as well.",
 
     "key.mechanic.trigger" : "Trigger",
     "key.mechanic.trigger.tooltip.name" : "Triggers",
@@ -60,32 +128,52 @@
 
     "key.mechanic.parry" : "Parry",
     "key.mechanic.parry.tooltip.name" : "Parrying",
-    "key.mechanic.parry.tooltip.description" : "You can [key.mechanic.parry] most attacks by [key.mechanic.block](Blocking) just before the attack lands.\nYou must start the [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with (0.25 seconds by default).\nSome effects will be able to upgrade your [key.mechanic.block](Blocks) into [key.mechanic.parry](Parries) or otherwise manipulate your [key.mechanic.parry_window].\n[key.mechanic.parry](Parries) will completely negate the damage of an attack and also prevent any [key.mechanic.posture_damage] you may receive.",
+    "key.mechanic.parry.tooltip.description" : "[key.mechanic.parry](Parries) will completely negate the damage of an attack and also prevent any [key.mechanic.posture_damage] you would've received.\nYou can [key.mechanic.parry] most attacks by [key.mechanic.block](Blocking) just before the attack lands.\nYou must start the [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with (0.25 seconds by default).\nSome effects will be able to upgrade your [key.mechanic.block](Blocks) into [key.mechanic.parry](Parries) or otherwise manipulate your [key.mechanic.parry_window].",
 
     "key.mechanic.block" : "Block",
     "key.mechanic.block.tooltip.name" : "Blocking",
-    "key.mechanic.block.tooltip.description" : "You can [key.mechanic.block] by holding an object capable of blocking (most weapons will work) in one of your hands and pressing your [key.input.block] key.\nWhen you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the damage dealt by the attack and the [key.mechanic.block_guard] values on your blocking implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above zero, you will take no damage from the blocked attack. You may still receive some other effects from the blocket attack however.\nIf your [key.stat.posture] reaches zero you will be [key.mechanic.posture_break](Posture Broken) and any excess damage will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).\nYou can [key.mechanic.parry] nearly every attack that you can [key.mechanic.block] by starting your block within the [key.mechanic.parry_window] of the implement you're using (0.25 seconds by default).",
+    "key.mechanic.block.tooltip.description" : "You can [key.mechanic.block] by holding an object capable of blocking (most weapons will work) in one of your hands and pressing your [key.input.block] key.\nIf you raise your [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with (0.25 seconds by default), you will instead [key.mechanic.parry] the attack.\nWhen you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the damage dealt by the attack and the [key.mechanic.block_guard] values on your blocking implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above zero, you will take no damage from the blocked attack. You may still receive some other effects from the blocket attack however.\nIf your [key.stat.posture] reaches zero you will be [key.mechanic.posture_break](Posture Broken) and any excess damage will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).",
 
     "key.mechanic.posture_damage" : "Posture Damage",
-    "key.mechanic.posture_damage.tooltip.name" : "Posture Damage",
-    "key.mechanic.posture_damage.tooltip.description" : "[key.mechanic.posture_damage] is received (usually) when you [key.mechanic.block] an attack without [key.mechanic.parry](Parrying) it.\nSome effects will be able to damage your [key.stat.posture] without being able to [key.mechanic.posture_break](Break) it.\n Taking [key.mechanic.posture_damage] does not carry any immediate downsides, but can be dangerous if you run out of [key.stat.posture].\nIf you [key.mechanic.block] an attack that takes your [key.stat.posture] to zero you will become [key.mechanic.posture_break](Posture Broken), preventing you from [key.mechanic.block](Blocking) until your [key.stat.posture] regenerates completely.",
+    "key.mechanic.posture_damage.tooltip.name" : "Posture Damage (Player)",
+    "key.mechanic.posture_damage.tooltip.description" : "[key.mechanic.posture_damage] is received (usually) when you [key.mechanic.block] an attack without [key.mechanic.parry](Parrying) it.\nSome effects will be able to damage your [key.stat.posture] without being able to [key.mechanic.posture_break](Break) it.\n Taking [key.mechanic.posture_damage] does not carry any immediate downsides, but can be dangerous if you run out of [key.stat.posture].\nIf you [key.mechanic.block] an attack that takes your [key.stat.posture] to zero you will become [key.mechanic.posture_break](Posture Broken), preventing you from [key.mechanic.block](Blocking) until your [key.stat.posture] regenerates completely.\nTo read about how enemies are affected by this [key.mechanic.posture_damage_enemy](click here).",
 
     "key.mechanic.posture_break" : "Posture Break",
-    "key.mechanic.posture_break.tooltip.name" : "Posture Break",
-    "key.mechanic.posture_break.tooltip.description" : "When an effect capable of breaking your [key.stat.posture] reduces it to zero you will become [key.mechanic.posture_break](Posture Broken). The most common cause of this is [key.mechanic.block](Blocking) an attack without enough [key.stat.posture] to prevent all the damage.\nWhen [key.mechanic.posture_break](Posture Broken) your [key.mechanic.block](Blocks) will not prevent any damage and you must wait until your [key.stat.posture] completely recharges before you will be able to [key.mechanic.block] again.\nYou are still able to [key.mechanic.parry] attacks even while [key.mechanic.posture_break](Posture Broken).",
+    "key.mechanic.posture_break.tooltip.name" : "Posture Break (Player)",
+    "key.mechanic.posture_break.tooltip.description" : "When an effect capable of breaking your [key.stat.posture] reduces it to zero you will become [key.mechanic.posture_break](Posture Broken).\nThe most common cause of this is [key.mechanic.block](Blocking) an attack without enough [key.stat.posture] to prevent all the damage.\nSome effects can damage your [key.stat.posture] without [key.mechanic.posture_break](Breaking) it.\nWhen [key.mechanic.posture_break](Posture Broken) your [key.mechanic.block](Blocks) [key.flavour.negative](will not prevent any damage) and you must wait until your [key.stat.posture] completely recharges before you will be able to [key.mechanic.block] again.\nYou are still able to [key.mechanic.parry] attacks even while [key.mechanic.posture_break](Posture Broken).\nTo read about what happens to enemies when they are [key.mechanic.posture_break_enemy](Posture Broken, click here).",
+
+    "key.mechanic.posture_damage_enemy" : "Posture Damage",
+    "key.mechanic.posture_damage_enemy.tooltip.name" : "Posture Damage (Enemy)",
+    "key.mechanic.posture_damage_enemy.tooltip.description" : "When you deal [key.mechanic.posture_damage_enemy] to an enemy (usually by hitting them with a weapon) you will reduce their [key.mechanic.stability].\nWhen an enemy hits zero [key.mechanic.stability] they become [key.mechanic.staggered].\nIf an enemy hits zero [key.stat.posture] they will instead be [key.mechanic.posture_break_enemy](Posture Broken) and become [key.mechanic.stun](Stunned).\nTo read about how you are affected by [key.mechanic.posture_damage](Posture Damage, click here).",
+
+    "key.mechanic.posture_break_enemy" : "Posture Break",
+    "key.mechanic.posture_break_enemy.tooltip.name" : "Posture Break (Enemy)",
+    "key.mechanic.posture_break_enemy.tooltip.description" : "When you [key.mechanic.posture_break_enemy] most enemies they will become [key.mechanic.stun](Stunned).\nWhile an enemy is [key.mechanic.stun](Stunned) you can strike their [key.mechanic.weak_point] in order to perform an [key.mechanic.execute](Execution).\nTo read about how you are affected by [key.mechanic.posture_break](Posture Breaks, click here).",
+
+    "key.mechanic.staggered" : "Staggered",
+    "key.mechanic.staggered.tooltip.name" : "Staggered",
+    "key.mechanic.staggered.tooltip.description" : "Staggered",
 
     "key.mechanic.stability" : "Stability",
     "key.mechanic.stability.tooltip.name" : "Stability",
     "key.mechanic.stability.tooltip.description" :"Funny", 
 
     "key.mechanic.stun" : "Stun",
-    "key.mechanic.stun.description" : "Stun",
+    "key.mechanic.stun.tooltip.name" : "Stuns",
+    "key.mechanic.stun.tooltip.description" : "When you [key.mechanic.posture_break_enemy] an enemy they will usually becomed [key.mechanic.stun](Stunned).\nWhile [key.mechanic.stun](Stunned) you may attack an enemies [key.mechanic.weak_point] in order to perform an [key.mechanic.execute](Execution).\nAn enemy being [key.mechanic.stun](Stunned) is a good opportunity to use your [key.item_tag.flask] or let your [key.stat.stamina] regenerate.",
 
     "key.mechanic.kill" : "Kill",
     "key.mechanic.kill.description" : "Kill",
 
     "key.mechanic.knockback" : "Knockback",
+
     "key.mechanic.critical_hit" : "Critical Hit",
+    "key.mechanic.critical_hit.tooltip.name" : "Critical Hits",
+    "key.mechanic.critical_hit.tooltip.description" : "When you score a [key.mechanic.critical_hit] (usually by hitting an enemies [key.mechanic.weak_point]) you will increase the damage of your attack using your [key.stat.physical.critical_multiplier].\n[key.mechanic.critical_hit](Critical Hits) are an effective way to greatly amplify your damage.",
+
+    "key.mechanic.weak_point" : "Weak Point",
+    "key.mechanic.weak_point.tooltip.name" : "Weak Points",
+    "key.mechanic.weak_point.tooltip.description" : "Most enemies will have a [key.mechanic.weak_point] somewhere on their body.\nIt wont always be obvious!\nBut for the most part you can ituit where its (e.g. the head).\nAttacking an enemies [key.mechanic.weak_point] with most weapons (and some spells) will score a [key.mechanic.critical_hit].",
 
     "key.mechanic.stacks" : "Stacks",
 
@@ -110,17 +198,40 @@
     "key.mechanic.dual_wielding.description" : "Dual-Wielding",
 
     "key.status.bleed" : "Bleed",
-    "key.status.bleed.description" : "Bleed",
+    "key.status.bleed.tooltip.name" : "Bleed",
+    "key.status.bleed.tooltip.description" : "i dunno i haven't really thought about it",
+
     "key.status.slow" : "Slow",
-    "key.status.slow.description" : "Slow",
+    "key.status.slow.tooltip.name" : "Slow",
+    "key.status.slow.tooltip.description" : "Reduces the targets [key.stat.attack.speed] and [key.stat.movement.speed] for the duration.",
 
     "key.trigger.on_parry" : "On Parry",
+    "key.trigger.on_parry.tooltip.name" : "On Parry (Trigger)",
+    "key.trigger.on_parry.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully [key.mechanic.parry] an attack.",
+
     "key.trigger.on_block" : "On Block",
+    "key.trigger.on_block.tooltip.name" : "On Block (Trigger)",
+    "key.trigger.on_block.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully [key.mechanic.block] an attack.",
+
     "key.trigger.on_execute" : "On Execute",
-    "key.trigger.on_execute.description" : "On Execute",
+    "key.trigger.on_execute.tooltip.name" : "On Execute (Trigger)",
+    "key.trigger.on_execute.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully perform an [key.mechanic.execute](Execution).",
+
     "key.trigger.on_stun" : "On Stun",
+    "key.trigger.on_stun.tooltip.name" : "On Stun (Trigger)",
+    "key.trigger.on_stun.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.stun] an enemy, typically by [key.mechanic.posture_break_enemy](Posture Breaking) them.",
+
     "key.trigger.on_death" : "On Death",
+    "key.trigger.on_death.tooltip.name" : "On Death (Trigger)",
+    "key.trigger.on_death.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you would [key.mechanic.death](Die).\nSome effects may prevent your [key.mechanic.death] or otherwise change how it plays out.",
+
+    "key.trigger.on_kill" : "On Kill",
+    "key.trigger.on_kill.tooltip.name" : "On Kill (Trigger)",
+    "key.trigger.on_kill.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.kill] an enemy.\nSome effects will also require you to [key.mechanic.kill] the enemy in specific ways.",
+    
     "key.trigger.on_activate" : "On Activation",
+    "key.trigger.on_activate.tooltip.name" : "On Activation",
+    "key.trigger.on_activate.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you activate this ability.",
 
     "key.item_tag.shield" : "Shield",
     "key.item_tag.shield.description" : "Shield",
@@ -140,17 +251,37 @@
     "key.item_tag.armor" : "Armor",
     "key.item_tag.armor.description" : "Armor",
 
+    "key.item_tag.arrow" : "Arrow",
+    "key.item_tag.arrow.tooltip.name" : "Arrow",
+    "key.item_tag.arrow.tooltip.description" : "Arrow",
+
+    "key.item_tag.flask" : "Flask",
+    "key.item_tag.flask.tooltip.name" : "Flask",
+    "key.item_tag.flask.tooltip.description" : "You start each run with a [key.item_tag.flask] and a number of [key.stat.flask_charges] (usually 2).\nYou can drink from your [key.item_tag.flask] by pressing your [key.input.flask] key.\nEach classes starting [key.item_tag.flask] is unique though they will almost always restore some [key.stat.health] or [key.stat.mana] (or sometimes both).\nYou can find more unique [key.item_tag.flask](Flasks) in the dungeon.",
+
     "key.flag.melee" : "Melee",
-    "key.flag.melee.description" : "Melee",
+    "key.flag.melee.tooltip.name" : "Melee",
+    "key.flag.melee.tooltip.description" : "Smacking an enemy with a stick is a [key.flag.melee] attack. So is punching them in the face.\nVery occasionally, some [key.flag.ranged] or [key.flag.spell] options may count as a [key.flag.melee] attack for the purpose of [key.mechanic.trigger](Triggering) extra effects.",
 
     "key.flag.ranged" : "Ranged",
-    "key.flag.ranged.description" : "Ranged",
+    "key.flag.ranged.tooltip.name" : "Ranged",
+    "key.flag.ranged.tooltip.description" : "Shooting an enemy with an arrow is an example of a [key.flag.ranged] attack.\nSome [key.flag.spell](Spell) attacks may also be flagged as [key.flag.ranged]. [key.flag.spell](Spells) will have tags to show what flags they have.",
 
     "key.flag.physical" : "Physical",
-    "key.flag.physical.description" : "Physical",
+    "key.flag.physical.tooltip.name" : "Physical",
+    "key.flag.physical.tooltip.description" : "Attacks flagged as [key.flag.physical] usually means you're hitting them with a physical object, such as a sword or arrow.\nSome [key.flag.spell](Spells) may count as physical if, say, they throw a physics object or boulder made of earth.",
 
     "key.flag.magic" : "Magic",
-    "key.flag.magic.description" : "Magic",
+    "key.flag.magic.tooltip.name" : "Magic (Flag)",
+    "key.flag.magic.tooltip.description" : "Attacks flagged as [key.flag.magic](Magical) usually come from [key.flag.spell](Spells) or sometimes [key.flag.enchanted] weapons.\nHowever it got the flag, [key.flag.magic] attacks are usually harder to defend against.",
+
+    "key.flag.enchanted" : "Enchanted",
+    "key.flag.enchanted.tooltip.name" : "Enchanted",
+    "key.flag.enchanted.tooltip.description" : "Some items in the dungeon are [key.flag.enchanted].\nThese items can have any number of special properties.\nThese effects are so broad trying to describe them here is silly - go find them!",
+
+    "key.flag.spell" : "Spell",
+    "key.flag.spell.tooltip.name" : "Magic",
+    "key.flag.spell.tooltip.description" : "Magic",
 
     "key.flag.arcane" : "Arcane",
     "key.flag.divine" : "Divine",
