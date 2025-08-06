@@ -47,7 +47,7 @@
     "stats.heal_multiplier.name" : "Healing Multiplier",
     "stats.heal_multiplier.short" : "HEAL MOD",
     "stats.heal_multiplier.categorized" : "HEAL",
-    "stats.heal_multiplier.description" : "The percentage multiplier for all [key.mechanic.healing] you receive.",
+    "stats.heal_multiplier.description" : "The percentage multiplier for all [key.flag.healing] you receive.",
 
     "stats.stamina_max.name" : "Maximum Stamina",
     "stats.stamina_max.short" : "STAMINA",
