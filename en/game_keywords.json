@@ -40,16 +40,16 @@
     "key.stat.category.penetration.tooltip.description" : "Your [key.stat.category.penetration] stats are used to reduce your targets [key.stat.category.defense](Defensive) stats before your any [key.mechanic.damage] you deal is applied.\n[key.stat.category.penetration] is a dual stat, it has a flat value and a percentage value [key.flavour.reminder]((you can swap between them by hodling CTRL.))\n[key.stat.category.penetration] first reduces the targets [key.stat.category.defense] by the [key.stat.category.penetration] stats percentage value, and then reduce the targets [key.stat.category.defense] by the [key.stat.category.penetration](Penetrations) flat value.\nThis final [key.stat.category.defense] value is now used for the rest of the [key.mechanic.damage] calculation.\n[key.stat.category.penetration] can bring a targets [key.stat.category.defense] below zero.",
     
     "key.stat.category.resistance" : "Resistance",
-    "key.stat.category.resistance.tooltip.name" : "Resistance",
-    "key.stat.category.resistance.tooltip.description" : "Resistance",
+    "key.stat.category.resistance.tooltip.name" : "Resistances",
+    "key.stat.category.resistance.tooltip.description" : "Your [key.stat.category.resistance](Resistances) are your ability to resist effects that are not otherwise affected by your [key.stat.category.defense] stats.",
 
     "key.stat.category.defense" : "Defense",
     "key.stat.category.defense.tooltip.name" : "Defense",
-    "key.stat.category.defense.tooltip.description" : "Defense",
+    "key.stat.category.defense.tooltip.description" : "Your [key.stat.category.defense] stats are used to reduce incoming [key.mechanic.damage].\n[key.stat.category.defense] ranges from [key.constant.defense_range_min] to [key.constant.defense_range_max], with higher values being stronger.\nAt [key.constant.defense_100] [key.stat.category.defense] [key.mechanic.damage] you receive will be [key.flavour.positive](reduced) by [key.constant.defense_damage_mult_100].\nAt [key.constant.defense_range_max] [key.stat.category.defense] [key.mechanic.damage] you receive will be [key.flavour.positive](reduced) by [key.constant.defense_damage_mult_max].\nAt [key.constant.defense_negative_100] [key.stat.category.defense] [key.mechanic.damage] you receive will be [key.flavour.negative](increased) by [key.constant.defense_damage_mult_negative_100].\nAt [key.constant.defense_range_min] [key.stat.category.defense] [key.mechanic.damage] you receive will be [key.flavour.negative](increased) by [key.constant.defense_damage_mult_min].\n[key.mechanic.damage] is typed and will be reduced by your corresponding [key.stat.category.defense] stat (e.g. [key.flag.fire](Fire Damage) is reduced by your [key.stat.defense.fire]).\nThere are two exceptions to this, [key.stat.defense.armor] and [key.stat.defense.ward].\nThese will reduce all sources that are tagged as [key.flag.physical] and [key.flag.magic] respectively.",
 
     "key.stat.category.misc" : "Misc",
     "key.stat.category.misc.tooltip.name" : "Misc",
-    "key.stat.category.misc.tooltip.description" : "Misc",
+    "key.stat.category.misc.tooltip.description" : "[key.stat.category.misc](Miscellanious) stats that don't really belong in any other category.\nFuckin' I dunno where would you put [key.stat.misc.carry_weight], huh? Punk?",
 
     "key.stat.strength" : "Strength",
     "key.stat.dexterity" : "Dexterity",

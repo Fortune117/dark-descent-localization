@@ -262,7 +262,7 @@
     "stats.warding.name" : "Ward",
     "stats.warding.short" : "WARD",
     "stats.warding.categorized" : "WARD",
-    "stats.warding.description" : "All [key.flag.magic] damage you take is reduced by your [key.stat.ward].",
+    "stats.warding.description" : "All [key.flag.magic] damage you take is reduced by your [key.stat.defense.ward].",
     
     "stats.critical_negation.name" : "Critical Resistance",
     "stats.critical_negation.short" : "CRT RES",
