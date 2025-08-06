@@ -131,7 +131,7 @@
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
-    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.const.execution_mult] more damage by default, but many other effects will [key.mechanic.trigger] off them as well.",
+    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.constant.execution_mult] more damage by default, but many other effects will [key.mechanic.trigger] off them as well.",
 
     "key.mechanic.trigger" : "Trigger",
     "key.mechanic.trigger.tooltip.name" : "Triggers",
