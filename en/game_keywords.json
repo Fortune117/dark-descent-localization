@@ -1,11 +1,11 @@
 {
     "key.stat.category.core" : "Core",
     "key.stat.category.core.tooltip.name" : "Core Stats",
-    "key.stat.category.core.tooltip.description" : "Core Stats",
+    "key.stat.category.core.tooltip.description" : "Your [key.stat.category.core](Core) stats are sort of like the 'building blocks' of your character.\nThey represent your fundamental strength, with many weapons, skills and spells scaling off of these stats.\nYour [key.stat.category.core](Core) stats are responsible for many of your other sub-stats as well.\nFor instance, [key.stat.constitution] is what determines your [key.stat.health.max] and your [key.stat.stamina.max].",
 
     "key.stat.category.health" : "Health",
     "key.stat.category.health.tooltip.name" : "Health",
-    "key.stat.category.health.tooltip.description" : "When your [key.stat.health] reaches zero, you [key.mechanic.death](Die).\nTry to avoid that!",
+    "key.stat.category.health.tooltip.description" : "Your [key.stat.health] is reduced by any [key.mechanic.damage] you take.\nWhen your [key.stat.health] reaches zero, you [key.mechanic.death](Die).\nTry to avoid that!",
 
     "key.stat.category.stamina" : "Stamina",
     "key.stat.category.stamina.tooltip.name" : "Stamina",
@@ -23,9 +23,9 @@
     "key.stat.category.magic.tooltip.name" : "Magic",
     "key.stat.category.magic.tooltip.description" : "Magic represents your apptitude at casting spells.\nSpells are cast using [key.stat.magic.mana].\n[key.flavour.negative](Spellcasting is not yet implemented. Sorry!)",
 
-    "key.stat.category.physical" : "Physical",
-    "key.stat.category.physical.tooltip.name" : "Physical",
-    "key.stat.category.physical.tooltip.description" : "Physical",
+    "key.stat.category.attack" : "Attack",
+    "key.stat.category.attack.tooltip.name" : "Attack",
+    "key.stat.category.attack.tooltip.description" : "Represents your apptitude at attacking with [key.flag.physical] attacks.\n[key.flag.physical] attacks are typically made with [key.flag.melee] weapons and [key.flag.magic](non-Magical) [key.flag.ranged] weapons such as [key.item_tag.bow](Bows).",
 
     "key.stat.category.movement" : "Movement",
     "key.stat.category.movement.tooltip.name" : "Movement",
@@ -33,7 +33,7 @@
 
     "key.stat.category.power" : "Power",
     "key.stat.category.power.tooltip.name" : "Power",
-    "key.stat.category.power.tooltip.description" : "Power",
+    "key.stat.category.power.tooltip.description" : "Your [key.stat.category.power] stats represent how strong the effects you create will be.\nHow much [key.stat.category.power] effects the strength of the actions you take is determined by the action itself.\nFor instance, spells will have their own individual scalings, with more specialized spells having stronger scalings in specific types and less scalings in generic types (e.g. [key.flag.fire] spells may have a higher [key.stat.power.fire] scaling than it does [key.stat.magic.power] scaling).",
 
     "key.stat.category.penetration" : "Penetration",
     "key.stat.category.penetration.tooltip.name" : "Penetration",
@@ -53,6 +53,7 @@
 
     "key.stat.strength" : "Strength",
     "key.stat.dexterity" : "Dexterity",
+    "key.stat.constitution" : "Constitution",
     "key.stat.mind" : "Mind",
     "key.stat.willpower" : "Willpower",
     "key.stat.luck" : "Luck",
@@ -77,7 +78,7 @@
 
     "key.stat.grit" : "Grit",
     "key.stat.grit.tooltip.name" : "Grit",
-    "key.stat.grit.tooltip.description" : "Grit",
+    "key.stat.grit.tooltip.description" : "[key.stat.grit] is a buffer of temporary [key.stat.health] that will be reduced before your [key.stat.health] in the event that you take [key.stat.damage].\n[key.stat.grit] decays naturally over time and can stack up to your [key.stat.health.max].",
     
     "key.stat.attack.power" : "Attack Power",
     "key.stat.attack.speed" : "Attack Speed",
@@ -90,6 +91,16 @@
     "key.stat.magic.mana" : "Mana",
     "key.stat.magic.mana.tooltip.name" : "Mana",
     "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast spells, with higher level spells costing more mana.\nIt does not regenerate naturally.\nMost spellcasting classes will start each run with a [key.item_tag.flask] that will restore [key.stat.mana].",
+
+    "key.stat.power.fire" : "Fire Power",
+    "key.stat.power.frost" : "Frost Power",
+    "key.stat.power.electric" : "Electric Power",
+    "key.stat.power.poison" : "Poison Power",
+    "key.stat.power.necrotic" : "Necrotic Power",
+
+    "key.stat.power.arcane" : "Arcane Power",
+    "key.stat.power.divine" : "Divine Power",
+    "key.stat.power.occult" : "Occult Power",
 
     "key.stat.defense.armor" : "Armor",
     "key.stat.defense.ward" : "Ward",
@@ -186,16 +197,19 @@
     "key.mechanic.resistance.description" : "Resistance",
 
     "key.mechanic.damage" : "Damage",
-    "key.mechanic.damage.description" : "Damage",
+    "key.mechanic.damage.tooltip.name" : "Damage",
+    "key.mechanic.damage.tooltip.description" : "[key.mechanic.damage] is how you reduce an enemies [key.stat.health] to zero.\n[key.mechanic.damage] can have its own damage type (e.g. [key.flag.fire] or [key.flag.poison]) and can be flagged as [key.flag.magic](Magical) or [key.flag.physical](Physical).",
 
     "key.mechanic.healing" : "Healing",
-    "key.mechanic.healing.description" : "Healing",
+    "key.mechanic.healing.tooltip.name" : "Healing",
+    "key.mechanic.healing.tooltip.description" : "[key.mechanic.healing] effcts include anything that restores your [key.stat.health].\n[key.mechanic.healing] effects can be flagged as both [key.flag.magic](Magical) and [key.flag.physical](Physical).",
 
     "key.mechanic.rest" : "Rest",
     "key.mechanic.rest.description" : "Rest",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
-    "key.mechanic.dual_wielding.description" : "Dual-Wielding",
+    "key.mechanic.dual_wielding.tooltip.name" : "Dual-Wielding",
+    "key.mechanic.dual_wielding.tooltip.description" : "You are considered to be [key.mechanic.dual_wielding] when you are holding a weapon in either hand with the exception of [key.item_tag.shield](Shields).\nSome [key.hold_type.two_handed] weapons may also count as [key.mechanic.dual_wielding] when it suits.",
 
     "key.status.bleed" : "Bleed",
     "key.status.bleed.tooltip.name" : "Bleed",
@@ -234,22 +248,32 @@
     "key.trigger.on_activate.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you activate this ability.",
 
     "key.item_tag.shield" : "Shield",
-    "key.item_tag.shield.description" : "Shield",
+    "key.item_tag.shield.tooltip.name" : "Shields",
+    "key.item_tag.shield.tooltip.description" : "[key.item_tag.shield](Shields) are simply a different category of weapon - they function the same as any other.\nHowever, shields often have higher [key.mechanic.block_guard] values and usually grant some extra [key.stat.posture].",
 
     "key.item_tag.sword" : "Sword",
-    "key.item_tag.sword.description" : "Sword",
+    "key.item_tag.sword.tooltip.name" : "Swords",
+    "key.item_tag.sword.tooltip.description" : "Swords is a broad category of weapons that can include [key.hold_type.one_handed] weapons or [key.hold_type.two_handed] weapons.",
 
     "key.item_tag.dagger" : "Dagger",
-    "key.item_tag.dagger.description" : "Dagger",
+    "key.item_tag.dagger.tooltip.name" : "Daggers",
+    "key.item_tag.dagger.tooltip.description" : "Daggers are lil pointy sticks that you can stab people with.\nThey typically scale more with [key.stat.dexterity] than most weapons and are always [key.hold_type.one_handed].",
 
     "key.item_tag.light" : "Light",
-    "key.item_tag.light.description" : "Light",
+    "key.item_tag.light.tooltip.name" : "Light",
+    "key.item_tag.light.tooltip.description" : "[key.item_tag.light] items weigh less than other items in their category, but the [key.item_tag.light] tag doesn't anything special on their own, but some features may check for this tag.",
 
     "key.item_tag.heavy" : "Heavy",
-    "key.item_tag.heavy.description" : "Heavy",
+    "key.item_tag.heavy.tooltip.name" : "Heavy",
+    "key.item_tag.heavy.tooltip.description" : "[key.item_tag.heavy] items weigh more than other items in their category, but the [key.item_tag.heavy] tag doesn't anything special on their own, but some features may check for this tag.",
     
     "key.item_tag.armor" : "Armor",
-    "key.item_tag.armor.description" : "Armor",
+    "key.item_tag.armor.tooltip.name" : "Armor",
+    "key.item_tag.armor.tooltip.description" : "[key.item_tag.armor] is any equipment that goes into your head, chest, arm and leg slots.",
+
+    "key.item_tag.bow" : "Bow",
+    "key.item_tag.bow.tooltip.name" : "Bow",
+    "key.item_tag.bow.tooltip.description" : "[key.item_tag.bow](Bows) typically fire arrows at stuff.\nSometimes they have wacky effects.",
 
     "key.item_tag.arrow" : "Arrow",
     "key.item_tag.arrow.tooltip.name" : "Arrow",
@@ -276,8 +300,8 @@
     "key.flag.magic.tooltip.description" : "Attacks flagged as [key.flag.magic](Magical) usually come from [key.flag.spell](Spells) or sometimes [key.flag.enchanted] weapons.\nHowever it got the flag, [key.flag.magic] attacks are usually harder to defend against.",
 
     "key.flag.enchanted" : "Enchanted",
-    "key.flag.enchanted.tooltip.name" : "Enchanted",
-    "key.flag.enchanted.tooltip.description" : "Some items in the dungeon are [key.flag.enchanted].\nThese items can have any number of special properties.\nThese effects are so broad trying to describe them here is silly - go find them!",
+    "key.flag.enchanted.tooltip.name" : "Enchanted (Flag)",
+    "key.flag.enchanted.tooltip.description" : "[key.flag.enchanted] items are imbued with special properties beyond what they would ordinarily have.\nThese effects are so broad that trying to describe them here is silly - go find them!",
 
     "key.flag.spell" : "Spell",
     "key.flag.spell.tooltip.name" : "Magic",
