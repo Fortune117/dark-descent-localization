@@ -70,6 +70,10 @@
     "key.mechanic.posture_damage.tooltip.name" : "Posture Damage",
     "key.mechanic.posture_damage.tooltip.description" : "[key.mechanic.posture_damage] is received (usually) when you [key.mechanic.block] an attack without [key.mechanic.parry](Parrying) it.\nSome effects will be able to damage your [key.stat.posture] without being able to [key.mechanic.posture_break](Break) it.\n Taking [key.mechanic.posture_damage] does not carry any immediate downsides, but can be dangerous if you run out of [key.stat.posture].\nIf you [key.mechanic.block] an attack that takes your [key.stat.posture] to zero you will become [key.mechanic.posture_break](Posture Broken), preventing you from [key.mechanic.block](Blocking) until your [key.stat.posture] regenerates completely.",
 
+    "key.mechanic.posture_break" : "Posture Break",
+    "key.mechanic.posture_break.tooltip.name" : "Posture Break",
+    "key.mechanic.posture_break.tooltip.description" : "When an effect capable of breaking your [key.stat.posture] reduces it to zero you will become [key.mechanic.posture_break](Posture Broken). The most common cause of this is [key.mechanic.block](Blocking) an attack without enough [key.stat.posture] to prevent all the damage.\nWhen [key.mechanic.posture_break](Posture Broken) your [key.mechanic.block](Blocks) will not prevent any damage and you must wait until your [key.stat.posture] completely recharges before you will be able to [key.mechanic.block] again.\nYou are still able to [key.mechanic.parry] attacks even while [key.mechanic.posture_break](Posture Broken).",
+
     "key.mechanic.stability" : "Stability",
     "key.mechanic.stability.tooltip.name" : "Stability",
     "key.mechanic.stability.tooltip.description" :"Funny", 
