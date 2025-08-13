@@ -1,16 +1,16 @@
 {
   "enchantment.flaming.name" : "Flaming",
-  "enchantment.flaming.description" : "Deal an extra {0} fire damage on hit.",
+  "enchantment.flaming.description" : "[key.trigger.on_hit](On Hit:) Deal [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.burn].",
   "enchantment.flaming.prefix" : "Flaming",
   "enchantment.flaming.suffix" : "",
 
   "enchantment.freezing.name" : "Freezing",
-  "enchantment.freezing.description" : "Deal an extra {0} frost damage on hit.",
+  "enchantment.freezing.description" : "[key.trigger.on_hit](On Hit:) Deal [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.rime].",
   "enchantment.freezing.prefix" : "Freezing",
-  "enchantment.freezing.suffix" : "Deal an extra {0} frost damage on hit.",
+  "enchantment.freezing.suffix" : "",
   
   "enchantment.shocking.name" : "Shocking",
-  "enchantment.shocking.description" : "Deal an extra {0} electric damage on hit.",
+  "enchantment.shocking.description" : "[key.trigger.on_hit](On Hit:) Deal [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.charge].",
   "enchantment.shocking.prefix" : "Shocking",
   "enchantment.shocking.suffix" : "",
   
