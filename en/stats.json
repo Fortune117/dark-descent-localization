@@ -5,8 +5,8 @@
     "stats.strength.description" : "[key.stat.strength](Strength) is responsible for damage scaling with [key.item_tag.heavy](Heavier) [key.flag.melee] weapons, but nearly all [key.flag.melee] weapons are scaled by it to an extent.\nIt also affects [key.stat.stamina](Stamina Costs), [key.stat.attack.knockback] & [key.stat.resistance.knockback], [key.stat.movement.jump_height] and [key.stat.misc.carry_weight].",
 
     "stats.dexterity.name" : "Dexterity",
-    "stats.dexterity.short" : "[key.stat.dexterity](DEX)",
-    "stats.dexterity.categorized" : "[key.stat.dexterity](DEXTERITY)",
+    "stats.dexterity.short" : "[key.stat.dexterity](DEXTERITY)",
+    "stats.dexterity.categorized" : "[key.stat.dexterity](DEX)",
     "stats.dexterity.description" : "[key.stat.dexterity](Dexterity) is responsible for damage scaling with [key.item_tag.light](Lighter) [key.flag.melee] weapons and [key.flag.ranged] weapons.\nIt also affects [key.stat.attack.speed], [key.stat.stamina.regen] and [key.stat.movement.speed], to a lesser degree.",
 
     "stats.constitution.name" : "Constitution",
@@ -25,7 +25,7 @@
     "stats.willpower.description" : "[key.stat.willpower](Willpower) is responsible for your [key.stat.concentration.max], [key.stat.concentration.regen], and a small amount of [key.stat.resistance.critical]",
 
     "stats.luck.name" : "Luck",
-    "stats.luck.short" : "[key.stat.luck)(LUCK)",
+    "stats.luck.short" : "[key.stat.luck](LUCK)",
     "stats.luck.categorized" : "[key.stat.luck](LCK)",
     "stats.luck.description" : "[key.stat.luck](Luck) affects the quality of loot you may find in the dungeon.\nAmong many other small things...",
 
@@ -151,7 +151,7 @@
     
     "stats.electric_power.name" : "Electric Power",
     "stats.electric_power.short" : "[key.stat.power.electric](ELECTRIC POWER)",
-    "stats.electric_power.categorized" : "[key.stat.power.electric](ELEC).",
+    "stats.electric_power.categorized" : "[key.stat.power.electric](ELEC)",
     "stats.electric_power.description" : "[key.flag.electric] spells will typically scale off this in higher amounts.",
     
     "stats.poison_power.name" : "Poison Power",

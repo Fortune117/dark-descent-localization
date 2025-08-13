@@ -245,7 +245,7 @@
 
     "key.status.burn" : "Burn",
     "key.status.burn.tooltip.name" : "Burn",
-    "key.status.burn.tooltip.description" : "The target is weakened by immense pain of scalding flesh.\nFor each [key.mechanic.stacks](Stack) of [key.status.burn] you reduce the targets [key.stat.defense.armor] and [key.stat.defense.fire] by [key.variable.positive](1).\nAdditionally, the target will take [key.variable.positive](0.5) [key.mechanic.posture_damage_enemy] per [key.mechanic.stacks](Stack) per second.\nThe strength of the [key.status.burn] is reduced by the targets [key.stat.defense.fire].",
+    "key.status.burn.tooltip.description" : "The target is weakened by the immense pain of scalding flesh.\nFor each [key.mechanic.stacks](Stack) of [key.status.burn] you reduce the targets [key.stat.defense.armor] and [key.stat.defense.fire] by [key.variable.positive](1).\nAdditionally, the target will take [key.variable.positive](0.5) [key.mechanic.posture_damage_enemy] per [key.mechanic.stacks](Stack) per second.\nThe strength of the [key.status.burn] is reduced by the targets [key.stat.defense.fire].",
 
     "key.status.glimpse" : "Glimpse",
     "key.status.glimpse.tooltip.name" : "Glimpse",
@@ -399,6 +399,6 @@
     "key.flavour.negative" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.reminder" :"You shouldn't see this! Yell at fortune :)",
 
-    "key.variable.positive" : "You shouldn't see me!! Yell at fortune :)", 
+    "key.variable.positive" : "You shouldn't see me!! Yell at fortune :)",
     "key.variable.negative" : "You shouldn't see me!! Yell at fortune :)"
 }

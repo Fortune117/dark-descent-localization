@@ -15,7 +15,7 @@
   "enchantment.shocking.suffix" : "",
   
   "enchantment.riposte.name" : "Riposte",
-  "enchantment.riposte.description" : "After a successful parry, for 3 seconds your next attack has +{0} attack speed.",
+  "enchantment.riposte.description" : "[key.trigger.on_parry](On Parry:) For [key.variable.positive](3) seconds your next attack has [key.variable.positive]({0}) [key.stat.attack.speed].",
   "enchantment.riposte.prefix" : "",
   "enchantment.riposte.suffix" : "",
 
