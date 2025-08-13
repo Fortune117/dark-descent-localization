@@ -90,6 +90,8 @@
     "key.stat.magic.power" : "Spell Power",
     "key.stat.magic.speed" : "Spellcasting Speed",
 
+    "key.stat.magic.mana.max" : "Maximum Mana",
+
     "key.stat.magic.mana" : "Mana",
     "key.stat.magic.mana.tooltip.name" : "Mana",
     "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast spells, with higher level spells costing more mana.\nIt does not regenerate naturally.\nMost spellcasting classes will start each run with a [key.item_tag.flask] that will restore [key.stat.mana].",

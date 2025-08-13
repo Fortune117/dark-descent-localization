@@ -1,16 +1,16 @@
 {
     "stats.strength.name" : "Strength",
-    "stats.strength.short" : "[key.stat.strength](STR)",
+    "stats.strength.short" : "[key.stat.strength](STRENGTH)",
     "stats.strength.categorized" : "[key.stat.strength](STR)",
     "stats.strength.description" : "[key.stat.strength](Strength) is responsible for damage scaling with [key.item_tag.heavy](Heavier) [key.flag.melee] weapons, but nearly all [key.flag.melee] weapons are scaled by it to an extent.\nIt also affects [key.stat.stamina](Stamina Costs), [key.stat.attack.knockback] & [key.stat.resistance.knockback], [key.stat.movement.jump_height] and [key.stat.misc.carry_weight].",
 
     "stats.dexterity.name" : "Dexterity",
     "stats.dexterity.short" : "[key.stat.dexterity](DEX)",
-    "stats.dexterity.categorized" : "[key.stat.dexterity](DEX)",
+    "stats.dexterity.categorized" : "[key.stat.dexterity](DEXTERITY)",
     "stats.dexterity.description" : "[key.stat.dexterity](Dexterity) is responsible for damage scaling with [key.item_tag.light](Lighter) [key.flag.melee] weapons and [key.flag.ranged] weapons.\nIt also affects [key.stat.attack.speed], [key.stat.stamina.regen] and [key.stat.movement.speed], to a lesser degree.",
 
     "stats.constitution.name" : "Constitution",
-    "stats.constitution.short" : "[key.stat.constitution](CON)",
+    "stats.constitution.short" : "[key.stat.constitution](CONSTITUTION)",
     "stats.constitution.categorized" : "[key.stat.constitution](CON)",
     "stats.constitution.description" : "[key.stat.constitution](Constitution) is responsible for your [key.stat.health.max], [key.stat.stamina.max] and your [key.stat.health.heal_mult].",
 
@@ -20,7 +20,7 @@
     "stats.mind.description" : "[key.stat.mind](Mind) is responsible for your [key.stat.magic.power], [key.stat.magic.speed] and reducing your [key.stat.concentration.cost](Concentration Costs).",
 
     "stats.willpower.name" : "Willpower",
-    "stats.willpower.short" : "[key.stat.willpower](WILL)",
+    "stats.willpower.short" : "[key.stat.willpower](WILLPOWER)",
     "stats.willpower.categorized" : "[key.stat.willpower](WILL)",
     "stats.willpower.description" : "[key.stat.willpower](Willpower) is responsible for your [key.stat.concentration.max], [key.stat.concentration.regen], and a small amount of [key.stat.resistance.critical]",
 
@@ -30,7 +30,7 @@
     "stats.luck.description" : "[key.stat.luck](Luck) affects the quality of loot you may find in the dungeon.\nAmong many other small things...",
 
     "stats.health_max.name" : "Maximum Health",
-    "stats.health_max.short" : "[key.stat.health.max](HP)",
+    "stats.health_max.short" : "[key.stat.health.max](MAX HP)",
     "stats.health_max.categorized" : "[key.stat.health.max](MAX)",
     "stats.health_max.description" : "The maximum value your [key.stat.health] can reach.",
     
@@ -90,7 +90,7 @@
     "stats.concentration_cost_multiplier.description" : "Multiplies all [key.stat.concentration.cost](Concentration Costs) you pay by this value.",
 
     "stats.posture_max.name" : "Maximum Posture",
-    "stats.posture_max.short" : "[key.stat.posture.max](POSTURE)",
+    "stats.posture_max.short" : "[key.stat.posture.max](MAX POSTURE)",
     "stats.posture_max.categorized" : "[key.stat.posture.max](MAX)",
     "stats.posture_max.description" : "The maximum value your [key.stat.posture] can reach.",
     
@@ -105,8 +105,8 @@
     "stats.posture_regen_delay.description" : "The delay in seconds after taking [key.stat.posture](Posture Damage) (usually from blocking) before your [key.stat.posture.regen] kicks in.",
 
     "stats.mana_max.name" : "Max Mana",
-    "stats.mana_max.short" : "[key.stat.mana.max](MAX MANA)",
-    "stats.mana_max.categorized" : "[key.stat.mana.max](MANA)",
+    "stats.mana_max.short" : "[key.stat.magic.mana.max](MAX MANA)",
+    "stats.mana_max.categorized" : "[key.stat.magic.mana.max](MANA)",
     "stats.mana_max.description" : "The maximum amount of [key.stat.magic.mana] you can have.",
     
     "stats.attack_speed.name" : "Attack Speed",
@@ -120,7 +120,7 @@
     "stats.spell_speed.description" : "The percentage multiplier for how quickly you can cast spells.",
 
     "stats.move_speed_multiplier.name" : "Move Speed",
-    "stats.move_speed_multiplier.short" : "[key.stat.movement.speed](MOVE SPD)",
+    "stats.move_speed_multiplier.short" : "[key.stat.movement.speed](MOVE SPEED)",
     "stats.move_speed_multiplier.categorized" : "[key.stat.movement.speed](SPD)",
     "stats.move_speed_multiplier.description" : "The percentage multiplier for how quickly you move.",
     
@@ -130,47 +130,47 @@
     "stats.jump_height_multiplier.description" : "The percentage multiplier for how high you can jump.",
 
     "stats.attack_power.name" : "Attack Power",
-    "stats.attack_power.short" : "[key.stat.attack.power](ATK PWR)",
+    "stats.attack_power.short" : "[key.stat.attack.power](ATTACK POWER)",
     "stats.attack_power.categorized" : "[key.stat.attack.power](PWR)",
     "stats.attack_power.description" : "Your damage with most weapons will also scale off your [key.stat.attack.power].\n[key.stat.attack.power] is rarely obtained naturally and is usually found on better equipment.\nHigher quality weapons typically have better scaling for attack power.",
     
     "stats.spell_power.name" : "Spell Power",
-    "stats.spell_power.short" : "[key.stat.magic.power](SPELL PWR)",
+    "stats.spell_power.short" : "[key.stat.magic.power](SPELL POWER)",
     "stats.spell_power.categorized" : "[key.stat.magic.power](PWR)",
     "stats.spell_power.description" : "Your baseline power when casting spells.\nAlmost all spells will scale off this in some way, but many specialized spells will scale off your other stats as well.",
 
     "stats.fire_power.name" : "Fire Power",
-    "stats.fire_power.short" : "[key.stat.power.fire](FIRE PWR)",
+    "stats.fire_power.short" : "[key.stat.power.fire](FIRE POWER)",
     "stats.fire_power.categorized" : "[key.stat.power.fire](FIRE)",
     "stats.fire_power.description" : "[key.flag.fire] spells will typically scale off this in higher amounts.",
     
     "stats.frost_power.name" : "Frost Power",
-    "stats.frost_power.short" : "[key.stat.power.frost](FROST PWR)",
+    "stats.frost_power.short" : "[key.stat.power.frost](FROST POWER)",
     "stats.frost_power.categorized" : "[key.stat.power.frost](FRST)",
     "stats.frost_power.description" : "[key.flag.frost] spells will typically scale off this in higher amounts.",
     
     "stats.electric_power.name" : "Electric Power",
-    "stats.electric_power.short" : "[key.stat.power.electric](ELEC PWR)",
+    "stats.electric_power.short" : "[key.stat.power.electric](ELECTRIC POWER)",
     "stats.electric_power.categorized" : "[key.stat.power.electric](ELEC).",
     "stats.electric_power.description" : "[key.flag.electric] spells will typically scale off this in higher amounts.",
     
     "stats.poison_power.name" : "Poison Power",
-    "stats.poison_power.short" : "[key.stat.power.poison](POISON PWR)",
+    "stats.poison_power.short" : "[key.stat.power.poison](POISON POWER)",
     "stats.poison_power.categorized" : "[key.stat.power.poison](PSN)",
     "stats.poison_power.description" : "[key.flag.poison] spells will typically scale off this in higher amounts.",
     
     "stats.necrotic_power.name" : "Necrotic Power",
-    "stats.necrotic_power.short" : "[key.stat.power.necrotic](NECR PWR)",
+    "stats.necrotic_power.short" : "[key.stat.power.necrotic](NECROTIC POWER)",
     "stats.necrotic_power.categorized" : "[key.stat.power.necrotic](NECR)",
     "stats.necrotic_power.description" : "[key.flag.necrotic] spells will typically scale off this in higher amounts.",
 
     "stats.arcane_power.name" : "Arcane Power",
-    "stats.arcane_power.short" : "[key.stat.power.arcane](ARCANE PWR)",
+    "stats.arcane_power.short" : "[key.stat.power.arcane](ARCANE POWER)",
     "stats.arcane_power.categorized" : "[key.stat.power.arcane](ARC)",
     "stats.arcane_power.description" : "[key.flag.arcane] spells will typically scale off this in higher amounts.",
     
     "stats.divine_power.name" : "Divine Power",
-    "stats.divine_power.short" : "[key.stat.power.divine](DIVINE PWR)",
+    "stats.divine_power.short" : "[key.stat.power.divine](DIVINE POWER)",
     "stats.divine_power.categorized" : "[key.stat.power.divine](DIV)",
     "stats.divine_power.description" : "[key.flag.divine] spells will typically scale off this in higher amounts.",
     
@@ -180,22 +180,22 @@
     "stats.occult_power.description" : "[key.flag.occult] spells will typically scale off this in higher amounts.",
 
     "stats.heal_power.name" : "Heal Power",
-    "stats.heal_power.short" : "[key.stat.power.heal](HEAL PWR)",
+    "stats.heal_power.short" : "[key.stat.power.heal](HEAL POWER)",
     "stats.heal_power.categorized" : "[key.stat.power.heal](HEAL)",
     "stats.heal_power.description" : "[key.flag.healing] effects will typically scale off this in higher amounts.",
 
     "stats.buff_power.name" : "Buff Power",
-    "stats.buff_power.short" : "[key.stat.power.buff](BUFF PWR)",
+    "stats.buff_power.short" : "[key.stat.power.buff](BUFF POWER)",
     "stats.buff_power.categorized" : "[key.stat.power.buff](BUFF)",
     "stats.buff_power.description" : "The effectivness of beneficial [key.flag.buff](Buffs) you apply will scale off this.",
 
     "stats.debuff_power.name" : "Debuff Power",
-    "stats.debuff_power.short" : "[key.stat.power.dbuff](DBUFF PWR)",
+    "stats.debuff_power.short" : "[key.stat.power.dbuff](DEBUFF POWER)",
     "stats.debuff_power.categorized" : "[key.stat.power.dbuff](DBUF)",
     "stats.debuff_power.description" : "The effectiveness of detrimental [key.flag.debuff](Debuffs) you apply will scale off this.",
 
     "stats.armor_penetration.name" : "Armor Penetration",
-    "stats.armor_penetration.short" : "[key.stat.penetration.armor](AMR PEN)",
+    "stats.armor_penetration.short" : "[key.stat.penetration.armor](ARMOR PEN)",
     "stats.armor_penetration.categorized" : "[key.stat.penetration.armor](AMR)",
     "stats.armor_penetration.description" : "This is subtracted from the targets [key.stat.defense.armor] before calculating damage.",
     
@@ -215,7 +215,7 @@
     "stats.frost_penetration.description" : "This is subtracted from the targets [key.stat.defense.frost] before calculating damage.",
     
     "stats.electric_penetration.name" : "Electric Penetration",
-    "stats.electric_penetration.short" : "[key.stat.penetration.electric](ELEC PEN)",
+    "stats.electric_penetration.short" : "[key.stat.penetration.electric](ELECTRIC PEN)",
     "stats.electric_penetration.categorized" : "[key.stat.penetration.electric](ELEC)",
     "stats.electric_penetration.description" : "This is subtracted from the targets [key.stat.defense.electric] before calculating damage.",
     
@@ -225,12 +225,12 @@
     "stats.poison_penetration.description" : "This is subtracted from the targets [key.stat.defense.poison] before calculating damage.",
     
     "stats.necrotic_penetration.name" : "Necrotic Penetration.",
-    "stats.necrotic_penetration.short" : "[key.stat.penetration.necrotic](NECR PEN)",
+    "stats.necrotic_penetration.short" : "[key.stat.penetration.necrotic](NECROTIC PEN)",
     "stats.necrotic_penetration.categorized" : "[key.stat.penetration.necrotic](NECR)",
     "stats.necrotic_penetration.description" : "This is subtracted from the targets [key.stat.defense.necrotic] before calculating damage.",
     
     "stats.arcane_penetration.name" : "Arcane Penetration",
-    "stats.arcane_penetration.short" : "[key.stat.penetration.arcane](ARC PEN)",
+    "stats.arcane_penetration.short" : "[key.stat.penetration.arcane](ARCANE PEN)",
     "stats.arcane_penetration.categorized" : "[key.stat.penetration.arcane](ARC)",
     "stats.arcane_penetration.description" : "This is subtracted from the targets [key.stat.defense.arcane] before calculating damage.",
     
@@ -245,12 +245,12 @@
     "stats.occult_penetration.description" : "This is subtracted from the targets [key.stat.defense.occult] before calculating damage.",
 
     "stats.critical_multiplier.name" : "Critical Multiplier",
-    "stats.critical_multiplier.short" : "[key.stat.attack.critical_multiplier](CRT MULT)",
+    "stats.critical_multiplier.short" : "[key.stat.attack.critical_multiplier](CRIT MULT)",
     "stats.critical_multiplier.categorized" : "[key.stat.attack.critical_multiplier](CRT)",
     "stats.critical_multiplier.description" : "When scoring a [key.mechanic.critical_hit], the damage it deals will be multiplied by this percentage.\nMany enemies have weak spots that will always score a [key.mechanic.critical_hit] when struck.\nMost weapons and some spells are capable of scoring [key.mechanic.critical_hit](Criticals).",
     
     "stats.knockback.name" : "Knockback",
-    "stats.knockback.short" : "[key.stat.attack.knockback](KBCK)",
+    "stats.knockback.short" : "[key.stat.attack.knockback](KNOCKBACK)",
     "stats.knockback.categorized" : "[key.stat.attack.knockback](KBCK)", 
     "stats.knockback.description" : "This score represents how far you'll move an enemy when you hit them.\nIt is reduced by the targets [key.stat.resistance.knockback]. ", 
 
