@@ -15,12 +15,12 @@
   "enchantment.shocking.suffix" : "",
   
   "enchantment.riposte.name" : "Riposte",
-  "enchantment.riposte.description" : "[key.trigger.on_parry](On Parry:) For [key.variable.positive](3) seconds your next attack has [key.variable.positive]({0}) [key.stat.attack.speed].",
+  "enchantment.riposte.description" : "[key.trigger.on_parry](On Parry:) For [key.variable.static](3) seconds your next attack has [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed].",
   "enchantment.riposte.prefix" : "",
   "enchantment.riposte.suffix" : "",
 
   "enchantment.frenzy.name" : "Frenzy",
-  "enchantment.frenzy.description" : "After a successful hit, gain {0} attack speed and {1} move speed for 4 seconds. Stacks up to 3 times.",
+  "enchantment.frenzy.description" : "[key.trigger.on_hit](On Hit:) Gain [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed] and [key.variable.positive]({1:+0%;-0%;0%}) [key.stat.movement.speed] for [key.variable.static](4) seconds.\n[key.mechanic.stacks] up to [key.variable.static](3) times.",
   "enchantment.frenzy.prefix" : "",
   "enchantment.frenzy.suffix" : "",
 
