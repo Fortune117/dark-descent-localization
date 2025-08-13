@@ -15,7 +15,7 @@
   "enchantment.shocking.suffix" : "",
   
   "enchantment.riposte.name" : "Riposte",
-  "enchantment.riposte.description" : "[key.trigger.on_parry](On Parry:) For [key.variable.static](3) seconds your next attack has [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed].",
+  "enchantment.riposte.description" : "[key.trigger.on_parry](On Parry:) Your [key.flavour.important](First) attack in the next [key.variable.static](3) seconds has [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed].",
   "enchantment.riposte.prefix" : "",
   "enchantment.riposte.suffix" : "",
 
