@@ -126,7 +126,7 @@
     
     "stats.jump_height_multiplier.name" : "Jump Height",
     "stats.jump_height_multiplier.short" : "[key.stat.movement.jump_height](JUMP HEIGHT)",
-    "stats.jump_height_multiplier.categorized" : "JMP",
+    "stats.jump_height_multiplier.categorized" : "[key.stat.movement.jump_height](JMP)",
     "stats.jump_height_multiplier.description" : "The percentage multiplier for how high you can jump.",
 
     "stats.attack_power.name" : "Attack Power",
@@ -190,8 +190,8 @@
     "stats.buff_power.description" : "The effectivness of beneficial [key.flag.buff](Buffs) you apply will scale off this.",
 
     "stats.debuff_power.name" : "Debuff Power",
-    "stats.debuff_power.short" : "[key.stat.power.dbuff](DEBUFF POWER)",
-    "stats.debuff_power.categorized" : "[key.stat.power.dbuff](DBUF)",
+    "stats.debuff_power.short" : "[key.stat.power.debuff](DEBUFF POWER)",
+    "stats.debuff_power.categorized" : "[key.stat.power.debuff](DBUF)",
     "stats.debuff_power.description" : "The effectiveness of detrimental [key.flag.debuff](Debuffs) you apply will scale off this.",
 
     "stats.armor_penetration.name" : "Armor Penetration",
