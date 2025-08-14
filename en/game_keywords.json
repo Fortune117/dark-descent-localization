@@ -159,26 +159,27 @@
 
     "key.mechanic.posture_damage_enemy" : "Posture Damage",
     "key.mechanic.posture_damage_enemy.tooltip.name" : "Posture Damage (Enemy)",
-    "key.mechanic.posture_damage_enemy.tooltip.description" : "When you deal [key.mechanic.posture_damage_enemy] to an enemy (usually by hitting them with a weapon) you will reduce their [key.mechanic.stability].\nWhen an enemy hits zero [key.mechanic.stability] they become [key.mechanic.staggered].\nIf an enemy hits zero [key.stat.posture] they will instead be [key.mechanic.posture_break_enemy](Posture Broken) and become [key.mechanic.stun](Stunned).\nTo read about how you are affected by [key.mechanic.posture_damage](Posture Damage, click here).",
+    "key.mechanic.posture_damage_enemy.tooltip.description" : "When you deal [key.mechanic.posture_damage_enemy] to an enemy (usually by hitting them with a weapon) you will reduce their [key.mechanic.stability].\nWhen an enemy hits zero [key.mechanic.stability] they become [key.mechanic.stagger](Staggered).\nIf an enemy hits zero [key.stat.posture] they will instead be [key.mechanic.posture_break_enemy](Posture Broken) and become [key.mechanic.stun](Stunned).\nTo read about how you are affected by [key.mechanic.posture_damage](Posture Damage, click here).",
 
     "key.mechanic.posture_break_enemy" : "Posture Break",
     "key.mechanic.posture_break_enemy.tooltip.name" : "Posture Break (Enemy)",
     "key.mechanic.posture_break_enemy.tooltip.description" : "When you [key.mechanic.posture_break_enemy] most enemies they will become [key.mechanic.stun](Stunned).\nWhile an enemy is [key.mechanic.stun](Stunned) you can strike their [key.mechanic.weak_point] in order to perform an [key.mechanic.execute](Execution).\nTo read about how you are affected by [key.mechanic.posture_break](Posture Breaks, click here).",
 
-    "key.mechanic.staggered" : "Staggered",
-    "key.mechanic.staggered.tooltip.name" : "Staggered",
-    "key.mechanic.staggered.tooltip.description" : "Staggered",
+    "key.mechanic.stagger" : "Stagger",
+    "key.mechanic.stagger.tooltip.name" : "Stagger",
+    "key.mechanic.stagger.tooltip.description" : "A [key.mechanic.stagger] is a short duration interruption of an enemies actions.\nSome enemies may react to this, but otherwise, it just gives you a little breathing room.",
 
     "key.mechanic.stability" : "Stability",
     "key.mechanic.stability.tooltip.name" : "Stability",
-    "key.mechanic.stability.tooltip.description" :"Funny", 
+    "key.mechanic.stability.tooltip.description" :"Enemies have a poise stat. When you damage an enemy you will sometimes inflict poise damage.\nNearly all weapons and some spells deal poise damage.\nIf an enemies poise reaches zero they become [key.mechanic.stagger].\nThis mechanic is separate to [key.stat.posture].", 
 
     "key.mechanic.stun" : "Stun",
     "key.mechanic.stun.tooltip.name" : "Stuns",
     "key.mechanic.stun.tooltip.description" : "When you [key.mechanic.posture_break_enemy] an enemy they will usually becomed [key.mechanic.stun](Stunned).\nWhile [key.mechanic.stun](Stunned) you may attack an enemies [key.mechanic.weak_point] in order to perform an [key.mechanic.execute](Execution).\nAn enemy being [key.mechanic.stun](Stunned) is a good opportunity to use your [key.item_tag.flask] or let your [key.stat.stamina] regenerate.",
 
     "key.mechanic.kill" : "Kill",
-    "key.mechanic.kill.description" : "Kill",
+    "key.mechanic.kill.tooltip.name" : "Killing",
+    "key.mechanic.kill.tooltip.description" : "When you reduce an enemies [key.stat.health] to their [key.stat.health.min] (typically 0), they [key.mechanic.death](Die).\nThis will [key.mechanic.trigger] [key.trigger.on_kill] effects.",
 
     "key.mechanic.knockback" : "Knockback",
 
@@ -191,8 +192,12 @@
     "key.mechanic.weak_point.tooltip.description" : "Most enemies will have a [key.mechanic.weak_point] somewhere on their body.\nIt wont always be obvious!\nBut for the most part you can ituit where its (e.g. the head).\nAttacking an enemies [key.mechanic.weak_point] with most weapons (and some spells) will score a [key.mechanic.critical_hit].",
 
     "key.mechanic.stacks" : "Stacks",
+    "key.mechanic.stacks.tooltip.name" : "Stacks",
+    "key.mechanic.stacks.tooltip.description" : "Some effects can [key.mechanic.stacks](Stack).\n[key.mechanic.stacks] are used to represent effects that 'build upon' themselves when applied to a target that already has that effect (e.g. [key.status.bleed]).\nTypically, The more [key.mechanic.stacks] an effect has the stronger it becomes, but what they do is ultimately up to the effect iself.",
 
     "key.mechanic.death" : "Death",
+    "key.mechanic.death.tooltip.name" : "Death",
+    "key.mechanic.death.tooltip.description" : "Death",
 
     "key.mechanic.penetration" : "Penetration",
     "key.mechanic.penetration.description" : "Penetration",
