@@ -80,7 +80,7 @@
 
     "key.stat.grit" : "Grit",
     "key.stat.grit.tooltip.name" : "Grit",
-    "key.stat.grit.tooltip.description" : "[key.stat.grit] is a buffer of temporary [key.stat.health] that will be reduced before your [key.stat.health] in the event that you take [key.stat.damage].\n[key.stat.grit] decays naturally over time and can stack up to your [key.stat.health.max].",
+    "key.stat.grit.tooltip.description" : "[key.stat.grit] is a buffer of temporary [key.stat.health] that will be reduced before your real [key.stat.health] stats.\n[key.stat.grit] decays naturally over time and has no maximum.\nThe [key.flavour.important](higher) your [key.stat.grit] is the faster it will decay.",
     
     "key.stat.attack.power" : "Attack Power",
     "key.stat.attack.speed" : "Attack Speed",

@@ -64,7 +64,7 @@
     "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within [key.variable.positive]({0}) second(s) of each other, apply [key.variable.positive]({1}) [key.status.bleed] and restore [key.variable.positive]({2}) [key.stat.stamina].",
 
     "class.fighter.skill.executor.name" : "Executor",
-    "class.fighter.skill.executor.description" : "[key.trigger.on_execute]If performed with a [key.hold_type.one_handed] weapon gain [key.variable.positive]({0}) [key.stat.move.speed] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will instantly [key.mechanic.kill] [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:P0}) [key.stat.health].",
+    "class.fighter.skill.executor.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.one_handed] weapon gain [key.variable.positive]({0}) [key.stat.movement.speed] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will instantly [key.mechanic.kill] [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:P0}) [key.stat.health].",
 
     "class.fighter.skill.rhythmic_fighting.name" : "Rythmic Fighting",
     "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within [key.variable.positive]({0:0.0#}) seconds of each other gains [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage]. [key.mechanic.stacks] up to [key.variable.positive]({3}) times.\n[key.flavour.negative](Attacking out of rhythm will remove all Stacks.)",
@@ -107,5 +107,4 @@
 
     "class.fighter.skill.shield_steady.name" : "Steady",
     "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0:P0}) more [key.mechanic.block_guard]."
-
   }
