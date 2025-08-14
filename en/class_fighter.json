@@ -3,12 +3,20 @@
     "class.fighter.description.short" : "A martial class with a broad range of expertise and ability. Can specialize into nearly any class of weapon, but has no magical ability.",
     "class.fighter.description.long" : "The fighter embodies the spirit of martial mastery. Fighters represent the pinnacle of physical prowess and ability, with skills focused on their preffered style of combat and weapon specialisation.",
 
-
     "class.fighter.loadout.peasant.name" : "Peasant",
     "class.fighter.loadout.ranger.name" : "Ranger",
     "class.fighter.loadout.skirmisher.name" : "Skirmisher",
     "class.fighter.loadout.knight.name" : "Knight",
     "class.fighter.loadout.warrior.name" : "Warrior",
+
+    "class.fighter.skills.group.warrior.name" : "Warrior",
+    "class.fighter.skills.group.warrior.description" : "Warrior skills focus on smackin' guys with a big stick.",
+
+    "class.fighter.skills.group.skirmisher.name" : "Skirmisher",
+    "class.fighter.skills.group.skirmisher.description" : "Skirmisher skills are focused on one-handed weapons, dual-wielding and fast fighting in general.",
+
+    "class.fighter.skills.group.knight.name" : "Knight",
+    "class.fighter.skills.group.knight.description" : "Knight skills focus are focused on shields, heavy armor and deliberate, paced combat.",
 
     "class.fighter.skill.armor_light_foot.name" : "Lightfoot",
     "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P0}) [key.stat.movement.speed] and [key.variable.positive]({1}) [key.stat.stamina.regen].",
