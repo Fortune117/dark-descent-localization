@@ -1,3 +1,7 @@
 {
+    "skilltree.allocation.confirm" : "Confirm",
+    "skilltree.points.available" : "You have {0} {1} skill points available.",
+    "skilltree.points.allocated" : "You have allocated {0} skill points.",
     "skill.preview.level" : "Preview Level:"
+    
 }
