@@ -49,7 +49,7 @@
     "class.fighter.skill.push_forwards.description" : "After taking damage, you can restore up to [key.variable.positive]({0:P0}) of the [key.stat.health] lost as [key.stat.grit] by dealing [key.mechanic.damage] for up to [key.variable.positive]({1}) seconds.",
 
     "class.fighter.skill.lunge.name" : "Lunge",
-    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate]\nWhen wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown.",
+    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate][key.style.break_small]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown.",
 
     "class.fighter.skill.blademaster.name" : "Blademaster",
     "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand while attacking when [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\nDoes not allow [key.mechanic.block](Blocking) during this window.",
