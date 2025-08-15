@@ -75,7 +75,7 @@
     "class.fighter.skill.dual_weapon_fighting.name" : "Dual Weapon Fighting",
     "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] penalty for attacks while [key.mechanic.dual_wielding] by {0:P0}.\nAdditionaly, you gain {1:P0} [key.stat.movement.speed] while [key.mechanic.dual_wielding].",
 
-    "class.fighter.skill.grit.name" : "Cool Demeanour",
+    "class.fighter.skill.grit.name" : "Resolve",
     "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
