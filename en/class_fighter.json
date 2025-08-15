@@ -40,7 +40,7 @@
     "class.fighter.skill.weight_training.description" : "Your [key.stat.movement.speed] penalty during attacks with [key.hold_type.two_handed] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.stat.attack.speed] with them is increased by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.sword_retort.name" : "Duelist",
-    "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] is reduced by [key.variable.negative]({2:P0}).",
+    "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] with them is reduced by [key.variable.negative]({2:P0}).",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
     "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess [key.mechanic.posture_damage_enemy] dealt when [key.mechanic.posture_break_enemy](Posture Breaking) a target is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.mechanic.posture_damage_enemy] with [key.hold_type.two_handed] weapons.",
@@ -55,7 +55,7 @@
     "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand while attacking when [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\nDoes not allow [key.mechanic.block](Blocking) during this window.",
 
     "class.fighter.skill.lightning_reflexes.name" : "Lightning Reflexes",
-    "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a non-magical projectile it will be reflected in the direction you're looking",
+    "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a [key.flag.physical] [key.mechanic.projectile] it will be reflected in the direction you're looking",
 
     "class.fighter.skill.sundering_strikes.name" : "Shred",
     "class.fighter.skill.sundering_strikes.description" : "Your [key.flag.melee] attacks reduce the targets [key.stat.defense.armor] by [key.variable.positive]({0}) for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
@@ -67,10 +67,10 @@
     "class.fighter.skill.executor.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.one_handed] weapon gain [key.variable.positive]({0}) [key.stat.movement.speed] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will instantly [key.mechanic.kill] [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:P0}) [key.stat.health].",
 
     "class.fighter.skill.rhythmic_fighting.name" : "Rythmic Fighting",
-    "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within [key.variable.positive]({0:0.0#}) seconds of each other gains [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage]. [key.mechanic.stacks] up to [key.variable.positive]({3}) times.\n[key.flavour.negative](Attacking out of rhythm will remove all Stacks.)",
+    "class.fighter.skill.rhythmic_fighting.description" : "Each successive attack with alternating hands within [key.variable.positive]({0:0.0#}) seconds of each other gains [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage].\n[key.mechanic.stacks] up to [key.variable.positive]({3}) times.\n[key.flavour.negative](Attacking out of rhythm will remove all Stacks.)",
 
     "class.fighter.skill.fang_and_claw.name" : "Fang and Claw",
-    "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](Shields) excluded), gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] with the [key.item_tag.dagger] after each attack with the opposite weapon but at a [key.variable.negative]({1:P0}) [key.mechanic.Damage] penalty.",
+    "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](Shields) excluded), gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] with the [key.item_tag.dagger] after each attack with the opposite weapon, but at a [key.variable.negative]({1:P0}) [key.mechanic.Damage] penalty for the [key.item_tag.dagger].",
 
     "class.fighter.skill.dual_weapon_fighting.name" : "Dual Weapon Fighting",
     "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] penalty for attacks while [key.mechanic.dual_wielding] by {0:P0}.\nAdditionaly, you gain {1:P0} [key.stat.movement.speed] while [key.mechanic.dual_wielding].",
@@ -88,13 +88,13 @@
     "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry][key.style.break_small]Your [key.mechanic.block] will become active during your next [key.flag.melee] attack with a [key.item_tag.shield] within [key.variable.positive]({0}) seconds",
 
     "class.fighter.skill.shield_confidence.name" : "Shield Drum",
-    "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_block][key.style.break_small]Your next [key.mechanic.block] will automatically be upgraded to a [key.mechanic.parry] for the next [key.variable.positive]({0}) seconds.",
+    "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_parry][key.style.break_small]Your next [key.mechanic.block] will automatically be upgraded to a [key.mechanic.parry] for the next [key.variable.positive]({0}) seconds.",
 
     "class.fighter.skill.shield_mastery.name" : "Shield Mastery",
     "class.fighter.skill.shield_mastery.description" : "Your [key.mechanic.parry](Parries) with [key.item_tag.shield](Shields) can now break an enemies [key.stat.posture] and deal [key.variable.positive]({0:P0}) more [key.mechanic.posture_damage].",
 
-    "class.fighter.skill.shield_combo.name" : "Deflect and Return",
-    "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block][key.style.break_small]After blocking with a [key.item_tag.shield], for [key.variable.positive]({0}) seconds the next attack with your opposite hand gains [key.variable.positive]({1:P0}) attack speed and [key.variable.positive]({2:P0}) damage.",
+    "class.fighter.skill.shield_combo.name" : "Momentum",
+    "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block][key.style.break_small]After [key.mechanic.block](Blocking) with a [key.item_tag.shield], for [key.variable.positive]({0}) seconds the [key.flavour.important](next) attack with your opposite hand gains [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage].",
 
     "class.fighter.skill.shield_daze.name" : "Dazing Blow",
     "class.fighter.skill.shield_daze.description" : "When you perform an [key.mechanic.execute](Execution) with a [key.item_tag.shield], restore [key.variable.positive]({0}) [key.stat.stamina] and [key.status.slow] that target by [key.variable.positive]({1:P0}) for [key.variable.positive]({2}) second(s).",

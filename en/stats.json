@@ -122,7 +122,7 @@
     "stats.spell_speed.name" : "Spellcasting Speed",
     "stats.spell_speed.short" : "[key.stat.magic.speed](SPELL SPD)",
     "stats.spell_speed.categorized" : "[key.stat.magic.speed](SPD)",
-    "stats.spell_speed.description" : "The percentage multiplier for how quickly you can cast spells.",
+    "stats.spell_speed.description" : "The percentage multiplier for how quickly you can cast [key.mechanic.spellcasting](Spells).",
 
     "stats.move_speed_multiplier.name" : "Move Speed",
     "stats.move_speed_multiplier.short" : "[key.stat.movement.speed](MOVE SPEED)",
@@ -142,7 +142,7 @@
     "stats.spell_power.name" : "Spell Power",
     "stats.spell_power.short" : "[key.stat.magic.power](SPELL POWER)",
     "stats.spell_power.categorized" : "[key.stat.magic.power](PWR)",
-    "stats.spell_power.description" : "Your baseline power when casting spells.\nAlmost all spells will scale off this in some way, but many specialized spells will scale off your other stats as well.",
+    "stats.spell_power.description" : "Your baseline power when casting [key.mechanic.spellcasting](Spells).\nAlmost all [key.mechanic.spellcasting](Spells) will scale off your [key.stat.magic.power] in some way, but many specialized [key.mechanic.spellcasting](Spells) will scale off your other stats as well.",
 
     "stats.fire_power.name" : "Fire Power",
     "stats.fire_power.short" : "[key.stat.power.fire](FIRE POWER)",

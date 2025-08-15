@@ -94,7 +94,7 @@
 
     "key.stat.magic.mana" : "Mana",
     "key.stat.magic.mana.tooltip.name" : "Mana",
-    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast spells, with higher level spells costing more mana.\nIt does not regenerate naturally.\nMost spellcasting classes will start each run with a [key.item_tag.flask] that will restore [key.stat.mana].",
+    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast [key.mechanic.spellcasting](Spells), with higher level [key.mechanic.spellcasting](Spells) costing more.\n[key.flavour.negative](Mana does not regenerate naturally).\nMost [key.mechanic.spellcasting] classes will start each run with a [key.item_tag.flask] that can restore [key.stat.magic.mana].",
 
     "key.stat.power.fire" : "Fire Power",
     "key.stat.power.frost" : "Frost Power",
@@ -135,7 +135,7 @@
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
-    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.constant.execution_mult] more damage by default, but many other effects will [key.mechanic.trigger] off them as well.",
+    "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.variable.static]([key.constant.execution_mult]) more [key.mechanic.damage] and [key.mechanic.trigger] [key.trigger.on_execute] effects.",
 
     "key.mechanic.trigger" : "Trigger",
     "key.mechanic.trigger.tooltip.name" : "Triggers",
@@ -189,7 +189,7 @@
 
     "key.mechanic.weak_point" : "Weak Point",
     "key.mechanic.weak_point.tooltip.name" : "Weak Points",
-    "key.mechanic.weak_point.tooltip.description" : "Most enemies will have a [key.mechanic.weak_point] somewhere on their body.\nIt wont always be obvious!\nBut for the most part you can ituit where its (e.g. the head).\nAttacking an enemies [key.mechanic.weak_point] with most weapons (and some spells) will score a [key.mechanic.critical_hit].",
+    "key.mechanic.weak_point.tooltip.description" : "Most enemies will have a [key.mechanic.weak_point] somewhere on their body.\nIt wont always be obvious!\nFor the most part though you can intuit where it is (e.g. the head).\nAttacking an enemies [key.mechanic.weak_point] with most weapons (and some [key.mechanic.spellcasting](Spells)) will score a [key.mechanic.critical_hit].",
 
     "key.mechanic.stacks" : "Stacks",
     "key.mechanic.stacks.tooltip.name" : "Stacks",
@@ -219,6 +219,16 @@
     "key.mechanic.dual_wielding" : "Dual-Wielding",
     "key.mechanic.dual_wielding.tooltip.name" : "Dual-Wielding",
     "key.mechanic.dual_wielding.tooltip.description" : "You are considered to be [key.mechanic.dual_wielding] when you are holding a [key.hold_type.one_handed] weapon in each hand ([key.item_tag.shield](Shields) excluded).\nSome [key.hold_type.two_handed] weapons may also count as [key.mechanic.dual_wielding] when it makes sense.\nIn these cases, the weapon will have the [key.mechanic.dual_wielding] flag.",
+
+    "key.mechanic.projectile" : "Projectile",
+    "key.mechanic.projectile.tooltip.name" : "Projectiles",
+    "key.mechanic.projectile.tooltip.description" : "[key.mechanic.projectile](Projectiles) are objects that are launched by weapons, items, certain attacks from enemies or [key.mechanic.spellcasting](Spells).\n[key.flag.physical] weapons (e.g. [key.item_tag.bow](Bows)) will fire [key.flag.physical] [key.mechanic.projectile](Projectiles) while [key.flag.magic](Magical) effects such as [key.mechanic.spellcasting](Spells) will fire [key.flag.magic](Magical) [key.mechanic.projectile](Projectiles). ",
+
+    
+    "key.mechanic.spellcasting" : "Spellcasting",
+    "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
+    "key.mechanic.spellcasting.tooltip.description" : "[key.flavour.negative](Spellcasting is not yet implemented.)\n[key.flavour.negative](Sorry!)",
+
 
     "key.status.bleed" : "Bleed",
     "key.status.bleed.tooltip.name" : "Bleed",
@@ -330,31 +340,27 @@
 
     "key.item_tag.flask" : "Flask",
     "key.item_tag.flask.tooltip.name" : "Flask",
-    "key.item_tag.flask.tooltip.description" : "You start each run with a [key.item_tag.flask] and a number of [key.stat.flask_charges] (usually 2).\nYou can drink from your [key.item_tag.flask] by pressing your [key.input.flask] key.\nEach classes starting [key.item_tag.flask] is unique though they will almost always restore some [key.stat.health] or [key.stat.mana] (or sometimes both).\nYou can find more unique [key.item_tag.flask](Flasks) in the dungeon.",
+    "key.item_tag.flask.tooltip.description" : "You start each run with a [key.item_tag.flask] full [key.stat.flask_charges].\nYou can drink from your [key.item_tag.flask] by pressing [key.input.flask].\nEach classes starting [key.item_tag.flask] is unique, though they will almost always restore some [key.stat.health] or [key.stat.magic.mana] (or sometimes both).\nYou can find more unique [key.item_tag.flask](Flasks) deeper in the dungeon.",
 
     "key.flag.melee" : "Melee",
     "key.flag.melee.tooltip.name" : "Melee",
-    "key.flag.melee.tooltip.description" : "Smacking an enemy with a stick is a [key.flag.melee] attack. So is punching them in the face.\nVery occasionally, some [key.flag.ranged] or [key.flag.spell] options may count as a [key.flag.melee] attack for the purpose of [key.mechanic.trigger](Triggering) extra effects.",
+    "key.flag.melee.tooltip.description" : "Smacking an enemy with a stick is a [key.flag.melee] attack. So is punching them in the face.\nVery occasionally, some [key.flag.ranged] or [key.mechanic.spellcasting] options may count as a [key.flag.melee] attack for the purpose of [key.mechanic.trigger](Triggering) extra effects.",
 
     "key.flag.ranged" : "Ranged",
     "key.flag.ranged.tooltip.name" : "Ranged",
-    "key.flag.ranged.tooltip.description" : "Shooting an enemy with an arrow is an example of a [key.flag.ranged] attack.\nSome [key.flag.spell](Spell) attacks may also be flagged as [key.flag.ranged]. [key.flag.spell](Spells) will have tags to show what flags they have.",
+    "key.flag.ranged.tooltip.description" : "Shooting an enemy with an arrow is an example of a [key.flag.ranged] attack.\nSome [key.mechanic.spellcasting](Spell) attacks may also be flagged as [key.flag.ranged]. [key.mechanic.spellcasting](Spells) will have tags to show what flags they have.",
 
     "key.flag.physical" : "Physical",
     "key.flag.physical.tooltip.name" : "Physical",
-    "key.flag.physical.tooltip.description" : "Attacks are usually flagged as [key.flag.physical] when you're hitting something with a physical object, such as a [key.item_tag.sword] or [key.item_tag.arrow].\nSome [key.flag.spell](Spells) may count as physical if, say, they throw a physics object or boulder made of earth.",
+    "key.flag.physical.tooltip.description" : "Attacks are usually flagged as [key.flag.physical] when you're hitting something with a physical object, such as a [key.item_tag.sword] or [key.item_tag.arrow].\nSome [key.mechanic.spellcasting](Spells) may count as [key.flag.physical] if, say, they throw a physical object at you, such as a boulder made of earth.",
 
     "key.flag.magic" : "Magic",
     "key.flag.magic.tooltip.name" : "Magic (Flag)",
-    "key.flag.magic.tooltip.description" : "Attacks flagged as [key.flag.magic](Magical) usually come from [key.flag.spell](Spells) or sometimes [key.flag.enchanted] weapons.\nHowever it got the flag, [key.flag.magic] attacks are usually harder to defend against.",
+    "key.flag.magic.tooltip.description" : "Attacks flagged as [key.flag.magic](Magical) usually come from [key.mechanic.spellcasting](Spells) or sometimes [key.flag.enchanted] weapons.\nHowever it got the flag, [key.flag.magic] attacks are usually harder to defend against.",
 
     "key.flag.enchanted" : "Enchanted",
     "key.flag.enchanted.tooltip.name" : "Enchanted (Flag)",
     "key.flag.enchanted.tooltip.description" : "[key.flag.enchanted] items are imbued with special properties beyond what they would ordinarily have.\nThese effects are so broad that trying to describe them here is silly.\nGo find them!",
-
-    "key.flag.spell" : "Spell",
-    "key.flag.spell.tooltip.name" : "Magic",
-    "key.flag.spell.tooltip.description" : "Magic",
 
     "key.flag.healing" : "Healing",
     "key.flag.healing.tooltip.name" : "Healing (Flag)",
