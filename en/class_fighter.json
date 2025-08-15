@@ -31,22 +31,22 @@
     "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun][key.style.break_small]You gain {0:P0} [key.stat.attack.speed] on your next [key.flag.melee] attack for [key.variable.positive]({1}) second(s).",
 
     "class.fighter.skill.cleave.name" : "Cleave",
-    "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] weapon, deal an extra [key.variable.positive]({0:P0}) damage for each enemy hit beyond the first during a swing.\n[key.mechanic.stacks] up to [key.variable.positive]({1}) times.",
+    "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] [key.flag.melee] weapon, deal an extra [key.variable.positive]({0:P0}) [key.mechanic.damage] for each enemy hit [key.flavour.important](beyond the first) during an attack.\n[key.mechanic.stacks] up to [key.variable.positive]({1}) times.",
 
     "class.fighter.skill.sadist.name" : "Sadist",
     "class.fighter.skill.sadist.description" : "[key.trigger.on_execute][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
-    "class.fighter.skill.weight_training.description" : "Your [key.stat.movement.speed] penalty during attacks with [key.hold_type.two_handed] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.stat.attack.speed] with them is increased by [key.variable.positive]({1:P0}).",
+    "class.fighter.skill.weight_training.description" : "Your [key.stat.movement.speed] penalty during attacks with [key.hold_type.two_handed] [key.flag.melee] weapons is reduced by [key.variable.positive]({0:P0})\nYour [key.stat.attack.speed] with [key.hold_type.two_handed] [key.flag.melee] weapons is increased by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.sword_retort.name" : "Duelist",
     "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry_window] window with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:P0}) and you restore [key.variable.positive]({1}) [key.stat.stamina] on successful [key.mechanic.parry](Parries), but your [key.mechanic.block_guard] with them is reduced by [key.variable.negative]({2:P0}).",
 
     "class.fighter.skill.cruel_blows.name" : "Cruel Blows",
-    "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] weapon any excess [key.mechanic.posture_damage_enemy] dealt when [key.mechanic.posture_break_enemy](Posture Breaking) a target is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.mechanic.posture_damage_enemy] with [key.hold_type.two_handed] weapons.",
+    "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] [key.flag.melee] weapon any excess [key.mechanic.posture_damage_enemy] dealt when [key.mechanic.posture_break_enemy](Posture Breaking) an enemy is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.mechanic.posture_damage_enemy] with [key.hold_type.two_handed] [key.flag.melee] weapons.",
 
     "class.fighter.skill.push_forwards.name" : "Push Forwards",
-    "class.fighter.skill.push_forwards.description" : "After taking damage, you can restore up to [key.variable.positive]({0:P0}) of the [key.stat.health] lost as [key.stat.grit] by dealing [key.mechanic.damage] for up to [key.variable.positive]({1}) seconds.",
+    "class.fighter.skill.push_forwards.description" : "[key.trigger.on_damaged][key.style.break_small]You can gain up to [key.variable.positive]({0:P0}) of the [key.stat.health] lost as [key.stat.grit] by dealing [key.mechanic.damage] for up to [key.variable.positive]({1}) seconds.",
 
     "class.fighter.skill.lunge.name" : "Lunge",
     "class.fighter.skill.lunge.description" : "[key.trigger.on_activate][key.style.break_small]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown.",
@@ -75,8 +75,8 @@
     "class.fighter.skill.dual_weapon_fighting.name" : "Dual Weapon Fighting",
     "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] penalty for attacks while [key.mechanic.dual_wielding] by {0:P0}.\nAdditionaly, you gain {1:P0} [key.stat.movement.speed] while [key.mechanic.dual_wielding].",
 
-    "class.fighter.skill.grit.name" : "Confidence",
-    "class.fighter.skill.grit.description" : "[key.trigger.on_parry]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within [key.variable.positive]({2}) seconds.",
+    "class.fighter.skill.grit.name" : "Cool Demeanour",
+    "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
     "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below [key.variable.positive]({0}), take no damage instead.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",

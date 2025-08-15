@@ -209,6 +209,11 @@
     "key.mechanic.damage.tooltip.name" : "Damage",
     "key.mechanic.damage.tooltip.description" : "[key.mechanic.damage] is how you reduce an enemies [key.stat.health] to zero.\n[key.mechanic.damage] can have its own types (e.g. [key.flag.fire] or [key.flag.poison]) and can be flagged as [key.flag.magic](Magical) or [key.flag.physical](Physical)\nRarely, [key.mechanic.damage] can have [key.flavour.important](multiple) types.\nTo read more about [key.mechanic.multi_type_damage](Multi-Type damage, click here.)",
 
+    "key.mechanic.damage_over_time" : "DoT",
+    "key.mechanic.damage_over_time.tooltip.name" : "Damage Over Time",
+    "key.mechanic.damage_over_time.tooltip.description" : "[key.mechanic.damage_over_time] is [key.mechanic.damage] that is dealt [key.flavour.important](periodically) (e.g. once per second) for some duration.\nFor instance, many [key.flag.poison] effects will apply [key.mechanic.damage_over_time](DoTs).",
+
+
     "key.mechanic.multi_type_damage" : "Multi-Type Damage",
     "key.mechanic.multi_type_damage.tooltip.name" : "Multi-Type Damage",
     "key.mechanic.multi_type_damage.tooltip.description" : "[key.mechanic.multi_type_damage] is [key.mechanic.damage] that has more than one type.\ne.g. [key.flag.fire] and [key.flag.frost] types combined will become [key.flag.frostfire].\n[key.mechanic.multi_type_damage] is calculated using the same way single-type [key.mechanic.damage] with two key differences.\nFirstly, you will add targets [key.stat.category.defense](Resistances) together for all relevant damage types and then you will apply all relevant [key.stat.category.penetration] stats to this combined number.\nThis means that you can benefit from having multiple high [key.stat.category.penetration] stats.\nFor instance, if an enemy has [key.variable.positive](100) [key.stat.defense.fire] but only [key.variable.positive](10) [key.stat.defense.frost], you will be able to deal drastically more damage by having high [key.stat.penetration.fire] and [key.stat.penetration.frost].",
@@ -277,6 +282,10 @@
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
     "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\nE.g. Only attacks with [key.flag.melee] weapons.",
+
+    "key.trigger.on_damaged" : "On Damaged",
+    "key.trigger.on_damaged.tooltip.name" : "On Damaged (Trigger)",
+    "key.trigger.on_damaged.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever [key.flavour.important](you) take [key.mechanic.damage].\nUsually doesn't [key.mechanic.trigger] for [key.mechanic.damage_over_time] effects.",
 
     "key.trigger.on_parry" : "On Parry",
     "key.trigger.on_parry.tooltip.name" : "On Parry (Trigger)",
