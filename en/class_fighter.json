@@ -79,10 +79,10 @@
     "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
-    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the damage you take to below [key.variable.positive]({0}), take no damage instead.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",
+    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the [key.mechanic.damage] you take to below [key.variable.positive]({0}) after applying your [key.stat.category.defense](Resistances), [key.flavour.important](negate) the [key.mechanic.damage] entirely.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.steel_soul.name" : "Steel of Soul",
-    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death][key.style.break_small]Instead of [key.mechanic.death](Dying), enter a beserked state for [key.variable.positive]({0}) seconds. If you [key.mechanic.kill] an enemy within that time you will prevent the death and be returned to [key.variable.positive]({1:P0}) [key.stat.health].\nThis effect does not prevent further damage while active.\nThis effect takes a lot out of you and requires a [key.mechanic.rest] to recover.",
+    "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death][key.style.break_small]Instead of [key.mechanic.death](Dying), prevent the [key.mechanic.death] and gain [key.variable.positive]({0}) [key.stat.grit].\nWhile yor [key.stat.grit] is above [key.flavour.important](0) you will not [key.mechanic.death](Die).\nIf you [key.mechanic.kill] an enemy while in this state you will prevent the [key.mechanic.death] and be returned to [key.variable.positive]({1:P0}) [key.stat.health.max].\nThis effect does not prevent further [key.mechanic.damage] while active.\nThis skill takes its toll on you and requires a [key.mechanic.rest] to recover.",
    
     "class.fighter.skill.shield_counter.name" : "Counter Bash",
     "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry][key.style.break_small]Your [key.mechanic.block] will become active during your next [key.flag.melee] attack with a [key.item_tag.shield] within [key.variable.positive]({0}) seconds",
@@ -106,5 +106,5 @@
     "class.fighter.skill.shield_perfect_defense.description" : "You may still attack with your opposite hand when [key.mechanic.block](Blocking) with a [key.item_tag.shield] at a [key.variable.negative]({0:P0}) [key.stat.stamina] cost penalty.",
 
     "class.fighter.skill.shield_steady.name" : "Steady",
-    "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0:P0}) more [key.mechanic.block_guard]."
+    "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0:P0}) more [key.mechanic.block_guard]." 
   }

@@ -219,7 +219,8 @@
     "key.mechanic.multi_type_damage.tooltip.description" : "[key.mechanic.multi_type_damage] is [key.mechanic.damage] that has more than one type.\ne.g. [key.flag.fire] and [key.flag.frost] types combined will become [key.flag.frostfire].\n[key.mechanic.multi_type_damage] is calculated using the same way single-type [key.mechanic.damage] with two key differences.\nFirstly, you will add targets [key.stat.category.defense](Resistances) together for all relevant damage types and then you will apply all relevant [key.stat.category.penetration] stats to this combined number.\nThis means that you can benefit from having multiple high [key.stat.category.penetration] stats.\nFor instance, if an enemy has [key.variable.positive](100) [key.stat.defense.fire] but only [key.variable.positive](10) [key.stat.defense.frost], you will be able to deal drastically more damage by having high [key.stat.penetration.fire] and [key.stat.penetration.frost].",
 
     "key.mechanic.rest" : "Rest",
-    "key.mechanic.rest.description" : "Rest",
+    "key.mechanic.rest.tooltip.name" : "Resting",
+    "key.mechanic.rest.tooltip.description" : "[key.flavour.negative](Resting isn't implement yet, so effects that rely on it wont recharge.)",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
     "key.mechanic.dual_wielding.tooltip.name" : "Dual-Wielding",
