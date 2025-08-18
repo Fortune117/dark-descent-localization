@@ -417,6 +417,11 @@
     "key.hold_type.two_handed" : "Two-Handed",
     "key.hold_type.one_handed" : "One-Handed",
 
+    "key.enchantment.strength" : "Enchantment Strength",
+    "key.enchantment.combined" : "(Enchantment Strength + Item Enhancement Bonus)",
+
+    "key.skill.level" : "Skill Level",
+
     "key.flavour.important" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.fluff" : "You shouldn't see this! Yell at fortune :)",
 
