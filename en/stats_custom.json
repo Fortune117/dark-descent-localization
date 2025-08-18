@@ -1,0 +1,5 @@
+{
+    "key.stat.generic.armor_bonus_scaling" : "Armor Bonus Scaling",
+    "key.stat.generic.armor_bonus_scaling.tooltip.name" : "Armor Bonus Scaling",
+    "key.stat.generic.armor_bonus_scaling.tooltip.description" : "Increases the stats you gain from [key.item_tag.armor] you're wearing.\nDoes not affect [key.flag.enchanted](Enchantment) strength."
+}
