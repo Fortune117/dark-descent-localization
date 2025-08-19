@@ -15,6 +15,10 @@
     "key.item_tag.dagger.tooltip.name" : "Daggers",
     "key.item_tag.dagger.tooltip.description" : "Daggers are lil pointy sticks that you can stab people with.\nThey typically scale more with [key.stat.dexterity] than most weapons and are always [key.hold_type.one_handed].",
 
+    "key.item_tag.spear" : "Spear",
+    "key.item_tag.spear.tooltip.name" : "Spear",
+    "key.item_tag.spear.tooltip.description" : "Spears a longer weapons that tend to be pointer on the end.\nCan be either [key.hold_type.one_handed] or [key.hold_type.two_handed].",
+
     "key.item_tag.bow" : "Bow",
     "key.item_tag.bow.tooltip.name" : "Bow",
     "key.item_tag.bow.tooltip.description" : "[key.item_tag.bow](Bows) typically fire arrows at stuff.\nSometimes they have wacky effects.",

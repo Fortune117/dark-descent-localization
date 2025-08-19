@@ -1,0 +1,45 @@
+{
+    "key.status.bleed" : "Bleed",
+    "key.status.bleed.tooltip.name" : "Bleed",
+    "key.status.bleed.tooltip.description" : "i dunno i haven't really thought about it",
+
+    "key.status.slow" : "Slow",
+    "key.status.slow.tooltip.name" : "Slow",
+    "key.status.slow.tooltip.description" : "Reduces the targets [key.stat.attack.speed] and [key.stat.movement.speed] for the duration.",
+
+    "key.status.necrosis" : "Necrosis",
+    "key.status.necrosis.tooltip.name" : "Necrosis",
+    "key.status.necrosis.tooltip.description" : "Each [key.mechanic.stacks](Stack) of [key.status.necrosis] [key.flavour.negative](increases) the targets [key.stat.health.min] by [key.variable.positive](1).\nIf the targets [key.stat.health.min] becomes [key.flavour.important](Greater) than the targets [key.stat.health](Current Health), they will [key.mechanic.death](Die) (horribly).\nThe [key.stat.health.min] increase is reduced by the targets [key.stat.defense.necrotic].",
+
+    "key.status.rime" : "Rime",
+    "key.status.rime.tooltip.name" : "Rime",
+    "key.status.rime.tooltip.description" : "Each [key.mechanic.stacks](Stack) of [key.status.rime] reduces the targets [key.stat.defense.frost] by [key.variable.positive](1).\nIf the targets [key.status.rime] [key.mechanic.stacks] reach the targets [key.stat.posture.max] they will become [key.status.frozen].\nThe effects of [key.status.rime] are reduced by the targets [key.stat.defense.frost].",
+
+    "key.status.frozen" : "Frozen",
+    "key.status.frozen.tooltip.name" : "Frozen",
+    "key.status.frozen.tooltip.description" : "The target is [key.flavour.frost](encased in ice) and unable to move.\nThis will [key.mechanic.trigger] [key.trigger.on_stun] effects.",
+
+    "key.status.bane" : "Bane",
+    "key.status.bane.tooltip.name" : "Bane",
+    "key.status.bane.tooltip.description" : "Each [key.mechanic.stacks](Stack) of [key.status.bane] causes [key.variable.positive](1) point of [key.flag.poison] [key.mechanic.damage] per second.\nNice and simple.",
+
+    "key.status.charge" : "Charge",
+    "key.status.charge.tooltip.name" : "Charge",
+    "key.status.charge.tooltip.description" : "Each [key.mechanic.stacks](Stack) of [key.status.charge] reduces the targets [key.stat.defense.electric] by [key.variable.positive](0.5).\nEach tick there is a chance for the target to reduce its [key.status.charge] [key.mechanic.stacks] by [key.variable.positive](50%).\nWhen this happens, the target will send an [key.flavour.electric](arc of electricity) to another nearby enemy for [key.variable.positive](1) [key.flag.electric] [key.mechanic.damage] per [key.mechanic.stacks](Stack) lost.",
+
+    "key.status.entropic" : "Entropic",
+    "key.status.entropic.tooltip.name" : "Entropic",
+    "key.status.entropic.tooltip.description" : "[key.status.entropic] targets are falling apart at a fundamental level.\nFor each [key.mechanic.stacks](Stack) of [key.status.entropic] reduce [key.flavour.important](ALL) of the targets [key.stat.category.defense](Resistances) by [key.variable.positive](1%).",
+
+    "key.status.burn" : "Burn",
+    "key.status.burn.tooltip.name" : "Burn",
+    "key.status.burn.tooltip.description" : "[key.flavour.dramatic](The target is weakened by the immense pain of scalding flesh.)\nFor each [key.mechanic.stacks](Stack) of [key.status.burn] you reduce the targets [key.stat.defense.armor] and [key.stat.defense.fire] by [key.variable.positive](1).\nAdditionally, the target will take [key.variable.positive](0.5) [key.mechanic.posture_damage_enemy] per [key.mechanic.stacks](Stack) per second.\nThe strength of the [key.status.burn] is reduced by the targets [key.stat.defense.fire].",
+
+    "key.status.glimpse" : "Glimpse",
+    "key.status.glimpse.tooltip.name" : "Glimpse",
+    "key.status.glimpse.tooltip.description" : "The target has [key.flavour.negative](seen something it shouldn't).\nFor each [key.mechanic.stacks](Stack) of [key.status.glimpse] reduce the targets [key.stat.defense.occult] by [key.variable.positive](1).\nAdditionally, each tick the target has a chance (scaling with [key.status.glimpse] [key.mechanic.stacks] to become inflicted with a random [key.status.madness] effect.\n[key.flavour.fluff]Mind and flesh writhe in equal measure in the face of the Abyss.",
+
+    "key.status.radiance" : "Radiance",
+    "key.status.radiance.tooltip.name" : "Radiance",
+    "key.status.radiance.tooltip.description" : "The target is infused with [key.flag.divine](Divine Energies).\n[key.trigger.on_death] the target will explode in a burst of [key.flag.divine](Divine Radiance) dealing [key.variable.positive](1) [key.flag.divine] [key.mechanic.damage] for each [key.mechanic.stacks](Stack) of [key.status.radiance].\nAdditionally, the explosion applies [key.status.radiance] equal to [key.variable.positive](50%) of the [key.mechanic.damage] dealt.\nThis explosion will not hit yourself or allies."
+}
