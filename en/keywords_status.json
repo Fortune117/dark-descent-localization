@@ -1,4 +1,7 @@
 {
+    "key.status.stacks" : "Status.Stacks",
+    "key.status.scale" : "Status.Scale",
+
     "key.status.bleed" : "Bleed",
     "key.status.bleed.tooltip.name" : "Bleed",
     "key.status.bleed.tooltip.description" : "i dunno i haven't really thought about it",
