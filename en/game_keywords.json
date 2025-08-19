@@ -316,42 +316,6 @@
     "key.trigger.on_activate.tooltip.name" : "On Activation",
     "key.trigger.on_activate.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you activate this ability.",
 
-    "key.item_tag.shield" : "Shield",
-    "key.item_tag.shield.tooltip.name" : "Shields",
-    "key.item_tag.shield.tooltip.description" : "[key.item_tag.shield](Shields) are simply a different category of weapon - they function the same as any other.\nHowever, shields often have higher [key.mechanic.block_guard] values and usually grant some extra [key.stat.posture].",
-
-    "key.item_tag.sword" : "Sword",
-    "key.item_tag.sword.tooltip.name" : "Swords",
-    "key.item_tag.sword.tooltip.description" : "Swords are a broad category of weapons that can include [key.hold_type.one_handed] weapons or [key.hold_type.two_handed] weapons.",
-
-    "key.item_tag.dagger" : "Dagger",
-    "key.item_tag.dagger.tooltip.name" : "Daggers",
-    "key.item_tag.dagger.tooltip.description" : "Daggers are lil pointy sticks that you can stab people with.\nThey typically scale more with [key.stat.dexterity] than most weapons and are always [key.hold_type.one_handed].",
-
-    "key.item_tag.light" : "Light",
-    "key.item_tag.light.tooltip.name" : "Light",
-    "key.item_tag.light.tooltip.description" : "[key.item_tag.light] items weigh less than other items in their category, but the [key.item_tag.light] tag doesn't anything special on their own, but some features may check for this tag.",
-
-    "key.item_tag.heavy" : "Heavy",
-    "key.item_tag.heavy.tooltip.name" : "Heavy",
-    "key.item_tag.heavy.tooltip.description" : "[key.item_tag.heavy] items weigh more than other items in their category, but the [key.item_tag.heavy] tag doesn't anything special on their own, but some features may check for this tag.",
-    
-    "key.item_tag.armor" : "Armor",
-    "key.item_tag.armor.tooltip.name" : "Armor",
-    "key.item_tag.armor.tooltip.description" : "[key.item_tag.armor] is any equipment that goes into your head, chest, arm and leg slots.",
-
-    "key.item_tag.bow" : "Bow",
-    "key.item_tag.bow.tooltip.name" : "Bow",
-    "key.item_tag.bow.tooltip.description" : "[key.item_tag.bow](Bows) typically fire arrows at stuff.\nSometimes they have wacky effects.",
-
-    "key.item_tag.arrow" : "Arrow",
-    "key.item_tag.arrow.tooltip.name" : "Arrow",
-    "key.item_tag.arrow.tooltip.description" : "[key.flag.physical] projectile typically fired by a [key.item_tag.bow].\nArrows will inherit the flags of whatever weapon fires them.",
-
-    "key.item_tag.flask" : "Flask",
-    "key.item_tag.flask.tooltip.name" : "Flask",
-    "key.item_tag.flask.tooltip.description" : "You start each run with a [key.item_tag.flask] full [key.stat.flask_charges].\nYou can drink from your [key.item_tag.flask] by pressing [key.input.flask].\nEach classes starting [key.item_tag.flask] is unique, though they will almost always restore some [key.stat.health] or [key.stat.magic.mana] (or sometimes both).\nYou can find more unique [key.item_tag.flask](Flasks) deeper in the dungeon.",
-
     "key.flag.melee" : "Melee",
     "key.flag.melee.tooltip.name" : "Melee",
     "key.flag.melee.tooltip.description" : "Smacking an enemy with a stick is a [key.flag.melee] attack. So is punching them in the face.\nVery occasionally, some [key.flag.ranged] or [key.mechanic.spellcasting] options may count as a [key.flag.melee] attack for the purpose of [key.mechanic.trigger](Triggering) extra effects.",
