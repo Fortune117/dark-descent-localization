@@ -114,10 +114,16 @@
     "stats.mana_max.categorized" : "[key.stat.magic.mana.max](MANA)",
     "stats.mana_max.description" : "The maximum amount of [key.stat.magic.mana] you can have.",
     
+    "stats.attack_power.name" : "Attack Power",
+    "stats.attack_power.short" : "[key.stat.attack.power](ATTACK POWER)",
+    "stats.attack_power.categorized" : "[key.stat.attack.power](PWR)",
+    "stats.attack_power.description" : "Your damage with most weapons will also scale off your [key.stat.attack.power].\n[key.stat.attack.power] is rarely obtained naturally and is usually found on better equipment.\nHigher quality weapons typically have better scaling for attack power.",
+    
+
     "stats.attack_speed.name" : "Attack Speed",
     "stats.attack_speed.short" : "[key.stat.attack.speed](ATK SPD)",
     "stats.attack_speed.categorized" : "[key.stat.attack.speed](SPD)",
-    "stats.attack_speed.description" : "The percentage multiplier for how quickly you can attack with weapons.\nOccasionally affects the speed at which you perform other physical actions.",
+    "stats.attack_speed.description" : "The [key.flavour.important](percentage multiplier) for how quickly you can attack with weapons.\nOccasionally affects the speed at which you perform other actions, such as swapping weapons.",
     
     "stats.spell_speed.name" : "Spellcasting Speed",
     "stats.spell_speed.short" : "[key.stat.magic.speed](SPELL SPD)",
@@ -134,11 +140,6 @@
     "stats.jump_height_multiplier.categorized" : "[key.stat.movement.jump_height](JMP)",
     "stats.jump_height_multiplier.description" : "The percentage multiplier for how high you can jump.",
 
-    "stats.attack_power.name" : "Attack Power",
-    "stats.attack_power.short" : "[key.stat.attack.power](ATTACK POWER)",
-    "stats.attack_power.categorized" : "[key.stat.attack.power](PWR)",
-    "stats.attack_power.description" : "Your damage with most weapons will also scale off your [key.stat.attack.power].\n[key.stat.attack.power] is rarely obtained naturally and is usually found on better equipment.\nHigher quality weapons typically have better scaling for attack power.",
-    
     "stats.spell_power.name" : "Spell Power",
     "stats.spell_power.short" : "[key.stat.magic.power](SPELL POWER)",
     "stats.spell_power.categorized" : "[key.stat.magic.power](PWR)",
@@ -252,7 +253,7 @@
     "stats.critical_multiplier.name" : "Critical Multiplier",
     "stats.critical_multiplier.short" : "[key.stat.attack.critical_multiplier](CRIT MULT)",
     "stats.critical_multiplier.categorized" : "[key.stat.attack.critical_multiplier](CRT)",
-    "stats.critical_multiplier.description" : "When scoring a [key.mechanic.critical_hit], the damage it deals will be multiplied by this percentage.\nMany enemies have weak spots that will always score a [key.mechanic.critical_hit] when struck.\nMost weapons and some spells are capable of scoring [key.mechanic.critical_hit](Criticals).",
+    "stats.critical_multiplier.description" : "When scoring a [key.mechanic.critical_hit], the [key.mechanic.damage] it deals will be multiplied by this percentage.\nMany enemies have [key.mechanic.weak_point](Weak Points) that will always score a [key.mechanic.critical_hit] when struck.\nMost weapons and some spells are capable of scoring [key.mechanic.critical_hit](Criticals).",
     
     "stats.knockback.name" : "Knockback",
     "stats.knockback.short" : "[key.stat.attack.knockback](KNOCKBACK)",
