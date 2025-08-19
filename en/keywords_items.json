@@ -1,11 +1,15 @@
 {
     "key.item_tag.shield" : "Shield",
     "key.item_tag.shield.tooltip.name" : "Shields",
-    "key.item_tag.shield.tooltip.description" : "[key.item_tag.shield](Shields) are simply a different category of weapon - they function the same as any other.\nHowever, shields often have higher [key.mechanic.block_guard] values and usually grant some extra [key.stat.posture].",
+    "key.item_tag.shield.tooltip.description" : "[key.item_tag.shield](Shields) are simply a different category of weapon - they function the same as big club really.\nHowever, shields often have higher [key.mechanic.block_guard] values and usually grant some extra [key.stat.posture] and [key.stat.defnse.armor] when equipped.",
 
     "key.item_tag.sword" : "Sword",
     "key.item_tag.sword.tooltip.name" : "Swords",
-    "key.item_tag.sword.tooltip.description" : "Swords are a broad category of weapons that can include [key.hold_type.one_handed] weapons or [key.hold_type.two_handed] weapons.",
+    "key.item_tag.sword.tooltip.description" : "Swords are a broad category of weapons that can include shorter [key.hold_type.one_handed] weapons such as a short sword or gladius, as well as larger [key.hold_type.two_handed] weapons like a zweihander.",
+
+    "key.item_tag.axe" : "Axe",
+    "key.item_tag.axe.tooltip.name" : "Axe",
+    "key.item_tag.axe.tooltip.description" : "Axes are a broad category of weapons that can include small [key.hold_type.one_handed] weapons such as hatchets or larger [key.hold_type.two_handed] weapons like a war-axe.",
 
     "key.item_tag.dagger" : "Dagger",
     "key.item_tag.dagger.tooltip.name" : "Daggers",
@@ -53,5 +57,33 @@
 
     "key.item_tag.metal" : "Metal",
     "key.item_tag.metal.tooltip.name" : "Metal (Tag)",
-    "key.item_tag.metal.tooltip.description" : "This item is composed largely of metal."
+    "key.item_tag.metal.tooltip.description" : "This item is composed largely of metal.\nThe [key.item_tag.metal] tag has no intrinsic effect.",
+
+    "key.item_tag.melee" : "Melee",
+    "key.item_tag.melee.tooltip.name" : "Melee (Tag)",
+    "key.item_tag.melee.tooltip.description" : "This item can be used as a [key.flag.melee] weapon.",
+
+    "key.item_tag.onehanded" : "One-Handed",
+    "key.item_tag.onehanded.tooltip.name" : "One-Handed (Tag)",
+    "key.item_tag.onehanded.tooltip.description" : "This item can be wielded [key.hold_type.one_handed].",
+
+    "key.item_tag.twohanded" : "Two-Handed",
+    "key.item_tag.twohanded.tooltip.name" : "Two-Handed (Tag)",
+    "key.item_tag.twohanded.tooltip.description" : "This item must be wielded [key.hold_type.two_handed].",
+
+    "key.item_tag.simple" : "Simple",
+    "key.item_tag.simple.tooltip.name" : "Simple (Tag)",
+    "key.item_tag.simple.tooltip.description" : "This weapon is simply made and easy to understand.\nIt requires no special training to use correctly.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!).",
+
+    "key.item_tag.martial" : "Martial",
+    "key.item_tag.martial.tooltip.name" : "Martial (Tag)",
+    "key.item_tag.martial.tooltip.description" : "This weapon is crafted for martial combat and requires a degree of expertise to use correctly.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!).",
+
+    "key.item_tag.str" : "STR",
+    "key.item_tag.str.tooltip.name" : "Strength (Tag)",
+    "key.item_tag.str.tooltip.description" : "This weapon scales off of your [key.stat.strength].",
+
+    "key.item_tag.dex" : "DEX",
+    "key.item_tag.dex.tooltip.name" : "Dexterity (Tag)",
+    "key.item_tag.dex.tooltip.description" : "This weapon scales off of your [key.stat.dexterity]."
 }
