@@ -131,7 +131,7 @@
 
     "key.mechanic.block_guard" : "Guard",
     "key.mechanic.block_guard.tooltip.name" : "Guard",
-    "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) is the property of [key.mechanic.block](Blocking) implements that determines how much of the blocked damage is converted into [key.mechanic.posture_damage].\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] being lost during your blocks, allowing you to block more damaging attacks safely.",
+    "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) is the property of [key.mechanic.block](Blocking) implements that determines how much of the [key.mechanic.block](Blocked) [key.mechanic.damage](Damage) is converted into [key.mechanic.posture_damage].\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] being lost during your [key.mechanic.block](Blocks), allowing you to [key.mechanic.block] higher [key.mechanic.damage] attacks.",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
@@ -213,7 +213,6 @@
     "key.mechanic.damage_over_time.tooltip.name" : "Damage Over Time",
     "key.mechanic.damage_over_time.tooltip.description" : "[key.mechanic.damage_over_time] is [key.mechanic.damage] that is dealt [key.flavour.important](periodically) (e.g. once per second) for some duration.\nFor instance, many [key.flag.poison] effects will apply [key.mechanic.damage_over_time](DoTs).",
 
-
     "key.mechanic.multi_type_damage" : "Multi-Type Damage",
     "key.mechanic.multi_type_damage.tooltip.name" : "Multi-Type Damage",
     "key.mechanic.multi_type_damage.tooltip.description" : "[key.mechanic.multi_type_damage] is [key.mechanic.damage] that has more than one type.\ne.g. [key.flag.fire] and [key.flag.frost] types combined will become [key.flag.frostfire].\n[key.mechanic.multi_type_damage] is calculated using the same way single-type [key.mechanic.damage] with two key differences.\nFirstly, you will add targets [key.stat.category.defense](Resistances) together for all relevant damage types and then you will apply all relevant [key.stat.category.penetration] stats to this combined number.\nThis means that you can benefit from having multiple high [key.stat.category.penetration] stats.\nFor instance, if an enemy has [key.variable.positive](100) [key.stat.defense.fire] but only [key.variable.positive](10) [key.stat.defense.frost], you will be able to deal drastically more damage by having high [key.stat.penetration.fire] and [key.stat.penetration.frost].",
@@ -230,7 +229,6 @@
     "key.mechanic.projectile.tooltip.name" : "Projectiles",
     "key.mechanic.projectile.tooltip.description" : "[key.mechanic.projectile](Projectiles) are objects that are launched by weapons, items, certain attacks from enemies or [key.mechanic.spellcasting](Spells).\n[key.flag.physical] weapons (e.g. [key.item_tag.bow](Bows)) will fire [key.flag.physical] [key.mechanic.projectile](Projectiles) while [key.flag.magic](Magical) effects such as [key.mechanic.spellcasting](Spells) will fire [key.flag.magic](Magical) [key.mechanic.projectile](Projectiles). ",
 
-    
     "key.mechanic.spellcasting" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.description" : "[key.flavour.negative](Spellcasting is not yet implemented.)\n[key.flavour.negative](Sorry!)",
