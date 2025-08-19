@@ -263,7 +263,7 @@
     "stats.armor.name" : "Armor",
     "stats.armor.short" : "[key.stat.defense.armor](ARMOR)",
     "stats.armor.categorized" : "[key.stat.defense.armor](ARM)",
-    "stats.armor.description" : "All [key.flag.physical] damage is reduced by your armor.",
+    "stats.armor.description" : "All [key.flag.physical] damage you take is reduced by your [key.stat.defense.armor].",
     
     "stats.warding.name" : "Ward",
     "stats.warding.short" : "[key.stat.defense.ward](WARD)",

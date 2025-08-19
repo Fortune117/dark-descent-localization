@@ -1,26 +1,26 @@
 {
   "enchantment.flaming.name" : "Flaming",
-  "enchantment.flaming.description" : "[key.trigger.on_hit](On Hit:) Deal [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.burn].",
+  "enchantment.flaming.description" : "[key.trigger.on_hit][key.style.break_small]Deal [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.burn].",
   "enchantment.flaming.prefix" : "Flaming",
   "enchantment.flaming.suffix" : "",
 
   "enchantment.freezing.name" : "Freezing",
-  "enchantment.freezing.description" : "[key.trigger.on_hit](On Hit:) Deal [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.rime].",
+  "enchantment.freezing.description" : "[key.trigger.on_hit][key.style.break_small]Deal [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.rime].",
   "enchantment.freezing.prefix" : "Freezing",
   "enchantment.freezing.suffix" : "",
   
   "enchantment.shocking.name" : "Shocking",
-  "enchantment.shocking.description" : "[key.trigger.on_hit](On Hit:) Deal [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.charge].",
+  "enchantment.shocking.description" : "[key.trigger.on_hit][key.style.break_small]Deal [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage] and apply [key.variable.positive](0) [key.status.charge].",
   "enchantment.shocking.prefix" : "Shocking",
   "enchantment.shocking.suffix" : "",
   
   "enchantment.riposte.name" : "Riposte",
-  "enchantment.riposte.description" : "[key.trigger.on_parry](On Parry:) Your [key.flavour.important](First) attack in the next [key.variable.static](3) seconds has [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed].",
+  "enchantment.riposte.description" : "[key.trigger.on_parry][key.style.break_small]Your [key.flavour.important](first) attack in the next [key.variable.static](3) seconds has [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed].",
   "enchantment.riposte.prefix" : "",
   "enchantment.riposte.suffix" : "",
 
   "enchantment.frenzy.name" : "Frenzy",
-  "enchantment.frenzy.description" : "[key.trigger.on_hit](On Hit:) Gain [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed] and [key.variable.positive]({1:+0%;-0%;0%}) [key.stat.movement.speed] for [key.variable.static](4) seconds.\n[key.mechanic.stacks] up to [key.variable.static](3) times.",
+  "enchantment.frenzy.description" : "[key.trigger.on_hit][key.style.break_small]Gain [key.variable.positive]({0:+0%;-0%;0%}) [key.stat.attack.speed] and [key.variable.positive]({1:+0%;-0%;0%}) [key.stat.movement.speed] for [key.variable.static](4) seconds.\n[key.mechanic.stacks] up to [key.variable.static](3) times.",
   "enchantment.frenzy.prefix" : "",
   "enchantment.frenzy.suffix" : "",
 

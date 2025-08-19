@@ -139,7 +139,7 @@
 
     "key.mechanic.trigger" : "Trigger",
     "key.mechanic.trigger.tooltip.name" : "Triggers",
-    "key.mechanic.trigger.tooltip.description" : "Some effects will \"[key.mechanic.trigger]\" other effects.\nFor instance [key.trigger.on_parry] triggers are triggered when you successfully [key.mechanic.parry] an attack. When an effect is triggered it may produce new results or augment whatever action initiated the trigger in some way.",
+    "key.mechanic.trigger.tooltip.description" : "Some effects will \"[key.mechanic.trigger]\" other effects.\nFor instance [key.trigger.on_parry] triggers are triggered whenever you successfully [key.mechanic.parry] an attack.\nWhen an effect is [key.mechanic.trigger](Triggered) it may produce new results or augment whatever action initiated the trigger in some way.",
 
     "key.mechanic.parry" : "Parry",
     "key.mechanic.parry.tooltip.name" : "Parrying",
@@ -207,7 +207,7 @@
 
     "key.mechanic.damage" : "Damage",
     "key.mechanic.damage.tooltip.name" : "Damage",
-    "key.mechanic.damage.tooltip.description" : "[key.mechanic.damage] is how you reduce an enemies [key.stat.health] to zero.\n[key.mechanic.damage] can have its own types (e.g. [key.flag.fire] or [key.flag.poison]) and can be flagged as [key.flag.magic](Magical) or [key.flag.physical](Physical)\nRarely, [key.mechanic.damage] can have [key.flavour.important](multiple) types.\nTo read more about [key.mechanic.multi_type_damage](Multi-Type damage, click here.)",
+    "key.mechanic.damage.tooltip.description" : "[key.mechanic.damage] is how you reduce an enemies [key.stat.health].\n[key.mechanic.damage] can have its own types (e.g. [key.flag.fire] or [key.flag.poison]) and can be flagged as [key.flag.magic](Magical) or [key.flag.physical](Physical)\nRarely, [key.mechanic.damage] can have [key.flavour.important](multiple) types.\nTo read more about [key.mechanic.multi_type_damage](Multi-Type damage, click here.)",
 
     "key.mechanic.damage_over_time" : "DoT",
     "key.mechanic.damage_over_time.tooltip.name" : "Damage Over Time",
@@ -282,7 +282,7 @@
 
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
-    "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\nE.g. Only attacks with [key.flag.melee] weapons.",
+    "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\ne.g. only attacks with [key.flag.melee] weapons.",
 
     "key.trigger.on_damaged" : "On Damaged",
     "key.trigger.on_damaged.tooltip.name" : "On Damaged (Trigger)",

@@ -63,6 +63,10 @@
     "key.item_tag.melee.tooltip.name" : "Melee (Tag)",
     "key.item_tag.melee.tooltip.description" : "This item can be used as a [key.flag.melee] weapon.",
 
+    "key.item_tag.ranged" : "Ranged",
+    "key.item_tag.ranged.tooltip.name" : "Ranged (Tag)",
+    "key.item_tag.ranged.tooltip.description" : "This item can be used as a [key.flag.ranged] weapon.",
+
     "key.item_tag.onehanded" : "One-Handed",
     "key.item_tag.onehanded.tooltip.name" : "One-Handed (Tag)",
     "key.item_tag.onehanded.tooltip.description" : "This item can be wielded [key.hold_type.one_handed].",
@@ -70,6 +74,10 @@
     "key.item_tag.twohanded" : "Two-Handed",
     "key.item_tag.twohanded.tooltip.name" : "Two-Handed (Tag)",
     "key.item_tag.twohanded.tooltip.description" : "This item must be wielded [key.hold_type.two_handed].",
+
+    "key.item_tag.improvised" : "Improvised",
+    "key.item_tag.improvised.tooltip.name" : "Improvised (Tag)",
+    "key.item_tag.improvised.tooltip.description" : "This weapon is comprised of in whole or in part, improvised parts.\nIt requires no special training to use correctly and likely isn't as effective as a properly made weapon.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!).",
 
     "key.item_tag.simple" : "Simple",
     "key.item_tag.simple.tooltip.name" : "Simple (Tag)",
@@ -85,5 +93,9 @@
 
     "key.item_tag.dex" : "DEX",
     "key.item_tag.dex.tooltip.name" : "Dexterity (Tag)",
-    "key.item_tag.dex.tooltip.description" : "This weapon scales off of your [key.stat.dexterity]."
+    "key.item_tag.dex.tooltip.description" : "This weapon scales off of your [key.stat.dexterity].",
+
+    "key.item_tag.heal" : "Healing",
+    "key.item_tag.heal.tooltip.name" : "Healing (Tag)",
+    "key.item_tag.heal.tooltip.description" : "This item is capable of [key.flag.healing](Healing) you."
 }

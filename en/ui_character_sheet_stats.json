@@ -1,3 +1,4 @@
 {
-    "character_sheet.stats.core_stats" : "Core Stats"
+    "character_sheet.stats.core_stats" : "Core Stats",
+    "character_sheet.stats.more_info" : "Hold CTRL for more info."
 }
