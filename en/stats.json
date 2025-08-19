@@ -1,30 +1,30 @@
 {
-    "stats.strength.name" : "Strength",
+    "stats.strength.name" : "[key.stat.strength](Strength)",
     "stats.strength.short" : "[key.stat.strength](STRENGTH)",
     "stats.strength.categorized" : "[key.stat.strength](STR)",
     "stats.strength.description" : "[key.stat.strength](Strength) is responsible for damage scaling with [key.item_tag.heavy](Heavier) [key.flag.melee] weapons, but nearly all [key.flag.melee] weapons are scaled by it to an extent.\nIt also affects [key.stat.stamina](Stamina Costs), [key.stat.attack.knockback] & [key.stat.resistance.knockback], [key.stat.movement.jump_height] and [key.stat.misc.carry_weight].",
 
-    "stats.dexterity.name" : "Dexterity",
+    "stats.dexterity.name" : "[key.stat.dexterity](Dexterity)",
     "stats.dexterity.short" : "[key.stat.dexterity](DEXTERITY)",
     "stats.dexterity.categorized" : "[key.stat.dexterity](DEX)",
     "stats.dexterity.description" : "[key.stat.dexterity](Dexterity) is responsible for damage scaling with [key.item_tag.light](Lighter) [key.flag.melee] weapons and [key.flag.ranged] weapons.\nIt also affects [key.stat.attack.speed], [key.stat.stamina.regen] and [key.stat.movement.speed], to a lesser degree.",
 
-    "stats.constitution.name" : "Constitution",
+    "stats.constitution.name" : "[key.stat.constitution](Constitution)",
     "stats.constitution.short" : "[key.stat.constitution](CONSTITUTION)",
     "stats.constitution.categorized" : "[key.stat.constitution](CON)",
     "stats.constitution.description" : "[key.stat.constitution](Constitution) is responsible for your [key.stat.health.max], [key.stat.stamina.max] and your [key.stat.health.heal_mult].",
 
-    "stats.mind.name" : "Mind",
+    "stats.mind.name" : "[key.stat.mind](Mind)",
     "stats.mind.short" : "[key.stat.mind](MIND)",
     "stats.mind.categorized" : "[key.stat.mind](MIND)",
     "stats.mind.description" : "[key.stat.mind](Mind) is responsible for your [key.stat.magic.power], [key.stat.magic.speed] and reducing your [key.stat.concentration.cost](Concentration Costs).",
 
-    "stats.willpower.name" : "Willpower",
+    "stats.willpower.name" : "[key.stat.mind](Willpower)",
     "stats.willpower.short" : "[key.stat.willpower](WILLPOWER)",
     "stats.willpower.categorized" : "[key.stat.willpower](WILL)",
     "stats.willpower.description" : "[key.stat.willpower](Willpower) is responsible for your [key.stat.concentration.max], [key.stat.concentration.regen], and a small amount of [key.stat.resistance.critical]",
 
-    "stats.luck.name" : "Luck",
+    "stats.luck.name" : "[key.stat.luck](Luck)",
     "stats.luck.short" : "[key.stat.luck](LUCK)",
     "stats.luck.categorized" : "[key.stat.luck](LCK)",
     "stats.luck.description" : "[key.stat.luck](Luck) affects the quality of loot you may find in the dungeon.\nAmong many other small things...",
