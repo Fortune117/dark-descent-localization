@@ -52,7 +52,7 @@
     "class.fighter.skill.lunge.description" : "[key.trigger.on_activate][key.style.break_small]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown.",
 
     "class.fighter.skill.blademaster.name" : "Blademaster",
-    "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand while attacking when [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\nDoes not allow [key.mechanic.block](Blocking) during this window.",
+    "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand during attacks while [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\nDoes not allow [key.mechanic.block](Blocking) during this window.",
 
     "class.fighter.skill.lightning_reflexes.name" : "Lightning Reflexes",
     "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a [key.flag.physical] [key.mechanic.projectile] it will be reflected in the direction you're looking",
