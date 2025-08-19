@@ -19,7 +19,7 @@
     "class.fighter.skills.group.knight.description" : "Knight skills focus are focused on shields, heavy armor and deliberate, paced combat.",
 
     "class.fighter.skill.armor_light_foot.name" : "Lightfoot",
-    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P0}) [key.stat.movement.speed] and [key.variable.positive]({1}) [key.stat.stamina.regen].",
+    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P1}) [key.stat.movement.speed] and [key.variable.positive]({1}) [key.stat.stamina.regen].\nIncrease the stats gained from [key.item_tag.light] [key.item_tag.armor] by [key.variable.positive]({2}).",
 
     "class.fighter.skill.fleet.name" : "Fleet",
     "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] penalty while not moving [key.flavour.important](forward) by [key.variable.positive]({0:P0}) and increase your item swap speed by [key.variable.positive]({1:P0}).",
