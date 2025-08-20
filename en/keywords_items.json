@@ -106,5 +106,17 @@
 
     "key.item_tag.heal" : "Healing",
     "key.item_tag.heal.tooltip.name" : "Healing (Tag)",
-    "key.item_tag.heal.tooltip.description" : "This item is capable of [key.flag.healing](Healing) you."
+    "key.item_tag.heal.tooltip.description" : "This item is capable of [key.flag.healing](Healing) you.",
+
+    "key.item_tag.buff" : "Buff",
+    "key.item_tag.buff.tooltip.name" : "Buff (Tag)",
+    "key.item_tag.buff.tooltip.description" : "This item will give you a beneficial [key.flag.buff] when used.",
+
+    "key.item_tag.potion" : "Potion",
+    "key.item_tag.potion.tooltip.name" : "Potion (Tag)",
+    "key.item_tag.potion.tooltip.description" : "This item is a [key.item_tag.potion].\n[key.item_tag.potion](Potions) can be found all throughout the Dungeon and have a wide variety of effects when ingested.",
+
+    "key.item_tag.minor" : "Minor",
+    "key.item_tag.minor.tooltip.name" : "Minor (Tag)",
+    "key.item_tag.minor.tooltip.description" : "This item is a [key.item_tag.minor] item, meaing it is only weakly imbued with magic."
 }
