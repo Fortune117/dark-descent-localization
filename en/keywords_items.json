@@ -86,7 +86,7 @@
 
     "key.item_tag.improvised" : "Improvised",
     "key.item_tag.improvised.tooltip.name" : "Improvised (Tag)",
-    "key.item_tag.improvised.tooltip.description" : "This weapon is comprised of in whole or in part, improvised parts.\nIt requires no special training to use correctly and likely isn't as effective as a properly made weapon.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!).",
+    "key.item_tag.improvised.tooltip.description" : "This weapon is comprised of in whole or in part, improvised parts.\nIt requires no special training to use correctly and likely isn't as effective as a properly made weapon.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!)",
 
     "key.item_tag.simple" : "Simple",
     "key.item_tag.simple.tooltip.name" : "Simple (Tag)",
