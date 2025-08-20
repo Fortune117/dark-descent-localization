@@ -37,7 +37,7 @@
     "stats.health_min.name" : "Minimum Health",
     "stats.health_min.short" : "[key.stat.health.min](MIN HP)",
     "stats.health_min.categorized" : "[key.stat.health.min](MIN)",
-    "stats.health_min.description" : "The minimum value your [key.stat.health] can reach before you die.\nCan be negative!",
+    "stats.health_min.description" : "The minimum value your [key.stat.health] can reach before you [key.mechanic.death](Die!)\nCan be negative!",
 
     "stats.health_regen.name" : "Health Regeneration",
     "stats.health_regen.short" : "[key.stat.health.regen](HP RGN)",
