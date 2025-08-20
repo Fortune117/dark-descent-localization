@@ -9,5 +9,11 @@
   "item.action.unequip.description" : "Unequip this item.",
 
   "item.flask.action.drink.name" : "Drink",
-  "item.flask.action.drink.description" : "Drink from this flask."
+  "item.flask.action.drink.description" : "Drink from this flask.",
+
+  "item.action.set_primary_blocker.name" : "Set Priority Blocker",
+  "item.action.set_primary_blocker.description" : "We will try to use this weapon for blocking whenever possible.",
+
+  "item.action.remove_primary_blocker.name" : "Remove Block Priority",
+  "item.action.remove_primary_blocker.description" : "No more special treatment."
 }
