@@ -23,10 +23,13 @@
     "key.item_tag.greatsword.tooltip.name" : "Greatswords",
     "key.item_tag.greatsword.tooltip.description" : "Like a [key.item_tag.sword], only [key.flavour.important](greater).\nNearly all [key.item_tag.greatsword](Greatswords) are [key.hold_type.two_handed].",
 
-
     "key.item_tag.bow" : "Bow",
     "key.item_tag.bow.tooltip.name" : "Bow",
     "key.item_tag.bow.tooltip.description" : "[key.item_tag.bow](Bows) typically fire arrows at stuff.\nSometimes they have wacky effects.",
+
+    "key.item_tag.longbow" : "Longbow",
+    "key.item_tag.longbow.tooltip.name" : "Longbow",
+    "key.item_tag.longbow.tooltip.description" : "[key.item_tag.longbow](Longbows) are a subtype of [key.item_tag.bow](Bows).",
 
     "key.item_tag.arrow" : "Arrow",
     "key.item_tag.arrow.tooltip.name" : "Arrow",
@@ -96,6 +99,22 @@
     "key.item_tag.martial.tooltip.name" : "Martial (Tag)",
     "key.item_tag.martial.tooltip.description" : "This weapon is crafted for martial combat and requires a degree of expertise to use correctly.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!).",
 
+    "key.item_tag.exotic" : "Exotic",
+    "key.item_tag.exotic.tooltip.name" : "Exotic (Tag)",
+    "key.item_tag.exotic.tooltip.description" : "This item is of unusual make - it's elaborate, unique in some way that makes it hard to use.\nRequires mastery of the trade to use correctly.\n[key.flavour.negative](Proficiency system has not yet been implemented. Sorry!).",
+
+    "key.item_tag.ultra" : "Ultra",
+    "key.item_tag.ultra.tooltip.name" : "Ultra (Big Sword)",
+    "key.item_tag.ultra.tooltip.description" : "It's fuckin [key.flavour.important](ULTRA) baybeeee. we got that [key.item_tag.big_sword](BIG) sword",
+
+    "key.item_tag.big_sword" : "Big Sword",
+    "key.item_tag.big_sword.tooltip.name" : "Big (Quite Large)",
+    "key.item_tag.big_sword.tooltip.description" : "It's fuckin' [key.item_tag.big_sword_part_2](GARGANTUAN) aint it.",
+
+    "key.item_tag.big_sword_part_2" : "big",
+    "key.item_tag.big_sword_part_2.tooltip.name" : "GARGANTUAN (like seriously tho it's too big like it looks unserious being that big",
+    "key.item_tag.big_sword_part_2.tooltip.description" : "like we're talkin' huge. this thing has to be like 3 meters long, i don't even really know how you make something like this.\nhow does guts use it anyway, that just seems silly. like 'ooo im so cool i use this big fucking sword'\nsorry i shouldn't say that you might want to use the big sword,that's ok you're allowed to do that i wont make fun of you.\ni promise i made the sword so its ok you have my blessing. go forth and smite every poor skeleton you see",
+
     "key.item_tag.str" : "STR",
     "key.item_tag.str.tooltip.name" : "Strength (Tag)",
     "key.item_tag.str.tooltip.description" : "This weapon scales off of your [key.stat.strength].",
@@ -118,5 +137,5 @@
 
     "key.item_tag.minor" : "Minor",
     "key.item_tag.minor.tooltip.name" : "Minor (Tag)",
-    "key.item_tag.minor.tooltip.description" : "This item is a [key.item_tag.minor] item, meaing it is only weakly imbued with magic."
+    "key.item_tag.minor.tooltip.description" : "This item is a [key.item_tag.minor] item, meaing it is only weakly imbued with magic." 
 }
