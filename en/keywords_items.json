@@ -45,7 +45,7 @@
 
     "key.item_tag.clothing" : "Clothing",
     "key.item_tag.clothing.tooltip.name" : "Clothing (Tag)",
-    "key.item_tag.clothing.tooltip.description" : "[key.item_tag.clothing] is used for [key.item_tag.armor] that has no defensive capabilities source from its make or build.\nInstead, [key.item_tag.clothing] must source its usefulness from other properties.",
+    "key.item_tag.clothing.tooltip.description" : "[key.item_tag.clothing] is used for [key.item_tag.armor] that has no inherent defensive capabilities.\nInstead, [key.item_tag.clothing] must source its usefulness from other places, such as [key.flag.enchanted](Enchantments).",
 
     "key.item_tag.light" : "Light",
     "key.item_tag.light.tooltip.name" : "Light (Tag)",
