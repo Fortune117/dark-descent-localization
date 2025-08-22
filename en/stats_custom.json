@@ -17,5 +17,8 @@
 
     "key.stat.generic.dual_weapon_penalty_reduction" : "Dual Wield Penalty Reduction",
 
-    "key.variable.supplied" : "Supplied Variable"
+    "key.variable.supplied" : "Supplied Variable",
+    "key.variable.equation.zero" : "Equation Variable 0",
+    "key.variable.equation.one" : "Equation Variable 1",
+    "key.variable.equation.two" : "Equation Variable 2"
 }
