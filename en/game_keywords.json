@@ -159,7 +159,7 @@
 
     "key.mechanic.posture_damage_enemy" : "Posture Damage",
     "key.mechanic.posture_damage_enemy.tooltip.name" : "Posture Damage (Enemy)",
-    "key.mechanic.posture_damage_enemy.tooltip.description" : "When you deal [key.mechanic.posture_damage_enemy] to an enemy (usually by hitting them with a weapon) you will reduce their [key.mechanic.stability].\nWhen an enemy hits zero [key.mechanic.stability] they become [key.mechanic.stagger](Staggered).\nIf an enemy hits zero [key.stat.posture] they will instead be [key.mechanic.posture_break_enemy](Posture Broken) and become [key.mechanic.stun](Stunned).\nTo read about how you are affected by [key.mechanic.posture_damage](Posture Damage, click here).",
+    "key.mechanic.posture_damage_enemy.tooltip.description" : "By default, you deal [key.mechanic.posture_damage_enemy] equal to half the [key.mechanic.damage] you deal with a weapon (modifiers and [key.flag.enchanted](Enchantments) not included).\nIf an enemy hits zero [key.stat.posture] they will be [key.mechanic.posture_break_enemy](Posture Broken) and become [key.mechanic.stun](Stunned).\nTo read about how you are affected by [key.mechanic.posture_damage](Posture Damage, click here).",
 
     "key.mechanic.posture_break_enemy" : "Posture Break",
     "key.mechanic.posture_break_enemy.tooltip.name" : "Posture Break (Enemy)",
