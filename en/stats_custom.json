@@ -1,5 +1,21 @@
 {
     "key.stat.generic.armor_bonus_scaling" : "Armor Bonus Scaling",
     "key.stat.generic.armor_bonus_scaling.tooltip.name" : "Armor Bonus Scaling",
-    "key.stat.generic.armor_bonus_scaling.tooltip.description" : "Increases the stats you gain from [key.item_tag.armor] you're wearing.\nDoes not affect [key.flag.enchanted](Enchantment) strength."
+    "key.stat.generic.armor_bonus_scaling.tooltip.description" : "Increases the stats you gain from [key.item_tag.armor] you're wearing.\nDoes not affect [key.flag.enchanted](Enchantment) strength.",
+
+    "key.stat.generic.dual_weapon_stamina_cost_mult" : "Dual Wield Stamina Cost Mult",
+    "key.stat.generic.dual_weapon_stamina_cost_mult.tooltip.name" : "Dual Wield Penalty Mult",
+    "key.stat.generic.dual_weapon_stamina_cost_mult.tooltip.description" : "Scales the cost of your dual wielding penalty.",
+
+    "key.stat.generic.dual_weapon_damage_mult_penalty" : "Dual Wield Damage Mult Penalty",
+    "key.stat.generic.dual_weapon_damage_mult_penalty.tooltip.name" : "Dual Wield Damage Mult Penalty",
+    "key.stat.generic.dual_weapon_damage_mult_penalty.tooltip.description" : "Scales the dual wielding damage penalty.",
+
+    "key.stat.generic.duaL_weapon_attack_speed_mult_penalty" : "Dual Wield Attack Speed Mult Penalty",
+    "key.stat.generic.duaL_weapon_attack_speed_mult_penalty.tooltip.name" : "Dual Wield Attack Speed Mult Penalty",
+    "key.stat.generic.duaL_weapon_attack_speed_mult_penalty.tooltip.description" : "Scales the dual wielding attack speed penalty.",
+
+    "key.stat.generic.dual_weapon_penalty_reduction" : "Dual Wield Penalty Reduction",
+
+    "key.variable.supplied" : "Supplied Variable"
 }

@@ -73,7 +73,7 @@
     "class.fighter.skill.fang_and_claw.description" : "While [key.mechanic.dual_wielding] with a [key.item_tag.dagger] and another weapon of a different type ([key.item_tag.shield](Shields) excluded), gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] with the [key.item_tag.dagger] after each attack with the opposite weapon, but at a [key.variable.negative]({1:P0}) [key.mechanic.Damage] penalty for the [key.item_tag.dagger].",
 
     "class.fighter.skill.dual_weapon_fighting.name" : "Dual Weapon Fighting",
-    "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.stat.stamina] [key.flavour.negative](penalty) for attacks while [key.mechanic.dual_wielding] by [key.variable.positive]({0:P0}).\nAdditionaly, you gain [key.variable.positive]({1:P0}) [key.stat.movement.speed] while [key.mechanic.dual_wielding].",
+    "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.mechanic.damage], [key.stat.attack.speed], and [key.stat.stamina] [key.flavour.negative](penalties) for attacks while [key.mechanic.dual_wielding] by [key.variable.positive]({0:P0}).\nAdditionaly, you gain [key.variable.positive]({1:P0}) [key.stat.movement.speed] while [key.mechanic.dual_wielding].",
 
     "class.fighter.skill.grit.name" : "Resolve",
     "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] during your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within [key.variable.positive]({2}) seconds.",
