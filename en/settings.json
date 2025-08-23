@@ -1,0 +1,94 @@
+{
+    "ui.settings.game.field_of_view.name" : "Field of View",
+    "ui.settings.game.field_of_view.description" : "How large the FOV for the player is.\nI would not recommend changing this much",
+
+    "ui.settings.game.sensitivity.name" : "Sensitivity",
+    "ui.settings.game.sensitivity.description" : "How quickly you look around.",
+
+    "ui.settings.game.sensitivity.horizontal.name" : "Horizontal",
+    "ui.settings.game.sensitivity.vertical.name" : "Vertical",
+
+    "ui.settings.game.sensitivity.aiming.name" : "Aim Scale",
+    "ui.settings.game.sensitivity.aiming.description" : "Multiplier to your sensitivity while aiming. (e.g. drawing back a bow and arrow).",
+
+    "ui.settings.game.view_bob.name" : "View Bob",
+    "ui.settings.game.view_bob.description" : "View Bob",
+
+    "ui.settings.game.auto_hotbar.name" : "Auto Hotbar",
+    "ui.settings.game.auto_hotbar.description" : "Automatically add eligible items to your hotbar when picked up. (e.g. potions, consumables, etc)",
+    
+    "ui.settings.game.auto_level.name" : "Auto Level",
+    "ui.settings.game.auto_level.description" : "Automatically level up your starting class when you gain a level.\nIn the future we plan to support multiclassing but until that's implemented this is will be on by default.",
+
+    "ui.settings.ui.show_crosshair.name" : "Show Crosshair",
+    "ui.settings.ui.show_crosshair.description" : "Show Crosshair",
+
+    "ui.settings.ui.show_info_panels.name" : "Show Info Panels",
+    "ui.settings.ui.show_info_panels.description" : "Whether to show information about what you're looking at (e.g. enemy name and level)",
+
+    "ui.settings.ui.show_info_panels.always_show.name" : "Always Show",
+    "ui.settings.ui.show_info_panels.always_show.description" : "If this is true, we will always show the info panels while we're within range.",
+
+    "ui.settings.ui.show_info_panels.verbose.name" : "Verbose",
+    "ui.settings.ui.show_info_panels.verbose.description" : "If true, the info panels will always show the actors name and level.",
+
+    "ui.settings.ui.show_damage_numbers.name" : "Damage Numbers",
+    "ui.settings.ui.show_damage_numbers.description" : "",
+
+    "ui.settings.ui.show_experience_numbers.name" : "Exp. Numbers",
+    "ui.settings.ui.show_experience_numbers.description" : "",
+
+    "ui.settings.ui.show_resource_numbers.name" : "Resource Numbers", 
+    "ui.settings.ui.show_resource_numbers.description" : "Show the actual numbers for your resource bars (e.g. health and stamina).",
+
+    "ui.settings.sound.master.name" : "Master Volume",
+    "ui.settings.sound.master.description" : "The overall volume.",
+
+    "ui.settings.sound.music.name" : "Music",
+    "ui.settings.sound.music.description" : "Controls the volume of non-diagetic music within the game.",
+
+    "ui.settings.sound.effects.name" : "SFX",
+    "ui.settings.sound.effects.description" : "Controls the volume of game related sounds.\nSwords clashing, spells casting and enemies yelling, etc",
+
+    "ui.settings.sound.ui.name" : "UI",
+    "ui.settings.sound.ui.description" : "Controls the volume for any UI related sounds.\nClicking on buttons in the menu, etc.",
+
+    "ui.settings.sound.voice.name" : "Voice",
+    "ui.settings.sound.voice.description" : "Controls how loud other players are over VOIP.",
+
+    "ui.settings.sound.enable_hitsounds.name" : "Hit Sounds",
+    "ui.settings.sound.enable_hitsounds.description" : "Plays a sound whenever you successfull connect a hit on an enemy.",
+
+    "ui.settings.sound.enable_hitsounds.volume.name" : "Volume",
+    "ui.settings.sound.enable_hitsounds.volume.description" : "",
+
+    "ui.settings.sound.enable_hitsounds.pitch.name" : "Pitch",
+    "ui.settings.sound.enable_hitsounds.pitch.description" : "",
+
+    "ui.settings.graphics.view_distance.name" : "View Distance",
+    "ui.settings.graphics.view_distance.description" : "Controls how far away from you dungeon tiles will draw.\nLower values will increase performance but may result in pop in.",
+
+    "ui.settings.graphics.volumetric_fog.name" : "Volumetric Fog",
+    "ui.settings.graphics.volumetric_fog.description" : "Whether volumetric fog is on or off.\nThis has a high performance impact, but it does look very cool...",
+
+    "ui.settings.graphics.screen_space_reflections.name" : "SS Reflections",
+    "ui.settings.graphics.screen_space_reflections.description" : "Whether Screen Space Reflections are on or off.\nThis has a high performance impact and honestly I can't even really tell when it's on.",
+
+    "ui.settings.graphics.pixel_filter.name" : "Pixel Filter",
+    "ui.settings.graphics.pixel_filter.description" : "Whether the pixel filter is enabled or not.\nThe game is designed around this being on but I understand some people really don't like it so feel free to tweak it to your liking.",
+
+    "ui.settings.graphics.pixel_filter.resolution.name" : "Resolution",
+    "ui.settings.graphics.pixel_filter.resolution.description" : "How dense the pixel filter is. Higher value = higher resolution.",
+
+    "ui.settings.graphics.pixel_filter.colour_depth.name" : "Colour Depth",
+    "ui.settings.graphics.pixel_filter.colour_depth.description" : "How crunchy should the colours be? Lower = less possible colours.\nAnd yes it's [key.flavour.important](COLOURS) not [key.flavour.negative](COLORS) ya fuckin' dogs.",
+
+    "ui.settings.graphics.contrast.name" : "Contrast",
+    "ui.settings.graphics.contrast.description" : "",
+    
+    "ui.settings.graphics.brightness.name" : "Brightness",
+    "ui.settings.graphics.brightness.description" : "",
+
+    "ui.settings.graphics.saturation.name" : "Saturation",
+    "ui.settings.graphics.saturation.description" : ""
+}
