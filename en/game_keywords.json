@@ -69,6 +69,7 @@
     "key.stat.stamina" : "Stamina",
     "key.stat.stamina.max" : "Maximum Stamina",
     "key.stat.stamina.regen" : "Stamina Regen",
+    "key.stat.stamina.cost" : "Stamina Cost",
 
     "key.stat.posture" : "Posture",
     "key.stat.posture.max" : "Max Posture",
@@ -223,7 +224,7 @@
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
     "key.mechanic.dual_wielding.tooltip.name" : "Dual-Wielding",
-    "key.mechanic.dual_wielding.tooltip.description" : "You are considered to be [key.mechanic.dual_wielding] when you are holding a [key.hold_type.one_handed] weapon in each hand ([key.item_tag.shield](Shields) excluded).\nSome [key.hold_type.two_handed] weapons may also count as [key.mechanic.dual_wielding] when it makes sense.\nIn these cases, the weapon will have the [key.mechanic.dual_wielding] flag.",
+    "key.mechanic.dual_wielding.tooltip.description" : "You are considered to be [key.mechanic.dual_wielding] when you are holding a [key.hold_type.one_handed] weapon in each hand ([key.item_tag.shield](Shields) excluded).\n[key.mechanic.dual_wielding] is difficult without proper training, and incurs the following [key.flavour.negative](penalties:)\n[key.constant.dual_wield_damage_penalty] [key.mechanic.damage][key.style.break_small][key.constant.dual_wield_attack_speed_penalty] [key.stat.attack.speed][key.style.break_small]+[key.constant.dual_wield_stamina_cost_increase] [key.stat.stamina.cost]\nSome [key.hold_type.two_handed] weapons may also count as [key.mechanic.dual_wielding] when it makes sense.\nIn these cases, the weapon will have the [key.mechanic.dual_wielding] flag.",
 
     "key.mechanic.projectile" : "Projectile",
     "key.mechanic.projectile.tooltip.name" : "Projectiles",
