@@ -23,6 +23,12 @@
     "ui.settings.ui.show_crosshair.name" : "Show Crosshair",
     "ui.settings.ui.show_crosshair.description" : "Disabling his will hide the crosshair that appears in the center of your screen.",
 
+    "ui.settings.ui.show_crosshair.opacity.name" : "Opacity",
+    "ui.settings.ui.show_crosshair.opacity.description" : "How transparent your crosshair is.",
+
+    "ui.settings.ui.show_crosshair.size.name" : "Size",
+    "ui.settings.ui.show_crosshair.size.description" : "How large your crosshair is.",
+
     "ui.settings.ui.show_info_panels.name" : "Show Info Panels",
     "ui.settings.ui.show_info_panels.description" : "Whether to show information about what you're looking at (e.g. enemy name and level)",
 
