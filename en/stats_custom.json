@@ -19,7 +19,7 @@
 
     "key.stat.generic.item_swap_speed" : "Item Swap Speed",
     "key.stat.generic.item_swap_speed.tooltip.name" : "Item Swap Speed",
-    "key.stat.generic.item_swap_speed.tooltip.description" : "Holstering and drawing items takes time - this stat improves how quickly you can do that.\nIt is increased by your [key.stat.attack.speed].",
+    "key.stat.generic.item_swap_speed.tooltip.description" : "Holstering and drawing items takes time - this stat improves how quickly you can do that.\nIt is also increased by your [key.stat.attack.speed].",
 
     "key.variable.supplied" : "Supplied Variable",
     "key.variable.equation.zero" : "Equation Variable 0",

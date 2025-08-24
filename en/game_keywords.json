@@ -234,6 +234,14 @@
     "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.description" : "[key.flavour.negative](Spellcasting is not yet implemented.)\n[key.flavour.negative](Sorry!)",
 
+    "key.mechanic.strafing" : "Strafing",
+    "key.mechanic.strafing.tooltip.name" : "Strafing",
+    "key.mechanic.strafing.tooltip.description" : "Moving side-to-side.",
+
+    "key.mechanic.backpedaling" : "Backpedaling",
+    "key.mechanic.backpedaling.tooltip.name" : "Backpedaling",
+    "key.mechanic.backpedaling.tooltip.description" : "Moving backwards.",
+
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
     "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\ne.g. only attacks with [key.flag.melee] weapons.",

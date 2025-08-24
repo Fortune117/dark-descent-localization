@@ -22,7 +22,7 @@
     "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P1}) [key.stat.movement.speed] and [key.variable.positive]({1}) [key.stat.stamina.regen].\nIncrease the stats gained from [key.item_tag.light] [key.item_tag.armor] by [key.variable.positive]({2:P0}).",
 
     "class.fighter.skill.fleet.name" : "Fleet",
-    "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] [key.flavour.negative](penalty) while not moving [key.flavour.important](forward) by [key.variable.positive]({0:P0}) and increase your [key.stat.generic.item_swap_speed] by [key.variable.positive]({1:P0}).",
+    "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] [key.flavour.negative](penalty) you receive while [key.mechanic.strafing] or [key.mechanic.backpedaling] by [key.variable.positive]({0:P0})\nIncrease your [key.stat.generic.item_swap_speed] by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.riposte.name" : "Riposte",
     "class.fighter.skill.riposte.description" : "[key.trigger.on_parry][key.style.break_small]Your next [key.variable.positive]({0}) [key.flag.melee] attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
