@@ -21,7 +21,7 @@
     "ui.settings.game.auto_level.description" : "Automatically level up your starting class when you gain a level.\nIn the future we plan to support multiclassing but until that's implemented this is will be on by default.",
 
     "ui.settings.ui.show_crosshair.name" : "Show Crosshair",
-    "ui.settings.ui.show_crosshair.description" : "Show Crosshair",
+    "ui.settings.ui.show_crosshair.description" : "Disabling his will hide the crosshair that appears in the center of your screen.",
 
     "ui.settings.ui.show_info_panels.name" : "Show Info Panels",
     "ui.settings.ui.show_info_panels.description" : "Whether to show information about what you're looking at (e.g. enemy name and level)",
@@ -33,13 +33,13 @@
     "ui.settings.ui.show_info_panels.verbose.description" : "If true, the info panels will always show the actors name and level.",
 
     "ui.settings.ui.show_damage_numbers.name" : "Damage Numbers",
-    "ui.settings.ui.show_damage_numbers.description" : "",
+    "ui.settings.ui.show_damage_numbers.description" : "Show damage numbers when you hit an enemy.\nDisabling this may slightly improve performance if you're really struggling.",
 
     "ui.settings.ui.show_experience_numbers.name" : "Exp. Numbers",
-    "ui.settings.ui.show_experience_numbers.description" : "",
+    "ui.settings.ui.show_experience_numbers.description" : "Show experience numbers when you kill an enemy.\nDisabling this may VERY slightly improve performance if you're really REALLY struggling.",
 
     "ui.settings.ui.show_resource_numbers.name" : "Resource Numbers", 
-    "ui.settings.ui.show_resource_numbers.description" : "Show the actual numbers for your resource bars (e.g. health and stamina).",
+    "ui.settings.ui.show_resource_numbers.description" : "Show the actual numbers for your resource bars on your HUD (e.g. health and stamina).",
 
     "ui.settings.sound.master.name" : "Master Volume",
     "ui.settings.sound.master.description" : "The overall volume.",
