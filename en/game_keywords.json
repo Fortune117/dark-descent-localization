@@ -242,6 +242,10 @@
     "key.mechanic.backpedaling.tooltip.name" : "Backpedaling",
     "key.mechanic.backpedaling.tooltip.description" : "Moving backwards.",
 
+    "key.mechanic.turncap" : "Turncap",
+    "key.mechanic.turncap.tooltip.name" : "Turncap",
+    "key.mechanic.turncap.tooltip.description" : "[key.mechanic.turncap] is the limit to how quickly you can look around during attacks with weapons.\nHeavier weapons usually have lower [key.mechanic.turncap](Turncaps), meaning you wont be able to turn as quickly while attacking with them.\nThis is separate to your mouse sensitivity and cannot be avoided by increasing it.",
+
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
     "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\ne.g. only attacks with [key.flag.melee] weapons.",

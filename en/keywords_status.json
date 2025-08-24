@@ -4,7 +4,7 @@
 
     "key.status.bleed" : "Bleed",
     "key.status.bleed.tooltip.name" : "Bleed",
-    "key.status.bleed.tooltip.description" : "i dunno i haven't really thought about it",
+    "key.status.bleed.tooltip.description" : "[key.status.bleed] will deal [key.mechanic.damage] equal to the number of [key.status.bleed] [key.mechanic.stacks] [key.flavour.important](divided) by [key.variable.static](4) ( minimum [key.variable.static](1) ) each tick and reduce its [key.mechanic.stacks] by [key.variable.static](1).\n[key.status.bleed] ticks very quickly and only ticks faster at higher [key.mechanic.stacks].\n[key.status.bleed] does not [key.mechanic.stacks](Stack) with itself, but you can apply any number of [key.status.bleed](Bleeds) to a target.\nIf you don't really understand any of this - trust me, it's very good.",
 
     "key.status.slow" : "Slow",
     "key.status.slow.tooltip.name" : "Slow",
