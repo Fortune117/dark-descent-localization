@@ -28,7 +28,7 @@
     "class.fighter.skill.riposte.description" : "[key.trigger.on_parry][key.style.break_small]Your next [key.variable.positive]({0}) [key.flag.melee] attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
 
     "class.fighter.skill.opportunist.name" : "Opportunist",
-    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun][key.style.break_small]You gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] on your next [key.flag.melee] attack for [key.variable.positive]({1}) second(s).",
+    "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun][key.style.break_small]Restore [key.variable.positive]({0}) [key.stat.stamina], gain [key.variable.positive]({1:P0}) [key.stat.generic.item_swap_speed] and [key.variable.positive]({2:P0}) [key.stat.attack.speed] on your [key.flavour.important](first) [key.flag.melee] attack in the next [key.variable.positive]({3}) second(s).",
 
     "class.fighter.skill.cleave.name" : "Cleave",
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] [key.flag.melee] weapon, deal an extra [key.variable.positive]({0:P0}) [key.mechanic.damage] for each enemy hit [key.flavour.important](beyond the first) during an attack.\n[key.mechanic.stacks] up to [key.variable.static]({1}) times.",
