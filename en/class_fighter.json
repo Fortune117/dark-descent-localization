@@ -25,7 +25,7 @@
     "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] [key.flavour.negative](penalty) you receive while [key.mechanic.strafing] or [key.mechanic.backpedaling] by [key.variable.positive]({0:P0})\nIncrease your [key.stat.generic.item_swap_speed] by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry][key.style.break_small]Your next [key.variable.positive]({0}) [key.flag.melee] attack(s) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry][key.style.break_small]Your next [key.variable.positive]({0:N1}) [key.flag.melee] attack(s) (rounded [key.flavour.negative](down)) within [key.variable.positive]({1}) seconds gains [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
 
     "class.fighter.skill.opportunist.name" : "Opportunist",
     "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun][key.style.break_small]Restore [key.variable.positive]({0}) [key.stat.stamina], gain [key.variable.positive]({1:P0}) [key.stat.generic.item_swap_speed] and [key.variable.positive]({2:P0}) [key.stat.attack.speed] on your [key.flavour.important](first) [key.flag.melee] attack in the next [key.variable.positive]({3}) second(s).",
