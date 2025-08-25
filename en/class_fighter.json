@@ -34,7 +34,7 @@
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] [key.flag.melee] weapon, deal an extra [key.variable.positive]({0:P0}) [key.mechanic.damage] for each enemy hit [key.flavour.important](beyond the first) during an attack.\n[key.mechanic.stacks] up to [key.variable.static]({1}) times.",
 
     "class.fighter.skill.sadist.name" : "Sadist",
-    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
+    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1:N1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
     "class.fighter.skill.weight_training.description" : "The [key.stat.movement.speed] [key.flavour.negative](penalty) you receive during attacks with [key.hold_type.two_handed] [key.flag.melee] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.mechanic.turncap] is increased by [key.variable.positive]({1:P0}).\nIn addition, your [key.stat.attack.speed] with [key.hold_type.two_handed] [key.flag.melee] weapons is increased by [key.variable.positive]({1:P0}).",
@@ -55,7 +55,7 @@
     "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand during attacks while [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\nDoes not allow [key.mechanic.block](Blocking) during this window.",
 
     "class.fighter.skill.lightning_reflexes.name" : "Lightning Reflexes",
-    "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a [key.flag.physical] [key.mechanic.projectile] it will be [key.flavour.important](reflected) in the direction you're looking.\nAt [key.skill.level] [key.variable.positive]({0})[key.style.break_small]You can [key.flavour.important](reflect) [key.flag.magic](Magical) [key.mechanic.projectile](Projectiles) in addition to [key.flag.physical].",
+    "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a [key.flag.physical] [key.mechanic.projectile] it will be [key.flavour.important](reflected) in the direction you're looking.\n[key.flag.enchanted] [key.mechanic.projectile](Projectiles) will count as [key.flag.magic](Magical).\n[key.skill.level] [key.variable.positive]({0})[key.style.break_small]You can [key.flavour.important](reflect) [key.flag.magic](Magical) [key.mechanic.projectile](Projectiles) in addition to [key.flag.physical].",
 
     "class.fighter.skill.sundering_strikes.name" : "Shred",
     "class.fighter.skill.sundering_strikes.description" : "Your [key.flag.melee] attacks reduce the targets [key.stat.defense.armor] by [key.variable.positive]({0}) for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
