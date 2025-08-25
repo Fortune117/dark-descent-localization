@@ -122,7 +122,7 @@
     "stats.attack_speed.name" : "Attack Speed",
     "stats.attack_speed.short" : "[key.stat.attack.speed](ATK SPEED)",
     "stats.attack_speed.categorized" : "[key.stat.attack.speed](SPD)",
-    "stats.attack_speed.description" : "The [key.flavour.important](percentage multiplier) for how quickly you can attack with weapons.\nOccasionally affects the speed at which you perform other actions, such as swapping weapons.",
+    "stats.attack_speed.description" : "The [key.flavour.important](percentage multiplier) for how quickly you can attack with weapons.\nEven small amounts of [key.stat.attack.speed] (think [key.variable.static](1) - [key.variable.static](2%)) are very powerful, acting as a force multiplier to your potential damage.\nOccasionally affects the speed at which you perform other actions, such as swapping weapons.",
     
     "stats.spell_speed.name" : "Spellcasting Speed",
     "stats.spell_speed.short" : "[key.stat.magic.speed](SPELL SPD)",

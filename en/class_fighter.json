@@ -46,7 +46,7 @@
     "class.fighter.skill.cruel_blows.description" : "When attacking with a [key.hold_type.two_handed] [key.flag.melee] weapon any excess [key.mechanic.posture_damage_enemy] dealt when [key.mechanic.posture_break_enemy](Posture Breaking) an enemy is converted into [key.mechanic.damage] at a ratio of [key.variable.positive]({0:P0}).\nAdditionally, deal [key.variable.positive]({1:P0}) more [key.mechanic.posture_damage_enemy] with [key.hold_type.two_handed] [key.flag.melee] weapons.",
 
     "class.fighter.skill.push_forwards.name" : "Push Forwards",
-    "class.fighter.skill.push_forwards.description" : "[key.trigger.on_damaged][key.style.break_small]You can gain up to [key.variable.positive]({0:P0}) of the [key.stat.health] lost as [key.stat.grit] by dealing [key.mechanic.damage] for up to [key.variable.positive]({1}) seconds.",
+    "class.fighter.skill.push_forwards.description" : "[key.trigger.on_damaged][key.style.break_small]You can restore up to [key.variable.positive]({0:P0}) of the [key.stat.health] lost by dealing [key.mechanic.damage] with a [key.flag.melee] weapon for up to [key.variable.positive]({1}) seconds.\n[key.mechanic.damage] is converted into [key.stat.health] at a ratio of [key.variable.positive]({2:P0}).\nThis skill will not work on [key.mechanic.damage_over_time] effects.",
 
     "class.fighter.skill.lunge.name" : "Lunge",
     "class.fighter.skill.lunge.description" : "[key.trigger.on_activate][key.style.break_small]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown.",
@@ -76,7 +76,7 @@
     "class.fighter.skill.dual_weapon_fighting.description" : "Reduce the [key.mechanic.damage], [key.stat.attack.speed], and [key.stat.stamina] [key.flavour.negative](penalties) for attacks while [key.mechanic.dual_wielding] [key.flag.melee] weapons by [key.variable.positive]({0:P0}).\nAdditionaly, you gain [key.variable.positive]({1:P0}) [key.stat.movement.speed] while [key.mechanic.dual_wielding] [key.flag.melee] weapons.",
 
     "class.fighter.skill.grit.name" : "Resolve",
-    "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] after your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) within the next [key.variable.positive]({2}) seconds.",
+    "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] upon your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) for up to [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
     "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the [key.mechanic.damage] you take to below [key.variable.positive]({0}) after applying your [key.stat.category.defense](Resistances), [key.flavour.important](negate) the [key.mechanic.damage] entirely.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",
