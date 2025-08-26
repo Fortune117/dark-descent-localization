@@ -91,7 +91,7 @@
     "class.fighter.skill.shield_confidence.description" : "[key.trigger.on_parry][key.style.break_small]For [key.variable.positive]({0}) seconds, your [key.flavour.important](next) successful [key.mechanic.block] will automatically be upgraded to a [key.mechanic.parry].",
 
     "class.fighter.skill.shield_mastery.name" : "Shield Mastery",
-    "class.fighter.skill.shield_mastery.description" : "Your [key.mechanic.parry](Parries) with [key.item_tag.shield](Shields) can now break an enemies [key.stat.posture] and deal [key.variable.positive]({0:P0}) more [key.mechanic.posture_damage].",
+    "class.fighter.skill.shield_mastery.description" : "Your [key.mechanic.parry](Parries) with [key.item_tag.shield](Shields) can now [key.mechanic.posture_break_enemy](Break) an enemies [key.stat.posture] and deal [key.variable.positive]({0:P0}) more [key.mechanic.posture_damage].",
 
     "class.fighter.skill.shield_combo.name" : "Momentum",
     "class.fighter.skill.shield_combo.description" : "[key.trigger.on_block][key.style.break_small]After [key.mechanic.block](Blocking) with a [key.item_tag.shield], for [key.variable.positive]({0}) seconds the [key.flavour.important](next) attack with your opposite hand gains [key.variable.positive]({1:0.#%}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage].\n[key.flavour.reminder](Note: Also triggers when you parry an attack.)",
