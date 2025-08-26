@@ -8,7 +8,7 @@
 
     "key.status.slow" : "Slow",
     "key.status.slow.tooltip.name" : "Slow",
-    "key.status.slow.tooltip.description" : "The targets [key.stat.attack.speed], [key.stat.magic.speed] and [key.stat.movement.speed] are reduced by up to [key.variable.static](75%) depending on the number of [key.mechanic.stacks] applied.\n[key.status.slow] [key.mechanic.stacks] an unlimited number of times, but reaches maximum effectiveness at [key.variable.static](100) [key.mechanic.stacks].\n\nThere are diminishing returns on the number [key.mechanic.stacks] of [key.status.slow] you apply, meaning past [key.variable.static](~50) [key.mechanic.stacks] each [key.mechanic.stacks](Stack) of [key.status.slow] will be worth less.\n[key.flavour.reminder](75% effectively makes the target act 4x slower than normal.)",
+    "key.status.slow.tooltip.description" : "The targets [key.stat.attack.speed], [key.stat.magic.speed] and [key.stat.movement.speed] are reduced by up to [key.variable.static](75%) depending on the number of [key.mechanic.stacks] applied.\n[key.status.slow] [key.mechanic.stacks] an unlimited number of times, but reaches maximum effectiveness at [key.variable.static](100) [key.mechanic.stacks].\n[key.status.slow] decays naturally over time, decaying faster at higher [key.mechanic.stacks].\nThere are diminishing returns on the number [key.mechanic.stacks] of [key.status.slow] you apply, meaning past [key.variable.static](~50) [key.mechanic.stacks] each [key.mechanic.stacks](Stack) of [key.status.slow] will be worth less.\n[key.flavour.reminder](75% effectively makes the target act 4x slower than normal.)",
 
     "key.status.necrosis" : "Necrosis",
     "key.status.necrosis.tooltip.name" : "Necrosis",
