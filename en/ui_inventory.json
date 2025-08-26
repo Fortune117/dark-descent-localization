@@ -1,3 +1,5 @@
 {
-  "ui.item.currently_equipped" : "Currently Equipped"
+  "ui.item.currently_equipped" : "Currently Equipped",
+
+  "ui.item.weapon.damage.title" : "Damage"
 }
