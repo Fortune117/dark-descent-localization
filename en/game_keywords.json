@@ -250,7 +250,7 @@
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
     "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\ne.g. only attacks with [key.flag.melee] weapons.",
 
-    "key.trigger.on_damaged" : "On Damaged",
+    "key.trigger.on_damaged" : "After Taking Damage",
     "key.trigger.on_damaged.tooltip.name" : "On Damaged (Trigger)",
     "key.trigger.on_damaged.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever [key.flavour.important](you) take [key.mechanic.damage].\nUsually doesn't [key.mechanic.trigger] for [key.mechanic.damage_over_time] effects.",
 
