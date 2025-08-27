@@ -7,5 +7,9 @@
   "ui.item.weapon.dps.short" : "dps",
 
   "ui.item.weapon.aps.long" : "attacks per second",
-  "ui.item.weapon.aps.short" : "aps"
+  "ui.item.weapon.aps.short" : "aps",
+
+  
+  "ui.item.weapon.guard.long" : "Guard",
+  "ui.item.weapon.guard.short" : "Guard"
 }
