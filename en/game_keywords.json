@@ -134,9 +134,9 @@
     "key.mechanic.block_guard.tooltip.name" : "Guard",
     "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) determines how much of the [key.mechanic.block](Blocked) [key.mechanic.damage](Damage) is converted into [key.mechanic.posture_damage].\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] being lost during your [key.mechanic.block](Blocks), allowing you to [key.mechanic.block] higher [key.mechanic.damage] attacks.",
 
-    "key.mechanic.block_heft" : "Heft",
-    "key.mechanic.block_heft.tooltip.name" : "Heft",
-    "key.mechanic.block_heft.tooltip.description" : "[key.mechanic.block_heft] determines how much [key.stat.stamina] it costs to start [key.mechanic.block](Blocking) with this item.\nYou will also pay the [key.mechanic.block_heft] cost again any time you [key.mechanic.block] an attack.\n[key.mechanic.parry](Parries) will [key.flavour.important](refund) the [key.mechanic.block_heft] cost.",
+    "key.mechanic.heft" : "Heft",
+    "key.mechanic.heft.tooltip.name" : "Heft",
+    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\nAttacking with a weapon costs [key.stat.stamina] equal to the [key.mechanic.heft] of the weapon.\nStarting a [key.mechanic.block] with an item likewise costs [key.stat.stamina] equal to the [key.mechanic.heft] of the item.\n[key.mechanic.parry](Parries) will [key.flavour.important](refund) the [key.stat.stamina] used to start the [key.mechanic.block].",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
@@ -190,7 +190,7 @@
 
     "key.mechanic.critical_hit" : "Critical Hit",
     "key.mechanic.critical_hit.tooltip.name" : "Critical Hits",
-    "key.mechanic.critical_hit.tooltip.description" : "When you score a [key.mechanic.critical_hit] (usually by hitting an enemies [key.mechanic.weak_point]) you will increase the damage of your attack using your [key.stat.physical.critical_multiplier].\n[key.mechanic.critical_hit](Critical Hits) are an effective way to greatly amplify your damage.",
+    "key.mechanic.critical_hit.tooltip.description" : "When you score a [key.mechanic.critical_hit] (usually by hitting an enemies [key.mechanic.weak_point]) you will increase the damage of your attack using your [key.stat.attack.critical_multiplier].\n[key.mechanic.critical_hit](Critical Hits) are an effective way to greatly amplify your damage.",
 
     "key.mechanic.weak_point" : "Weak Point",
     "key.mechanic.weak_point.tooltip.name" : "Weak Points",
