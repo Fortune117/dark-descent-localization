@@ -136,7 +136,7 @@
 
     "key.mechanic.heft" : "Heft",
     "key.mechanic.heft.tooltip.name" : "Heft",
-    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\nAttacking with a weapon costs [key.stat.stamina] equal to the [key.mechanic.heft] of the weapon.\nStarting a [key.mechanic.block] with an item likewise costs [key.stat.stamina] equal to the [key.mechanic.heft] of the item.\n[key.mechanic.parry](Parries) will [key.flavour.important](refund) the [key.stat.stamina] used to start the [key.mechanic.block].",
+    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\nStarting a [key.mechanic.block] with an item costs [key.stat.stamina] equal to the [key.flavour.important](half) the [key.mechanic.heft] of the item.\n[key.mechanic.parry](Parries) will [key.flavour.important](refund) the [key.stat.stamina] used to start the [key.mechanic.block].",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
