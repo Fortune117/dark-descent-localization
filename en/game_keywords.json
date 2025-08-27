@@ -136,7 +136,7 @@
 
     "key.mechanic.block_heft" : "Heft",
     "key.mechanic.block_heft.tooltip.name" : "Heft",
-    "key.mechanic.block_heft.tooltip.description" : "[key.mechanic.block_heft] determines how much [key.stat.stamina] it costs to enter your [key.mechanic.block].",
+    "key.mechanic.block_heft.tooltip.description" : "[key.mechanic.block_heft] determines how much [key.stat.stamina] it costs to start [key.mechanic.block](Blocking) with this item.\nYou will also pay the [key.mechanic.block_heft] cost again any time you [key.mechanic.block] an attack.\n[key.mechanic.parry](Parries) will [key.flavour.important](refund) the [key.mechanic.block_heft] cost.",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
