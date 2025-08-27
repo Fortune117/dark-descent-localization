@@ -9,7 +9,9 @@
   "ui.item.weapon.aps.long" : "attacks per second",
   "ui.item.weapon.aps.short" : "aps",
 
-  
   "ui.item.weapon.guard.long" : "Guard",
-  "ui.item.weapon.guard.short" : "Guard"
+  "ui.item.weapon.guard.short" : "Guard",
+
+  "ui.item.weapon.crit.long" : "additive critical multiplier",
+  "ui.item.weapon.crit.short" : "crit"
 }
