@@ -134,6 +134,10 @@
     "key.mechanic.block_guard.tooltip.name" : "Guard",
     "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) determines how much of the [key.mechanic.block](Blocked) [key.mechanic.damage](Damage) is converted into [key.mechanic.posture_damage].\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] being lost during your [key.mechanic.block](Blocks), allowing you to [key.mechanic.block] higher [key.mechanic.damage] attacks.",
 
+    "key.mechanic.block_heft" : "Heft",
+    "key.mechanic.block_heft.tooltip.name" : "Heft",
+    "key.mechanic.block_heft.tooltip.description" : "[key.mechanic.block_heft] determines how much [key.stat.stamina] it costs to enter your [key.mechanic.block].",
+
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
     "key.mechanic.execute.tooltip.description" : "When you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.variable.static]([key.constant.execution_mult]) more [key.mechanic.damage] and [key.mechanic.trigger] [key.trigger.on_execute] effects.",
