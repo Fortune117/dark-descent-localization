@@ -1,5 +1,11 @@
 {
   "ui.item.currently_equipped" : "Currently Equipped",
 
-  "ui.item.weapon.damage.title" : "Damage"
+  "ui.item.weapon.damage.title" : "Damage",
+
+  "ui.item.weapon.dps.long" : "damage per second",
+  "ui.item.weapon.dps.short" : "dps",
+
+  "ui.item.weapon.aps.long" : "attacks per second",
+  "ui.item.weapon.aps.short" : "aps"
 }
