@@ -106,5 +106,5 @@
     "class.fighter.skill.shield_perfect_defense.description" : "You may still attack with your opposite hand when [key.mechanic.block](Blocking) with a [key.item_tag.shield].\nHowever, you will receive a [key.variable.negative]({0:N0}) [key.mechanic.block_guard] [key.flavour.negative](penalty) on your [key.mechanic.block] if struck while attacking.",
 
     "class.fighter.skill.shield_steady.name" : "Steady",
-    "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0:P0}) more [key.mechanic.block_guard]." 
+    "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0}) more [key.mechanic.block_guard].\n[key.trigger.on_parry][key.style.break_small]If performed with a [key.item_tag.shield], your [key.mechanic.parry](Parries) will restore [key.variable.positive]({1}) extra [key.stat.stamina] and [key.variable.positive]({2}) [key.stat.posture]." 
   }
