@@ -34,7 +34,7 @@
     "class.fighter.skill.cleave.description" : "While wielding a [key.hold_type.two_handed] [key.flag.melee] weapon, deal an extra [key.variable.positive]({0:P0}) [key.mechanic.damage] for each enemy hit [key.flavour.important](beyond the first) during an attack.\n[key.mechanic.stacks] up to [key.variable.static]({1}) times.",
 
     "class.fighter.skill.sadist.name" : "Sadist",
-    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1:N1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
+    "class.fighter.skill.sadist.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.two_handed] [key.flag.melee] weapon, gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1:N1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
     "class.fighter.skill.weight_training.description" : "The [key.stat.movement.speed] [key.flavour.negative](penalty) you receive during attacks with [key.hold_type.two_handed] [key.flag.melee] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.mechanic.turncap] is increased by [key.variable.positive]({1:P0}).\nIn addition, your [key.stat.attack.speed] with [key.hold_type.two_handed] [key.flag.melee] weapons is increased by [key.variable.positive]({1:P0}).",
