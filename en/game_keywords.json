@@ -17,7 +17,7 @@
 
     "key.stat.category.posture" : "Posture",
     "key.stat.category.posture.tooltip.name" : "Posture",
-    "key.stat.category.posture.tooltip.description" : "Your [key.stat.posture] represents how stable you are while [key.mechanic.block](Blocking).\nAs long as your [key.stat.posture] doesn't [key.mechanic.posture_break](Break), you will take no damage while [key.mechanic.block](Blocking).\nWeapons all have their own [key.mechanic.block_guard] values, which determines how much of the damage blocked is converted into [key.mechanic.posture_damage].",
+    "key.stat.category.posture.tooltip.description" : "Your [key.stat.posture] represents how stable you are while [key.mechanic.block](Blocking).\nAs long as your [key.stat.posture] doesn't [key.mechanic.posture_break](Break), you will take [key.flavour.positive](no damage) while [key.mechanic.block](Blocking).\nWeapons all have their own [key.mechanic.block_guard] values, which determines how much of the damage blocked is converted into [key.mechanic.posture_damage].",
 
     "key.stat.category.magic" : "Magic",
     "key.stat.category.magic.tooltip.name" : "Magic",
