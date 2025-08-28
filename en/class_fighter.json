@@ -58,7 +58,7 @@
     "class.fighter.skill.lightning_reflexes.description" : "When you [key.mechanic.parry] a [key.flag.physical] [key.mechanic.projectile] it will be [key.flavour.important](reflected) in the direction you're looking.\n[key.flag.enchanted] [key.mechanic.projectile](Projectiles) will count as [key.flag.magic](Magical).\n[key.skill.level] [key.variable.positive]({0})[key.style.break_small]You can [key.flavour.important](reflect) [key.flag.magic](Magical) [key.mechanic.projectile](Projectiles) in addition to [key.flag.physical].",
 
     "class.fighter.skill.sundering_strikes.name" : "Shred",
-    "class.fighter.skill.sundering_strikes.description" : "Your [key.flag.melee] attacks reduce the targets [key.stat.defense.armor] by [key.variable.positive]({0}) for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
+    "class.fighter.skill.sundering_strikes.description" : "Your [key.hold_type.one_handed] [key.flag.melee] attacks reduce the targets [key.stat.defense.armor] by [key.variable.positive]({0}) for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
 
     "class.fighter.skill.twin_strike.name" : "Twin Strike",
     "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within [key.variable.positive]({0}) second(s) of each other, apply [key.variable.positive]({1}) [key.status.bleed] and restore [key.variable.positive]({2}) [key.stat.stamina].",
