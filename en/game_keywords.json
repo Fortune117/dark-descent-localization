@@ -283,6 +283,10 @@
     "key.trigger.on_guard_break.tooltip.name" : "On Stability Break (Trigger)",
     "key.trigger.on_guard_break.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.guard_break] an enemy.",
 
+    "key.trigger.on_stagger" : "On Stagger",
+    "key.trigger.on_stagger.tooltip.name" : "On Stagger (Trigger)",
+    "key.trigger.on_stagger.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.stagger] an enemy.",
+
     "key.trigger.on_execute" : "On Execute",
     "key.trigger.on_execute.tooltip.name" : "On Execute (Trigger)",
     "key.trigger.on_execute.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully perform an [key.mechanic.execute](Execution).",
