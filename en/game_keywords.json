@@ -29,7 +29,7 @@
 
     "key.stat.category.movement" : "Movement",
     "key.stat.category.movement.tooltip.name" : "Movement",
-    "key.stat.category.movement.tooltip.description" : "Movement",
+    "key.stat.category.movement.tooltip.description" : "Movement represents how easily you move through the dungeon.\n[key.stat.movement.speed] is an [key.flavour.important](incredibly powerful) stat, don't underestimate it!",
 
     "key.stat.category.power" : "Power",
     "key.stat.category.power.tooltip.name" : "Power",
@@ -69,6 +69,7 @@
     "key.stat.stamina" : "Stamina",
     "key.stat.stamina.max" : "Maximum Stamina",
     "key.stat.stamina.regen" : "Stamina Regen",
+    "key.stat.stamina.delay" : "Stamina Delay",
     "key.stat.stamina.cost" : "Stamina Cost",
 
     "key.stat.posture" : "Posture",
@@ -134,9 +135,17 @@
     "key.mechanic.block_guard.tooltip.name" : "Guard",
     "key.mechanic.block_guard.tooltip.description" : "[key.mechanic.block_guard](Guard) determines how much of the [key.mechanic.damage](Damage) from attacks you [key.mechanic.block](Block) is converted into [key.mechanic.posture_damage].\n[key.mechanic.block_guard] ranges from [key.variable.static]([key.constant.guard_range_min]) to [key.variable.static]([key.constant.guard_range_max]), with higher values being better.\nAt [key.variable.positive]([key.constant.guard_100]) [key.mechanic.block_guard], [key.mechanic.damage] you [key.mechanic.block] will be converted into [key.mechanic.posture_damage] with a [key.variable.positive]([key.constant.guard_damage_mult_100]) [key.flavour.positive](reduction).\nAt [key.variable.positive]([key.constant.guard_range_max]) [key.mechanic.block_guard], [key.mechanic.damage] you [key.mechanic.block] will be converted into [key.mechanic.posture_damage] with a [key.variable.positive]([key.constant.guard_damage_mult_max]) [key.flavour.positive](reduction).\nAt [key.variable.negative]([key.constant.guard_negative_100]) [key.mechanic.block_guard], [key.mechanic.damage] you [key.mechanic.block] will be converted into [key.mechanic.posture_damage] with a [key.variable.negative]([key.constant.guard_damage_mult_negative_100]) [key.flavour.negative](increase).\nAt [key.variable.negative]([key.constant.guard_range_min]) [key.mechanic.block_guard], [key.mechanic.damage] you [key.mechanic.block] will be converted into [key.mechanic.posture_damage] with a [key.variable.negative]([key.constant.defense_damage_mult_min]) [key.flavour.negative](increase).\n[key.mechanic.damage] is typed and will be reduced by your corresponding [key.mechanic.block_guard] stats.\nYou can see your [key.flag.physical] [key.mechanic.block_guard] and your [key.flag.magic](Magical) [key.mechanic.block_guard] in the weapons stats panel (physical is the grey shield at the top, magical the blue shield at the bottom).",
 
+    "key.mechanic.guard_break" : "Stability Break",
+    "key.mechanic.guard_break.tooltip.name" : "Stability Break",
+    "key.mechanic.guard_break.tooltip.description" : "[key.mechanic.guard_break](Stability Broken) enemies will become briefly [key.mechanic.stagger](Staggered).\nUnlike regular [key.mechanic.stagger](Staggers), [key.mechanic.guard_break](Guard Breaks) also inflict [key.stat.posture_damage_enemy] equal to [key.variable.static](twice) the enemies [key.mechanic.stability].",
+
+    "key.mechanic.guard_damage" : "Stability Damage",
+    "key.mechanic.guard_damage.tooltip.name" : "Stability Damage",
+    "key.mechanic.guard_damage.tooltip.description" : "When you strike an enemy that is [key.mechanic.block](Blocking), and when you [key.mechanic.parry] an enemies attack, they will take [key.mechanic.guard_damage].\nIf an enemy takes enough [key.mechanic.guard_damage] they will suffer a [key.mechanic.guard_break].",
+
     "key.mechanic.heft" : "Heft",
     "key.mechanic.heft.tooltip.name" : "Heft",
-    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\nStarting a [key.mechanic.block] with an item costs [key.stat.stamina] equal to the [key.flavour.important](half) the [key.mechanic.heft] of the item.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\n[key.mechanic.parry](Parries) will [key.flavour.positive](restore) [key.stat.stamina] equal to the items [key.mechanic.heft].",
+    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\nStarting a [key.mechanic.block] with an item costs [key.stat.stamina] equal to [key.flavour.important](half) the [key.mechanic.heft] of the item.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\n[key.mechanic.parry](Parries) will [key.flavour.positive](restore) [key.stat.stamina] equal to the items [key.mechanic.heft].",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
@@ -171,12 +180,16 @@
     "key.mechanic.posture_break_enemy.tooltip.description" : "When you [key.mechanic.posture_break_enemy] most enemies they will become [key.mechanic.stun](Stunned).\nWhile an enemy is [key.mechanic.stun](Stunned) you can strike their [key.mechanic.weak_point] in order to perform an [key.mechanic.execute](Execution).\nTo read about how you are affected by [key.mechanic.posture_break](Posture Breaks, click here).",
 
     "key.mechanic.stagger" : "Stagger",
-    "key.mechanic.stagger.tooltip.name" : "Stagger",
-    "key.mechanic.stagger.tooltip.description" : "A [key.mechanic.stagger] is a short duration interruption of an enemies actions.\nSome enemies may react to this, but otherwise, it just gives you a little breathing room.",
+    "key.mechanic.stagger.tooltip.name" : "Staggers",
+    "key.mechanic.stagger.tooltip.description" : "A [key.mechanic.stagger] is a short duration [key.flavour.important](interruption) of an enemies actions.\nSome enemies may react to this, but otherwise, it just gives you a little breathing room.",
 
     "key.mechanic.stability" : "Stability",
     "key.mechanic.stability.tooltip.name" : "Stability",
-    "key.mechanic.stability.tooltip.description" :"Enemies have a poise stat. When you damage an enemy you will sometimes inflict poise damage.\nNearly all weapons and some spells deal poise damage.\nIf an enemies poise reaches zero they become [key.mechanic.stagger].\nThis mechanic is separate to [key.stat.posture].", 
+    "key.mechanic.stability.tooltip.description" :"[key.mechanic.stability] represents how difficult it is to throw an enemy off-guard during combat.\nYou can [key.mechanic.guard_damage](Damage) an enemies [key.mechanic.stability] by striking them while they are [key.mechanic.block](Blocking) or by [key.mechanic.parry](Parrying) them when they attack.\nIf an enemy reaches [key.flavour.important](zero) [key.mechanic.stability], they will suffer a [key.mechanic.guard_break].", 
+
+    "key.mechanic.poise" : "Poise",
+    "key.mechanic.poise.tooltip.name" : "Poise",
+    "key.mechanic.poise.tooltip.description" :"[key.mechanic.poise] represents how difficult it is to [key.mechanic.stagger] an enemy through [key.mechanic.damage] during combat.\nWhen you hit an attack, they will take [key.mechanic.poise_damage] based on what you hit them with.\nIf an enemy reaches [key.flavour.important](zero) [key.mechanic.poise] they will become [key.mechanic.stagger](Staggered).", 
 
     "key.mechanic.stun" : "Stun",
     "key.mechanic.stun.tooltip.name" : "Stuns",
@@ -265,6 +278,10 @@
     "key.trigger.on_block" : "On Block",
     "key.trigger.on_block.tooltip.name" : "On Block (Trigger)",
     "key.trigger.on_block.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully [key.mechanic.block] an attack.\n[key.mechanic.parry](Parries) will also [key.mechanic.trigger] [key.trigger.on_block] effects.",
+
+    "key.trigger.on_guard_break" : "On Stability Break",
+    "key.trigger.on_guard_break.tooltip.name" : "On Stability Break (Trigger)",
+    "key.trigger.on_guard_break.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.guard_break] an enemy.",
 
     "key.trigger.on_execute" : "On Execute",
     "key.trigger.on_execute.tooltip.name" : "On Execute (Trigger)",

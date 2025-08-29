@@ -19,13 +19,13 @@
     "class.fighter.skills.group.knight.description" : "Knight skills focus are focused on shields, heavy armor and deliberate, paced combat.",
 
     "class.fighter.skill.armor_light_foot.name" : "Lightfoot",
-    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P1}) [key.stat.movement.speed] and [key.variable.positive]({1}) [key.stat.stamina.regen].\nIncrease the stats gained from [key.item_tag.light] [key.item_tag.armor] by [key.variable.positive]({2:P0}).",
+    "class.fighter.skill.armor_light_foot.description" : "Each piece of [key.item_tag.light] [key.item_tag.armor] you're wearing grants you [key.variable.positive]({0:P1}) [key.stat.movement.speed], lowers your [key.stat.stamina.delay] by [key.variable.positive]({1}) and grants [key.variable.positive]({2}) [key.stat.stamina.regen].\nIncrease the stats gained from [key.item_tag.light] [key.item_tag.armor] by [key.variable.positive]({2:0.#%}).",
 
     "class.fighter.skill.fleet.name" : "Fleet",
     "class.fighter.skill.fleet.description" : "Reduce the [key.stat.movement.speed] [key.flavour.negative](penalty) you receive while [key.mechanic.strafing] or [key.mechanic.backpedaling] by [key.variable.positive]({0:P0})\nIncrease your [key.stat.generic.item_swap_speed] by [key.variable.positive]({1:P0}).",
 
     "class.fighter.skill.riposte.name" : "Riposte",
-    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry][key.style.break_small]Your next [key.variable.positive]({0:N1}) [key.flag.melee] attack(s) (rounded [key.flavour.negative](down)) within [key.variable.positive]({1}) seconds gains [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
+    "class.fighter.skill.riposte.description" : "[key.trigger.on_parry][key.style.break_small]If performed with a [key.hold_type.one_handed] [key.flag.melee] weapon ([key.item_tag.shield](Shields) excluded), your next [key.variable.positive]({0:N1}) [key.flag.melee] attack(s) (rounded [key.flavour.negative](down)) within [key.variable.positive]({1}) seconds gain [key.variable.positive]({2:P0}) [key.stat.attack.speed].",
 
     "class.fighter.skill.opportunist.name" : "Opportunist",
     "class.fighter.skill.opportunist.description" : "[key.trigger.on_stun][key.style.break_small]Restore [key.variable.positive]({0}) [key.stat.stamina], gain [key.variable.positive]({1:P0}) [key.stat.generic.item_swap_speed] and [key.variable.positive]({2:P0}) [key.stat.attack.speed] on your [key.flavour.important](first) [key.flag.melee] attack in the next [key.variable.positive]({3}) second(s).",
@@ -37,7 +37,7 @@
     "class.fighter.skill.sadist.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.two_handed] [key.flag.melee] weapon, gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1:N1}) [key.stat.stamina] per second for [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.weight_training.name" : "Weight Training",
-    "class.fighter.skill.weight_training.description" : "The [key.stat.movement.speed] [key.flavour.negative](penalty) you receive during attacks with [key.hold_type.two_handed] [key.flag.melee] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.mechanic.turncap] is increased by [key.variable.positive]({1:P0}).\nIn addition, your [key.stat.attack.speed] with [key.hold_type.two_handed] [key.flag.melee] weapons is increased by [key.variable.positive]({2:P0}).",
+    "class.fighter.skill.weight_training.description" : "The [key.stat.movement.speed] [key.flavour.negative](penalty) you receive during attacks with [key.hold_type.two_handed] [key.flag.melee] weapons is reduced by [key.variable.positive]({0:P0}) and your [key.mechanic.turncap] is increased by [key.variable.positive]({1:P0}).\nIn addition, the [key.mechanic.heft] of your [key.hold_type.two_handed] [key.flag.melee] weapons is [key.flavour.positive](reduced) by [key.variable.positive]({2:P0}).",
 
     "class.fighter.skill.sword_retort.name" : "Duelist",
     "class.fighter.skill.sword_retort.description" : "Your [key.mechanic.parry_window] window with [key.hold_type.one_handed] [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) increases by [key.variable.positive]({0:0.##} seconds) and your [key.mechanic.parry](Parries) with them restore [key.variable.positive]({1}) [key.stat.stamina](Stamina.)\nHowever, your [key.mechanic.block_guard] with [key.item_tag.sword](Swords) and [key.item_tag.dagger](Daggers) is [key.flavour.negative](reduced) by [key.variable.negative]({2:N0}).",
@@ -64,7 +64,7 @@
     "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within [key.variable.positive]({0}) second(s) of each other, apply [key.variable.positive]({1}) [key.status.bleed] and restore [key.variable.positive]({2}) [key.stat.stamina].",
 
     "class.fighter.skill.executor.name" : "Executor",
-    "class.fighter.skill.executor.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.one_handed] [key.flag.melee] weapon gain [key.variable.positive]({0:P0}) [key.stat.movement.speed] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will instantly [key.mechanic.kill] [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:P0}) [key.stat.health].",
+    "class.fighter.skill.executor.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.two_handed] [key.flag.melee] weapon gain [key.variable.positive]({0}) [key.stat.attack.power] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will [key.flavour.positive](instantly kill) [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:0.#%}) [key.stat.health].",
 
     "class.fighter.skill.rhythmic_fighting.name" : "Rythmic Fighting",
     "class.fighter.skill.rhythmic_fighting.description" : "Each [key.flavour.important](consecutive), [key.flavour.important](successful) [key.flag.melee] attack with [key.flavour.important](alternating) hands while [key.mechanic.dual_wielding] grants you [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage].\nAttacks must be within [key.variable.positive]({0}) seconds of each other.\n[key.mechanic.stacks] up to [key.variable.positive]({3}) times.\n[key.flavour.negative](Attacking out of rhythm will remove all Stacks.)",
@@ -79,7 +79,7 @@
     "class.fighter.skill.grit.description" : "[key.trigger.on_parry][key.style.break_small]Gain [key.variable.positive]({0}) [key.stat.grit] upon your next [key.variable.positive]({1}) successful [key.flag.melee] attack(s) for up to [key.variable.positive]({2}) seconds.",
 
     "class.fighter.skill.armor_heavy_master.name" : "Bulwark",
-    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor], if you would reduce the [key.mechanic.damage] you take to below [key.variable.positive]({0}) after applying your [key.stat.category.defense](Resistances), [key.flavour.important](negate) the [key.mechanic.damage] entirely.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:P0}).",
+    "class.fighter.skill.armor_heavy_master.description" : "While wearing all [key.item_tag.heavy] [key.item_tag.armor]:\nIf you would reduce the [key.mechanic.damage] you take to [key.variable.positive]({0}) or less after applying your [key.stat.category.defense](Resistances), [key.flavour.important](negate) the [key.mechanic.damage] entirely.\nIncrease the stats from gained from [key.item_tag.heavy] [key.item_tag.armor] by [key.variable.positive]({1:0.#%}).",
 
     "class.fighter.skill.steel_soul.name" : "Steel of Soul",
     "class.fighter.skill.steel_soul.description" : "[key.trigger.on_death][key.style.break_small]Instead of [key.mechanic.death](Dying), prevent the [key.mechanic.death](Death,) [key.mechanic.stagger] nearby enemies and gain [key.variable.positive]({0}) [key.stat.grit].\nWhile your [key.stat.grit] is above [key.flavour.important](0) you [key.flavour.positive](cannot die).\nIf you [key.mechanic.kill] an enemy while in this state, all of your [key.stat.grit] will be converted into [key.stat.health] and you will regain [key.variable.positive]({1:P0}) [key.stat.health.max].\nThis effect does not prevent further [key.mechanic.damage] while active.\nThis skill takes its toll on you and requires a [key.mechanic.rest] to recover.\nNote: Resting isn't implemented yet. This will only trigger [key.flavour.important](once).",
@@ -106,5 +106,23 @@
     "class.fighter.skill.shield_perfect_defense.description" : "You may still attack with your opposite hand when [key.mechanic.block](Blocking) with a [key.item_tag.shield].\nHowever, you will receive a [key.variable.negative]({0:N0}) [key.mechanic.block_guard] [key.flavour.negative](penalty) on your [key.mechanic.block] if struck while attacking.",
 
     "class.fighter.skill.shield_steady.name" : "Steady",
-    "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0}) more [key.mechanic.block_guard].\n[key.trigger.on_parry][key.style.break_small]If performed with a [key.item_tag.shield], your [key.mechanic.parry](Parries) will restore [key.variable.positive]({1}) extra [key.stat.stamina] and [key.variable.positive]({2}) [key.stat.posture]." 
+    "class.fighter.skill.shield_steady.description" : "Your [key.item_tag.shield](Shields) gain [key.variable.positive]({0}) more [key.mechanic.block_guard].\n[key.trigger.on_parry][key.style.break_small]If performed with a [key.item_tag.shield], your [key.mechanic.parry](Parries) will restore [key.variable.positive]({1}) extra [key.stat.stamina] and [key.variable.positive]({2}) [key.stat.posture].", 
+  
+    "class.fighter.skill.medium_armor_master.name" : "Veteran",
+    "class.fighter.skill.medium_armor_master.description" : "While wearing all [key.item_tag.medium] [key.item_tag.armor]:\n[key.variable.positive]({0:P0}) of the [key.mechanic.damage] you take is converted into [key.mechanic.posture_damage] instead.\nIf you don't have enough [key.stat.posture], [key.mechanic.damage] will be applied as normal.\nThis [key.mechanic.posture_damage] cannot [key.mechanic.posture_break](Break) your [key.stat.posture].\nIncrease the stats gained from [key.item_tag.medium] [key.item_tag.armor] by [key.variable.positive]({2:P0}).",
+
+    "class.fighter.skill.like_a_bug.name" : "Like a Bug",
+    "class.fighter.skill.like_a_bug.description" : "If you would [key.mechanic.posture_break_enemy](Break) an enemy in [key.variable.static](one) attack, they are [key.flavour.positive](instantly killed).\nDramatically.",
+
+    "class.fighter.skill.indulgent.name" : "Indulgent",
+    "class.fighter.skill.indulgent.description" : "When your [key.stat.grit] decays naturally, it is converted into [key.stat.stamina] and [key.stat.posture] at a [key.variable.positive]({0}) ratio.\n[key.trigger.on_kill][key.style.break_small]When you [key.mechanic.kill] an enemy with a [key.two_handed.hold_type] [key.flag.melee] weapon, [key.variable.positive]({0:P0}) of your [key.stat.grit] is converted into [key.stat.health].",
+
+    "class.fighter.skill.forceful.name" : "Break the Spirit",
+    "class.fighter.skill.forceful.description" : "[key.trigger.on_hit]When striking an enemy with a [key.hold_type.two_handed] [key.flag.melee] weapon, restore [key.variable.positive]({0}) [key.stat.stamina] and [key.variable.positive]({1}) [key.stat.posture].\n[key.trigger.on_guard_break][key.style.break_small]If you [key.mechanic.guard_break] an enemy with a [key.hold_type.two_handed] [key.flag.melee] weapon, restore [key.variable.positive]({0}) [key.stat.stamina] and gain [key.variable.positive]({1:P0}) [key.stat.attack.speed] for [key.variable.positive]({2}) seconds.",
+  
+    "class.figther.skill.flow.name" : "Flow State",
+    "class.figther.skill.flow.description" : "Your [key.hold_type.two_handed] [key.flag.melee] weapons [key.mechanic.parry_window] is [key.flavour.negative](reduced) by [key.variable.negative]({0} seconds).\n[key.trigger.on_parry][key.style.break_small]Your [key.hold_type.two_handed] [key.flag.melee] weapons gain [key.variable.positive]({1}) [key.stat.attack.speed] and [key.variable.positive]({2}) [key.mechanic.damage].\n[key.mechanic.stacks] up to [key.variable.positive]({3}) times, [key.mechanic.stacks] last indefinitely.\n[key.flavour.negative](All Stacks are lost upon taking damage, or swapping weapons.)",
+
+    "class.figther.skill.vexation.name" : "Vexation",
+    "class.figther.skill.vexation.description" : "Whenever your [key.hold_type.two_handed] [key.flag.melee] attacks are [key.mechanic.block](Blocked) or [key.mechanic.parry](Parried), gain [key.variable.positive]({0}) [key.stat.attack.speed] and [key.variable.positive]({1}) [key.stat.grit] for [key.variable.positive]({2}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({3}) times."
   }
