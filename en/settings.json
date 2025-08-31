@@ -84,7 +84,7 @@
     "ui.settings.graphics.screen_space_reflections.description" : "Whether Screen Space Reflections are on or off.\nThis has a high performance impact and honestly I can't even really tell when it's on.",
 
     "ui.settings.graphics.pixel_filter.name" : "Pixel Filter",
-    "ui.settings.graphics.pixel_filter.description" : "Whether the pixel filter is enabled or not.\nThe game is designed around this being on but I understand some people really don't like it so feel free to tweak it to your liking.",
+    "ui.settings.graphics.pixel_filter.description" : "Whether the pixel filter is enabled or not.\nThe game is designed around this being enabled, but I understand some people really don't like it.\nFeel free to tweak it to your liking :)",
 
     "ui.settings.graphics.pixel_filter.resolution.name" : "Resolution",
     "ui.settings.graphics.pixel_filter.resolution.description" : "How dense the pixel filter is. Higher value = higher resolution.",
@@ -93,11 +93,11 @@
     "ui.settings.graphics.pixel_filter.colour_depth.description" : "How crunchy should the colours be? Lower = less possible colours.\nAnd yes it's [key.flavour.important](COLOURS) not [key.flavour.negative](COLORS) ya fuckin' dogs.",
 
     "ui.settings.graphics.contrast.name" : "Contrast",
-    "ui.settings.graphics.contrast.description" : "",
+    "ui.settings.graphics.contrast.description" : "Affects how strongly different color levels are represented in game - makes dark areas darker and bright areas brighter.",
     
     "ui.settings.graphics.brightness.name" : "Brightness",
-    "ui.settings.graphics.brightness.description" : "",
+    "ui.settings.graphics.brightness.description" : "How bright the game is.",
 
     "ui.settings.graphics.saturation.name" : "Saturation",
-    "ui.settings.graphics.saturation.description" : ""
+    "ui.settings.graphics.saturation.description" : "How 'deep' the colours should be. Higher saturation will result in colours appearing stronger and more vibrant, at the cost of possibly losing coherence and readability.\nLower saturation will wash out the colours, making things appear grey and monochromne."
 }
