@@ -264,9 +264,9 @@
     "key.mechanic.turncap.tooltip.description" : "[key.mechanic.turncap] is the limit to how quickly you can look around during attacks with weapons.\nHeavier weapons usually have lower [key.mechanic.turncap](Turncaps), meaning you wont be able to turn as quickly while attacking with them.\nThis is separate to your mouse sensitivity and cannot be avoided by increasing it.",
 
 
-    "key.mechanic.skill_point_global" : "Global Skill Point",
-    "key.mechanic.skill_point_global.tooltip.name" : "Global Skill Point",
-    "key.mechanic.skill_point_global.tooltip.description" : "[key.mechanic.skill_point_global](Global Skill Points) can be spent on [key.mechanic.skill](Skills) in any [key.mechanic.class] that you have levels in.",
+    "key.mechanic.skill_point_global" : "Universal Skill Point",
+    "key.mechanic.skill_point_global.tooltip.name" : "Universal Skill Point",
+    "key.mechanic.skill_point_global.tooltip.description" : "[key.mechanic.skill_point_global](Universal Skill Points) can be spent on [key.mechanic.skill](Skills) in any [key.mechanic.class] that you have levels in.",
 
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
