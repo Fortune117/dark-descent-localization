@@ -23,6 +23,9 @@
     "ui.settings.ui.show_crosshair.name" : "Show Crosshair",
     "ui.settings.ui.show_crosshair.description" : "Disabling his will hide the crosshair that appears in the center of your screen.",
 
+    "ui.settings.ui.show_crosshair.show_aim_pip.name" : "Aim Pip",
+    "ui.settings.ui.show_crosshair.show_aim_pip.description" : "Shows an indicator for which direction your [key.flag.melee] attacks will come from.",
+
     "ui.settings.ui.show_crosshair.opacity.name" : "Opacity",
     "ui.settings.ui.show_crosshair.opacity.description" : "How transparent your crosshair is.",
 
