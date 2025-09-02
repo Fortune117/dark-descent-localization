@@ -39,6 +39,9 @@
     "item.potion.haste.minor.description" : "",
     "item.potion.haste.minor.flavour" : "Small sparks leap out of the swirling liquid.",
 
+    "item.potion.attack_power.minor.name" : "Minor Power Potion",
+    "item.potion.attack_power.minor.description" : "",
+    "item.potion.attack_power.minor.flavour" : "Fleks of metal glint inside the dull orange liquid.",
     
     "item.consumable.cost" : "Cost",
     "item.consumable.restores" : "Restores",
