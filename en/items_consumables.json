@@ -42,6 +42,10 @@
     "item.potion.attack_power.minor.name" : "Minor Power Potion",
     "item.potion.attack_power.minor.description" : "",
     "item.potion.attack_power.minor.flavour" : "Fleks of metal glint inside the dull orange liquid.",
+
+    "item.potion.skill.name" : "Skill Potion",
+    "item.potion.skill.description" : "Grants [key.variable.static](1) [key.mechanic.skill_point_global] when consumed.",
+    "item.potion.skill.flavour" : "Memories swim like tiny, ethereal fish within the glowing liquid.",
     
     "item.consumable.cost" : "Cost",
     "item.consumable.restores" : "Restores",
