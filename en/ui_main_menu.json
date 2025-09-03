@@ -4,6 +4,7 @@
   "ui.main_menu.create_lobby" : "Create Lobby",
   "ui.main_menu.continue" : "Continue",
   "ui.main_menu.join_lobby" : "Join Lobby",
+  "ui.main_menu.tutorial" : "How to Play",
   "ui.main_menu.settings" : "Settings",
   "ui.main_menu.stats" : "Achievements",
   "ui.main_menu.quit" : "Quit", 
