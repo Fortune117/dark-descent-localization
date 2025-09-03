@@ -60,6 +60,8 @@
 
     "key.stat.flask_charges" : "Flask Charges",
     "key.stat.flask_charges.max" : "Max Flask Charges",
+    "key.stat.flask_charges.max.tooltip.name" : "Maximum Flask Charges",
+    "key.stat.flask_charges.max.tooltip.description" : "The maximum number of [key.stat.flask_charges] you can have.",
 
     "key.stat.health" : "Health",
     "key.stat.health.min" : "Minimum Health",
@@ -262,7 +264,6 @@
     "key.mechanic.turncap" : "Turncap",
     "key.mechanic.turncap.tooltip.name" : "Turncap",
     "key.mechanic.turncap.tooltip.description" : "[key.mechanic.turncap] is the limit to how quickly you can look around during attacks with weapons.\nHeavier weapons usually have lower [key.mechanic.turncap](Turncaps), meaning you wont be able to turn as quickly while attacking with them.\nThis is separate to your mouse sensitivity and cannot be avoided by increasing it.",
-
 
     "key.mechanic.skill_point_global" : "Universal Skill Point",
     "key.mechanic.skill_point_global.tooltip.name" : "Universal Skill Point",
