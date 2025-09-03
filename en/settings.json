@@ -1,24 +1,45 @@
 {
     "ui.settings.game.field_of_view.name" : "Field of View",
-    "ui.settings.game.field_of_view.description" : "How large the FOV for the player is.\nI would not recommend changing this much",
+    "ui.settings.game.field_of_view.description" : "How large the FOV for the player is.\nI would not recommend changing this much from the default value, but you do you.",
 
     "ui.settings.game.sensitivity.name" : "Sensitivity",
     "ui.settings.game.sensitivity.description" : "How quickly you look around.",
 
     "ui.settings.game.sensitivity.horizontal.name" : "Horizontal",
+    "ui.settings.game.sensitivity.horizontal.description" : "Horizontal only.\nMultiplicative with overall sensitivity.",
+
     "ui.settings.game.sensitivity.vertical.name" : "Vertical",
+    "ui.settings.game.sensitivity.vertical.description" : "Vertical Sensitivity only.\nMultiplicative with overall sensitivity.",
 
     "ui.settings.game.sensitivity.aiming.name" : "Aim Scale",
     "ui.settings.game.sensitivity.aiming.description" : "Multiplier to your sensitivity while aiming. (e.g. drawing back a bow and arrow).",
 
+    "ui.settings.game.camera_effects.name" : "Camera Motion",
+    "ui.settings.game.camera_effects.description" : "Enable or disable all camera motion.\nCamera motion includes things like moving your camera when you take damage, land an attack, block an attack, etc.",
+
     "ui.settings.game.view_bob.name" : "View Bob",
-    "ui.settings.game.view_bob.description" : "View Bob",
+    "ui.settings.game.view_bob.description" : "How much view-bob should you experience?\nUser preference - I don't give a shit <3",
+
+    "ui.settings.game.aim_punch.name" : "Aim Punch",
+    "ui.settings.game.aim_punch.description" : "How strong aim punch effects will be when applied to your camera.\nTaking damage, hitting an attack and blocking all cause aim punch.\nI would recommend leaving this at default until you've tried the game a bit.",
+
+    "ui.settings.game.camera_shake.name" : "Camear Shake",
+    "ui.settings.game.camera_shake.description" : "How much camera shake should you experience?\nCamera shake is apllied when hitting attacks, taking, damage, certain scripted sequences, etc.\nI would recommend leaving this at default until you've tried the game a bit.",
 
     "ui.settings.game.auto_hotbar.name" : "Auto Hotbar",
     "ui.settings.game.auto_hotbar.description" : "Automatically add eligible items to your hotbar when picked up. (e.g. potions, consumables, etc)",
     
     "ui.settings.game.auto_level.name" : "Auto Level",
-    "ui.settings.game.auto_level.description" : "Automatically level up your starting class when you gain a level.\nIn the future we plan to support multiclassing but until that's implemented this is will be on by default.",
+    "ui.settings.game.auto_level.description" : "Automatically level up your starting class when you gain a level.\nThere's only one class in the game at the moment, so there's not much point in letting you choose what class to level.\nIn the future we plan to support multiclassing but until that's implemented this is will be on by default.",
+
+    "ui.settings.ui.hud.name" : "Show HUD",
+    "ui.settings.ui.hud.description" : "Turn this off to disable the HUD.\nI have no idea who wants this but here you go.",
+
+    "ui.settings.ui.hud.centralized.name" : "Centered",
+    "ui.settings.ui.hud.centralized.description" : "Centers your Health and Stamina bars on your screen.\nSome people prefer this so I've added an option for it.",
+
+    "ui.settings.ui.hud.scale.name" : "Scale",
+    "ui.settings.ui.hud.scale.description" : "The size of the HUD elements on your screen.",
 
     "ui.settings.ui.show_crosshair.name" : "Show Crosshair",
     "ui.settings.ui.show_crosshair.description" : "Disabling his will hide the crosshair that appears in the center of your screen.",
@@ -76,6 +97,9 @@
 
     "ui.settings.sound.enable_hitsounds.pitch.name" : "Pitch",
     "ui.settings.sound.enable_hitsounds.pitch.description" : "",
+
+    "ui.settings.graphics.post_processing.name" : "Post Processing",
+    "ui.settings.graphics.post_processing.description" : "Toggle all post processing effects on or off.",
 
     "ui.settings.graphics.view_distance.name" : "View Distance",
     "ui.settings.graphics.view_distance.description" : "Controls how far away from you dungeon tiles will draw.\nLower values will increase performance but may result in pop in.",
