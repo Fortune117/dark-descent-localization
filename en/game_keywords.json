@@ -147,7 +147,7 @@
 
     "key.mechanic.heft" : "Heft",
     "key.mechanic.heft.tooltip.name" : "Heft",
-    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\nStarting a [key.mechanic.block] with an item costs [key.stat.stamina] equal to [key.flavour.important](half) the [key.mechanic.heft] of the item.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\n[key.mechanic.parry](Parries) will [key.flavour.positive](restore) [key.stat.stamina] equal to the items [key.mechanic.heft].",
+    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\nYour [key.stat.stamina] regenerates [key.flavour.negative](much slower) while [key.mechanic.block](Blocking).",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
@@ -163,7 +163,7 @@
 
     "key.mechanic.block" : "Block",
     "key.mechanic.block.tooltip.name" : "Blocking",
-    "key.mechanic.block.tooltip.description" : "You can [key.mechanic.block] by holding an object capable of [key.mechanic.block](Blocking) (most weapons will work) in one of your hands and pressing your [key.input.block] key.\nIf you raise your [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with, you will instead [key.mechanic.parry] the attack.\nWhen you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the damage dealt by the attack and the [key.mechanic.block_guard] values on your blocking implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above [key.flavour.important](0), you will take [key.flavour.positive](no damage) from the [key.mechanic.block](Blocked) attack. You may still receive some other effects from the attack, such as certain [key.flag.enchantment](Enchantments) still [key.mechanic.trigger](Triggering).\nIf your [key.stat.posture] reaches [key.flavour.negative](0) you will be [key.mechanic.posture_break](Posture Broken) and any excess [key.mechanic.damage] will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).",
+    "key.mechanic.block.tooltip.description" : "You can [key.mechanic.block] by holding an object capable of [key.mechanic.block](Blocking) (most weapons will work) in one of your hands and pressing your [key.control.block] key.\nIf you raise your [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with, you will instead [key.mechanic.parry] the attack.\nWhen you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the damage dealt by the attack and the [key.mechanic.block_guard] values on your blocking implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above [key.flavour.important](0), you will take [key.flavour.positive](no damage) from the [key.mechanic.block](Blocked) attack. You may still receive some other effects from the attack, such as certain [key.flag.enchantment](Enchantments) still [key.mechanic.trigger](Triggering).\nIf your [key.stat.posture] reaches [key.flavour.negative](0) you will be [key.mechanic.posture_break](Posture Broken) and any excess [key.mechanic.damage] will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).",
 
     "key.mechanic.posture_damage" : "Posture Damage",
     "key.mechanic.posture_damage.tooltip.name" : "Posture Damage (Player)",
@@ -217,7 +217,7 @@
 
     "key.mechanic.death" : "Death",
     "key.mechanic.death.tooltip.name" : "Death",
-    "key.mechanic.death.tooltip.description" : "Death",
+    "key.mechanic.death.tooltip.description" : "The [key.flavour.arcane](eternal sleep), the [key.flavour.negative](final dance), the [key.flavour.occult](furthest shore).\nUsually a one-way ticket to the start of the [key.flavour.dungeon].\n[key.flavour.secret](We all meet our end.)\n[key.flavour.secret](Eventually.)",
 
     "key.mechanic.penetration" : "Penetration",
     "key.mechanic.penetration.description" : "Penetration",
@@ -240,6 +240,10 @@
     "key.mechanic.rest" : "Rest",
     "key.mechanic.rest.tooltip.name" : "Resting",
     "key.mechanic.rest.tooltip.description" : "[key.flavour.negative](Resting isn't implement yet, so effects that rely on it wont recharge.)",
+
+    "key.mechanic.fountain" : "Fountain",
+    "key.mechanic.fountain.tooltip.name" : "Fountains",
+    "key.mechanic.fountain.tooltip.description" : "[key.mechanic.fountain](Fountains) spawn [key.variable.static](once) per floor in the [key.flavour.important](Dungeon).\nInteracting with a [key.mechanic.fountain] will [key.flavour.positive](restore) all of your [key.stat.flask_charges] up to your [key.stat.flask_charges.max].\n[key.mechanic.fountain](Fountains) are delicate things and can only be used [key.flavour.important](once) per player.",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
     "key.mechanic.dual_wielding.tooltip.name" : "Dual-Wielding",
@@ -385,6 +389,8 @@
 
     "key.flavour.important" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.fluff" : "You shouldn't see this! Yell at fortune :)",
+
+    "key.flavour.dungeon" : "Dungeon",
 
     "key.flavour.positive" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.negative" : "You shouldn't see this! Yell at fortune :)",

@@ -41,7 +41,7 @@
 
     "key.item_tag.flask" : "Flask",
     "key.item_tag.flask.tooltip.name" : "Flask",
-    "key.item_tag.flask.tooltip.description" : "You start each run with a [key.item_tag.flask] full [key.stat.flask_charges].\nYou can drink from your [key.item_tag.flask] by pressing [key.input.flask].\nEach classes starting [key.item_tag.flask] is unique, though they will almost always restore some [key.stat.health] or [key.stat.magic.mana] (or sometimes both).\nYou can find more unique [key.item_tag.flask](Flasks) deeper in the dungeon.",
+    "key.item_tag.flask.tooltip.description" : "You start each run with a [key.item_tag.flask] full [key.stat.flask_charges].\nYou can drink from your [key.item_tag.flask] by pressing [key.control.quick_heal].\nEach classes starting [key.item_tag.flask] is unique, though they will almost always restore some [key.stat.health] or [key.stat.magic.mana] (or sometimes both).\nYou can find more unique [key.item_tag.flask](Flasks) deeper in the [key.flavour.dungeon].",
 
     "key.item_tag.clothing" : "Clothing",
     "key.item_tag.clothing.tooltip.name" : "Clothing (Tag)",
