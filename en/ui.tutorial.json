@@ -4,8 +4,9 @@
     "ui.tutorial.category.stats" : "Stats",
 
     "tutorial.quick_start.basics" : "Basics",
-    "tutorial.quick_start.basics.description" : "This is an epic test of this cool system. Or",
+    "tutorial.quick_start.basics.description" : "This game is [key.flavour.negative](hard.) Prepare to die a lot.\nWhen you enter the [key.flavour.important](Dungeon), your goal is to reach the [key.flavour.important](next floor) by whatever means possible until you reach the end of the [key.flavour.important](Dungeon).\nFloors are [key.flavour.important](randomly generated) each run and contain a multitude of enemies for you to fight, as well as some tantalizing loot for you acquire.\n[key.flavour.important](Chests) will spawn throughout the Dungeon and can be opened to acquire better gear.\n[key.flavour.important](Inventory Management) plays a large role in this game. You can open your inventory with [key.control.inventory].",
     
     "tutorial.quick_start.combat" : "Combat",
+    "tutorial.quick_start.combat.description" : "You have the following controls:\n[key.control.forward][key.control.left][key.control.backward][key.control.right] [key.control.jump] Movement\nPrimary Attack [key.control.attack1]\nSecondary Attack [key.control.attack2]\n[key.control.block] Blocking\nKicking [key.control.kick]",
     "tutorial.quick_start.power" : "Getting Stronger"
 }
