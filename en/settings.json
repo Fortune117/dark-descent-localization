@@ -14,6 +14,9 @@
     "ui.settings.game.sensitivity.aiming.name" : "Aim Scale",
     "ui.settings.game.sensitivity.aiming.description" : "Multiplier to your sensitivity while aiming. (e.g. drawing back a bow and arrow).",
 
+    "ui.settings.game.dynamic_post_processing.name" : "Dynamic Camera Effects",
+    "ui.settings.game.dynamic_post_processing.description" : "Some things in the game will apply some fairly drastic post processing or particle effects to your camera.\nIf you don't want to see any of that you can disable it here.",
+
     "ui.settings.game.camera_effects.name" : "Camera Motion",
     "ui.settings.game.camera_effects.description" : "Enable or disable all camera motion.\nCamera motion includes things like moving your camera when you take damage, land an attack, block an attack, etc.",
 
