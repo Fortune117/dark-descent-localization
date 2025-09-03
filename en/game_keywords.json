@@ -17,7 +17,7 @@
 
     "key.stat.category.posture" : "Posture",
     "key.stat.category.posture.tooltip.name" : "Posture",
-    "key.stat.category.posture.tooltip.description" : "Your [key.stat.posture] represents how stable you are while [key.mechanic.block](Blocking).\nAs long as your [key.stat.posture] doesn't [key.mechanic.posture_break](Break), you will take [key.flavour.positive](no damage) while [key.mechanic.block](Blocking).\nWeapons all have their own [key.mechanic.block_guard] values, which determines how much of the damage blocked is converted into [key.mechanic.posture_damage].",
+    "key.stat.category.posture.tooltip.description" : "Your [key.stat.posture] represents how [key.flavour.important](stable) you are while [key.mechanic.block](Blocking).\nAs long as your [key.stat.posture] doesn't [key.mechanic.posture_break](Break), you will take [key.flavour.positive](no damage) while [key.mechanic.block](Blocking).\nWeapons all have their own [key.mechanic.block_guard] values, which determines how much of the [key.mechanic.damage] [key.mechanic.block](Blocked) is converted into [key.mechanic.posture_damage].",
 
     "key.stat.category.magic" : "Magic",
     "key.stat.category.magic.tooltip.name" : "Magic",
@@ -59,6 +59,8 @@
     "key.stat.luck" : "Luck",
 
     "key.stat.flask_charges" : "Flask Charges",
+    "key.stat.flask_charges.tooltip.name" : "Flask Charges",
+    "key.stat.flask_charges.tooltip.description" : "[key.stat.flask_charges] are consumed when you use your [key.item_tag.flask].\nRarely, [key.item_tag.flask](Flaks) you find within the [key.flavour.dungeon] may use more than one [key.stats.flask_charges](Charge) on use.",
     "key.stat.flask_charges.max" : "Max Flask Charges",
     "key.stat.flask_charges.max.tooltip.name" : "Maximum Flask Charges",
     "key.stat.flask_charges.max.tooltip.description" : "The maximum number of [key.stat.flask_charges] you can have.",
@@ -139,7 +141,7 @@
 
     "key.mechanic.guard_break" : "Stability Break",
     "key.mechanic.guard_break.tooltip.name" : "Stability Break",
-    "key.mechanic.guard_break.tooltip.description" : "Enemies suffer a [key.mechnic.guard_break] when they [key.mechanic.block] an attack without enough [key.mechanic.stability] or if you [key.mechanic.parry] one of their attacks while they are at low [key.mechanic.stability].\n[key.mechanic.guard_break](Stability Broken) enemies will become briefly [key.mechanic.stagger](Staggered).\nUnlike regular [key.mechanic.stagger](Staggers), [key.mechanic.guard_break](Stability Breaks) also inflict [key.mechanic.posture_damage_enemy] equal to [key.variable.static](twice) the enemies [key.mechanic.stability](Maximum Stability)\nThis [key.mechanic.posture_damage_enemy] cannot [key.mechanic.posture_break_enemy](Break) the enemies [key.stat.posture].",
+    "key.mechanic.guard_break.tooltip.description" : "Enemies suffer a [key.mechanic.guard_break] when they [key.mechanic.block] an attack without enough [key.mechanic.stability] or if you [key.mechanic.parry] one of their attacks while they are at low [key.mechanic.stability].\n[key.mechanic.guard_break](Stability Broken) enemies will become briefly [key.mechanic.stagger](Staggered).\nUnlike regular [key.mechanic.stagger](Staggers), [key.mechanic.guard_break](Stability Breaks) also inflict [key.mechanic.posture_damage_enemy] equal to [key.variable.static](twice) the enemies [key.mechanic.stability](Maximum Stability)\nThis [key.mechanic.posture_damage_enemy] cannot [key.mechanic.posture_break_enemy](Break) the enemies [key.stat.posture].",
 
     "key.mechanic.guard_damage" : "Stability Damage",
     "key.mechanic.guard_damage.tooltip.name" : "Stability Damage",

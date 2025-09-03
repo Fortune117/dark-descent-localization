@@ -4,7 +4,7 @@
   "item.trinket.str_talisman.flavour": "It feels warm.",
 
   "item.trinket.dex_talisman.name": "Cat's Pendant",
-  "item.trinket.dex_talisman.description": "A small, black cat.\nPrecisely cut from obsidian and finely polished.",
+  "item.trinket.dex_talisman.description": "A small, black cat.[key.style.break_small]Precisely cut from obsidian and finely polished.",
   "item.trinket.dex_talisman.flavour": "The slitted eyes seem to follow you.",
 
   "item.trinket.con_talisman.name": "Bear's Pendant",
