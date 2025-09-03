@@ -271,6 +271,38 @@
     "key.mechanic.turncap.tooltip.name" : "Turncap",
     "key.mechanic.turncap.tooltip.description" : "[key.mechanic.turncap] is the limit to how quickly you can look around during attacks with weapons.\nHeavier weapons usually have lower [key.mechanic.turncap](Turncaps), meaning you wont be able to turn as quickly while attacking with them.\nThis is separate to your mouse sensitivity and cannot be avoided by increasing it.",
 
+    "key.mechanic.attribute_points" : "Attribute Points",
+    "key.mechanic.attribute_points.tooltip.name" : "Attribute Points",
+    "key.mechanic.attribute_points.tooltip.description" : "[key.mechanic.attribute_points] can be spent to [key.flavour.positive](increase) your [key.stat.category.core](Core Stats) in your [key.flavour.important](Character Sheet).\nYou can access your [key.flavour.important](Character Sheet) by pressing [key.control.player_card].",
+
+    "key.mechanic.class" : "Class",
+    "key.mechanic.class.tooltip.name" : "Classes",
+    "key.mechanic.class.tooltip.description" : "[key.mechanic.class](Classes) are what you can put [key.mechanic.class_level](Class Levels) into after gaining an [key.mechanic.level_up](Experience Level).\nEach [key.mechanic.class] is specialised and provides new ways of overcoming the [key.flavour.dungeon].\nYou are not restricted to just one [key.mechanic.class] - you can [key.mechanic.multiclassing](Multiclass) by taking [key.mechanic.class_level](Class Levels) in multiple [key.mechanic.class](Classes)!\n[key.flaovur.reminder](Multiclassing isn't implemented yet. Sorry!)",
+
+    "key.mechanic.multiclassing" : "Multiclassing",
+    "key.mechanic.multiclassing.tooltip.name" : "Multiclassing",
+    "key.mechanic.multiclassing.tooltip.description" : "[key.mechanic.multiclassing] allows you put levels into [key.flavour.important](multiple) [key.mechanic.class](Classes).\nMany [key.mechanic.class](Classes) will have requirements that must be met before you can put any [key.mechanic.class_level](Levels) into them.\n[key.flavour.negative](Multiclassing has not been implemented yet, sorry!)",
+
+    "key.mechanic.class_level" : "Class Level",
+    "key.mechanic.class_level.tooltip.name" : "Class Level",
+    "key.mechanic.class_level.tooltip.description" : "Aftering gaining an [key.mechanic.level_up](Experience Level), you will receive one [key.mechanic.class_level] to spend a [key.mechanic.class] of your choice.",
+
+    "key.mechanic.level_up" : "Level Up",
+    "key.mechanic.level_up.tooltip.name" : "Level Up",
+    "key.mechanic.level_up.tooltip.description" : "When you gain enough [key.mechanic.experience], you will gain one [key.mechanic.class_level], allowing you to [key.mechanic.level_up_class] one [key.mechanic.class] of your choice.",
+
+    "key.mechanic.level_up_class" : "Class Level Up",
+    "key.mechanic.level_up_class.tooltip.name" : "Class Level Up",
+    "key.mechanic.level_up_class.tooltip.description" : "When you spend a [key.mechanic.class_level] on a [key.mechanic.class] you will [key.mechanic.level_up_class](Level Up) that [key.mechanic.class] and gain [key.variable.static](1) [key.mechanic.class_skill_point].",
+
+    "key.mechanic.skills" : "Skills",
+    "key.mechanic.skills.tooltip.name" : "Skills",
+    "key.mechanic.skills.tooltip.description" : "[key.mechanic.skills] are unique abilities granted to you by your [key.mechanic.class](Classes) (and occasionally other sources, such as [key.flag.enchantment](Enchantments)).\nWhenever you spend a [key.mechanic.class_level] on a [key.mechanic.class], you will gain [key.variable.static](1) [key.mechanic.class_skill_point] for that [key.mechanic.class].\nYou can spend this [key.mechanic.class_skill_point] on any [key.mechanic.skills](Skill) that is part of the leveled [key.mechanic.class].",
+
+    "key.mechanic.class_skill_point" : "Class Skill Point",
+    "key.mechanic.class_skill_point.tooltip.name" : "Class Skill Point",
+    "key.mechanic.class_skill_point.tooltip.description" : "[key.mechanic.class_skill_point](Class Skill Points) can be spent on [key.mechanic.skill](Skills) belonging to the [key.mechanic.class] they are for.",
+
     "key.mechanic.skill_point_global" : "Universal Skill Point",
     "key.mechanic.skill_point_global.tooltip.name" : "Universal Skill Point",
     "key.mechanic.skill_point_global.tooltip.description" : "[key.mechanic.skill_point_global](Universal Skill Points) can be spent on [key.mechanic.skill](Skills) in any [key.mechanic.class] that you have levels in.",

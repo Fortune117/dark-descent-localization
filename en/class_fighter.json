@@ -1,4 +1,8 @@
 {
+    "key.class.fighter" : "Fighter",
+    "key.class.fighter.tooltip.name" : "Fighter",
+    "key.class.fighter.tooltip.description" : "Hit good with big stick - yes yes.",
+
     "class.fighter.name" : "Fighter",
     "class.fighter.description.short" : "A martial class with a broad range of expertise and ability. Can specialize into nearly any class of weapon, but has no magical ability.",
     "class.fighter.description.long" : "The fighter embodies the spirit of martial mastery. Fighters represent the pinnacle of physical prowess and ability, with skills focused on their preffered style of combat and weapon specialisation.",
