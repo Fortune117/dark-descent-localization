@@ -39,7 +39,10 @@
     "ui.settings.ui.hud.description" : "Turn this off to disable the HUD.\nI have no idea who wants this but here you go.",
 
     "ui.settings.ui.hud.centralized.name" : "Centered",
-    "ui.settings.ui.hud.centralized.description" : "Centers your Health and Stamina bars on your screen.\nSome people prefer this so I've added an option for it.",
+    "ui.settings.ui.hud.centralized.description" : "Centers your [key.stat.health] and [key.stat.stamina] bars on your screen.\nSome people prefer this so I've added an option for it.",
+
+    "ui.settings.ui.hud.vertical_offset.name" : "Vertical Offset",
+    "ui.settings.ui.hud.vertical_offset.description" : "How high above the bottom of your screen your [key.stat.health] and [key.stat.stamina] bars will be.",
 
     "ui.settings.ui.hud.scale.name" : "Scale",
     "ui.settings.ui.hud.scale.description" : "The size of the HUD elements on your screen.",
