@@ -13,7 +13,7 @@
 
     "key.stat.category.concentration" : "Concentration",
     "key.stat.category.concentration.tooltip.name" : "Concentration",
-    "key.stat.category.concentration.tooltip.description" : "[key.stat.concentration] is used to maintain spells that require a greater degree of mental focus.\nSome spells will lower your [key.stat.concentration.max] while they are active and others will actively drain your [key.stat.concentration] while you maintain them.",
+    "key.stat.category.concentration.tooltip.description" : "[key.stat.concentration] is used to maintain spells that require a greater degree of mental focus.\nSome spells will lower your [key.stat.concentration.max] while they are active and others will actively drain your [key.stat.concentration] while you maintain them.\n[key.flavour.negative](Concentration isn't really used for anything at the moment, it's just here for later.)",
 
     "key.stat.category.posture" : "Posture",
     "key.stat.category.posture.tooltip.name" : "Posture",
@@ -133,7 +133,7 @@
 
     "key.mechanic.parry_window" : "Parry Window",
     "key.mechanic.parry_window.tooltip.name" : "Parry Window",
-    "key.mechanic.parry_window.tooltip.description" : "Your [key.mechanic.parry_window] is how long in seconds after you start [key.mechanic.block](Blocking) that any attack [key.mechanic.block](Blocked) will instead be [key.mechanic.parry](Parried).\nThe default [key.mechanic.parry_window] is [key.variable.static](0.25 seconds).",
+    "key.mechanic.parry_window.tooltip.description" : "Your [key.mechanic.parry_window] is how long in seconds after you start [key.mechanic.block](Blocking) that any attack [key.mechanic.block](Blocked) will instead be [key.mechanic.parry](Parried).\nThe default [key.mechanic.parry_window] is [key.variable.static](0.25 seconds).\nUpon successfully [key.mechanic.parry](Parrying) an attack, your [key.mechanic.parry_window] will be extended by [key.variable.static](0.5 seconds), allowing for you to [key.mechanic.parry] multiple attacks in quick succession if you continue to hold your [key.mechanic.block]",
 
     "key.mechanic.block_guard" : "Guard",
     "key.mechanic.block_guard.tooltip.name" : "Guard",
@@ -149,7 +149,7 @@
 
     "key.mechanic.heft" : "Heft",
     "key.mechanic.heft.tooltip.name" : "Heft",
-    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with this item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\nYour [key.stat.stamina] regenerates [key.flavour.negative](much slower) while [key.mechanic.block](Blocking).",
+    "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with an item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\nYour [key.stat.stamina] regenerates [key.flavour.negative](much slower) while [key.mechanic.block](Blocking).",
 
     "key.mechanic.execute" : "Execute",
     "key.mechanic.execute.tooltip.name" : "Execute",
@@ -161,7 +161,7 @@
 
     "key.mechanic.parry" : "Parry",
     "key.mechanic.parry.tooltip.name" : "Parrying",
-    "key.mechanic.parry.tooltip.description" : "[key.mechanic.parry](Parries) will [key.flavour.positive](completely negate) the [key.mechanic.damage] of an attack and also prevent any [key.mechanic.posture_damage] you would've received.\nYou can [key.mechanic.parry] most attacks by [key.mechanic.block](Blocking) just before the attack lands.\nYou must start the [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with (0.25 seconds by default).\nSuccessfully [key.mechanic.parry](Parrying) an enemy also inflicts [key.variable.static](1) point of [key.mechanic.posture_damage_enemy], however this damage will be incapable of [key.mechanic.posture_break_enemy](Breaking) the enemies [key.stat.posture].",
+    "key.mechanic.parry.tooltip.description" : "[key.mechanic.parry](Parries) will [key.flavour.positive](completely negate) the [key.mechanic.damage] of an attack and also prevent any [key.mechanic.posture_damage] you would've received.\nYou can [key.mechanic.parry] most attacks by [key.mechanic.block](Blocking) just before the attack lands.\nYou must start the [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with (0.25 seconds by default).\nUpon successfully [key.mechanic.parry](Parrying) an attack, your [key.mechanic.parry_window] will be extended by [key.variable.static](0.5 seconds), allowing for you to [key.mechanic.parry] multiple attacks in quick succession if you continue to hold your [key.mechanic.block]\nSuccessfully [key.mechanic.parry](Parrying) an enemy also inflicts [key.variable.static](1) point of [key.mechanic.posture_damage_enemy], however this damage will be incapable of [key.mechanic.posture_break_enemy](Breaking) the enemies [key.stat.posture].",
 
     "key.mechanic.block" : "Block",
     "key.mechanic.block.tooltip.name" : "Blocking",
@@ -185,7 +185,7 @@
 
     "key.mechanic.stagger" : "Stagger",
     "key.mechanic.stagger.tooltip.name" : "Staggers",
-    "key.mechanic.stagger.tooltip.description" : "A [key.mechanic.stagger] is a short duration [key.flavour.important](interruption) of an enemies actions.\nYou can [key.mechanic.stagger] an enemy by hitting them with an most attacks, with heavier weapons typically causing [key.mechanic.stagger](Staggers) faster.\nSome enemies may react to this, but otherwise, it just gives you a little breathing room.",
+    "key.mechanic.stagger.tooltip.description" : "A [key.mechanic.stagger] is a short duration [key.flavour.important](interruption) of an enemies actions.\nYou can [key.mechanic.stagger] an enemy by hitting them with an most weapons, with heavier weapons typically causing [key.mechanic.stagger](Staggers) faster.\nEach weapon has its own [key.mechanic.poise_damage] value, which is applied each time you strike an enemy. When the enemy reaches [key.variable.static](0) [key.mechanic.poise] they become [key.mechanic.stagger](Staggered).\nSome enemies may react to this, but otherwise, it just gives you a little breathing room.",
 
     "key.mechanic.stability" : "Stability",
     "key.mechanic.stability.tooltip.name" : "Stability",
@@ -195,9 +195,17 @@
     "key.mechanic.poise.tooltip.name" : "Poise",
     "key.mechanic.poise.tooltip.description" :"[key.mechanic.poise] represents how difficult it is to [key.mechanic.stagger] an enemy through [key.mechanic.damage] during combat.\nWhen you hit an attack, they will take [key.mechanic.poise_damage] based on what you hit them with.\nIf an enemy reaches [key.flavour.important](0) [key.mechanic.poise] they will become [key.mechanic.stagger](Staggered).", 
 
+    "key.mechanic.poise_damage" : "Poise Damage",
+    "key.mechanic.poise_damage.tooltip.name" : "Poise Damage",
+    "key.mechanic.poise_damage.tooltip.description" : "[key.mechanic.poise_damage] is applied when you strike an enemy with a weapon.\nIt scales very weakly with your [key.stat.attack.knockback], but otherwise, no sources in the game currently increase your [key.mechanic.poise_damage] dealt.\n[key.mechanic.poise] is separate to [key.stat.posture], with [key.stat.posture] being responsible for [key.mechanic.stun](Stuns).",
+
     "key.mechanic.stun" : "Stun",
     "key.mechanic.stun.tooltip.name" : "Stuns",
     "key.mechanic.stun.tooltip.description" : "When you [key.mechanic.posture_break_enemy] an enemy they will usually becomed [key.mechanic.stun](Stunned).\nWhile [key.mechanic.stun](Stunned) you may attack an enemies [key.mechanic.weak_point] in order to perform an [key.mechanic.execute](Execution).\nAn enemy being [key.mechanic.stun](Stunned) is a good opportunity to use your [key.item_tag.flask] or let your [key.stat.stamina] regenerate.",
+
+    "key.mechanic.kick" : "Kick",
+    "key.mechanic.kick.tooltip.name" : "Kicking",
+    "key.mechanic.kick.tooltip.description" : "You can [key.mechanic.kick] enemies by pressing [key.control.kick].\n[key.mechanic.kick](Kicking) consumes [key.variable.static](5) [key.stat.stamina] and does only minimal [key.mechanic.damage].\nHowever, [key.mechanic.kick](Kicking) does significant [key.mechanic.guard_damage] if you [key.mechanic.kick] an enemy who is [key.mechanic.block](Blocking).\nThis will allow you to [key.mechanic.guard_break] [key.mechanic.block](Blocking) enemies consistently.\nIn addition, if you [key.mechanic.kick] a [key.mechanic.guard_break](Stability Broken) enemy, they will become [key.mechanic.stagger](Staggered).",
 
     "key.mechanic.kill" : "Kill",
     "key.mechanic.kill.tooltip.name" : "Killing",
@@ -286,6 +294,10 @@
     "key.mechanic.class_level" : "Class Level",
     "key.mechanic.class_level.tooltip.name" : "Class Level",
     "key.mechanic.class_level.tooltip.description" : "Aftering gaining an [key.mechanic.level_up](Experience Level), you will receive one [key.mechanic.class_level] to spend a [key.mechanic.class] of your choice.",
+
+    "key.mechanic.experience" : "Experience",
+    "key.mechanic.experience.tooltip.name" : "Experience",
+    "key.mechanic.experience.tooltip.description" : "[key.mechanic.experience] is gained when defeating enemies throughout the [key.flavour.dungeon].\nOnce you gain [key.variable.static](100) [key.mechanic.experience], you will [key.mechanic.level_up].\nHigher level enemies will give more [key.mechanic.experience].\nYou can see an enemies level by holding [key.control.world_interact] while looking at them.",
 
     "key.mechanic.level_up" : "Level Up",
     "key.mechanic.level_up.tooltip.name" : "Level Up",
@@ -414,7 +426,12 @@
     "key.flag.debuff" : "Debuff",
 
     "key.hold_type.two_handed" : "Two-Handed",
+    "key.hold_type.two_handed.tooltip.name" : "Two-Handed",
+    "key.hold_type.two_handed.tooltip.description" : "Weapons that occupy both hands slots are considered [key.hold_type.two_handed].\nSome weapons though will occupy both weapon slots but act as if you are [key.mechanic.dual_wielding] [key.hold_type.one_handed] weapons instead.",
+    
     "key.hold_type.one_handed" : "One-Handed",
+    "key.hold_type.one_handed.tooltip.name" : "One-Handed",
+    "key.hold_type.one_handed.tooltip.description" : "[key.hold_type.one_handed] weapons only occupy one hand while equipped.\nYou can wield up to [key.variable.static](2) [key.hold_type.one_handed] weapons at a time.",
 
     "key.enchantment.strength" : "Enchantment Strength",
     "key.enchantment.combined" : "(Enchantment Strength + Item Enhancement Bonus)",
