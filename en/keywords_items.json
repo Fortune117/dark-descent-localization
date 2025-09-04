@@ -137,5 +137,13 @@
 
     "key.item_tag.minor" : "Minor",
     "key.item_tag.minor.tooltip.name" : "Minor (Tag)",
-    "key.item_tag.minor.tooltip.description" : "This item is a [key.item_tag.minor] item, meaing it is only weakly imbued with magic." 
+    "key.item_tag.minor.tooltip.description" : "This item is a [key.item_tag.minor] item, meaing it is only weakly imbued with magic.",
+
+    "key.item_tag.skill" : "Skill",
+    "key.item_tag.skill.tooltip.name" : "Skill (Tag)",
+    "key.item_tag.skill.tooltip.description" : "This item is capable of granting [key.mechanic.skill_points].",
+
+    "key.item_tag.attribute" : "Attribute",
+    "key.item_tag.attribute.tooltip.name" : "Attribute (Tag)",
+    "key.item_tag.attribute.tooltip.description" : "This item is capable of granting [key.mechanic.attribute_points] in some way." 
 }
