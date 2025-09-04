@@ -253,7 +253,7 @@
 
     "key.mechanic.fountain" : "Fountain",
     "key.mechanic.fountain.tooltip.name" : "Fountains",
-    "key.mechanic.fountain.tooltip.description" : "[key.mechanic.fountain](Fountains) spawn [key.variable.static](once) per floor in the [key.flavour.important](Dungeon).\nInteracting with a [key.mechanic.fountain] will [key.flavour.positive](restore) all of your [key.stat.flask_charges] up to your [key.stat.flask_charges.max].\n[key.mechanic.fountain](Fountains) are delicate things and can only be used [key.flavour.important](once) per player.",
+    "key.mechanic.fountain.tooltip.description" : "[key.mechanic.fountain](Fountains) spawn [key.variable.static](once) per floor in the [key.flavour.important](Dungeon).\nInteracting with a [key.mechanic.fountain] will [key.flavour.positive](restore) all of your [key.stat.flask_charges] up to your [key.stat.flask_charges.max].\n[key.mechanic.fountain](Fountains) are [key.flavour.important](delicate) things... and can only be used [key.flavour.important](once) per player.",
 
     "key.mechanic.dual_wielding" : "Dual-Wielding",
     "key.mechanic.dual_wielding.tooltip.name" : "Dual-Wielding",
