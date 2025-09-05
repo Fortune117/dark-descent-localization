@@ -1,9 +1,13 @@
 {
-    "game.descension.level.0" : "The regular difficulty of the dungeon.\n\nThis is what the game is balanced around.",
-    "game.descension.level.1" : "Your starting equipment is worse.",
-    "game.descension.level.2" : "You start the dungeon damaged.",
-    "game.descension.level.3" : "Enemies have higher stats.",
-    "game.descension.level.4" : "You start with lower stats.",
-    "game.descension.level.5" : "Your maximum flask charge is reduced by 1."
+    "game.descension_level" : "Descension Level",
+    "game.descension_level.max" : "Maximum",
 
+    "game.descension.level.0" : "The [key.flavour.important](intended) difficulty for the dungeon.\n\nThis is what the game is balanced around.",
+    "game.descension.level.1" : "The [key.mechanic.fountain] no longer heals you when used.\n[key.style.reminder](It will still restore your Flask.)",
+    "game.descension.level.2" : "You start the [key.flavour.dungeon] at [key.variable.static](65%) [key.stat.health].\n[key.flavour.reminder](Your maximum health is unaffected].",
+    "game.descension.level.3" : "Your [key.mechanic.parry_window] is reduced by 20%.",
+    "game.descension.level.4" : "Your start with [key.variable.negative](1) less [key.flavour.important](Trinket Slot).",
+    "game.descension.level.5" : "Your [key.stat.flask_charges.max] are reduced by [key.flavour.negative](1).",
+    "game.descension.level.6" : "All enemies receive [key.variable.static](+2) to their [key.stat.category.core](Core Stats).\n[key.flavour.reminder](This doesn't sound like a lot, but trust me, it's bad.)",
+    "game.descension.level.7" : "At the beginning of each floor, your [key.stat.health.max] is reduced by [key.variable.negative](3)."
 }
