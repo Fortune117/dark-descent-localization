@@ -71,6 +71,9 @@
     "ui.settings.ui.show_info_panels.status_effects.name" : "Status Effects",
     "ui.settings.ui.show_info_panels.status_effects.description" : "If enabled, you will be able to see status effects currently affecting a target in their info panel.",
 
+    "ui.settings.ui.show_interaction_reminders.name" : "Interaction Reminders",
+    "ui.settings.ui.show_interaction_reminders.description" : "Show reminders for the controls when interacting with objects in the world.",
+
     "ui.settings.ui.show_damage_numbers.name" : "Damage Numbers",
     "ui.settings.ui.show_damage_numbers.description" : "Show damage numbers when you hit an enemy.\nDisabling this may slightly improve performance if you're really struggling.",
 
