@@ -145,5 +145,13 @@
 
     "key.item_tag.attribute" : "Attribute",
     "key.item_tag.attribute.tooltip.name" : "Attribute (Tag)",
-    "key.item_tag.attribute.tooltip.description" : "This item is capable of granting [key.mechanic.attribute_points] in some way." 
+    "key.item_tag.attribute.tooltip.description" : "This item is capable of granting [key.mechanic.attribute_points] in some way." ,
+
+    "key.item_tag.trinket" : "Trinket",
+    "key.item_tag.trinket.tooltip.name" : "Trinket (Tag)",
+    "key.item_tag.trinket.tooltip.description" : "This item is a [key.item_tag.trinket] and can be placed in your [key.flavour.important](Trinket Slots)." ,
+
+    "key.item_tag.lantern" : "Lantern",
+    "key.item_tag.lantern.tooltip.name" : "Lantern (Tag)",
+    "key.item_tag.lantern.tooltip.description" : "This item is a [key.item_tag.lantern] and can be interacted with to create light." 
 }

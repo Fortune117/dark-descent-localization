@@ -5,9 +5,13 @@
 
   "item.trinket.dex_talisman.name": "Cat's Pendant",
   "item.trinket.dex_talisman.description": "A small, black cat.[key.style.break_small]Precisely cut from obsidian and finely polished.",
-  "item.trinket.dex_talisman.flavour": "The slitted eyes seem to follow you.",
+  "item.trinket.dex_talisman.flavour": "The cats' slitted eyes seem to follow you.",
 
   "item.trinket.con_talisman.name": "Bear's Pendant",
   "item.trinket.con_talisman.description": "A rugged looking bear, unevenly hewn from an old oak branch.",
-  "item.trinket.con_talisman.flavour": "The bark seems to be growing back in places."
+  "item.trinket.con_talisman.flavour": "Bark seems to be growing back in places.",
+
+  "item.trinket.oil_lantern.name" : "Oil Lantern",
+  "item.trinket.oil_lantern.description" : "Cast's [key.flavour.important](light) around the wearer when turned on.\nCan be placed in the [key.flavour.important](Hotbar).",
+  "item.trinket.oil_lantern.flavour" : "A flame, a mane, a pane of glass - all blowing in the wind."
 }
