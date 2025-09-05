@@ -3,6 +3,7 @@
     "ui.tutorial.category.stats" : "Stats",
     "ui.tutorial.category.combat" : "Combat Mechanics",
     "ui.tutorial.category.mechanics" : "Mechanics",
+    "ui.tutorial.category.status_effects" : "Status Effects",
 
     "tutorial.quick_start.introduction" : "Introduction",
     "tutorial.quick_start.introduction.description" : "This game is [key.flavour.negative](hard.) Prepare to [key.flavour.negative](die a lot.)\nBefore getting into the meat of things, there is an [key.flavour.important](in-built), [key.flavour.important](pseudo-wiki) in this game.[key.style.break_small]Hold [key.control.control_mod] when you see [key.flavour.important](coloured) text.[key.style.break_small]If the text [key.flavour.important](glows), you can [key.flavour.important](click) on it to read more. [key.mechanic.tutorial_text](Try it!).\nAnyway, I know this is a lot to read at once - don't feel pressured. If you just want the bare essentials, I recommend the [key.flavour.important](Basics), [key.flavour.important](Controls) and [key.flavour.important](Attack Controls) sections.\nThese are all you need to know to start playing the game, but feel free to read on if you like :)",
