@@ -15,6 +15,7 @@
   "ui.item.weapon.crit.long" : "additive critical multiplier",
   "ui.item.weapon.crit.short" : "crit",
 
+  "ui.inventory.trinkets" : "Trinkets",
   "ui.item.interaction.control_reminder.pickup" : "[key.control.interact] Pick Up",
   "ui.item.interaction.control_reminder.equip" : "[key.control.interact] Equip",
   "ui.item.interaction.control_reminder.can_swap" : "[key.control.alt_mod] + [key.control.interact] Swap with Equipped"
