@@ -13,5 +13,11 @@
 
   "item.trinket.oil_lantern.name" : "Oil Lantern",
   "item.trinket.oil_lantern.description" : "Cast's [key.flavour.important](light) around the wearer when turned on.\nCan be placed in the [key.flavour.important](Hotbar).",
-  "item.trinket.oil_lantern.flavour" : "A flame, a mane, a pane of glass - all blowing in the wind."
+  "item.trinket.oil_lantern.flavour" : "A flame, a mane, a pane of glass - all blowing in the wind.",
+
+  "item.trinket.oil_lantern.action.turn_on.name" : "Turn On",
+  "item.trinket.oil_lantern.action.turn_on.description" : "Turn the lantern on.",
+
+  "item.trinket.oil_lantern.action.turn_off.name" : "Turn Off",
+  "item.trinket.oil_lantern.action.turn_off.description" : "Turn the lantern off."
 }
