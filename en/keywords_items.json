@@ -153,5 +153,9 @@
 
     "key.item_tag.lantern" : "Lantern",
     "key.item_tag.lantern.tooltip.name" : "Lantern (Tag)",
-    "key.item_tag.lantern.tooltip.description" : "This item is a [key.item_tag.lantern] and can be interacted with to create light." 
+    "key.item_tag.lantern.tooltip.description" : "This item is a [key.item_tag.lantern] and can be interacted with to create light.",
+
+    "key.item_tag.ring" : "Ring",
+    "key.item_tag.ring.tooltip.name" : "Ring (Tag)",
+    "key.item_tag.ring.tooltip.description" : "A [key.item_tag.ring] that goes on one of your [key.flavour.important](fingers).\nI haven't actually added fingers so you'll have to use your imagination.\nJust pick one and we'll pretend that's where it is, ok?"
 }

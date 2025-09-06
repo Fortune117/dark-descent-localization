@@ -106,6 +106,16 @@
 
     "ui.settings.sound.enable_hitsounds.pitch.name" : "Pitch",
     "ui.settings.sound.enable_hitsounds.pitch.description" : "",
+    
+    "ui.settings.sound.enable_footstep_layer.name" : "Footstep Layer Sounds",
+    "ui.settings.sound.enable_footstep_layer.description" : "Allows armor to add an overlay sound to your footsteps.\nSome people really hate these so you can turn them off here, or just reduce the volume.",
+
+    "ui.settings.sound.enable_footstep_layer.volume.name" : "Volume",
+    "ui.settings.sound.enable_footstep_layer.volume.description" : "",
+
+    "ui.settings.sound.enable_footstep_layer.disable_annoying.name" : "Disable Annoying Sounds",
+    "ui.settings.sound.enable_footstep_layer.disable_annoying.description" : "Some of the armors in the game may have more grating sounds (e.g. chain mail)\nThis setting will turn off the ones I've specifically tagged as annyoing.",
+
 
     "ui.settings.graphics.post_processing.name" : "Post Processing",
     "ui.settings.graphics.post_processing.description" : "Toggle all post processing effects on or off.",
