@@ -319,6 +319,10 @@
     "key.mechanic.skill_point_global.tooltip.name" : "Universal Skill Point",
     "key.mechanic.skill_point_global.tooltip.description" : "[key.mechanic.skill_point_global](Universal Skill Points) can be spent on [key.mechanic.skill](Skills) in any [key.mechanic.class] that you have levels in.",
 
+    "key.mechanic.descension_level" : "Descension Level",
+    "key.mechanic.descension_level.tooltip.name" : "Descension Level",
+    "key.mechanic.descension_level.tooltip.description" : "[key.mechanic.descension_level] is a difficulty increasing mechanic that adds mutators to your runs based on how high the [key.mechanic.descension_level] is.",
+
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
     "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\ne.g. only attacks with [key.flag.melee] weapons.",
