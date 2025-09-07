@@ -4,10 +4,10 @@
 
     "game.descension.level.0" : "The [key.flavour.important](intended) difficulty for the [key.flavour.dungeon].\nThis is what the game is balanced around.",
     "game.descension.level.1" : "The [key.mechanic.fountain] [key.flavour.negative](no longer) heals you when used.\n[key.flavour.reminder](It will still restore your Flask.)",
-    "game.descension.level.2" : "You start the [key.flavour.dungeon] at [key.variable.static](65%) [key.stat.health].\n[key.flavour.reminder](Your maximum health is unaffected.)",
+    "game.descension.level.2" : "You start the [key.flavour.dungeon] with an [key.flavour.negative](empty) [key.item_tag.flask].",
     "game.descension.level.3" : "Your [key.mechanic.parry_window] is [key.flavour.negative](reduced) by [key.variable.negative](20%)",
-    "game.descension.level.4" : "Your start with [key.variable.negative](1) less [key.flavour.important](Trinket Slot).",
-    "game.descension.level.5" : "Your [key.stat.flask_charges.max] are reduced by [key.flavour.negative](1).",
+    "game.descension.level.4" : "You start with [key.variable.negative](1) [key.flavour.negative](less) [key.flavour.important](Trinket Slot).",
+    "game.descension.level.5" : "Your [key.stat.flask_charges.max] are [key.flavour.negative](reduced) by [key.flavour.negative](1).",
     "game.descension.level.6" : "[key.flavour.negative](ALL enemies) receive [key.variable.static](+3) to their [key.stat.category.core](Core Stats).\n[key.flavour.reminder](This doesn't sound like a lot, but trust me, it's bad.)",
     "game.descension.level.7" : "At the [key.flavour.important](beginning) of each floor, your [key.stat.health.max] is [key.flavour.negative](reduced) by [key.variable.negative](3).\n[key.flavour.reminder](This can't reduce your Max Health below 1.)"
 }
