@@ -1,4 +1,12 @@
 {
+
+    "key.rarity.common" : "Common",
+    "key.rarity.uncommon" : "Uncommon",
+    "key.rarity.rare" : "Rare",
+    "key.rarity.epic" : "Epic",
+    "key.rarity.legendary" : "Legendary",
+    "key.rarity.artifact" : "Artifact",
+
     "key.item_tag.shield" : "Shield",
     "key.item_tag.shield.tooltip.name" : "Shields",
     "key.item_tag.shield.tooltip.description" : "[key.item_tag.shield](Shields) are simply a different category of weapon - they function the same as big club really.\nHowever, shields often have higher [key.mechanic.block_guard] values and usually grant some extra [key.stat.posture] and [key.stat.defense.armor] when equipped.",
