@@ -27,5 +27,10 @@
   "enchantment.double_strike.name" : "Double Strike",
   "enchantment.double_strike.description" : "After a successful hit, there is a {0} chance the target is hit again for {1} damage after a short delay.",
   "enchantment.double_strike.prefix" : "",
-  "enchantment.double_strike.suffix" : ""
+  "enchantment.double_strike.suffix" : "",
+
+  "enchantment.barbed.name" : "Barbed",
+  "enchantment.barbed.description" : "[key.trigger.on_block][key.style.break_small]Inflict [key.variable.positive]({0}) [key.status.bleed].[key.style.break_small][key.flavour.reminder](This will also trigger on Parries).",
+  "enchantment.barbed.prefix" : "Barbed",
+  "enchantment.barbed.suffix" : ""
 }
