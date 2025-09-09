@@ -30,7 +30,7 @@
   "enchantment.double_strike.suffix" : "",
 
   "enchantment.barbed.name" : "Barbed",
-  "enchantment.barbed.description" : "[key.trigger.on_block][key.style.break_small]Inflict [key.variable.positive]({0}) [key.status.bleed].[key.style.break_small][key.flavour.reminder](This will also trigger on Parries).",
+  "enchantment.barbed.description" : "[key.trigger.on_block][key.style.break_small]If the [key.mechanic.block](Blocked) attack was a [key.flag.melee] attack, inflict [key.variable.positive]({0:F0}) [key.status.bleed] on the attacker.[key.style.break_small][key.flavour.reminder](This will also trigger on Parries).",
   "enchantment.barbed.prefix" : "Barbed",
   "enchantment.barbed.suffix" : ""
 }
