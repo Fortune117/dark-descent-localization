@@ -35,7 +35,12 @@
   "enchantment.barbed.suffix" : "",
 
   "enchantment.lacerating.name" : "Lacerating",
-  "enchantment.lacerating.description" : "[key.trigger.on_hit][key.style.break_small]Inflict inflict [key.variable.positive]({0:F0}) [key.status.bleed].",
+  "enchantment.lacerating.description" : "[key.trigger.on_hit][key.style.break_small]Inflict [key.variable.positive]({0:F0}) [key.status.bleed].",
   "enchantment.lacerating.prefix" : "Lacerating",
-  "enchantment.lacerating.suffix" : ""
+  "enchantment.lacerating.suffix" : "",
+
+  "enchantment.miring.name" : "Miring",
+  "enchantment.miring.description" : "[key.trigger.on_hit][key.style.break_small]Inflict [key.variable.positive]({0:F0}) [key.status.slow].",
+  "enchantment.miring.prefix" : "Miring",
+  "enchantment.miring.suffix" : ""
 }
