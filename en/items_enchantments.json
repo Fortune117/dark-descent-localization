@@ -25,7 +25,7 @@
   "enchantment.frenzy.suffix" : "",
 
   "enchantment.double_strike.name" : "Double Strike",
-  "enchantment.double_strike.description" : "After a successful hit, there is a {0} chance the target is hit again for {1} damage after a short delay.",
+  "enchantment.double_strike.description" : "[key.trigger.on_hit][key.style.break_small]There is a [key.variable.positive]({0:P0}) chance you will repeat the [key.mechanic.damage] dealt to the target at a [key.variable.positive]({1:P0}) ratio after a small delay.",
   "enchantment.double_strike.prefix" : "",
   "enchantment.double_strike.suffix" : "",
 
