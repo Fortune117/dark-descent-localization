@@ -52,7 +52,7 @@
     "item.potion.luck.flavour" : " Aureate oil churns within, shining with the splendor of mercurial gold.",
 
     "item.potion.attribute.name" : "Aptitude Potion",
-    "item.potion.attribute.description" : "Grants [key.variable.static](3) [key.mechanic.attribute_points] when consumed.",
+    "item.potion.attribute.description" : "Grants [key.variable.static](2) [key.mechanic.attribute_points] when consumed.",
     "item.potion.attribute.flavour" : " Vermillion talent, secured in a small glass bottle - just for you. ",
     
     "item.consumable.cost" : "Cost",
