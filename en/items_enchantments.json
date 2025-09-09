@@ -32,5 +32,10 @@
   "enchantment.barbed.name" : "Barbed",
   "enchantment.barbed.description" : "[key.trigger.on_block][key.style.break_small]If the [key.mechanic.block](Blocked) attack was a [key.flag.melee] attack, inflict [key.variable.positive]({0:F0}) [key.status.bleed] on the attacker.[key.style.break_small][key.flavour.reminder](This will also trigger on Parries).",
   "enchantment.barbed.prefix" : "Barbed",
-  "enchantment.barbed.suffix" : ""
+  "enchantment.barbed.suffix" : "",
+
+  "enchantment.lacerating.name" : "Lacerating",
+  "enchantment.lacerating.description" : "[key.trigger.on_hit][key.style.break_small]Inflict inflict [key.variable.positive]({0:F0}) [key.status.bleed].",
+  "enchantment.lacerating.prefix" : "Lacerating",
+  "enchantment.lacerating.suffix" : ""
 }
