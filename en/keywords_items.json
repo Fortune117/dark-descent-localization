@@ -39,6 +39,10 @@
     "key.item_tag.longbow.tooltip.name" : "Longbow",
     "key.item_tag.longbow.tooltip.description" : "[key.item_tag.longbow](Longbows) are a subtype of [key.item_tag.bow](Bows).",
 
+    "key.item_tag.torch" : "Torch",
+    "key.item_tag.torch.tooltip.name" : "Torch",
+    "key.item_tag.torch.tooltip.description" : "A stick of wood that's on fire (usually).",
+
     "key.item_tag.arrow" : "Arrow",
     "key.item_tag.arrow.tooltip.name" : "Arrow",
     "key.item_tag.arrow.tooltip.description" : "[key.flag.physical] projectile typically fired by a [key.item_tag.bow].\nArrows will inherit the flags of whatever weapon fires them.",
