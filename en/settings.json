@@ -83,6 +83,9 @@
     "ui.settings.ui.show_resource_numbers.name" : "Resource Numbers", 
     "ui.settings.ui.show_resource_numbers.description" : "Show the actual numbers for your resource bars on your HUD (e.g. health and stamina).",
 
+    "ui.settings.ui.show_keybind_reminders.name" : "Keybind Reminders", 
+    "ui.settings.ui.show_keybind_reminders.description" : "Shows the keybinds for certain important actions you can take.\n(e.g. opening the map, using your flask)",
+
     "ui.settings.sound.master.name" : "Master Volume",
     "ui.settings.sound.master.description" : "The overall volume.",
 
