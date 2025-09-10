@@ -104,7 +104,7 @@
     "class.fighter.skill.shield_daze.description" : "[key.trigger.on_execute][key.style.break_small]When you perform an [key.mechanic.execute](Execution) with a [key.item_tag.shield], restore [key.variable.positive]({0}) [key.stat.stamina] and apply [key.variable.positive]({1:N0}) [key.status.slow].",
 
     "class.fighter.skill.shield_satisfying_crush.name" : "Crush Defiance",
-    "class.fighter.skill.shield_satisfying_crush.description" : "When you perform an [key.mechanic.execute](Execution) with a [key.item_tag.shield], gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1}) [key.stat.posture] per second for [key.variable.positive]({2}) second(s).",
+    "class.fighter.skill.shield_satisfying_crush.description" : "[key.trigger.on_execute][key.style.break_small]When you perform an [key.mechanic.execute](Execution) with a [key.item_tag.shield], gain [key.variable.positive]({0}) [key.stat.grit] and restore [key.variable.positive]({1}) [key.stat.posture] per second for [key.variable.positive]({2}) second(s).",
 
     "class.fighter.skill.shield_perfect_defense.name" : "Perfect Defense",
     "class.fighter.skill.shield_perfect_defense.description" : "You may still attack with your opposite hand when [key.mechanic.block](Blocking) with a [key.item_tag.shield].\nHowever, you will receive a [key.variable.negative]({0:N0}) [key.mechanic.block_guard] [key.flavour.negative](penalty) on your [key.mechanic.block] if struck while attacking.",
