@@ -21,5 +21,8 @@
     "obj_body_bag.description" : "One of the many denizens buried in this dungeon. Some of these are fresher than the others...",
 
     "obj_book.name" : "Book",
-    "obj_book.description" : "Rotten pages and smeared ink are all that lines the spine of this forgotten tome."
+    "obj_book.description" : "Rotten pages and smeared ink are all that lines the spine of this forgotten tome.",
+
+    "obj_page.name": "Page",
+    "obj_page.description": "An old page, whatever knowledge it once held has long since been rendered illegible."
 }

@@ -1,0 +1,13 @@
+{
+    "ui.dungeon.loading": "Loading",
+    "ui.dungeon.loading_debug_mode": "Debug mode is on",
+    "ui.dungeon.loading_init": "Setting up",
+    "ui.dungeon.loading_generating_map": "Generating map",
+    "ui.dungeon.loading_creating_rooms": "Creating rooms",
+    "ui.dungeon.loading_spawning_enemies": "Spawning enemies",
+    "ui.dungeon.loading_moving_floor": "Moving to next floor",
+    "ui.dungeon.loading_moving_spawns": "Moving to spawn points",
+    "ui.dungeon.loading_waiting_for_players": "Waiting for other players",
+    "ui.dungeon.loading_finishing": "Finishing map generation",
+    "ui.dungeon.loading_ready": "Ready!"
+}

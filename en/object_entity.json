@@ -4,6 +4,9 @@
 
     "obj_door_metal.name": "Metal Door",
     "obj_door_metal.description": "Iron rods, now pitted by rust, have been bound together to form a door.",
+
+    "obj_chair_wood.name": "Wooden Chair",
+    "obj_chair_wood.description": "Rusted nails stick out from the rotting planks, worn down by decades of use.",
     
     "obj_chest_wood.name" : "Chest",
     "obj_chest_wood.description" : "Filled with wondrous potential...",
