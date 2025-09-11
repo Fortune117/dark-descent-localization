@@ -3,5 +3,95 @@
     "ui.achievement.eligibility.true" : "currently eligible",
     "ui.achievement.eligibility.false" : "not eligible",
     "ui.achievement.eligibility.true.tooltip" : "If you finish the dungeon, you will unlock this achievement.",
-    "ui.achievement.eligibility.false.tooltip" : "If you finish the dungeon, you will NOT unlock this achievement."
+    "ui.achievement.eligibility.false.tooltip" : "If you finish the dungeon, you will NOT unlock this achievement.",
+
+    "key.achievement.bad_workman" : "A Bad Workman....",
+    "key.achievement.bad_workman.description" : "Complete the [key.flavour.dungeon] without taking off your [key.item_tag.starting] gear.[key.style.break_small][key.flavour.reminder](You cannot unequip your starting gear, you're free to use anyting else though).",
+
+    "key.achievement.break_fountain" : "What's in this stuff anyway?",
+    "key.achievement.break_fountain.description" : "Break a [key.mechanic.fountain].[key.style.break_small][key.flavour.secret](I see you.)[key.style.break_small][key.flavour.secret](I am waiting.)",
+
+    "key.achievement.deaths_dance" : "Death's Dance",
+    "key.achievement.deaths_dance.description" : "[key.mechanic.parry] an attack that would've killed you.",
+
+    "key.achievement.die_10" : "'Curve' is a Strong Word",
+    "key.achievement.die_10.description" : "Die [key.variable.static](10) times.",
+
+    "key.achievement.die_25" : "It's More Like a Cliff",
+    "key.achievement.die_25.description" : "Die [key.variable.static](25) times.",
+
+    "key.achievement.die_once" : "Welcome to the Dungeon",
+    "key.achievement.die_once.description" : "[key.mechanic.death](Die) for the first time.",
+
+    "key.achievement.find_epic" : "Glimmers of Greatness",
+    "key.achievement.find_epic.description" : "Find an [key.rarity.epic] item.",
+
+    "key.achievement.find_secret_text" : "Echos Still Linger",
+    "key.achievement.find_secret_text.description" : "Find a secret in the scrawlings of a madman.[key.style.break_small][key.flavour.secret](Things are distant now.)[key.style.break_small][key.flavour.secret](My essence fades.)",
+
+    "key.achievement.find_ultra" : "A Hunk of Iron",
+    "key.achievement.find_ultra.description" : "Find the [key.flavour.important](Ultra Greatsword).",
+
+    "key.achievement.flash_of_steel" : "Flash of Steel",
+    "key.achievement.flash_of_steel.description" : "Cut an arrow out of the air.",
+
+    "key.achievement.indefatigable" : "Indefatigable",
+    "key.achievement.indefatigable.description" : "Complete the [key.flavour.dungeon] without using your [key.item_tag.flask].",
+
+    "key.achievement.kill_one" : "This isn't so hard....",
+    "key.achievement.kill_one.description" : "Kill your first enemy.",
+
+    "key.achievement.kill_10" : "Cleanup Crew",
+    "key.achievement.kill_10.description" : "Kill [key.variable.static](10) enemies.",
+
+    "key.achievement.kill_50" : "Cure the Damned",
+    "key.achievement.kill_50.description" : "Kill [key.variable.static](50) enemies.",
+
+    "key.achievement.kill_500" : "By the Light be Purged",
+    "key.achievement.kill_500.description" : "Kill [key.variable.static](500) enemies.",
+
+    "key.acheivement.kill_feral" : "Holy Shit",
+    "key.achievement.kill_feral" : "Kill a [key.bestiary.skeleton_feral].",
+
+    "key.achievement.kill_swordmaster" : "Shattered Steel",
+    "key.achievement.kill_swordmaster.description" : "Kill a [key.bestiary.bandit_swordmaster].",
+
+    "key.achievement.kill_wraith" : "Still Wakes the Dead",
+    "key.achievement.kill_wraith.description" : "Defeat the [key.bestiary.wraith].",
+
+    "key.achievement.one_hp_kill" : "A Hair's Breadth",
+    "key.achievement.one_hp_kill.description" : "Kill an enemy while on (nearly) one hit point.",
+
+    "key.achievement.peasant_win" : "Peasantry!",
+    "key.achievement.peasant_win.description" : "Complete the [key.flavour.dungeon] using only [key.item_tag.peasant] weaponry.",
+
+    "key.achievement.reach_level_2" : "Making Progress",
+    "key.achievement.reach_level_2.description" : "Reach level [key.variable.static](2).",
+
+    "key.achievement.reach_level_5" : "Apprentice",
+    "key.achievement.reach_level_5.description" : "Reach level [key.variable.static](5).",
+
+    "key.achievement.reflect_wraith" : "Death, Defied",
+    "key.achievement.reflect_wraith.description" : "Reflect the necrosis beam from the [key.bestiary.wraith], right back at it.",
+
+    "key.achievement.untouchable" : "Untouchable",
+    "key.achievement.untouchable.description" : "Complete the [key.flavour.dungeon] without taking any [key.mechanic.damage].",
+
+    "key.achievement.win_once" : "A Flickering Flame",
+    "key.achievement.win_once.description" : "Complete the [key.flavour.dungeon] for the first time.",
+
+    "key.achievement.won_des_1" : "Dim the Lights",
+    "key.achievement.won_des_1.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](1)",
+
+    "key.achievement.won_des_3" : "Something Stirs",
+    "key.achievement.won_des_3.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](3).",
+
+    "key.achievement.won_des_5" : "Darkness Falls",
+    "key.achievement.won_des_5.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](5)",
+
+    "key.achievement.won_des_7" : "Death, Blight and all that gives Fright",
+    "key.achievement.won_des_7.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](7)",
+
+    "key.achievement.woops" : "Woops",
+    "key.achievement.woops.description" : "You probably shouldn't have done that..."
   }
