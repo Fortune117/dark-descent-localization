@@ -24,5 +24,11 @@
     "obj_book.description" : "Rotten pages and smeared ink are all that lines the spine of this forgotten tome.",
 
     "obj_page.name": "Page",
-    "obj_page.description": "An old page, whatever knowledge it once held has long since been rendered illegible."
+    "obj_page.description": "An old page, whatever knowledge it once held has long since been rendered illegible.",
+
+    "obj_sarcophagus.name": "Sarcophagus",
+    "obj_sarcophagus.description": "A heavy stone slab protects the remains of the dead.",
+
+    "obj_torture_implement.name": "Torture Implement",
+    "obj_torture_implement.description": "A cruel and twisted piece of metal."
 }
