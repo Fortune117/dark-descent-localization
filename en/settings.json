@@ -1,5 +1,5 @@
 {
-    "ui.settings.unsaved_changes" : "You have unsaved settings changes, would you like so save them now?",
+    "ui.settings.unsaved_changes" : "You have unsaved settings changes, would you like to save them now?",
 
     "ui.settings.game.field_of_view.name" : "Field of View",
     "ui.settings.game.field_of_view.description" : "How large the FOV for the player is.\nI would not recommend changing this much from the default value, but you do you.",
