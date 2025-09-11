@@ -1,7 +1,13 @@
 {
     "obj_door_wood.name" : "Wooden Door",
     "obj_door_wood.description" : "You can peer through the splintering, rotten planks of this old door.",
+
+    "obj_door_metal.name": "Metal Door",
+    "obj_door_metal.description": "Iron rods, now pitted by rust, have been bound together to form a door.",
     
     "obj_chest_wood.name" : "Chest",
-    "obj_chest_wood.description" : "Filled with wondrous potential..."
+    "obj_chest_wood.description" : "Filled with wondrous potential...",
+
+    "obj_metal_grate.name": "Metal Grate",
+    "obj_metal_grate.description": "An moveable iron grate offers a one-way passage deeper into the dungeon."
 }
