@@ -112,6 +112,17 @@
     "key.stat.power.divine" : "Divine Power",
     "key.stat.power.occult" : "Occult Power",
 
+    "key.stat.penetration.armor" : "Armor Penetration",
+    "key.stat.penetration.ward" : "Ward Penetration",
+    "key.stat.penetration.fire" : "Fire Penetration",
+    "key.stat.penetration.frost" : "Frost Penetration",
+    "key.stat.penetration.electric" : "Electric Penetration",
+    "key.stat.penetration.poison" : "Poison Penetration",
+    "key.stat.penetration.necrotic" : "Necrotic Penetration",
+    "key.stat.penetration.arcane" : "Arcane Penetration",
+    "key.stat.penetration.divine" : "Divine Penetration",
+    "key.stat.penetration.occult" : "Occult Penetration",
+
     "key.stat.defense.armor" : "Armor",
     "key.stat.defense.ward" : "Ward",
     "key.stat.defense.fire" : "Fire Resistance",
