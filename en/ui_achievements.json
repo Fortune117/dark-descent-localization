@@ -8,7 +8,7 @@
     "key.achievement.bad_workman" : "A Bad Workman....",
     "key.achievement.bad_workman.description" : "Complete the [key.flavour.dungeon] without taking off your [key.item_tag.starting] gear.[key.style.break_small][key.flavour.reminder](You cannot unequip your starting gear, you're free to use anyting else though).",
 
-    "key.achievement.break_fountain" : "What's in this stuff anyway?",
+    "key.achievement.break_fountain" : "What's in this Stuff Anyway?",
     "key.achievement.break_fountain.description" : "Break a [key.mechanic.fountain].[key.style.break_small][key.flavour.secret](I see you.)[key.style.break_small][key.flavour.secret](I am waiting.)",
 
     "key.achievement.deaths_dance" : "Death's Dance",
@@ -50,8 +50,8 @@
     "key.achievement.kill_500" : "By the Light be Purged",
     "key.achievement.kill_500.description" : "Kill [key.variable.static](500) enemies.",
 
-    "key.acheivement.kill_feral" : "Holy Shit",
-    "key.achievement.kill_feral" : "Kill a [key.bestiary.skeleton_feral].",
+    "key.achievement.kill_feral" : "Holy Shit", 
+    "key.achievement.kill_feral.description" : "Kill a [key.bestiary.skeleton_feral].",
 
     "key.achievement.kill_swordmaster" : "Shattered Steel",
     "key.achievement.kill_swordmaster.description" : "Kill a [key.bestiary.bandit_swordmaster].",
