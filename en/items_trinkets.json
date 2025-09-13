@@ -22,6 +22,6 @@
   "item.trinket.oil_lantern.action.turn_off.description" : "Turn the lantern off.",
 
   "item.trinket.bone_necklace.name" : "Rattling Choker",
-  "item.trinket.bone_necklace.description" : "Whenever you [key.flavour.important](inflict) [key.status.bleed], [key.flavour.important](inflict) [key.variable.positive](2) more.",
+  "item.trinket.bone_necklace.description" : "Increase all [key.status.bleed] you [key.flavour.important](inflict) by [key.variable.positive](2)",
   "item.trinket.bone_necklace.flavour" : "Even now it still moves."
 }
