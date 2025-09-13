@@ -15,5 +15,13 @@
   "ui.main_menu.exit_game" : "Exit Game", 
 
   "ui.main_menu.paused" : "Paused", 
-  "ui.main_menu.resume" : "Resume" 
+  "ui.main_menu.resume" : "Resume",
+
+  "key.mechanic.loot_score_bonus" : "Better Loot",
+  "key.mechanic.loot_score_bonus.tooltip.name" : "Bonus Loot Score",
+  "key.mechanic.loot_score_bonus.tooltip.description" : "The higher this value is, the [key.flavour.positive](higher quality) the loot you find in the [key.flavour.dungeon] will be.\nThis is an optional 'for-fun' setting. Its intended value is 0.",
+
+  "key.mechanic.loot_supply_bonus" : "More Loot",
+  "key.mechanic.loot_supply_bonus.tooltip.name" : "Bonus Loot Supply",
+  "key.mechanic.loot_supply_bonus.tooltip.description" : "The higher this value is, the [key.flavour.positive](more) loot you will find in the [key.flavour.dungeon].\nThis is an optional 'for-fun' setting. Its intended value is 0."
 }
