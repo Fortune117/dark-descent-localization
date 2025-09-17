@@ -176,7 +176,7 @@
 
     "key.mechanic.block" : "Block",
     "key.mechanic.block.tooltip.name" : "Blocking",
-    "key.mechanic.block.tooltip.description" : "You can [key.mechanic.block] by holding an object capable of [key.mechanic.block](Blocking) (most weapons will work) in one of your hands and pressing your [key.control.block] key.\nIf you raise your [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with, you will instead [key.mechanic.parry] the attack.\nWhen you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the damage dealt by the attack and the [key.mechanic.block_guard] values on your blocking implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above [key.flavour.important](0), you will take [key.flavour.positive](no damage) from the [key.mechanic.block](Blocked) attack. You may still receive some other effects from the attack, such as certain [key.flag.enchantment](Enchantments) still [key.mechanic.trigger](Triggering).\nIf your [key.stat.posture] reaches [key.flavour.negative](0) you will be [key.mechanic.posture_break](Posture Broken) and any excess [key.mechanic.damage] will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).",
+    "key.mechanic.block.tooltip.description" : "When you [key.mechanic.block] an attack you will take [key.mechanic.posture_damage] based on the [key.mechanic.damage] of the [key.mechanic.block](Blocked) attack and the [key.mechanic.block_guard] values on your [key.mechanic.block](Blockng) implement.\nHigher [key.mechanic.block_guard] values will result in less [key.stat.posture] damage being received.\nAs long as your [key.stat.posture] stays above [key.flavour.important](0), you will take [key.flavour.positive](no damage) from the [key.mechanic.block](Blocked) attack. You may still receive some other effects from the attack, such as certain [key.flag.enchantment](Enchantments) still [key.mechanic.trigger](Triggering).\nIf your [key.stat.posture] reaches [key.flavour.negative](0) you will be [key.mechanic.posture_break](Posture Broken) and any excess [key.mechanic.damage] will carry through as normal.\nWhen [key.mechanic.posture_break](Posture Broken) you will be unable to block until your [key.stat.posture] fully recharges, however, you can still [key.mechanic.parry] even when [key.mechanic.posture_break](Posture Broken).\nIf you raise your [key.mechanic.block] within the [key.mechanic.parry_window] of the implement you're [key.mechanic.block](Blocking) with, you will instead [key.mechanic.parry] the attack.\nTo read about [key.mechanic.parry](Parrying, click here).",
 
     "key.mechanic.posture_damage" : "Posture Damage",
     "key.mechanic.posture_damage.tooltip.name" : "Posture Damage (Player)",
@@ -352,7 +352,7 @@
 
     "key.trigger.on_guard_break" : "On Stability Break",
     "key.trigger.on_guard_break.tooltip.name" : "On Stability Break (Trigger)",
-    "key.trigger.on_guard_break.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.guard_break] an enemy.",
+    "key.trigger.on_guard_break.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.guard_break] an enemy.\nEnemies suffer a [key.mechanic.guard_break] when they [key.mechanic.block] an attack without enough [key.mechanic.stability] or if you [key.mechanic.parry] one of their attacks while they are at low [key.mechanic.stability].",
 
     "key.trigger.on_stagger" : "On Stagger",
     "key.trigger.on_stagger.tooltip.name" : "On Stagger (Trigger)",
@@ -360,7 +360,7 @@
 
     "key.trigger.on_execute" : "On Execute",
     "key.trigger.on_execute.tooltip.name" : "On Execute (Trigger)",
-    "key.trigger.on_execute.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully perform an [key.mechanic.execute](Execution).",
+    "key.trigger.on_execute.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully perform an [key.mechanic.execute](Execution).\nWhen you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).",
 
     "key.trigger.on_stun" : "On Stun",
     "key.trigger.on_stun.tooltip.name" : "On Stun (Trigger)",
