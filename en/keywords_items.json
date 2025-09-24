@@ -169,5 +169,9 @@
 
     "key.item_tag.ring" : "Ring",
     "key.item_tag.ring.tooltip.name" : "Ring (Tag)",
-    "key.item_tag.ring.tooltip.description" : "A [key.item_tag.ring] that goes on one of your [key.flavour.important](fingers).\nI haven't actually added fingers so you'll have to use your imagination.\nJust pick one and we'll pretend that's where it is, ok?"
+    "key.item_tag.ring.tooltip.description" : "A [key.item_tag.ring] that goes on one of your [key.flavour.important](fingers).\nI haven't actually added fingers so you'll have to use your imagination.\nJust pick one and we'll pretend that's where it is, ok?",
+
+    "key.item_tag.amulet" : "Amulet",
+    "key.item_tag.amulet.tooltip.name" : "Amulet (Tag)",
+    "key.item_tag.amulet.tooltip.description" : "An amulet is sort of like a ring that goes around your head, rather than a finger.\nLots to think about."
 }
