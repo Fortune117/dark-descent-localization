@@ -6,7 +6,7 @@
     "ui.achievement.eligibility.false.tooltip" : "If you finish the dungeon, you will NOT unlock this achievement.",
 
     "key.achievement.bad_workman" : "A Bad Workman....",
-    "key.achievement.bad_workman.description" : "Complete the [key.flavour.dungeon] without taking off your [key.item_tag.starting] gear.[key.style.break_small][key.flavour.reminder](You cannot unequip your starting gear, you're free to use anyting else though).",
+    "key.achievement.bad_workman.description" : "Complete the [key.flavour.dungeon] without taking off your [key.item_tag.starting] gear.[key.style.break_small][key.flavour.reminder](You cannot unequip your starting gear, you're free to use anyting else though.)",
 
     "key.achievement.break_fountain" : "What's in this Stuff Anyway?",
     "key.achievement.break_fountain.description" : "Break a [key.mechanic.fountain].[key.style.break_small][key.flavour.secret](I see you.)[key.style.break_small][key.flavour.secret](I am waiting.)",
