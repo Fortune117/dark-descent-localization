@@ -9,7 +9,7 @@
   "ui.main_menu.controls" : "Controls",
   "ui.main_menu.controls.edit_binds" : "Edit",
   "ui.main_menu.settings" : "Settings",
-  "ui.main_menu.restart" : "Restart",
+  "ui.main_menu.restart" : "Restart Run",
   "ui.main_menu.stats" : "Achievements",
   "ui.main_menu.quit" : "Quit", 
   "ui.main_menu.quit_to_menu" : "Quit to Menu", 
