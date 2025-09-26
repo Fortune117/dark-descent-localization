@@ -93,5 +93,11 @@
     "key.achievement.won_des_7.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](7)",
 
     "key.achievement.woops" : "Woops",
-    "key.achievement.woops.description" : "You probably shouldn't have done that..."
+    "key.achievement.woops.description" : "You probably shouldn't have done that...",
+
+    "key.achievement.fist_kill" : "Rip and Tear",
+    "key.achievement.fist_kill.description" : "Kill an enemy with your bear hands.",
+
+    "key.achievement.fist_only" : "Until it is Done",
+    "key.achievement.fist_only.description" : "Complete the [key.flavour.dungeon] using only your fists.\n[key.flavour.reminder](You cannot equip any weapons during your run.)"
   }
