@@ -132,6 +132,9 @@
     "ui.settings.graphics.volumetric_fog.name" : "Volumetric Fog",
     "ui.settings.graphics.volumetric_fog.description" : "Whether volumetric fog is on or off.\nThis has a high performance impact, but it does look very cool...",
 
+    "ui.settings.graphics.screen_space_ambient_occlusion.name" : "SS Ambient Occlusion",
+    "ui.settings.graphics.screen_space_ambient_occlusion.description" : "Whether Screen Space Ambient Occlusion is on or off.\nAmbient Occlusion darkens areas where shadows would naturally congregate, such as corners and sharp indents.\nThis has a mild performance impact.",
+
     "ui.settings.graphics.screen_space_reflections.name" : "SS Reflections",
     "ui.settings.graphics.screen_space_reflections.description" : "Whether Screen Space Reflections are on or off.\nThis has a high performance impact and honestly I can't even really tell when it's on.",
 
@@ -140,7 +143,6 @@
 
     "ui.settings.graphics.bloom_strength.name" : "Bloom Strength",
     "ui.settings.graphics.bloom_strength.description" : "How strong the Bloom effect is.\nI would recommend leaving this at 1 but I'm not your dad.",
-
 
     "ui.settings.graphics.pixel_filter.name" : "Pixel Filter",
     "ui.settings.graphics.pixel_filter.description" : "Whether the pixel filter is enabled or not.\nThe game is designed around this being enabled, but I understand some people really don't like it.\nFeel free to tweak it to your liking :)",
