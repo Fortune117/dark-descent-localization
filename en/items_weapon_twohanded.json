@@ -37,5 +37,9 @@
 
   "item.weapon.glaive.name" : "Glaive",
   "item.weapon.glaive.description" : "",
-  "item.weapon.glaive.flavour"  : ""
+  "item.weapon.glaive.flavour"  : "",
+
+  "item.weapon.bardiche.name" : "Bardiche",
+  "item.weapon.bardiche.description" : "",
+  "item.weapon.bardiche.flavour"  : ""
 }
