@@ -19,6 +19,10 @@
   "item.weapon.axe.description" : "",
   "item.weapon.axe.flavour"  : "",
 
+  "item.weapon.falchion.name" : "Falchion",
+  "item.weapon.falchion.description" : "",
+  "item.weapon.falchion.flavour"  : "",
+
   "item.weapon.torch.name" : "Torch",
   "item.weapon.torch.description" : "",
   "item.weapon.torch.flavour"  : "Bid the darkness stay away..."
