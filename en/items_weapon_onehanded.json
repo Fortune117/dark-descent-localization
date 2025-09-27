@@ -11,6 +11,10 @@
   "item.weapon.dagger.description" : "",
   "item.weapon.dagger.flavour"  : "",
 
+  "item.weapon.mace.name" : "Mace",
+  "item.weapon.mace.description" : "",
+  "item.weapon.mace.flavour"  : "",
+
   "item.weapon.torch.name" : "Torch",
   "item.weapon.torch.description" : "",
   "item.weapon.torch.flavour"  : "Bid the darkness stay away..."
