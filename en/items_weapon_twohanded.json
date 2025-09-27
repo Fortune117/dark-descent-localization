@@ -27,12 +27,15 @@
   "item.weapon.battle_axe.description" : "",
   "item.weapon.battle_axe.flavour"  : "",
 
-  
   "item.weapon.longbow.name" : "Longbow",
   "item.weapon.longbow.description" : "",
   "item.weapon.longbow.flavour"  : "I wonder what a medium bow is.",
 
   "item.weapon.pickaxe.name" : "Pickaxe",
   "item.weapon.pickaxe.description" : "",
-  "item.weapon.pickaxe.flavour"  : "By the rock and soil I toil,\n'til the blood fled my hands."
+  "item.weapon.pickaxe.flavour"  : "By the rock and soil I toil,\n'til the blood fled my hands.",
+
+  "item.weapon.glaive.name" : "Glaive",
+  "item.weapon.glaive.description" : "",
+  "item.weapon.glaive.flavour"  : ""
 }
