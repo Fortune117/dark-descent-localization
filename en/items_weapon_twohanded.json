@@ -41,5 +41,9 @@
 
   "item.weapon.bardiche.name" : "Bardiche",
   "item.weapon.bardiche.description" : "",
-  "item.weapon.bardiche.flavour"  : ""
+  "item.weapon.bardiche.flavour"  : "",
+
+  "item.weapon.flamberg.name" : "Flamberg",
+  "item.weapon.flamberg.description" : "",
+  "item.weapon.flamberg.flavour"  : ""
 }
