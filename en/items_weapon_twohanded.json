@@ -47,6 +47,11 @@
   "item.weapon.halberd.description" : "",
   "item.weapon.halberd.flavour"  : "",
 
+  "item.weapon.longspear.name" : "Longspear",
+  "item.weapon.longspear.description" : "",
+  "item.weapon.longspear.flavour"  : "",
+
+
   "item.weapon.flamberg.name" : "Flamberg",
   "item.weapon.flamberg.description" : "",
   "item.weapon.flamberg.flavour"  : ""
