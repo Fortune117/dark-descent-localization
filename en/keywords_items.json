@@ -173,5 +173,13 @@
 
     "key.item_tag.amulet" : "Amulet",
     "key.item_tag.amulet.tooltip.name" : "Amulet (Tag)",
-    "key.item_tag.amulet.tooltip.description" : "An amulet is sort of like a ring that goes around your head, rather than a finger.\nLots to think about."
+    "key.item_tag.amulet.tooltip.description" : "An amulet is sort of like a ring that goes around your head, rather than a finger.\nLots to think about.",
+
+    "key.item_tag.polearm" : "Polearm",
+    "key.item_tag.polearm.tooltip.name" : "Polearm (Tag)",
+    "key.item_tag.polearm.tooltip.description" : "A polearm typically sports a set of pointy things on the end of a big.\nEver so effective.",
+
+    "key.item_tag.mace" : "Mace",
+    "key.item_tag.mace.tooltip.name" : "Mace (Tag)",
+    "key.item_tag.mace.tooltip.description" : "A mace is any weapon that looks like it would inflict serious brain damage if you hit someone with it."
 }

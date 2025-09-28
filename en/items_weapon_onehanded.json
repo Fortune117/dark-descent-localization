@@ -23,6 +23,10 @@
   "item.weapon.falchion.description" : "",
   "item.weapon.falchion.flavour"  : "",
 
+  "item.weapon.bastard_sword.name" : "Bastard Sword",
+  "item.weapon.bastard_sword.description" : "",
+  "item.weapon.bastard_sword.flavour"  : "",
+
   "item.weapon.torch.name" : "Torch",
   "item.weapon.torch.description" : "",
   "item.weapon.torch.flavour"  : "Bid the darkness stay away..."

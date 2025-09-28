@@ -43,6 +43,10 @@
   "item.weapon.bardiche.description" : "",
   "item.weapon.bardiche.flavour"  : "",
 
+  "item.weapon.halberd.name" : "Halberd",
+  "item.weapon.halberd.description" : "",
+  "item.weapon.halberd.flavour"  : "",
+
   "item.weapon.flamberg.name" : "Flamberg",
   "item.weapon.flamberg.description" : "",
   "item.weapon.flamberg.flavour"  : ""
