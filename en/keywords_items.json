@@ -181,5 +181,17 @@
 
     "key.item_tag.mace" : "Mace",
     "key.item_tag.mace.tooltip.name" : "Mace (Tag)",
-    "key.item_tag.mace.tooltip.description" : "A mace is any weapon that looks like it would inflict serious brain damage if you hit someone with it."
+    "key.item_tag.mace.tooltip.description" : "A mace is any weapon that looks like it would inflict serious brain damage if you hit someone with it.",
+
+    "key.item_tag.sharp" : "Sharp",
+    "key.item_tag.sharp.tooltip.name" : "Sharp (Tag)",
+    "key.item_tag.sharp.tooltip.description" : "This weapon is most lethal when slashing foes with its blade.",
+
+    "key.item_tag.blunt" : "Blunt",
+    "key.item_tag.blunt.tooltip.name" : "Blunt (Tag)",
+    "key.item_tag.blunt.tooltip.description" : "You can figure this one out.",
+
+    "key.item_tag.piercing" : "Piercing",
+    "key.item_tag.piercing.tooltip.name" : "Piercing (Tag)",
+    "key.item_tag.piercing.tooltip.description" : "This weapon is most effective when stabbing foes with the pointy end."
 }

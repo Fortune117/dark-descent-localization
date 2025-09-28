@@ -27,6 +27,14 @@
   "item.weapon.bastard_sword.description" : "",
   "item.weapon.bastard_sword.flavour"  : "",
 
+  "item.weapon.morning_star.name" : "Morning Star",
+  "item.weapon.morning_star.description" : "",
+  "item.weapon.morning_star.flavour"  : "",
+
+  "item.weapon.warhammer.name" : "Warhammer",
+  "item.weapon.warhammer.description" : "",
+  "item.weapon.warhammer.flavour"  : "",
+
   "item.weapon.torch.name" : "Torch",
   "item.weapon.torch.description" : "",
   "item.weapon.torch.flavour"  : "Bid the darkness stay away..."
