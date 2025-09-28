@@ -35,6 +35,14 @@
   "item.weapon.warhammer.description" : "",
   "item.weapon.warhammer.flavour"  : "",
 
+  "item.weapon.estoc.name" : "Estoc",
+  "item.weapon.estoc.description" : "",
+  "item.weapon.estoc.flavour"  : "",
+
+  "item.weapon.short_blade.name" : "Short Blade",
+  "item.weapon.short_blade.description" : "",
+  "item.weapon.short_blade.flavour"  : "",
+
   "item.weapon.torch.name" : "Torch",
   "item.weapon.torch.description" : "",
   "item.weapon.torch.flavour"  : "Bid the darkness stay away..."
