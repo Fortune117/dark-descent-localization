@@ -10,7 +10,7 @@
     "game.descension.level.5" : "Your [key.stat.flask_charges.max] are [key.flavour.negative](reduced) by [key.flavour.negative](1).",
     "game.descension.level.6" : "[key.flavour.negative](ALL enemies) receive [key.variable.static](+3) to their [key.stat.category.core](Core Stats).\n[key.flavour.reminder](This doesn't sound like a lot, but trust me, it's bad.)",
     "game.descension.level.7" : "At the [key.flavour.important](beginning) of each floor, your [key.stat.health.max] is [key.flavour.negative](reduced) by [key.variable.negative](3).\n[key.flavour.reminder](This can't reduce your Max Health below 1.)",
-    "game.descension.level.8" : "You start the [key.flavour.dungeon] without a weapon.\nGood luck!",
+    "game.descension.level.8" : "You start the [key.flavour.dungeon] with [key.flavour.negative](no weapon) and [key.flavour.negative](no torch.)\n[key.flavour.important](Good luck!)",
     "game.descension.level.9" : "[key.flag.elite] enemies can spawn on [key.flavour.negative](earlier floors.)",
     "game.descension.level.10" : "The [key.flavour.dungeon] has [key.flavour.negative](30%) [key.flavour.negative](less) [key.flavour.important](loot)."
 }
