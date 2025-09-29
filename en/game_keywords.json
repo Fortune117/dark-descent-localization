@@ -440,6 +440,10 @@
     "key.flag.buff" : "Buff",
     "key.flag.debuff" : "Debuff",
 
+    "key.flag.elite" : "Elite",
+    "key.flag.elite.tooltip.name" : "Elite Enmies",
+    "key.flag.elite.tooltip.description" : "[key.flag.elite] enemies are much stronger than the average foe you'll encounter within the [key.flavour.dungeon], and will often have unique strengths and behaviours.",
+
     "key.hold_type.two_handed" : "Two-Handed",
     "key.hold_type.two_handed.tooltip.name" : "Two-Handed",
     "key.hold_type.two_handed.tooltip.description" : "Weapons that occupy both hands slots are considered [key.hold_type.two_handed].\nSome weapons though will occupy both weapon slots but act as if you are [key.mechanic.dual_wielding] [key.hold_type.one_handed] weapons instead.",
