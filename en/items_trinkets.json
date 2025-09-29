@@ -21,6 +21,42 @@
   "item.trinket.oil_lantern.action.turn_off.name" : "Turn Off",
   "item.trinket.oil_lantern.action.turn_off.description" : "Turn the lantern off.",
 
+  "item.trinket.dead_branch.name" : "Dead Branch",
+  "item.trinket.dead_branch.description" : "[key.flavour.positive](Negate) the [key.flavour.important](first) instance of [key.mechanic.damage] you would take each floor.",
+  "item.trinket.dead_branch.flavour" : "An old growth from a long forgotten tree.",
+
+  "item.trinket.knuckle_dusters.name" : "Knuckle Dusters",
+  "item.trinket.knuckle_dusters.description" : "[key.flavour.positive](Increase) the [key.mechanic.damage] you deal with [key.item_tag.fists] by [key.variable.static](2).",
+  "item.trinket.knuckle_dusters.flavour" : "From a simpler time, a keepsake from your youth.",
+
+  "item.trinket.lucky_coin.name" : "Lucky Coin",
+  "item.trinket.lucky_coin.description" : "The face of the king has been worn away from so much handling.",
+  "item.trinket.lucky_coin.flavour" : "A fare for a ware - tis a baragain, a tale as old as rhyme.",
+
+  "item.trinket.broken_crystal.name" : "Broken Crystal",
+  "item.trinket.broken_crystal.description" : "After using a [key.mechanic.fountain], [key.flavour.positive](gain) [key.variable.static](50) [key.mechanic.experience] and consume this item.",
+  "item.trinket.broken_crystal.flavour" : "A gem, said to have come from the lowest depths of [key.flavour.dungeon](Velmorren).\nWhatever lustre it once held is long since faded.",
+
+  "item.trinket.cracked_lodestone.name" : "Cracked Lodestone",
+  "item.trinket.cracked_lodestone.description" : "[key.flavour.positive](Increases) the amount of [key.flavour.important](loot) found in the [key.flavour.dungeon].",
+  "item.trinket.cracked_lodestone.flavour" : "Alchemists say lodestones bear no touch of magic - but whatever makes a geode like this can surely not be natural.",
+
+  "item.trinket.herb_pouch.name" : "Herb Pouch",
+  "item.trinket.herb_pouch.description" : "At the [key.flavour.important](beginning) of each floor, [key.flavour.positive](restore) [key.variable.static](3) [key.stat.health].",
+  "item.trinket.herb_pouch.flavour" : "Many times you have applied medicines like this to your wounds.\nCut flesh and blackened eyes - this helps all.",
+
+  "item.trinket.old_locket.name" : "Old Locket",
+  "item.trinket.old_locket.description" : "Contains a faded silver emulsion of a lost love.",
+  "item.trinket.old_locket.flavour" : "Time doesn't heal all wounds.\nSometimes you simply keep growing, and they take up less of you.",
+
+  "item.trinket.preserved_leeches.name" : "Preserved Leeches",
+  "item.trinket.preserved_leeches.description" : "After [key.mechanic.kill](killing) an enemy, [key.flavour.positive] restore [key.variable.static](1) [key.stat.health].",
+  "item.trinket.preserved_leeches.flavour" : "Suspened worms gently move within their formaldehyde coffin.",
+
+  "item.trinket.worn_pommel.name" : "Worn Pommel",
+  "item.trinket.worn_pommel.description" : "From your sparring days - a remnant of the weapon you trained with.",
+  "item.trinket.worn_pommel.flavour" : "Life has brought you far from home, but your muscles remember their purpose.",
+
   "item.trinket.bone_necklace.name" : "Rattling Choker",
   "item.trinket.bone_necklace.description" : "Increase all [key.status.bleed] you [key.flavour.important](inflict) by [key.variable.positive](2)",
   "item.trinket.bone_necklace.flavour" : "Even now it still moves."
