@@ -193,5 +193,13 @@
 
     "key.item_tag.piercing" : "Piercing",
     "key.item_tag.piercing.tooltip.name" : "Piercing (Tag)",
-    "key.item_tag.piercing.tooltip.description" : "This weapon is most effective when stabbing foes with the pointy end."
+    "key.item_tag.piercing.tooltip.description" : "This weapon is most effective when stabbing foes with the pointy end.",
+
+    "key.item_tag.fists" : "Fists",
+    "key.item_tag.fists.tooltip.name" : "Fists (Tag)",
+    "key.item_tag.fists.tooltip.description" : "Your bear hands, your shmackum whackers, your alpha and omega, the ol' 1-2, yin and yang... you get me.",
+
+    "key.item_tag.fighter" : "Figther",
+    "key.item_tag.fighter.tooltip.name" : "Fighter (Tag)",
+    "key.item_tag.fighter.tooltip.description" : "This is a unique [key.class.fighter] item."
 }
