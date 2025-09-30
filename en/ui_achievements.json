@@ -33,7 +33,7 @@
     "key.achievement.find_ultra.description" : "Find the [key.flavour.important](Ultra Greatsword).",
 
     "key.achievement.flash_of_steel" : "Flash of Steel",
-    "key.achievement.flash_of_steel.description" : "Cut an arrow out of the air.",
+    "key.achievement.flash_of_steel.description" : "Cut an [key.item_tag.arrow] out of the air.",
 
     "key.achievement.indefatigable" : "Indefatigable",
     "key.achievement.indefatigable.description" : "Complete the [key.flavour.dungeon] without using your [key.item_tag.flask].",
@@ -72,10 +72,10 @@
     "key.achievement.reach_level_5.description" : "Reach level [key.variable.static](5).",
 
     "key.achievement.reflect_wraith" : "Death, Defied",
-    "key.achievement.reflect_wraith.description" : "Reflect the necrosis beam from the [key.bestiary.wraith] right back at it.",
+    "key.achievement.reflect_wraith.description" : "[key.flavour.important](Reflect) the necrosis beam from the [key.bestiary.wraith] right back at it.",
 
     "key.achievement.untouchable" : "Untouchable",
-    "key.achievement.untouchable.description" : "Complete the [key.flavour.dungeon] without taking any [key.mechanic.damage].",
+    "key.achievement.untouchable.description" : "Complete the [key.flavour.dungeon] without taking any [key.mechanic.damage].\n[key.flavour.reminder](Effects that negate damage help!)",
 
     "key.achievement.win_once" : "A Flickering Flame",
     "key.achievement.win_once.description" : "Complete the [key.flavour.dungeon] for the first time.",
@@ -93,13 +93,13 @@
     "key.achievement.won_des_7.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](7)",
 
     "key.achievement.won_des_10" : "The Great Wheel Turns",
-    "key.achievement.won_des_10.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](10)",
+    "key.achievement.won_des_10.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](10).[key.style.break_small][key.flavour.secret](Ka is a wheel, and once every few generations, it will complete a cycle.)[key.style.break_small][key.flavour.secret](Calamity awaits.)",
 
     "key.achievement.woops" : "Woops",
     "key.achievement.woops.description" : "You probably shouldn't have done that...",
 
     "key.achievement.fist_kill" : "Rip and Tear",
-    "key.achievement.fist_kill.description" : "Kill an enemy with your bear hands.",
+    "key.achievement.fist_kill.description" : "[key.mechanic.kill] an enemy with your [key.item_tag.fists](bear hands.)",
 
     "key.achievement.fist_only" : "Until it is Done",
     "key.achievement.fist_only.description" : "Complete the [key.flavour.dungeon] using only your fists.\n[key.flavour.reminder](You cannot equip any weapons during your run.)"

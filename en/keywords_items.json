@@ -197,7 +197,7 @@
 
     "key.item_tag.fists" : "Fists",
     "key.item_tag.fists.tooltip.name" : "Fists (Tag)",
-    "key.item_tag.fists.tooltip.description" : "Your bear hands, your shmackum whackers, your alpha and omega, the ol' 1-2, yin and yang... you get me.",
+    "key.item_tag.fists.tooltip.description" : "Your [key.flavour.important](bear hands), your [key.flavour.important](shmackum whackers), your [key.flavour.positive](alpha) and [key.flavour.negative](omega), the [key.flavour.important](ol' 1-2), [key.flavour.important](yin and yang...) you get me.",
 
     "key.item_tag.fighter" : "Figther",
     "key.item_tag.fighter.tooltip.name" : "Fighter (Tag)",
