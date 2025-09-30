@@ -12,13 +12,13 @@
     "key.achievement.break_fountain.description" : "Break a [key.mechanic.fountain].[key.style.break_small][key.flavour.secret](I see you.)[key.style.break_small][key.flavour.secret](I am waiting.)",
 
     "key.achievement.deaths_dance" : "Death's Dance",
-    "key.achievement.deaths_dance.description" : "[key.mechanic.parry] an attack that would've killed you.",
+    "key.achievement.deaths_dance.description" : "[key.mechanic.parry] an attack that would've [key.mechanic.death](killed) you.",
 
     "key.achievement.die_10" : "'Curve' is a Strong Word",
-    "key.achievement.die_10.description" : "Die [key.variable.static](10) times.",
+    "key.achievement.die_10.description" : "[key.mechanic.death](Die) [key.variable.static](10) times.",
 
     "key.achievement.die_25" : "It's More Like a Cliff",
-    "key.achievement.die_25.description" : "Die [key.variable.static](25) times.",
+    "key.achievement.die_25.description" : "[key.mechanic.death](Die) [key.variable.static](25) times.",
 
     "key.achievement.die_once" : "Welcome to the Dungeon",
     "key.achievement.die_once.description" : "[key.mechanic.death](Die) for the first time.",
@@ -39,28 +39,28 @@
     "key.achievement.indefatigable.description" : "Complete the [key.flavour.dungeon] without using your [key.item_tag.flask].",
 
     "key.achievement.kill_one" : "This isn't so hard....",
-    "key.achievement.kill_one.description" : "Kill your first enemy.",
+    "key.achievement.kill_one.description" : "[key.mechanic.kill] your first enemy.",
 
     "key.achievement.kill_10" : "Cleanup Crew",
-    "key.achievement.kill_10.description" : "Kill [key.variable.static](10) enemies.",
+    "key.achievement.kill_10.description" : "[key.mechanic.kill] [key.variable.static](10) enemies.",
 
     "key.achievement.kill_50" : "Cure the Damned",
-    "key.achievement.kill_50.description" : "Kill [key.variable.static](50) enemies.",
+    "key.achievement.kill_50.description" : "[key.mechanic.kill] [key.variable.static](50) enemies.",
 
     "key.achievement.kill_500" : "By the Light be Purged",
-    "key.achievement.kill_500.description" : "Kill [key.variable.static](500) enemies.",
+    "key.achievement.kill_500.description" : "[key.mechanic.kill] [key.variable.static](500) enemies.",
 
     "key.achievement.kill_feral" : "Holy Shit", 
-    "key.achievement.kill_feral.description" : "Kill a [key.bestiary.skeleton_feral].",
+    "key.achievement.kill_feral.description" : "[key.mechanic.kill] a [key.bestiary.skeleton_feral].",
 
     "key.achievement.kill_swordmaster" : "Shattered Steel",
-    "key.achievement.kill_swordmaster.description" : "Kill a [key.bestiary.bandit_swordmaster].",
+    "key.achievement.kill_swordmaster.description" : "[key.mechanic.kill] a [key.bestiary.bandit_swordmaster].",
 
     "key.achievement.kill_wraith" : "Still Wakes the Dead",
     "key.achievement.kill_wraith.description" : "Defeat the [key.bestiary.wraith].",
 
     "key.achievement.one_hp_kill" : "A Hair's Breadth",
-    "key.achievement.one_hp_kill.description" : "Kill an enemy while on (nearly) one hit point.",
+    "key.achievement.one_hp_kill.description" : "[key.mechanic.kill] an enemy while on (nearly) [key.variable.static](1) [key.stat.health].",
 
     "key.achievement.peasant_win" : "Peasantry!",
     "key.achievement.peasant_win.description" : "Complete the [key.flavour.dungeon] using only [key.item_tag.peasant] weaponry.",
@@ -91,6 +91,9 @@
 
     "key.achievement.won_des_7" : "Death, Blight and all that gives Fright",
     "key.achievement.won_des_7.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](7)",
+
+    "key.achievement.won_des_10" : "The Great Wheel Turns",
+    "key.achievement.won_des_10.description" : "Complete the [key.flavour.dungeon] on [key.mechanic.descension_level] [key.variable.static](10)",
 
     "key.achievement.woops" : "Woops",
     "key.achievement.woops.description" : "You probably shouldn't have done that...",
