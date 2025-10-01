@@ -102,5 +102,5 @@
     "key.achievement.fist_kill.description" : "[key.mechanic.kill] an enemy with your [key.item_tag.fists](bear hands.)",
 
     "key.achievement.fist_only" : "Until it is Done",
-    "key.achievement.fist_only.description" : "Complete the [key.flavour.dungeon] using only your fists.\n[key.flavour.reminder](You cannot equip any weapons during your run.)"
+    "key.achievement.fist_only.description" : "Complete the [key.flavour.dungeon] using only your fists.\n[key.flavour.reminder](You cannot equip any weapons during your run or you'll fail the achievement!)"
   }
