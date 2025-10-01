@@ -28,7 +28,7 @@
 
   "key.mechanic.player_damage_scale" : "Player Damage",
   "key.mechanic.player_damage_scale.tooltip.name" : "Player Damage",
-  "key.mechanic.player_damage_scale.tooltip.description" : "This is a multiplier to the [key.mechanic.damage] dealt by [key.flavour.positive](you).\nThis is an optional 'for-fun' setting, and also here for accessibility.\nIts intended value is [key.variable.static](1).",
+  "key.mechanic.player_damage_scale.tooltip.description" : "This is a multiplier to the [key.mechanic.damage] [key.flavour.positive](YOU) deal.\nThis is an optional 'for-fun' setting, and also here for accessibility.\nIts intended value is [key.variable.static](1).",
 
   "key.mechanic.enemy_damage_scale" : "Enemy Damage",
   "key.mechanic.enemy_damage_scale.tooltip.name" : "Enemy Damage",

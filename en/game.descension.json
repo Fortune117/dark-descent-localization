@@ -2,7 +2,7 @@
     "game.descension_level" : "Descension Level",
     "game.descension_level.max" : "Maximum",
 
-    "game.descension.level.0" : "The [key.flavour.important](intended) difficulty for the [key.flavour.dungeon].\nThis is what the game is balanced around.",
+    "game.descension.level.0" : "The [key.flavour.important](intended) difficulty of the [key.flavour.dungeon].\nThis is what the game is balanced around.",
     "game.descension.level.1" : "The [key.mechanic.fountain] [key.flavour.negative](no longer) heals you when used.\n[key.flavour.reminder](It will still restore your Flask.)",
     "game.descension.level.2" : "You start the [key.flavour.dungeon] with an [key.flavour.negative](empty) [key.item_tag.flask].",
     "game.descension.level.3" : "Your [key.mechanic.parry_window] is [key.flavour.negative](reduced) by [key.variable.negative](20%)",
