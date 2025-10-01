@@ -28,17 +28,17 @@
 
   "key.mechanic.player_damage_scale" : "Player Damage",
   "key.mechanic.player_damage_scale.tooltip.name" : "Player Damage",
-  "key.mechanic.player_damage_scale.tooltip.description" : "This is a multiplier to the [key.mechanic.damage] dealt by [key.flavour.positive].\nThis is an optional 'for-fun' setting, and also here for accessibility. Its intended value is [key.variable.static](100%).",
+  "key.mechanic.player_damage_scale.tooltip.description" : "This is a multiplier to the [key.mechanic.damage] dealt by [key.flavour.positive](you).\nThis is an optional 'for-fun' setting, and also here for accessibility.\nIts intended value is [key.variable.static](1).",
 
   "key.mechanic.enemy_damage_scale" : "Enemy Damage",
   "key.mechanic.enemy_damage_scale.tooltip.name" : "Enemy Damage",
-  "key.mechanic.enemy_damage_scale.tooltip.description" : "This is a multiplier to the [key.mechanic.damage] dealt by [key.flavour.negative](enemies).\nThis is an optional 'for-fun' setting, and also here for accessibility. Its intended value is [key.variable.static](100%).",
+  "key.mechanic.enemy_damage_scale.tooltip.description" : "This is a multiplier to the [key.mechanic.damage] dealt by [key.flavour.negative](enemies).\nThis is an optional 'for-fun' setting, and also here for accessibility.\nIts intended value is [key.variable.static](1).",
 
   "key.mechanic.parry_window_scale" : "Parry Window",
   "key.mechanic.parry_window_scale.tooltip.name" : "Parry Window",
-  "key.mechanic.parry_window_scale.tooltip.description" : "This is a multiplier to the length of your [key.mechanic.parry_window].\nThis is an optional 'for-fun' setting, and also here for accessibility. Its intended value is [key.variable.static](100%).",
+  "key.mechanic.parry_window_scale.tooltip.description" : "This is a multiplier to the length of your [key.mechanic.parry_window].\nThis is an optional 'for-fun' setting, and also here for accessibility.\nIts intended value is [key.variable.static](1).",
 
   "key.mechanic.enemy_speed_scale" : "Enemy Speed",
   "key.mechanic.enemy_speed_scale.tooltip.name" : "Enemy Speed",
-  "key.mechanic.enemy_speed_scale.tooltip.description" : "This is a multiplier to the [key.stat.attack.speed] of [key.flavour.negative](enemies).\nThis is an optional 'for-fun' setting, and also here for accessibility. Its intended value is [key.variable.static](100%)."
+  "key.mechanic.enemy_speed_scale.tooltip.description" : "This is a multiplier to the [key.stat.attack.speed] of [key.flavour.negative](enemies).\nThis is an optional 'for-fun' setting, and also here for accessibility.\nIts intended value is [key.variable.static](1)."
 }
