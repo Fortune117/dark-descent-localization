@@ -28,7 +28,7 @@
     "ui.settings.game.aim_punch.name" : "Aim Punch",
     "ui.settings.game.aim_punch.description" : "How strong aim punch effects will be when applied to your camera.\nTaking damage, hitting an attack and blocking all cause aim punch.\nI would recommend leaving this at default until you've tried the game a bit.",
 
-    "ui.settings.game.camera_shake.name" : "Camear Shake",
+    "ui.settings.game.camera_shake.name" : "Camera Shake",
     "ui.settings.game.camera_shake.description" : "How much camera shake should you experience?\nCamera shake is apllied when hitting attacks, taking, damage, certain scripted sequences, etc.\nI would recommend leaving this at default until you've tried the game a bit.",
 
     "ui.settings.game.auto_hotbar.name" : "Auto Hotbar",
