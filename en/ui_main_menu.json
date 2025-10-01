@@ -18,6 +18,8 @@
   "ui.main_menu.paused" : "Paused", 
   "ui.main_menu.resume" : "Resume",
 
+  "ui.main_menu.socials_prompt" : "Join us!",
+
   "key.mechanic.loot_score_bonus" : "Better Loot",
   "key.mechanic.loot_score_bonus.tooltip.name" : "Bonus Loot Score",
   "key.mechanic.loot_score_bonus.tooltip.description" : "The higher this value is, the [key.flavour.positive](higher quality) the loot you find in the [key.flavour.dungeon] will be.\nThis is an optional 'for-fun' setting. Its intended value is [key.variable.static](0)",
