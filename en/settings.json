@@ -16,6 +16,9 @@
     "ui.settings.game.sensitivity.aiming.name" : "Aim Scale",
     "ui.settings.game.sensitivity.aiming.description" : "Multiplier to your sensitivity while aiming. (e.g. drawing back a bow and arrow).",
 
+    "ui.settings.game.invert_swing.name" : "Invert Swing",
+    "ui.settings.game.invert_swing.description" : "Inverts the mouse movement required to swing in a particular direction.",
+
     "ui.settings.game.dynamic_post_processing.name" : "Dynamic Camera Effects",
     "ui.settings.game.dynamic_post_processing.description" : "Some things in the game will apply some fairly drastic post processing or particle effects to your camera.\nIf you don't want to see any of that you can disable it here.",
 
