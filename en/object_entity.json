@@ -12,5 +12,7 @@
     "obj_chest_wood.description" : "Filled with wondrous potential...",
 
     "obj_metal_grate.name": "Metal Grate",
-    "obj_metal_grate.description": "A moveable iron grate offers a one-way passage deeper into the dungeon."
+    "obj_metal_grate.description": "A moveable iron grate offers a one-way passage deeper into the dungeon.",
+
+    "obj_book_guide.name" : "Guide"
 }
