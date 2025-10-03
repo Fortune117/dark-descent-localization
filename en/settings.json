@@ -52,6 +52,9 @@
     "ui.settings.ui.hud.scale.name" : "Scale",
     "ui.settings.ui.hud.scale.description" : "The size of the HUD elements on your screen.",
 
+    "ui.settings.ui.hud.on_screen_posture_bar.name": "Middle Posture Bar",
+    "ui.settings.ui.hud.on_screen_posture_bar.description": "Whether to show the [key.stat.posture] bar in the middle of the screen, or grouped with the other resource bars.",
+
     "ui.settings.ui.hud.show_parry_window.name" : "Parry Indicator",
     "ui.settings.ui.hud.show_parry_window.description" : "Whether or not to show a symbol on your screen for when you're [key.mechanic.parry](Parrying).",
 
