@@ -201,5 +201,9 @@
 
     "key.item_tag.fighter" : "Figther",
     "key.item_tag.fighter.tooltip.name" : "Fighter (Tag)",
-    "key.item_tag.fighter.tooltip.description" : "This is a unique [key.class.fighter] item."
+    "key.item_tag.fighter.tooltip.description" : "This is a unique [key.class.fighter] item.",
+
+    "key.item_tag.fire" : "Fire",
+    "key.item_tag.fire.tooltip.name" : "Fire",
+    "key.item_tag.fire.tooltip.description" : "This item is naturally related to [key.flag.fire]."
 }
