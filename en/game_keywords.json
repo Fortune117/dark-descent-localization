@@ -360,7 +360,7 @@
 
     "key.trigger.on_execute" : "On Execute",
     "key.trigger.on_execute.tooltip.name" : "On Execute (Trigger)",
-    "key.trigger.on_execute.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully perform an [key.mechanic.execute](Execution).\nWhen you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).",
+    "key.trigger.on_execute.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully perform an [key.mechanic.execute](Execution).\nWhen you strike a [key.mechanic.stun](Stunned) enemy on its [key.mechanic.weak_point] your strike will become a [key.mechanic.critical_hit] and you will perform an [key.mechanic.execute](Execution).\n[key.mechanic.execute](Executions) deal [key.variable.static]([key.constant.execution_mult]) more [key.mechanic.damage] and [key.mechanic.trigger] [key.trigger.on_execute] effects.",
 
     "key.trigger.on_stun" : "On Stun",
     "key.trigger.on_stun.tooltip.name" : "On Stun (Trigger)",
