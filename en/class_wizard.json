@@ -1,0 +1,11 @@
+{
+    "key.class.wizard" : "Wizard",
+    "key.class.wizard.tooltip.name" : "Wizard",
+    "key.class.wizard.tooltip.description" : "Throw the big stick - yes yes.",
+
+    "class.wizard.name" : "Wizard",
+    "class.wizard.description.short" : "A spellcaster with magics developed from dedicated learning and mastery of the arcane.",
+    "class.wizard.description.long" : "The Wizard embodies magic through study - they represent the pinnacle of what can be achieved through careful study and dedicated practice of the arcane arts.",
+
+    "class.wizard.loadout.apprentice.name" : "Apprentice"
+}
