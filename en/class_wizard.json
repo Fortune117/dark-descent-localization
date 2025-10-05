@@ -1,11 +1,32 @@
 {
     "key.class.wizard" : "Wizard",
     "key.class.wizard.tooltip.name" : "Wizard",
-    "key.class.wizard.tooltip.description" : "Throw the big stick - yes yes.",
+    "key.class.wizard.tooltip.description" : "A spellcaster with magicks developed from a dedicated learning and understanding of the arcane.",
 
     "class.wizard.name" : "Wizard",
     "class.wizard.description.short" : "A spellcaster with magics developed from dedicated learning and mastery of the arcane.",
     "class.wizard.description.long" : "The Wizard embodies magic through study - they represent the pinnacle of what can be achieved through careful study and dedicated practice of the arcane arts.",
 
-    "class.wizard.loadout.apprentice.name" : "Apprentice"
+    "class.wizard.loadout.apprentice.name" : "Apprentice",
+
+    "class.wizard.skill.group.arcanist.name" : "Arcanist",
+    "class.wizard.skill.group.arcanist.description" : "Arcane magics and cool shit.",
+
+    "class.wizard.skill.group.elementalist.name" : "Elementalist",
+    "class.wizard.skill.group.elementalist.description" : "elementalist magics and cool shit.",
+
+    "class.wizard.skill.group.enchanter.name" : "Enchanter",
+    "class.wizard.skill.group.enchanter.description" : "Enchanter magics and cool shit.",
+
+    "class.wizard.skill.group.metamagic.name" : "Metamagic",
+    "class.wizard.skill.group.metamagic.description" : "Metamagic magics and cool shit.",
+
+    "class.wizard.spells.group.level_01.name" : "Level 1",
+    "class.wizard.spells.group.level_01.description" : "Level 1 baby spells for little babies.",
+
+    "class.wizard.spells.group.level_02.name" : "Level 2",
+    "class.wizard.spells.group.level_02.description" : "Level 1 baby spells for little babies.",
+
+    "class.wizard.spells.group.level_03.name" : "Level 3",
+    "class.wizard.spells.group.level_03.description" : "Level 1 baby spells for little babies."
 }
