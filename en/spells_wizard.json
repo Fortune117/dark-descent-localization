@@ -1,0 +1,4 @@
+{
+    "spell.level_one.fire_bolt.name" : "Fire Bolt",
+    "spell.level_one.fire_bolt.description" : "Fire off a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage]."
+}
