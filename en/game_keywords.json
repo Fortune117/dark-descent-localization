@@ -456,6 +456,7 @@
     "key.enchantment.combined" : "(Enchantment Strength + Item Enhancement Bonus)",
 
     "key.skill.level" : "Skill Level",
+    "key.skill.tier" : "Skill Tier",
 
     "key.flavour.important" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.fluff" : "You shouldn't see this! Yell at fortune :)",
