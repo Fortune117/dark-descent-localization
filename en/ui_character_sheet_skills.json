@@ -4,7 +4,7 @@
     "skilltree.points.allocated" : "You have allocated {0} skill points.",
     "skill.preview.level" : "Preview Level:",
     
-    "skill.spell.level" : "level",
+    "skill.spell.level" : "Tier",
     "skill.spell.cast_time" : "Cast Time",
     "skill.spell.cast_cost" : "Cost",
 

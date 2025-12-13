@@ -1,0 +1,8 @@
+{
+    "ui.character_sheet.spells.no_spells" : "No available spells.",
+
+    "ui.character_sheet.spells.tier" : "Tier",
+
+    "ui.character_sheet.spells.sources" : "Sources",
+    "ui.character_sheet.spells.sources.all" : "All"
+}

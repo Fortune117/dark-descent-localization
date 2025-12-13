@@ -3,5 +3,8 @@
     "spell.fire_bolt.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage].",
 
     "spell.flaming_hands.name" : "Palm of Fire",
-    "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] per second."
+    "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] per second.",
+
+    "spell.blur.name" : "Blur",
+    "spell.blur.description" : "The silohuette of your body becomes fuzzy as your physical form becomes less distinct.\nEnemy attacks and spells have a [key.variable.positive]({0:P0}) chance to [key.flavour.important](miss) you entirely."
 }
