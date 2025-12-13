@@ -2,6 +2,14 @@
     "skilltree.allocation.confirm" : "Confirm",
     "skilltree.points.available" : "You have {0} {1} skill points available.",
     "skilltree.points.allocated" : "You have allocated {0} skill points.",
-    "skill.preview.level" : "Preview Level:"
+    "skill.preview.level" : "Preview Level:",
     
+    "skill.spell.level" : "level",
+    "skill.spell.cast_time" : "Cast Time",
+    "skill.spell.cast_cost" : "Cost",
+
+    "skill.spell.cast_type.instantaneous" : "Instant",
+    "skill.spell.cast_type.continuous" : "Continuous",
+    "skill.spell.cast_type.channel" : "Channel",
+    "skill.spell.cast_type.toggle" : "Toggle"
 }
