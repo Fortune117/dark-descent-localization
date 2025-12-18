@@ -5,6 +5,9 @@
     "spell.flaming_hands.name" : "Palm of Fire",
     "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] per second.",
 
+    "spell.magic_missile.name" : "Magic Missile",
+    "spell.magic_missile.description" : "Quickly send out [key.variable.positive]({0}) missiles of [key.flag.arcane] force that each deal [key.variable.positive]({1}).\nThe missiles all strongly [key.mechanic.homing](Home) in on enemies.",
+
     "spell.blur.name" : "Blur",
     "spell.blur.description" : "The silohuette of your body becomes fuzzy as your physical form becomes less distinct.\nEnemy attacks and spells have a [key.variable.positive]({0:P0}) chance to [key.flavour.important](miss) you entirely."
 }
