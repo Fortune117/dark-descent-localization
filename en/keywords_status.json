@@ -40,7 +40,7 @@
 
     "key.status.glimpse" : "Glimpse",
     "key.status.glimpse.tooltip.name" : "Glimpse",
-    "key.status.glimpse.tooltip.description" : "The target has [key.flavour.negative](seen something it shouldn't).\nFor each [key.mechanic.stacks](Stack) of [key.status.glimpse] reduce the targets [key.stat.defense.occult] by [key.variable.positive](1).\nAdditionally, each tick the target has a chance (scaling with [key.status.glimpse] [key.mechanic.stacks] to become inflicted with a random [key.status.madness] effect.\n[key.flavour.fluff]Mind and flesh writhe in equal measure in the face of the Abyss.",
+    "key.status.glimpse.tooltip.description" : "The target has [key.flavour.negative](seen something it shouldn't).\nFor each [key.mechanic.stacks](Stack) of [key.status.glimpse] reduce the targets [key.stat.defense.occult] by [key.variable.positive](1).\nAdditionally, each tick the target has a chance (scaling with [key.status.glimpse] [key.mechanic.stacks] to become inflicted with a random [key.status.madness] effect.\n[key.flavour.fluff]Mind and flesh writhe in equal measure when faced with true horror.",
 
     "key.status.radiance" : "Radiance",
     "key.status.radiance.tooltip.name" : "Radiance",

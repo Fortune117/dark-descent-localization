@@ -278,6 +278,10 @@
     "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.description" : "[key.flavour.negative](Spellcasting is not yet implemented.)\n[key.flavour.negative](Sorry!)",
 
+    "key.mechanic.spellcasting_focus" : "Spellcasting Focus",
+    "key.mechanic.spellcasting_focus.tooltip.name" : "Spellcasting Focus",
+    "key.mechanic.spellcasting_focus.tooltip.description" : "Some [key.mechanic.class](Classes) require a [key.mechanic.spellcasting_focus] in order to be able to [key.mechanic.spellcasting](cast Spells).\nThese often take the form of magical [key.item_tag.tome](Tomes) or [key.item_tag.staff](Staves), and usually confer some additional effects to spells cast through them.",
+
     "key.mechanic.strafing" : "Strafing",
     "key.mechanic.strafing.tooltip.name" : "Strafing",
     "key.mechanic.strafing.tooltip.description" : "Moving side-to-side.",

@@ -205,5 +205,17 @@
 
     "key.item_tag.fire" : "Fire",
     "key.item_tag.fire.tooltip.name" : "Fire",
-    "key.item_tag.fire.tooltip.description" : "This item is naturally related to [key.flag.fire]."
+    "key.item_tag.fire.tooltip.description" : "This item is naturally related to [key.flag.fire].",
+
+    "key.item_tag.tome" : "Tome",
+    "key.item_tag.tome.tooltip.name" : "Tome (Tag)",
+    "key.item_tag.tome.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a book.\nTomes tend to have powerful [key.flavour.positive](bonuses) to your [key.mechanic.spellcasting] ability, at the cost of offering no other utility.",
+
+    "key.item_tag.arcane" : "Arcane",
+    "key.item_tag.arcane.tooltip.name" : "Arcane (Tag)",
+    "key.item_tag.arcane.tooltip.description" : "This item is specialized in the [key.flag.arcane] in some way.",
+
+    "key.item_tag.spellcasting" : "Spellcasting",
+    "key.item_tag.spellcasting.tooltip.name" : "Spellcasting (Tag)",
+    "key.item_tag.spellcasting.tooltip.description" : "This item is capable of acting as a [key.mechanic.spellcasting_focus]."
 }
