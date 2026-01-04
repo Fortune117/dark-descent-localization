@@ -274,6 +274,10 @@
     "key.mechanic.projectile.tooltip.name" : "Projectiles",
     "key.mechanic.projectile.tooltip.description" : "[key.mechanic.projectile](Projectiles) are objects that are launched by weapons, items, certain attacks from enemies or [key.mechanic.spellcasting](Spells).\n[key.flag.physical] weapons (e.g. [key.item_tag.bow](Bows)) will fire [key.flag.physical] [key.mechanic.projectile](Projectiles) while [key.flag.magic](Magical) effects such as [key.mechanic.spellcasting](Spells) will fire [key.flag.magic](Magical) [key.mechanic.projectile](Projectiles). ",
 
+    "key.mechanic.homing" : "Homing",
+    "key.mechanic.homing.tooltip.name" : "Homing",
+    "key.mechanic.homing.tooltip.description" : "[key.mechanic.projectile](Projectiles) can with the [key.mechanic.homing] trait will fly towards valid targets automatically, with different projectiles having different degrees of strength for [key.mechanic.homing] effects.",
+
     "key.mechanic.spellcasting" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.description" : "[key.flavour.negative](Spellcasting is not yet implemented.)\n[key.flavour.negative](Sorry!)",
