@@ -117,7 +117,7 @@
     "stats.attack_power.name" : "Attack Power",
     "stats.attack_power.short" : "[key.stat.attack.power](ATK POWER)",
     "stats.attack_power.categorized" : "[key.stat.attack.power](PWR)",
-    "stats.attack_power.description" : "Your damage with most weapons will also scale off your [key.stat.attack.power].\n[key.stat.attack.power] is rarely obtained naturally and is usually found on better equipment.\nHigher quality weapons typically have better scaling for attack power.",
+    "stats.attack_power.description" : "Most weapons will scale their damage with your [key.stat.attack.power].\n[key.stat.attack.power] is rarely obtained naturally and is usually found on better equipment.\nHigher quality weapons typically have better scaling for attack power.",
 
     "stats.attack_speed.name" : "Attack Speed",
     "stats.attack_speed.short" : "[key.stat.attack.speed](ATK SPEED)",
