@@ -3,7 +3,7 @@
     "spell.light.description" : "Summons a small [key.flavour.important](light) to illuminate your surroundings.\n[key.flavour.secret](Light is a curious thing - without it, we are blind. With too much, we are blind also.)",
 
     "spell.fire_bolt.name" : "Fire Bolt",
-    "spell.fire_bolt.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] on a direct hit, and explodes in a small [key.mechanic.aoe] for an additional [key.variable.static]({50%}) [key.mechanic.damage].",
+    "spell.fire_bolt.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] on a direct hit, and explodes in a small [key.mechanic.area_of_effect] for an additional [key.variable.static](50%) [key.mechanic.damage].",
 
     "spell.flaming_hands.name" : "Palm of Fire",
     "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] per second.",
