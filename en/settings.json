@@ -55,6 +55,9 @@
     "ui.settings.ui.hud.on_screen_posture_bar.name": "Middle Posture Bar",
     "ui.settings.ui.hud.on_screen_posture_bar.description": "Whether to show the [key.stat.posture] bar in the middle of the screen, or grouped with the other resource bars.",
 
+    "ui.settings.ui.hud.show_ability_bar.name" : "Show Ability Bar",
+    "ui.settings.ui.hud.show_ability_bar.description" : "Whether or not to show the progress bar for any abilities you're activating.",
+
     "ui.settings.ui.hud.show_parry_window.name" : "Parry Indicator",
     "ui.settings.ui.hud.show_parry_window.description" : "Whether or not to show a symbol on your screen for when you're [key.mechanic.parry](Parrying).",
 
