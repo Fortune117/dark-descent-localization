@@ -58,6 +58,12 @@
     "ui.settings.ui.hud.show_ability_bar.name" : "Show Ability Bar",
     "ui.settings.ui.hud.show_ability_bar.description" : "Whether or not to show the progress bar for any abilities you're activating.",
 
+    "ui.settings.ui.hud.show_concentration_bar.name" : "Show Concentration",
+    "ui.settings.ui.hud.show_concentration_bar.description" : "Whether or not to show the concentration bar.",
+
+    "ui.settings.ui.hud.always_show_concentration_bar.name" : "Always Show Concentration",
+    "ui.settings.ui.hud.always_show_concentration_bar.description" : "Whether or not the concentration bar should always be showing.",
+
     "ui.settings.ui.hud.show_parry_window.name" : "Parry Indicator",
     "ui.settings.ui.hud.show_parry_window.description" : "Whether or not to show a symbol on your screen for when you're [key.mechanic.parry](Parrying).",
 
