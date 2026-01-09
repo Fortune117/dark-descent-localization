@@ -15,5 +15,5 @@
     "spell.blur.description" : "The silohuette of your body becomes fuzzy as your physical form becomes less distinct.\nEnemy attacks and spells have a [key.variable.positive]({0:P0}) chance to [key.flavour.important](miss) you entirely.",
 
     "spell.shield.name" : "Shield",
-    "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attacks before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained)."
+    "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attacks before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained)."
 }
