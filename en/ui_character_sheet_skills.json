@@ -11,5 +11,5 @@
     "skill.spell.cast_type.instantaneous" : "Instant",
     "skill.spell.cast_type.continuous" : "Continuous",
     "skill.spell.cast_type.channel" : "Channel",
-    "skill.spell.cast_type.toggle" : "Toggle"
+    "skill.spell.cast_type.sustained" : "Sustained"
 }
