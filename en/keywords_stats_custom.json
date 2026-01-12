@@ -24,5 +24,7 @@
     "key.variable.supplied" : "Supplied Variable",
     "key.variable.equation.zero" : "Equation Variable 0",
     "key.variable.equation.one" : "Equation Variable 1",
-    "key.variable.equation.two" : "Equation Variable 2"
+    "key.variable.equation.two" : "Equation Variable 2",
+
+    "key.variable.ability_charge" : "Charge"
 }

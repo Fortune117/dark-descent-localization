@@ -254,7 +254,6 @@
     "key.mechanic.area_of_effect.tooltip.name" : "Area of Affect",
     "key.mechanic.area_of_effect.tooltip.description" : "[key.mechanic.area_of_effect] is used for effects that interact within an specified area.\ne.g. a fireball with a blast radius of 3 meters.",
 
-
     "key.mechanic.damage_over_time" : "DoT",
     "key.mechanic.damage_over_time.tooltip.name" : "Damage Over Time",
     "key.mechanic.damage_over_time.tooltip.description" : "[key.mechanic.damage_over_time] is [key.mechanic.damage] that is dealt [key.flavour.important](periodically) (e.g. once per second) for some duration.\nFor instance, many [key.flag.poison] effects will apply [key.mechanic.damage_over_time](DoTs).",
