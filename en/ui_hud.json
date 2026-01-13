@@ -1,0 +1,6 @@
+{
+    "skill.cast.cancel" : "Cancel",
+    "skill.cast.target_self" : "Self",
+    "skill.cast.target_other" : "Target",
+    "skill.cast.clear_targets" : "Clear"
+}
