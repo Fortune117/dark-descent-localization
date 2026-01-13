@@ -5,15 +5,117 @@
     "spell.fire_bolt.name" : "Fire Bolt",
     "spell.fire_bolt.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] on a direct hit, and explodes in a small [key.mechanic.area_of_effect] for an additional [key.variable.static](50%) [key.mechanic.damage].",
 
+    "spell.sleep.name" : "Sleep",
+    "spell.sleep.description" : "Put an enemy to sleep for a few seconds.\nThe target will wake up upon taking any damage.",
+
+    "spell.arcane_lock.name" : "Arcane Lock",
+    "spell.arcane_lock.description" : "Lock a door, greatly increasing its damage reduction and slowing down any enemies trying to get through.",
+
+    "spell.telekinesis.name" : "Telekenisis",
+    "spell.telekinesis.description" : "Grabba",
+
     "spell.flaming_hands.name" : "Palm of Fire",
     "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] per second.",
 
     "spell.magic_missile.name" : "Magic Missile",
     "spell.magic_missile.description" : "Send out up to [key.variable.positive]({1}) missiles of [key.flag.arcane](Arcane Force) based on the [key.ability.charge](Charge) of the spell.\nEach missile deals [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage].\nThese missiles will aggressively [key.mechanic.homing](Home) in on [key.mechanic.targeting](Targeted) enemies.",
 
+    "spell.shield.name" : "Shield",
+    "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attack(s) before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained).",
+
+    "spell.longstrider.name" : "Longstrider",
+    "spell.longstrider.description" : "Grants the target(s) of the spell {0:P0} [key.stat.movement.speed] while the spell is [key.mechanic.sustaining](Sustained).\nCan have up to [key.variable.positive]({1:N0}) targets.",
+
+    "spell.mage_armor.name" : "Mage Armor",
+    "spell.mage_armor.description" : "Conjure an invisible, field of [key.flag.arcane] [key.flag.arcane](Force) around your body to protect you.",
+
+    "spell.cloud_of_daggers.name" : "Cloud of Daggers",
+    "spell.cloud_of_daggers.description" : "Conjure a cloud of magical daggers at a point, which will slowly move towards any nearby enemies before stabbing them repeatedly.",
+
+    "spell.ice_knife.name" : "Ice Knife",
+    "spell.ice_knife.description" : "Nice Knife",
+
+    "spell.pylon.name" : "Pylon",
+    "spell.pylon.description" : "You become infused with [key.flag.electric](electrical) energy, occasionally [key.flavour.important](shocking) nearby foes for [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect has a cooldown of [key.variable.positive]({1:N1}) seconds, and will deal [key.flavour.important](more) [key.mechanic.damage] the longer it goes without triggering.\nAdditionally, you gain {1} [key.stat.defense.electric] while [key.mechanic.sustaining](Sustained).",
+
     "spell.blur.name" : "Blur",
     "spell.blur.description" : "The silohuette of your body becomes fuzzy as your physical form becomes less distinct.\nEnemy attacks and spells have a [key.variable.positive]({0:P0}) chance to [key.flavour.important](miss) you entirely.",
 
-    "spell.shield.name" : "Shield",
-    "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attack(s) before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained)."
+    "spell.blade_bane.name" : "Blade Bane",
+    "spell.blade_bane.description" : "Conjure a blade made of [key.flag.arcane] [key.flag.arcane](Force) to hound your foes.",
+
+    "spell.blind.name" : "Blind",
+    "spell.blind.description" : "Remove the targets ability to see.",
+
+    "spell.flaming_sphere.name" : "Flaming Sphere",
+    "spell.flaming.sphere.description" : "Conjure a ball of fire that you can direct.\nWhile the spell is active, recast to direct the flaming sphere.\nLasts for {0} seconds.",
+
+    "spell.arcane_weapon.name" : "Arcane Weapon",
+    "spell.arcane_weapon.description" : "Imbue yours or an allies weapon with [key.flag.arcane] [key.flag.arcane](Power), making it deal an additional [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage] [key.trigger.on_hit].",
+
+    "spell.chain_lightning.name" : "Chain Lightning",
+    "spell.chain_lightning.description" : "It's chain lightning. We know.",
+
+    "spell.charm.name" : "Charm",
+    "spell.charm.description" : "Charm an enemy to become friendly for a time.",
+
+    "spell.cone_of_cold.name" : "Cone of Cold",
+    "spell.cone_of_cold.description" : "A big ol cone of cold",
+
+    "spell.paralyse.name" : "Paralyse",
+    "spell.paralyse.description" : "Hold the target steady.\nDrains concentration very fast.",
+
+    "spell.slow.name" : "Slow",
+    "spell.slow.description" : "Lets slow things down...",
+
+    "spell.haste.name" : "Haste",
+    "spell.haste.description" : "Quickly now!",
+    
+    "spell.invisibility.name" : "invisibility",
+    "spell.invisibility.description" : "Sneako mode",
+
+    "spell.flame_lance.name" : "Flame Lance",
+    "spell.flame_lance.description" : "Cast -> appears in the air, grows bigger over time, doesnt move with you. Release -> go big boom, flies faster",
+
+    "spell.spark_wisp.name" : "Spark Wisp",
+    "spell.spark_wisp.description" : "Send out a small orb of electric energy, that rapidly shocks nearby creatures.",
+
+    "spell.thunder_wave.name" : "Thunder Wave",
+    "spell.thunder_wave.description" : "Send out a powerful burst of lightniing and thunder in front of you, knocking enemies back and yada yada.",
+
+    "spell.lightning_lure.name" : "Lightning Lure",
+    "spell.lightning_lure.description" : "Tether an arc of electricity to a creature, continuously deal damage to it while in effect, drains concentration per second, etc",
+    
+    "spell.frost_nova.name" : "Frost nova",
+    "spell.frost_nova.description" : "Send out a pulse of freezing energy that deals x cold damage and freezes enemies in place for y seconds",
+
+    "spell.fireball.name" : "Fireball",
+    "spell.fireball.description" : "You know what this does.",
+
+    "spell.circle_of_protection.name" : "Circle of Protection",
+    "spell.circle_of_protection.description" : "Create a cylinder of impassible force for enemies that they must break down to be able to move through. If you leave the circle, it breaks.",
+
+    "spell.hypnotic_pattern.name" : "Hypnotic Pattern",
+    "spell.hypnotic_pattern.description" : "conjure an orb that continuously depletes enemy posture? could be fun, maybe put them to sleep or something",
+
+    "spell.banish.name" : "Banish",
+    "spell.banish.description" : "Make the target go away for a while.",
+
+    "spell.negative_energy_flood.name" : "Negative Energy Flood",
+    "spell.negative_energy_flood.description" : "Tendrils of negative energy eat away at targets.",
+
+    "spell.mind_whip.name" : "Mind Whip",
+    "spell.mind_whip.description" : "Send out tendrils of psychic energy that deal x damage and deal lots of y posture damage.",
+
+    "spell.enervate.name" : "Enervate",
+    "spell.enervate.description" : "Enervate all enemies in a line.",
+
+    "spell.lightning_strike.name" : "Thunder... and the lightning....",
+    "spell.lightning_strike.description" : "THunder from the skiyyee!!",
+
+    "spell.power_word_kill.name" : "Power Word: Kill",
+    "spell.power_word_kill.description" : "Instant Death.",
+
+    "spell.prismatic_spray.name" : "Prismatic Spray",
+    "spell.prismatic_spray.description" : ""
 }
