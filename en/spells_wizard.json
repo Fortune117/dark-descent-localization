@@ -24,7 +24,7 @@
     "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attack(s) before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained).",
 
     "spell.longstrider.name" : "Longstrider",
-    "spell.longstrider.description" : "Grants the target(s) of the spell {0:P0} [key.stat.movement.speed] while the spell is [key.mechanic.sustaining](Sustained).\nCan have up to [key.variable.positive]({1:N0}) targets.",
+    "spell.longstrider.description" : "Grants the target(s) of the spell {0:P0} [key.stat.movement.speed] while the spell is [key.mechanic.sustaining](Sustained).\nCan have up to [key.variable.positive]({1:N0}) target(s).",
 
     "spell.mage_armor.name" : "Mage Armor",
     "spell.mage_armor.description" : "Conjure an invisible, field of [key.flag.arcane] [key.flag.arcane](Force) around your body to protect you.",
