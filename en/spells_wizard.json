@@ -20,6 +20,9 @@
     "spell.magic_missile.name" : "Magic Missile",
     "spell.magic_missile.description" : "Send out up to [key.variable.positive]({1}) missiles of [key.flag.arcane](Arcane Force) based on the [key.ability.charge](Charge) of the spell.\nEach missile deals [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage].\nThese missiles will aggressively [key.mechanic.homing](Home) in on [key.mechanic.targeting](Targeted) enemies.",
 
+    "spell.spark_wisp.name" : "Spark Wisp",
+    "spell.spark_wisp.description" : "Send out a small orb of electric energy, that rapidly shocks nearby creatures for [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage], up to [key.variable.positive]({1:N0}) time(s) per second, per target.\nThe wisp disappears upon striking a surface or after [key.variable.positive]({2:N1}) seconds.",
+
     "spell.shield.name" : "Shield",
     "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attack(s) before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained).",
 
@@ -76,9 +79,6 @@
 
     "spell.flame_lance.name" : "Flame Lance",
     "spell.flame_lance.description" : "Cast -> appears in the air, grows bigger over time, doesnt move with you. Release -> go big boom, flies faster",
-
-    "spell.spark_wisp.name" : "Spark Wisp",
-    "spell.spark_wisp.description" : "Send out a small orb of electric energy, that rapidly shocks nearby creatures.",
 
     "spell.thunder_wave.name" : "Thunder Wave",
     "spell.thunder_wave.description" : "Send out a powerful burst of lightniing and thunder in front of you, knocking enemies back and yada yada.",
