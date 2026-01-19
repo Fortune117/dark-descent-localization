@@ -346,6 +346,10 @@
     "key.mechanic.descension_level.tooltip.name" : "Descension Level",
     "key.mechanic.descension_level.tooltip.description" : "[key.mechanic.descension_level] is a difficulty increasing mechanic that adds mutators to your runs based on how high the [key.mechanic.descension_level] is.",
 
+    "key.mechanic.ability_charge" : "Charge",
+    "key.mechanic.ability_charge.tooltip.name" : "Charge",
+    "key.mechanic.ability_charge.tooltip.description" : "Some abilities can be [key.mechanic.ability_charge](Charged), allowing for them to performed at either lower power when charge is low, or higher power when charge is high.\nSome abilities may be overcharged, allowing for them to be charged beyond their ordinary limits.",
+
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
     "key.trigger.on_hit.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you successfully land an attack.\nSome effects will restrict what you need to land the attack with.\ne.g. only attacks with [key.flag.melee] weapons.",
