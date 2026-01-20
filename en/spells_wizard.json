@@ -45,7 +45,7 @@
     "spell.blur.description" : "The silohuette of your body becomes fuzzy as your physical form becomes less distinct.\nEnemy attacks and spells have a [key.variable.positive]({0:P0}) chance to [key.flavour.important](miss) you entirely.",
     
     "spell.thunder_wave.name" : "Thunder Wave",
-    "spell.thunder_wave.description" : "Send out a powerful burst of lightniing and thunder, dealing [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage] and [key.variable.positive]({0:P1}) of that [key.mechanic.damage] as [key.mechanic.posture_damage].\nThe spell has very high [key.stat.attack.knockback].",
+    "spell.thunder_wave.description" : "Send out a [key.flavour.important](powerful), [key.flavour.important](short-range) burst of [key.flag.electric](lightning) and [key.flag.electric](thunder), dealing [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage] and [key.variable.positive]({1:P0}) of that [key.mechanic.damage] as [key.mechanic.posture_damage].\nThe spell has very high [key.stat.attack.knockback].",
     
     "spell.blade_bane.name" : "Blade Bane",
     "spell.blade_bane.description" : "Conjure a blade made of [key.flag.arcane] [key.flag.arcane](Force) to hound your foes.",
