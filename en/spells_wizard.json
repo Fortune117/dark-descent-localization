@@ -36,7 +36,7 @@
     "spell.cloud_of_daggers.description" : "Conjure a cloud of magical daggers at a point, which will slowly move towards any nearby enemies before stabbing them repeatedly.",
 
     "spell.ice_knife.name" : "Ice Knife",
-    "spell.ice_knife.description" : "Nice Knife",
+    "spell.ice_knife.description" : "Send out a deadly blade of [key.flag.frost](ice), delaing [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage].\nThis spell can land [key.mechanic.critical_hit](Critical Hits).",
 
     "spell.pylon.name" : "Pylon",
     "spell.pylon.description" : "You become infused with [key.flag.electric](electrical) energy, occasionally [key.flavour.important](shocking) nearby foes for [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect has a cooldown of [key.variable.positive]({1:N1}) seconds, and will deal [key.flavour.important](more) [key.mechanic.damage] the longer it goes without triggering.\nAdditionally, you gain {1} [key.stat.defense.electric] while [key.mechanic.sustaining](Sustained).",
