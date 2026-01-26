@@ -1,6 +1,6 @@
 {
     "spell.light.name" : "Light",
-    "spell.light.description" : "Summons a small [key.flavour.important](light) to illuminate your surroundings.\n[key.flavour.secret](Light is a curious thing - without it, we are blind. With too much, we are blind also.)",
+    "spell.light.description" : "Conjure a small [key.flavour.important](light) to illuminate your surroundings.\n[key.flavour.secret](Light is a curious thing - without it, we are blind. With too much, we are blind also.)",
 
     "spell.fire_bolt.name" : "Fire Bolt",
     "spell.fire_bolt.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] on a direct hit, and explodes in a small [key.mechanic.area_of_effect] for an additional [key.variable.static](50%) [key.mechanic.damage].",
@@ -24,19 +24,19 @@
     "spell.spark_wisp.description" : "Send out a small orb of [key.flag.electric](electric) [key.flag.electric](energy), that [key.flavour.important](rapidly) [key.flavour.important](shocks) nearby creatures for [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage], up to [key.variable.positive]({1:N0}) times [key.flavour.important](per second), [key.flavour.important](per target).\nThe wisp will [key.flavour.important](bounce) when striking a surface, and dissipate after [key.variable.positive]({2:N1}) seconds.",
 
     "spell.shield.name" : "Shield",
-    "spell.shield.description" : "Summons [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attack(s) before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained).",
+    "spell.shield.description" : "Conjure [key.variable.positive]({0}) magical shield(s) of [key.flag.arcane](Arcane Force) to protect you.\nThe shields will [key.flavour.important](autonomously) [key.flavour.important](intercept) attacks and [key.mechanic.parry] them for you.\nEach shield can withstand [key.variable.positive]({1}) attack(s) before [key.flavour.negative](breaking), and will automatically reform after [key.variable.positive]({2}) seconds while the spell is [key.mechanic.sustaining](Sustained).",
 
-    "spell.longstrider.name" : "Longstrider",
-    "spell.longstrider.description" : "Grants the target(s) of the spell {0:P0} [key.stat.movement.speed] while the spell is [key.mechanic.sustaining](Sustained).\nCan have up to [key.variable.positive]({1:N0}) target(s).",
+    "spell.longstrider.name" : "Expeditious Retreat",
+    "spell.longstrider.description" : "Hastily augment your body, forcing it to move through [key.flag.arcane] means.\nGain [key.variable.positive]({0:P0}) [key.stat.movement.speed] as long as you are [key.mechanic.channeling] the spell.",
 
     "spell.mage_armor.name" : "Mage Armor",
-    "spell.mage_armor.description" : "Conjure an invisible, field of [key.flag.arcane] [key.flag.arcane](Force) around your body to protect you.\n[key.flavour.important](Mage Armor) will absorb up [key.variable.positive]({0}) [key.mechanic.damage] before [key.flavour.important](breaking).\nWhen [key.flavour.important](broken) or [key.flavour.important](damaged), the [key.flavour.important](Mage Armor) will regenerate at a rate of [key.variable.positive]({1:N1}) point(s) per second, after a delay of [key.variable.positive]({2:N1}) seconds.",
+    "spell.mage_armor.description" : "Conjure an invisible, field of [key.flag.arcane] [key.flag.arcane](Force) around your body to protect you.\n[key.flavour.important](Mage Armor) will absorb up [key.variable.positive]({0}) [key.mechanic.damage] before [key.flavour.important](breaking).\nWhen [key.flavour.important](broken) or [key.flavour.important](damaged), the [key.flavour.important](Mage Armor) will [key.flavour.important](regenerate) [key.variable.positive]({1:N1}) [key.flavour.important](health) [key.flavour.important](per second), after a delay of [key.variable.positive]({2:N1}) seconds, as long as the spell is [key.mechanic.sustaining](Sustained).",
 
     "spell.cloud_of_daggers.name" : "Cloud of Daggers",
     "spell.cloud_of_daggers.description" : "Conjure a cloud of magical daggers at a point, which will slowly move towards any nearby enemies before stabbing them repeatedly.",
 
     "spell.ice_knife.name" : "Ice Knife",
-    "spell.ice_knife.description" : "Send out a deadly blade of [key.flag.frost](ice), delaing [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage].\nThis spell can land [key.mechanic.critical_hit](Critical Hits).",
+    "spell.ice_knife.description" : "Send out a deadly blade of [key.flag.frost](ice), dealing [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage].\nIf this [key.mechanic.kill](Kills) the target, the [key.flag.frost](Ice Knife) [key.mechanic.area_of_effect](explodes) in a small [key.mechanic.area_of_effect] for an additional [key.variable.positive]({1:P0}) [key.mechanic.damage].\nThis spell can [key.mechanic.critical_hit](Critically Hit) and [key.mechanic.trigger] [key.mechanic.execute](Executions).",
 
     "spell.pylon.name" : "Pylon",
     "spell.pylon.description" : "You become infused with [key.flag.electric](electrical) energy, occasionally [key.flavour.important](shocking) nearby foes for [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect has a cooldown of [key.variable.positive]({1:N1}) seconds, and will deal [key.flavour.important](more) [key.mechanic.damage] the longer it goes without triggering.\nAdditionally, you gain {1} [key.stat.defense.electric] while [key.mechanic.sustaining](Sustained).",
