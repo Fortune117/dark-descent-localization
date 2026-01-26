@@ -108,6 +108,10 @@
     "key.stat.power.poison" : "Poison Power",
     "key.stat.power.necrotic" : "Necrotic Power",
 
+    "key.stat.power.buff" : "Buff Power",
+    "key.stat.power.debuff" : "Debuff Power",
+    "key.stat.power.heal" : "Heal Power",
+
     "key.stat.power.arcane" : "Arcane Power",
     "key.stat.power.divine" : "Divine Power",
     "key.stat.power.occult" : "Occult Power",
