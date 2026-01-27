@@ -38,6 +38,9 @@
     "spell.ice_knife.name" : "Ice Knife",
     "spell.ice_knife.description" : "Send out a deadly blade of [key.flag.frost](ice), dealing [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage].\nThis spell can [key.mechanic.critical_hit](Critically Hit) and [key.mechanic.trigger] [key.mechanic.execute](Executions).\n[key.mechanic.critical_hit](Criticals) with this spell will cause the [key.flag.frost](Ice Knife) to [key.mechanic.area_of_effect](explode) in a small [key.mechanic.area_of_effect] for an additional [key.variable.positive]({1:N0}) [key.mechanic.damage] after a short delay.",
 
+    "spell.cold_bite.name" : "Biting Wind",
+    "spell.cold_bite.description" : "Coalesce [key.variable.positive]({0:N0}) shards of lacerating [key.flag.frost](ice,) spread between up to [key.variable.static]({1:N0}) targets.\nAfter a short delay, the shards of ice perforate the target, dealing [key.variable.positive]({2:N0}) [key.flag.frost] [key.mechanic.damage] per shard and applying [key.status.bleed] equal to the number of shards.",
+
     "spell.pylon.name" : "Pylon",
     "spell.pylon.description" : "You become infused with [key.flag.electric](electrical) energy, occasionally [key.flavour.important](shocking) nearby foes for [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect has a cooldown of [key.variable.positive]({1:N1}) seconds, and will deal [key.flavour.important](more) [key.mechanic.damage] the longer it goes without triggering.\nAdditionally, you gain {1} [key.stat.defense.electric] while [key.mechanic.sustaining](Sustained).",
 
@@ -82,7 +85,6 @@
 
     "spell.flame_lance.name" : "Flame Lance",
     "spell.flame_lance.description" : "Cast -> appears in the air, grows bigger over time, doesnt move with you. Release -> go big boom, flies faster",
-
 
     "spell.lightning_lure.name" : "Lightning Lure",
     "spell.lightning_lure.description" : "Tether an arc of electricity to a creature, continuously deal damage to it while in effect, drains concentration per second, etc",
