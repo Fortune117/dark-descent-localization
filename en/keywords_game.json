@@ -465,6 +465,8 @@
     "key.flag.almighty" : "Almighty",
     "key.flag.chaotic" : "Chaotic",
 
+    "key.flag.power_word" : "Power Word",
+
     "key.flag.buff" : "Buff",
     "key.flag.debuff" : "Debuff",
 

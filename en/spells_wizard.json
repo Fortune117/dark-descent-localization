@@ -74,6 +74,12 @@
     "spell.paralyse.name" : "Paralyse",
     "spell.paralyse.description" : "Hold the target steady.\nDrains concentration very fast.",
 
+    "spell.scare.name" : "Scare",
+    "spell.scare.description" : "[key.status.fear](Frighten) up to [key.variable.positive]({0}) for as long as you're [key.mechanic.concentration](Concentrating) on the spell.\nMore powerful enemies will drain your [key.stat.concentration] faster.",
+
+    "spell.power_word_ignite.name" : "Power Word: Ignite",
+    "spell.power_word_ignite.description" : "[key.flag.fire](Ignite) the target you're looking at with a mere utterance.\nDeals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] over [key.variable.static]({1}) seconds and applies [key.variable.positive]({2}) [key.status.burn].\n[key.mechanic.power_word](Power Words) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
+
     "spell.slow.name" : "Slow",
     "spell.slow.description" : "Lets slow things down...",
 
