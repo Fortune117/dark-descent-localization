@@ -77,6 +77,9 @@
     "spell.scare.name" : "Scare",
     "spell.scare.description" : "[key.status.fear](Frighten) up to [key.variable.positive]({0}) for as long as you're [key.mechanic.concentration](Concentrating) on the spell.\nMore powerful enemies will drain your [key.stat.concentration] faster.",
 
+    "spell.ghost_flame_skull.name" : "Ghost Flame",
+    "spell.ghost_flame_skull.description" : "Ghost Flame fly around and applies [key.variable.positive]({0}) [key.status.necrosis].",
+
     "spell.power_word_ignite.name" : "Power Word: Ignite",
     "spell.power_word_ignite.description" : "[key.flag.fire](Ignite) the target you're looking at with a mere utterance.\nDeals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] over [key.variable.static]({1}) seconds and applies [key.variable.positive]({2}) [key.status.burn].\n[key.mechanic.power_word](Power Words) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
 
