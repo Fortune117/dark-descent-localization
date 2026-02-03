@@ -44,5 +44,9 @@
 
     "key.status.radiance" : "Radiance",
     "key.status.radiance.tooltip.name" : "Radiance",
-    "key.status.radiance.tooltip.description" : "The target is infused with [key.flag.divine](Divine Energies).\n[key.trigger.on_death] the target will explode in a burst of [key.flag.divine](Divine Radiance) dealing [key.variable.positive](1) [key.flag.divine] [key.mechanic.damage] for each [key.mechanic.stacks](Stack) of [key.status.radiance].\nAdditionally, the explosion applies [key.status.radiance] equal to [key.variable.positive](50%) of the [key.mechanic.damage] dealt.\nThis explosion will not hit yourself or allies."
+    "key.status.radiance.tooltip.description" : "The target is infused with [key.flag.divine](Divine Energies).\n[key.trigger.on_death] the target will explode in a burst of [key.flag.divine](Divine Radiance) dealing [key.variable.positive](1) [key.flag.divine] [key.mechanic.damage] for each [key.mechanic.stacks](Stack) of [key.status.radiance].\nAdditionally, the explosion applies [key.status.radiance] equal to [key.variable.positive](50%) of the [key.mechanic.damage] dealt.\nThis explosion will not hit yourself or allies.",
+
+    "key.status.fear" : "Fear",
+    "key.status.fear.tooltip.name" : "Fear",
+    "key.status.fear.tooltip.ndescription" : "When an enemy becomes [key.status.fear](Frightened), they will attempt to [key.flavour.important](flee) from their [key.flavour.important](source of fear)."
 }
