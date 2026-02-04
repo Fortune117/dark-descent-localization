@@ -18,7 +18,7 @@
     "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] per second.",
 
     "spell.magic_missile.name" : "Magic Missile",
-    "spell.magic_missile.description" : "Conjure up to [key.variable.positive]({1}) missiles of [key.flag.arcane](Arcane Force) based on the [key.mechanic.ability_charge](Charge) of the spell.\nEach missile deals [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage].\nThese missiles will aggressively [key.mechanic.homing](Home) in on [key.mechanic.targeting](Targeted) enemies.",
+    "spell.magic_missile.description" : "Conjure up to [key.variable.positive]({1}) missiles of [key.flag.arcane](Arcane Force) based on the [key.mechanic.ability_charge](Charge) of the spell.\nEach missile deals [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage].\nThese missiles will aggressively [key.mechanic.homing](home) [key.mechanic.homing](in) on each target.",
 
     "spell.arcanists_binds.name" : "Arcanists Binds",
     "spell.arcanists_binds.description" : "Conjure a circle of [key.flag.arcane] [key.flag.arcane](Power), that will attempt to [key.flavour.important](bind) any enemies that come close.\nEnemies that are [key.flavour.important](bound) are unable to move for as long as they are [key.flavour.important](bound).\nWhen the [key.flavour.important](bind) ends the target will take [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage] and become [key.mechanic.stagger](Staggered).\nEach enemy [key.flavour.important](bound) will cost [key.variable.negative]({1}) [key.stat.concentration] per second.\nThe [key.flavour.important](binding) will end when you can no longer afford the [key.stat.concentration] cost or the [key.flavour.important](bound) target takes damage.",
@@ -33,7 +33,7 @@
     "spell.longstrider.description" : "Hastily augment your body, forcing it to move through [key.flag.arcane] means.\nGain [key.variable.positive]({0:P0}) [key.stat.movement.speed] as long as you are [key.mechanic.channeling] the spell, for up to [key.variable.positive]({1:N1}) seconds.",
 
     "spell.mage_armor.name" : "Mage Armor",
-    "spell.mage_armor.description" : "Conjure an invisible, field of [key.flag.arcane] [key.flag.arcane](Force) around your body to protect you.\n[key.flavour.important](Mage Armor) will absorb up [key.variable.positive]({0}) [key.mechanic.damage] before [key.flavour.important](breaking).\nWhen [key.flavour.important](broken) or [key.flavour.important](damaged), the [key.flavour.important](Mage Armor) will [key.flavour.important](regenerate) [key.variable.positive]({1:N1}) [key.flavour.important](health) [key.flavour.important](per second), after a delay of [key.variable.positive]({2:N1}) seconds, as long as the spell is [key.mechanic.sustaining](Sustained).",
+    "spell.mage_armor.description" : "Conjure an invisible field of [key.flag.arcane] [key.flag.arcane](Force) around your body to protect you.\n[key.flavour.important](Mage Armor) will absorb up [key.variable.positive]({0}) [key.mechanic.damage] before [key.flavour.important](breaking).\nWhen [key.flavour.important](broken) or [key.flavour.important](damaged), the [key.flavour.important](Mage Armor) will [key.flavour.important](regenerate) [key.variable.positive]({1:N1}) [key.flavour.important](health) [key.flavour.important](per second), after a delay of [key.variable.positive]({2:N1}) seconds, as long as the spell is [key.mechanic.sustaining](Sustained).",
 
     "spell.cloud_of_daggers.name" : "Cloud of Daggers",
     "spell.cloud_of_daggers.description" : "Conjure a cloud of magical daggers at a point, which will slowly move towards any nearby enemies before stabbing them repeatedly.",
@@ -78,7 +78,7 @@
     "spell.paralyse.description" : "Hold the target steady.\nDrains concentration very fast.",
 
     "spell.scare.name" : "Fearful Visage",
-    "spell.scare.description" : "[key.status.fear](Frighten) up to [key.variable.positive]({0}) target(s) for as long as you're [key.mechanic.concentration](Concentrating) on this spell.\nEach target beyond the first will increase the [key.stat.concentration] cost by [key.variable.static]({1:P0}).\nMore [key.flavour.important](powerful) enemies will drain your [key.stat.concentration] faster.",
+    "spell.scare.description" : "[key.status.fear](Frighten) up to [key.variable.positive]({0}) target(s) for as long as you're [key.mechanic.concentration](Concentrating) on this spell.\nEach target beyond the first will [key.flavour.negative](increase) the [key.stat.concentration] cost by [key.variable.static]({1:P0}).\nMore [key.flavour.important](powerful) enemies will drain your [key.stat.concentration] [key.flavour.negative](faster).",
 
     "spell.ghost_flame_skull.name" : "Ghost Flame",
     "spell.ghost_flame_skull.description" : "Ghost Flame fly around and applies [key.variable.positive]({0}) [key.status.necrosis].",
