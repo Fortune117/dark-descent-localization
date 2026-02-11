@@ -1,6 +1,7 @@
 {
     "key.status.stacks" : "Status.Stacks",
     "key.status.scale" : "Status.Scale",
+    "key.status.duration" : "Status.Duration",
 
     "key.status.bleed" : "Bleed",
     "key.status.bleed.tooltip.name" : "Bleed",
