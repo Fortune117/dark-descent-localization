@@ -83,11 +83,11 @@
     "spell.ghost_flame_skull.name" : "Haunt",
     "spell.ghost_flame_skull.description" : "Conjure a [key.flavour.necrotic](ghostly) [key.flavour.necrotic](skull) to pursue your foes, relentlessly [key.mechanic.homing](homing) in on any nearby enemies.\nThe [key.flavour.necrotic](skull) deals [key.variable.positive]({0:N0}) [key.flag.necrotic] [key.mechanic.damage] and applies [key.variable.positive]({1:N0}) [key.status.necrosis] to any enemy it passes through.\nThe [key.flavour.necrotic](skull) lasts for [key.variable.positive]({2:0.#}) [key.flavour.important](seconds) and can hit up to [key.variable.positive]({3:N0}) targets before dissipating.",
 
-    "spell.power_word_ignite.name" : "Power Word: Ignite",
-    "spell.power_word_ignite.description" : "[key.flag.fire](Ignite) the target you're looking at with a mere utterance.\nDeals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] over [key.variable.static]({1}) seconds and applies [key.variable.positive]({2}) [key.status.burn].\n[key.mechanic.power_word](Power Words) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
+    "spell.power_word_ignite.name" : "Logos: Ignite",
+    "spell.power_word_ignite.description" : "[key.flag.fire](Ignite) the target you're looking at with a mere utterance.\nDeals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] over [key.variable.static]({1}) seconds and applies [key.variable.positive]({2}) [key.status.burn].\n[key.mechanic.logos](Logos) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
 
-    "spell.power_word_jolt.name" : "Power Word: Shock",
-    "spell.power_word_jolt.description" : "[key.flag.electric](Shock) the target you're looking at with a whisper, potentially [key.mechanic.stagger](Staggering) them.\nDeals [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage] and if the target is currently attacking they will receive an additional [key.variable.positive]({1}) [key.mechanic.poise_damage].\n[key.mechanic.power_word](Power Words) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
+    "spell.power_word_jolt.name" : "Logos: Shock",
+    "spell.power_word_jolt.description" : "[key.flag.electric](Shock) the target you're looking at with a whisper, potentially [key.mechanic.stagger](Staggering) them.\nDeals [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage] and if the target is currently attacking they will receive an additional [key.variable.positive]({1}) [key.mechanic.poise_damage].\n[key.mechanic.logos](Logos) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
 
     "spell.slow.name" : "Slow",
     "spell.slow.description" : "Lets slow things down...",
