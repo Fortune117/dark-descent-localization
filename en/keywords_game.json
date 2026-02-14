@@ -364,7 +364,7 @@
 
     "key.mechanic.logos" : "Logos",
     "key.mechanic.logos.tooltip.name" : "Logos",
-    "key.mechanic.logos.tooltip.description" : "[key.mechanic.logos] (λόγος), meaning [key.flavour.divine]('Word of Power') or [key.flavour.divine]('Divine Word').\n[key.mechanic.logos] are emanations of the fundamental, structured principles of the [key.lore.kenoma] in the form of spoken words.\nThe deeper the speakers understanding, that is, their [key.lore.gnosis]('Gnosis',) the more powerful these emanations will be.\nMore complex [key.mechanic.logos] require exponentially greater understanding of the governing principles of reality, gating most [key.lore.logikos] from all but the most shallow and intuitive of concepts.",
+    "key.mechanic.logos.tooltip.description" : "[key.mechanic.logos] (λόγος), meaning [key.flavour.divine]('Word of Power') or [key.flavour.divine]('Divine Word').\n[key.mechanic.logos] are emanations of the fundamental, structured principles of the [key.lore.kenoma] in the form of spoken words.\nThe deeper the speaker's understanding, that is, their [key.lore.gnosis]('Gnosis',) the more powerful these emanations will be.\nMore complex [key.mechanic.logos] require exponentially greater understanding of the governing principles of reality, gating most [key.lore.logikos] from all but the most shallow and intuitive of concepts.",
 
     "key.trigger.on_hit" : "On Hit",
     "key.trigger.on_hit.tooltip.name" : "On Hit (Trigger)",
