@@ -49,5 +49,9 @@
 
     "key.status.fear" : "Fear",
     "key.status.fear.tooltip.name" : "Fear",
-    "key.status.fear.tooltip.ndescription" : "When an enemy becomes [key.status.fear](Frightened), they will attempt to [key.flavour.important](flee) from their [key.flavour.important](source of fear)."
+    "key.status.fear.tooltip.ndescription" : "When an enemy becomes [key.status.fear](Frightened), they will attempt to [key.flavour.important](flee) from their [key.flavour.important](source of fear).",
+
+    "key.status.sleeping" : "Sleeping",
+    "key.status.sleeping.tooltip.name" : "Sleeping",
+    "key.status.sleeping.tooltip.description" : "Sleepo mode"
 }
