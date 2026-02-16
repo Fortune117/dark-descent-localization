@@ -84,7 +84,7 @@
     "spell.ghost_flame_skull.description" : "Conjure a [key.flavour.necrotic](ghostly) [key.flavour.necrotic](skull) to pursue your foes, relentlessly [key.mechanic.homing](homing) in on any nearby enemies.\nThe [key.flavour.necrotic](skull) deals [key.variable.positive]({0:N0}) [key.flag.necrotic] [key.mechanic.damage] and applies [key.variable.positive]({1:N0}) [key.status.necrosis] to any enemy it passes through.\nThe [key.flavour.necrotic](skull) lasts for [key.variable.positive]({2:0.#}) [key.flavour.important](seconds) and can hit up to [key.variable.positive]({3:N0}) targets before dissipating.",
 
     "spell.summon_skeleton.name" : "Summon Skeleton",
-    "spell.summon_skeleton.description" : "Summon a skeleton to defend you.",
+    "spell.summon_skeleton.description" : "Summon an [key.flavour.important](Skeleton) to defend you.\nThe greater your [key.stat.magic.power] and [key.stat.power.necrotic], the more powerful the skeleton you summon will be.\nEach summoned [key.flavour.important](skeleton) will reduce your [key.stat.concentration.max](Max) [key.stat.concentration.max](Concentration) while active.",
 
     "spell.power_word_ignite.name" : "Logos: Ignite",
     "spell.power_word_ignite.description" : "[key.flag.fire](Ignite) the target you're looking at with a mere utterance.\nDeals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] over [key.variable.static]({1}) seconds and applies [key.variable.positive]({2}) [key.status.burn].\n[key.mechanic.logos](Logos) are cast instantly, without needing a [key.mechanic.spellcasting_focus](Spellcasting) [key.mechanic.spellcasting_focus](Focus).",
