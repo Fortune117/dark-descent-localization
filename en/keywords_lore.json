@@ -5,5 +5,9 @@
     "key.lore.emanation" : "Emanation",
 
     "key.lore.gnosis" : "Gnosis",
-    "key.lore.logikos" : "Logikos"
+    "key.lore.logikos" : "Logikos",
+    
+    "key.lore.logos" : "Logos",
+    "key.lore.logos.tooltip.name" : "λόγος",
+    "key.lore.logos.tooltip.description" : "[key.mechanic.logos] (pronounced low-goss), meaning [key.flavour.divine]('Word of Power') or [key.flavour.divine]('Divine Word').\n[key.mechanic.logos] are emanations of the fundamental, structured principles of the [key.lore.kenoma] in the form of spoken words.\nThe deeper the speaker's understanding, that is, their [key.lore.gnosis]('Gnosis',) the more powerful these emanations will be.\nMore complex [key.mechanic.logos] require profound insight into the governing principles of reality, such that most [key.lore.logikos] are gated from all but the weakest and most shallow of [key.mechanic.logos]."
 }
