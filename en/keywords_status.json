@@ -53,5 +53,5 @@
 
     "key.status.sleeping" : "Sleeping",
     "key.status.sleeping.tooltip.name" : "Sleeping",
-    "key.status.sleeping.tooltip.description" : "Sleepo mode"
+    "key.status.sleeping.tooltip.description" : "A [key.status.sleeping] enemy is [key.mechanic.stunned] and will wake up upon taking [key.mechanic.damage].\nOnly [key.flag.living] creatures can be put to [key.status.sleeping](Sleep)."
 }

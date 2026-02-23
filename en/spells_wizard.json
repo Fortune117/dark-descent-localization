@@ -6,7 +6,7 @@
     "spell.fire_bolt.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage] on a direct hit, and explodes in a small [key.mechanic.area_of_effect] for an additional [key.variable.static](50%) [key.mechanic.damage].",
 
     "spell.sleep.name" : "Sleep",
-    "spell.sleep.description" : "Put a [key.flag.living](living) target to [key.status.sleeping](Sleep) for a few seconds, making them [key.flavour.positive](vulnerable) to [key.mechanic.execute](Executions).\nThe target will wake up upon taking any damage.",
+    "spell.sleep.description" : "Put a [key.flag.living](living) target to [key.status.sleeping](Sleep) for as long as you can afford the [key.stat.concentration] cost, making them [key.flavour.positive](vulnerable) to [key.mechanic.execute](Executions).\nThe target will [key.flavour.important](wake up) upon taking any damage.",
 
     "spell.arcane_lock.name" : "Arcane Lock",
     "spell.arcane_lock.description" : "Lock a door, greatly increasing its damage reduction and slowing down any enemies trying to get through.",

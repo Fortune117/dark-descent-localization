@@ -21,12 +21,16 @@
     "class.wizard.skill.group.metamagic.name" : "Metamagic",
     "class.wizard.skill.group.metamagic.description" : "Metamagic magics and cool shit.",
 
-    "class.wizard.spells.group.level_01.name" : "Level 1",
+    "class.wizard.spells.group.level_01.name" : "Tier 1",
     "class.wizard.spells.group.level_01.description" : "Level 1 baby spells for little babies.",
 
-    "class.wizard.spells.group.level_02.name" : "Level 2",
+    "class.wizard.spells.group.level_02.name" : "Tier 2",
     "class.wizard.spells.group.level_02.description" : "Level 1 baby spells for little babies.",
 
-    "class.wizard.spells.group.level_03.name" : "Level 3",
-    "class.wizard.spells.group.level_03.description" : "Level 1 baby spells for little babies."
+    "class.wizard.spells.group.level_03.name" : "Tier 3",
+    "class.wizard.spells.group.level_03.description" : "Level 1 baby spells for little babies.",
+
+
+    "class.wizard.skill.shattering_shards.name" : "Shattering Shards",
+    "class.wizard.skill.shattering_shards.description" : "When your shields break they release 2 magic missiles that go boom pow bang."
 }
