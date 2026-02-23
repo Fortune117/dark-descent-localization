@@ -32,5 +32,8 @@
 
 
     "class.wizard.skill.shattering_shards.name" : "Shattering Shards",
-    "class.wizard.skill.shattering_shards.description" : "When your shields break they release 2 magic missiles that go boom pow bang."
+    "class.wizard.skill.shattering_shards.description" : "When your shields break they release 2 magic missiles that go boom pow bang.",
+
+    "class.wizard.skill.energetic_casting.name" : "Energetic Casting",
+    "class.wizard.skill.energetic_casting.description" : "After casting a spell, your move speed and weapon swap speed increases by x%."
 }
