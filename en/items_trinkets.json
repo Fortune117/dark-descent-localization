@@ -35,7 +35,7 @@
 
   "item.trinket.broken_crystal.name" : "Broken Crystal",
   "item.trinket.broken_crystal.description" : "After using a [key.mechanic.fountain], [key.flavour.positive](gain) [key.variable.static](50) [key.mechanic.experience] and consume this item.",
-  "item.trinket.broken_crystal.flavour" : "A gem, said to have come from the lowest depths of [key.flavour.dungeon](Velmorren).\nWhatever lustre it once held is long since faded.",
+  "item.trinket.broken_crystal.flavour" : "A gem, said to have come from the lowest depths of [key.flavour.dungeon](Velmorren).\nWhatever lustre it once held has long since faded.",
 
   "item.trinket.cracked_lodestone.name" : "Cracked Lodestone",
   "item.trinket.cracked_lodestone.description" : "Slightly [key.flavour.positive](increases) the amount of [key.flavour.important](loot) found in the [key.flavour.dungeon].",
