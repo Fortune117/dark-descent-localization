@@ -3,6 +3,10 @@
   "item.flask.basic.healing.description" : "",
   "item.flask.basic.healing.flavour" : "A flask a task a mask it's really all I ask.",
 
+  "item.flask.basic.mana.name" : "Mana Flask",
+  "item.flask.basic.mana.description" : "",
+  "item.flask.basic.mana.flavour" : "Muramanamasa",
+
   "item.consumable.cost" : "Cost",
   "item.consumable.restores" : "Restores",
 
