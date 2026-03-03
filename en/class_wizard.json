@@ -9,14 +9,14 @@
 
     "class.wizard.loadout.apprentice.name" : "Apprentice",
 
-    "class.wizard.skill.group.arcanist.name" : "Arcanist",
+    "class.wizard.skill.group.arcanist.name" : "Logikos",
     "class.wizard.skill.group.arcanist.description" : "Arcane magics and cool shit.",
 
     "class.wizard.skill.group.elementalist.name" : "Elementalist",
     "class.wizard.skill.group.elementalist.description" : "elementalist magics and cool shit.",
 
-    "class.wizard.skill.group.enchanter.name" : "Enchanter",
-    "class.wizard.skill.group.enchanter.description" : "Enchanter magics and cool shit.",
+    "class.wizard.skill.group.enchanter.name" : "Apocrypha",
+    "class.wizard.skill.group.enchanter.description" : "Occult, necrotic and enchanter magics and cool shit.",
 
     "class.wizard.skill.group.metamagic.name" : "Metamagic",
     "class.wizard.skill.group.metamagic.description" : "Metamagic magics and cool shit.",
@@ -30,10 +30,20 @@
     "class.wizard.spells.group.level_03.name" : "Tier 3",
     "class.wizard.spells.group.level_03.description" : "Level 1 baby spells for little babies.",
 
-
     "class.wizard.skill.shattering_shards.name" : "Shattering Shards",
     "class.wizard.skill.shattering_shards.description" : "When your shields break they release 2 magic missiles that go boom pow bang.",
 
     "class.wizard.skill.energetic_casting.name" : "Energetic Casting",
-    "class.wizard.skill.energetic_casting.description" : "After casting a spell, your move speed and weapon swap speed increases by x%."
+    "class.wizard.skill.energetic_casting.description" : "After casting a spell, your move speed and weapon swap speed increases by x%.",
+
+    "class.wizard.skill.armored_casting.name" : "Armored Casting",
+    "class.wizard.skill.armored_casting.description" : "Reduce the spell casting penalties from wearing light armor by 50/100%.",
+
+    "class.wizard.skill.combustion.name" : "Combustion",
+    "class.wizard.skill.combustion.description" : "When you kill an enemy with a fire spell, they explode for x% of their burn as damage around them, inflicting y burn.",
+
+    "class.wizard.skill.arcane_circuitry.name" : "Arcane Circuitry",
+    "class.wizard.skill.arcane_circuitry.description" : "You take no damage from your own electric spells, whenever you deal electric damage gain x% of that damage as charge, which will be released at nearby enemies.",
+
+    "clas.wizard.skill." : ""
 }
