@@ -142,7 +142,7 @@
     "ui.settings.sound.enable_footstep_layer.disable_annoying.description" : "Some of the armors in the game may have more grating sounds (e.g. chain mail)\nThis setting will turn off the ones I've specifically tagged as annyoing.",
 
     "ui.settings.graphics.shadows.name" : "Fancy Shadows",
-    "ui.settings.graphics.shadows.description" : "Toggles the more expensive shadows on or off.\nThis has a high performance impact, and I recommend most players turning it off (even though it does look much worse as a result).",
+    "ui.settings.graphics.shadows.description" : "Toggles the more expensive shadows on or off.\nThis has a [key.flavour.negative](high) performance impact for the GPU and CPU, and I recommend most players turning it off (even though it does look much worse as a result).",
 
     "ui.settings.graphics.post_processing.name" : "Post Processing",
     "ui.settings.graphics.post_processing.description" : "Toggle all post processing effects on or off.",
@@ -160,7 +160,7 @@
     "ui.settings.graphics.screen_space_reflections.description" : "Whether Screen Space Reflections is on/off.\nThis has a high performance impact and honestly I can't even really tell when it's on.",
 
     "ui.settings.graphics.bloom.name" : "Bloom",
-    "ui.settings.graphics.bloom.description" : "Whether Bloom is on/off.\nBloom has a moderate performance impact but it looks fuckin' awesome so I recommend leaving it on.",
+    "ui.settings.graphics.bloom.description" : "Whether Bloom is on/off.\nBloom has a small performance impact but it looks fuckin' awesome so I recommend leaving it on.",
 
     "ui.settings.graphics.bloom_strength.name" : "Bloom Strength",
     "ui.settings.graphics.bloom_strength.description" : "How strong the Bloom effect is.\nI would recommend leaving this at 1 but I'm not your dad.",
