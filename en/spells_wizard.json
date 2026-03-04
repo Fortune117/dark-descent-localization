@@ -60,7 +60,7 @@
     "spell.blind.description" : "Remove the targets ability to see.",
 
     "spell.flaming_sphere.name" : "Flaming Sphere",
-    "spell.flaming.sphere.description" : "Conjure a ball of fire that you can direct.\nWhile the spell is active, recast to direct the flaming sphere.\nLasts for {0} seconds.",
+    "spell.flaming_sphere.description" : "Conjure a ball of fire that you can direct.\nWhile the spell is active, recast to direct the flaming sphere.\nLasts for {0} seconds.",
 
     "spell.arcane_weapon.name" : "Arcane Weapon",
     "spell.arcane_weapon.description" : "Imbue yours or an allies weapon with [key.flag.arcane] [key.flag.arcane](Power), making it deal an additional [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage] [key.trigger.on_hit].",
@@ -107,7 +107,7 @@
     "spell.lightning_lure.name" : "Lightning Lure",
     "spell.lightning_lure.description" : "Tether an arc of electricity to a creature, continuously deal damage to it while in effect, drains concentration per second, etc",
     
-    "spell.frost_nova.name" : "Frost nova",
+    "spell.frost_nova.name" : "Frost Nova",
     "spell.frost_nova.description" : "Send out a pulse of freezing energy that deals x cold damage and freezes enemies in place for y seconds",
 
     "spell.fireball.name" : "Fireball",
