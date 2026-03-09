@@ -66,7 +66,7 @@
     "spell.arcane_weapon.description" : "Imbue yours or an allies weapon with [key.flag.arcane] [key.flag.arcane](Power), making it deal an additional [key.variable.positive]({0}) [key.flag.arcane] [key.mechanic.damage] [key.trigger.on_hit].",
 
     "spell.chain_lightning.name" : "Chain Lightning",
-    "spell.chain_lightning.description" : "Conjure a [key.flag.electric](bolt) of [key.flag.electric](lightning) that will [key.flavour.important](jump) between targets within a [key.flavour.important](range) of [key.variable.positive]({0:N0}) [key.flavour.important](units).\nTargets struck will take [key.variable.positive]({1:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect can jump up to [key.variable.positive]({2:N0}) times.",
+    "spell.chain_lightning.description" : "Conjure a [key.flag.electric](bolt) of [key.flag.electric](lightning) that will [key.flavour.important](chain) [key.flavour.important](between) [key.flavour.important](targets) within [key.variable.positive]({0:N0}) [key.flavour.important](units) of each other.\nTargets struck will take [key.variable.positive]({1:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect can jump up to [key.variable.positive]({2:N0}) times.",
 
     "spell.charm.name" : "Charm",
     "spell.charm.description" : "Charm an enemy to become friendly for a time.",
