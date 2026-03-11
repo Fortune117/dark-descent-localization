@@ -54,8 +54,8 @@
     "spell.thunder_wave.description" : "Send out a [key.flavour.important](powerful), [key.flavour.important](short-range) burst of [key.flag.electric](lightning) and [key.flag.electric](thunder), dealing [key.variable.positive]({0:N0}) [key.flag.electric] [key.mechanic.damage] and [key.variable.positive]({1:P0}) of that [key.mechanic.damage] as [key.mechanic.posture_damage].\nThe spell has very high [key.stat.attack.knockback].",
     
     "spell.blade_bane.name" : "Blade Bane",
-    "spell.blade_bane.description" : "Conjure a [key.flag.important](blade) made of [key.flag.arcane] [key.flag.arcane](force) to hound your foes.\nThe [key.flag.important](blade) will accompany you and automatically nearby enemies for [key.variable.positive]({0:N0}) [key.flag.arcane] [key.mechanic.damage], and will [key.flavour.important](occasionally) [key.mechanic.parry] attacks for you.",
-]
+    "spell.blade_bane.description" : "Conjure a [key.flag.important](blade) made of [key.flag.arcane] [key.flag.arcane](Force) to hound your foes.\nThe [key.flag.important](blade) will accompany you and automatically attack nearby enemies for [key.variable.positive]({0:N0}) [key.flag.arcane] [key.mechanic.damage] every [key.variable.positive]({1:0.#}) [key.flavour.important](seconds).\nIn between attacks, the [key.flavour.important](blade) will occasionally [key.mechanic.parry] attacks for you.",
+
     "spell.blind.name" : "Blind",
     "spell.blind.description" : "Remove the targets ability to see.",
 
