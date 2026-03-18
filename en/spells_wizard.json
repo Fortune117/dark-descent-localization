@@ -71,6 +71,15 @@
     "spell.charm.name" : "Charm",
     "spell.charm.description" : "Charm an enemy to become friendly for a time.",
 
+    "spell.ray_of_enfeeblement.name" : "Ray of Enfeeblement",
+    "spell.ray_of_efeeblement.description" : "reduce str and dex of target, make target take x more damage from all sources.",
+
+    "spell.false_life.name" : "False Life",
+    "spell.false_life.description" : "reduce your maximum health by x, regenerate up to y grit.",
+
+    "spell.cloak_of_shadows.name" : "Cloak of Shadows",
+    "spell.cloak_of_shadows.description" : "upon taking damage, deal x damage to the attacker and restore y% of it as health.",
+
     "spell.cone_of_cold.name" : "Cone of Cold",
     "spell.cone_of_cold.description" : "A big ol cone of cold",
 
