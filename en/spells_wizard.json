@@ -135,7 +135,7 @@
     "spell.negative_energy_flood.description" : "Tendrils of negative energy eat away at targets.",
 
     "spell.mind_whip.name" : "Mind Whip",
-    "spell.mind_whip.description" : "Send out tendrils of psychic energy that deal x damage and deal lots of y posture damage.",
+    "spell.mind_whip.description" : "Send forth [key.mechanic.variable.positive]({0:N0}) [key.flavour.important](tendrils) of [key.flag.occult](psychic energy) that deal [key.variable.positive]({1:N0}) [key.flag.occult] [key.mechanic.damage] and [key.variable.positive]({2:N0}) [key.mechanic.posture_damage_enemy].\nIf this [key.mechanic.damage] [key.mechanic.posture_break](breaks) the targets [key.stat.posture], they will be [key.mechanic.stun](Stunned) for an additional [key.variable.positive]({3:0.#}) [key.flavour.important](seconds).\nEnemies [key.mechanic.stun](Stunned) this way will not end their [key.mechanic.stun](Stun) upon taking [key.mechanic.damage].",
 
     "spell.enervate.name" : "Enervate",
     "spell.enervate.description" : "Enervate all enemies in a line.",
