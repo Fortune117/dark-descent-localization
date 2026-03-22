@@ -90,7 +90,7 @@
     "spell.paralyse.name" : "Paralyse",
     "spell.paralyse.description" : "Hold the target steady.\nDrains concentration very fast.",
 
-    "spell.scare.name" : "Fearful Visage",
+    "spell.scare.name" : "Frightful Visage",
     "spell.scare.description" : "[key.status.fear](Frighten) up to [key.variable.positive]({0}) target(s) for as long as you're [key.mechanic.concentration](Concentrating) on this spell.\nEach target beyond the first will [key.flavour.negative](increase) the [key.stat.concentration] cost by [key.variable.static]({1:P0}).\nMore [key.flavour.important](powerful) enemies will drain your [key.stat.concentration] [key.flavour.negative](faster).",
 
     "spell.ghost_flame_skull.name" : "Haunt",
