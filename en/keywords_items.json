@@ -139,6 +139,10 @@
     "key.item_tag.heal.tooltip.name" : "Healing (Tag)",
     "key.item_tag.heal.tooltip.description" : "This item is capable of [key.flag.healing](Healing) you.",
 
+    "key.item_tag.mana" : "Mana",
+    "key.item_tag.mana.tooltip.name" : "Mana (Tag)",
+    "key.item_tag.mana.tooltip.description" : "This item is capable of restoring your [key.stat.magic.mana].",
+
     "key.item_tag.buff" : "Buff",
     "key.item_tag.buff.tooltip.name" : "Buff (Tag)",
     "key.item_tag.buff.tooltip.description" : "This item will give you a beneficial [key.flag.buff] when used.",

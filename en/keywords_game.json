@@ -100,7 +100,7 @@
 
     "key.stat.magic.mana" : "Mana",
     "key.stat.magic.mana.tooltip.name" : "Mana",
-    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast [key.mechanic.spellcasting](Spells), with higher level [key.mechanic.spellcasting](Spells) costing more.\n[key.flavour.negative](Mana does not regenerate naturally).\nMost [key.mechanic.spellcasting] classes will start each run with a [key.item_tag.flask] that can restore [key.stat.magic.mana].",
+    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast [key.mechanic.spellcasting](Spells), with higher tier [key.mechanic.spellcasting](Spells) costing more.\n[key.flavour.negative](Mana does not regenerate naturally.)\nMost [key.mechanic.spellcasting] [key.mechanic.class](Classes) will start each run with a [key.item_tag.flask] that can restore [key.stat.magic.mana].",
 
     "key.stat.power.fire" : "Fire Power",
     "key.stat.power.frost" : "Frost Power",
