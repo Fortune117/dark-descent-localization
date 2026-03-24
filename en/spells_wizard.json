@@ -68,9 +68,11 @@
     "spell.chain_lightning.name" : "Chain Lightning",
     "spell.chain_lightning.description" : "Conjure a [key.flag.electric](bolt) of [key.flag.electric](lightning) that will [key.flavour.important](chain) [key.flavour.important](between) [key.flavour.important](targets) within [key.variable.positive]({0:N0}) [key.flavour.important](units) of each other.\nTargets struck will take [key.variable.positive]({1:N0}) [key.flag.electric] [key.mechanic.damage].\nThis effect can jump up to [key.variable.positive]({2:N0}) times, and can hit the same target more than once.",
 
-
     "spell.mind_whip.name" : "Mind Whip",
     "spell.mind_whip.description" : "Conjure [key.mechanic.variable.positive]({0:N0}) [key.flavour.important](tendrils) of [key.flag.occult](psychic energy) that deal [key.variable.positive]({1:N0}) [key.flag.occult] [key.mechanic.damage] and [key.variable.positive]({2:N0}) [key.mechanic.posture_damage_enemy].\nIf this [key.mechanic.damage] [key.mechanic.posture_break](breaks) the targets [key.stat.posture], they will be [key.mechanic.stun](Stunned) for an additional [key.variable.positive]({3:0.#}) [key.flavour.important](seconds).\nEnemies [key.mechanic.stun](Stunned) this way will not end their [key.mechanic.stun](Stun) upon taking [key.mechanic.damage].",
+
+    "spell.enervate.name" : "Enervate",
+    "spell.enervate.description" : "Send forth waves of [key.flavour.necrotic](enervating) [key.flavour.necrotic](darkness), sapping your foes of their [key.stat.strength] & [key.stat.dexterity].\nAll targets in a [key.variable.positive]({0:N0}) [key.flavour.important](unit) [key.flavour.important](wide line) will take [key.variable.positive]({1:N0}) [key.flag.necrotic] [key.mechanic.damage], receive [key.variable.positive]({2:N0}) [key.status.necrosis] and lose [key.variable.positive]({3:N0}) [key.stat.strength] & [key.variable.positive]({3:N0}) [key.stat.dexterity].\nYou gain [key.stat.grit] equal to [key.variable.positive]({4:P0}) of the [key.mechanic.damage] dealt.",
 
     "spell.charm.name" : "Charm",
     "spell.charm.description" : "Charm an enemy to become friendly for a time.",
@@ -137,9 +139,6 @@
 
     "spell.negative_energy_flood.name" : "Negative Energy Flood",
     "spell.negative_energy_flood.description" : "Tendrils of negative energy eat away at targets.",
-
-    "spell.enervate.name" : "Enervate",
-    "spell.enervate.description" : "Enervate all enemies in a line.",
 
     "spell.lightning_strike.name" : "Thunder... and the lightning....",
     "spell.lightning_strike.description" : "THunder from the skiyyee!!",
