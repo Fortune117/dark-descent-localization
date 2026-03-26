@@ -87,7 +87,7 @@
     "spell.cloak_of_shadows.description" : "upon taking damage, deal x damage to the attacker and restore y% of it as health.",
 
     "spell.cone_of_cold.name" : "Cone of Cold",
-    "spell.cone_of_cold.description" : "A big ol cone of cold",
+    "spell.cone_of_cold.description" : "Conjure a [key.flag.frost](freezing gale) to kill your foes.\nAll targets inside a [key.variable.positive]({0:N0}) [key.flavour.important](unit cone) take [key.variable.positive]({1:N0}) [key.flag.frost] [key.mechanic.damage] and receive [key.variable.positive]({2:N0}) [key.status.rime].",
 
     "spell.paralyse.name" : "Paralyse",
     "spell.paralyse.description" : "Hold the target steady.\nDrains concentration very fast.",
