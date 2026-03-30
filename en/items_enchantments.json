@@ -42,5 +42,10 @@
   "enchantment.miring.name" : "Miring",
   "enchantment.miring.description" : "[key.trigger.on_hit][key.style.break_small]Inflict [key.variable.positive]({0:F0}) [key.status.slow].",
   "enchantment.miring.prefix" : "Miring",
-  "enchantment.miring.suffix" : ""
+  "enchantment.miring.suffix" : "",
+
+  "enchantment.skill.name" : "Skill Enchantment",
+  "enchantment.skill.description" : "putta da skill on da weapon",
+  "enchantment.skill.prefix" : "",
+  "enchantment.skill.suffix" : ""
 }
