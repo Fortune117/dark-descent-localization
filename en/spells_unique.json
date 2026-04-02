@@ -1,5 +1,5 @@
 {
     "spell.unique.wraith_beam.name" : "Ray of Death",
-    "spell.unique.wraith_beam.description" : "Conjure a ray of pure hatred to annihilate your foes.\nDeals [key.variable.positive]({0:N0}) [key.flag.necrotic] [key.mechanic.damage] to the first target hit."
+    "spell.unique.wraith_beam.description" : "Conjure a ray of [key.flavour.negative](pure) [key.flavour.negative](hatred) to annihilate your foes.\nDeals [key.variable.positive]({0:P0}) of your [key.stat.power.necrotic] as [key.flag.necrotic] [key.mechanic.damage] to the first target hit."
 
 }
