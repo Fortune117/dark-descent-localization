@@ -154,8 +154,7 @@
     "ui.settings.graphics.volumetric_fog.description" : "Whether volumetric fog is on or off.\nThis has a high performance impact, but it does look very cool...",
 
     "ui.settings.graphics.screen_space_ambient_occlusion.name" : "Ambient Occlusion",
-    "ui.settings.graphics.screen_space_ambient_occlusion.description" : "Whether Screen Space Ambient Occlusion is on/off.\nAmbient Occlusion darkens areas where shadows would naturally congregate, such as corners and sharp indents.\nThis has a mild performance impact.",
-
+    "ui.settings.graphics.screen_space_ambient_occlusion.description" : "Whether [key.flavour.important](Screen Space) [key.flavour.important](Ambient Occlusion) is on/off.\n[key.flavour.important](Ambient Occlusion) darkens areas where shadows would naturally congregate, such as corners and sharp indents.\nThis has a [key.flavour.negative](high) [key.flavour.important](CPU) cost, especially at higher resolutions.",
     "ui.settings.graphics.screen_space_reflections.name" : "SS Reflections",
     "ui.settings.graphics.screen_space_reflections.description" : "Whether Screen Space Reflections is on/off.\nThis has a high performance impact and honestly I can't even really tell when it's on.",
 
