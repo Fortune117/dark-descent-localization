@@ -126,7 +126,7 @@
     "spell.frost_nova.description" : "Send out a pulse of freezing energy that deals x cold damage and freezes enemies in place for y seconds",
 
     "spell.fireball.name" : "Fireball",
-    "spell.fireball.description" : "You know what this does.",
+    "spell.fireball.description" : "Conjure a [key.flag.fire](bead) of energy that explodes in a [key.flag.fire](fireball) of [key.variable.positive]({0:N0}) [key.flavour.important](unit) [key.flag.fire](fireball).\nDeals [key.variable.positive]({1:N0}) [key.flag.fire] [key.mechanic.damage] and inflicts [key.variable.positive]({2:N0}) [key.status.burn].",
 
     "spell.circle_of_protection.name" : "Circle of Protection",
     "spell.circle_of_protection.description" : "Create a cylinder of impassible force for enemies that they must break down to be able to move through. If you leave the circle, it breaks.",
