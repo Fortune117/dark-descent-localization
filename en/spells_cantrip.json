@@ -1,0 +1,4 @@
+{
+    "spell.cantrip.shocking_touch.name" : "Shocking Touch",
+    "spell.cantrip.shocking_touch.description" : "[key.flag.electric](Shock) the target you're looking at with a whisper, potentially [key.mechanic.stagger](Staggering) them.\nDeals [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage]."
+}
