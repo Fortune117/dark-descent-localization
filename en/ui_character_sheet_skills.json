@@ -9,6 +9,8 @@
     "skill.spell.cast_time" : "Cast Time",
     "skill.spell.cast_cost" : "Cost",
 
+    "skill.spell.cantrip_random" : "Random Cantrip",
+
     "skill.spell.cast_type.instantaneous" : "Instant",
     "skill.spell.cast_type.continuous" : "Continuous",
     "skill.spell.cast_type.channel" : "Channel",
