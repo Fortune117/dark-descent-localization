@@ -1,4 +1,10 @@
 {
     "spell.cantrip.shocking_touch.name" : "Shocking Touch",
-    "spell.cantrip.shocking_touch.description" : "[key.flag.electric](Shock) the target you're looking at with a whisper, potentially [key.mechanic.stagger](Staggering) them.\nDeals [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage]."
+    "spell.cantrip.shocking_touch.description" : "[key.flag.electric](Shock) the target you're looking at with a whisper, potentially [key.mechanic.stagger](Staggering) them.\nDeals [key.variable.positive]({0}) [key.flag.electric] [key.mechanic.damage].",
+
+    "spell.cantrip.ember.name" : "Ember",
+    "spell.cantrip.ember.description" : "Shoot a bolt of [key.flag.fire](flame) that deals [key.variable.positive]({0}) [key.flag.fire] [key.mechanic.damage].",
+
+    "spell.cantrip.hailstone.name" : "Hailstone",
+    "spell.cantrip.hailstone.description" : "Send out a deadly blade of [key.flag.frost](ice), dealing [key.variable.positive]({0}) [key.flag.frost] [key.mechanic.damage].\nThis spell can [key.mechanic.critical_hit](Critically Hit) and [key.mechanic.trigger] [key.mechanic.execute](Executions)."
 }

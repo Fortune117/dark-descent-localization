@@ -5,6 +5,7 @@
     "skill.preview.level" : "Preview Level:",
     
     "skill.spell.level" : "Tier",
+    "skill.spell.cantrip" : "Cantrip",
     "skill.spell.cast_time" : "Cast Time",
     "skill.spell.cast_cost" : "Cost",
 
