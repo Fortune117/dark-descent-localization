@@ -15,6 +15,9 @@
   "ui.item.weapon.crit.long" : "additive critical multiplier",
   "ui.item.weapon.crit.short" : "crit",
 
+  "ui.item.spellcasting_focus.speed.long" : "Cast Speed",
+  "ui.item.spellcasting_focus.speed.short" : "Speed",
+
   "ui.inventory.trinkets" : "Trinkets",
   "ui.item.interaction.control_reminder.pickup" : "[key.control.interact] Pick Up",
   "ui.item.interaction.control_reminder.equip" : "[key.control.interact] Equip",
