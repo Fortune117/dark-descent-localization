@@ -166,11 +166,11 @@
     "key.mechanic.heft.tooltip.name" : "Heft",
     "key.mechanic.heft.tooltip.description" : "[key.mechanic.heft] determines how much [key.stat.stamina] it costs to perform actions with an item.\n[key.flavour.important](Attacking) with a weapon costs [key.stat.stamina] [key.flavour.important](equal to) the [key.mechanic.heft] of the weapon.\n[key.mechanic.block](Blocking) an attack costs [key.stat.stamina] [key.flavour.important](equal to) the items [key.mechanic.heft].\nYour [key.stat.stamina] regenerates [key.flavour.negative](much slower) while [key.mechanic.block](Blocking).",
 
-    "key.mechanic.focus_cast_speed_mult" : "Focus Speed",
+    "key.mechanic.focus_cast_speed_mult" : "Cast Speed",
     "key.mechanic.focus_cast_speed_mult.tooltip.name" : "Focus Speed",
     "key.mechanic.focus_cast_speed_mult.tooltip.description" : "[key.mechanic.focus_cast_speed_mult] affects how quickly this [key.mechanic.spellcasting_focus] can be used to cast spells.\nA cast speed of [key.flavour.positive](200%) will cast twice as fast, while a value of [key.flavour.negative](50%) will take twice as long.",
 
-    "key.mechanic.focus_spell_power" : "Focus Power",
+    "key.mechanic.focus_spell_power" : "Cast Power",
     "key.mechanic.focus_spell_power.tooltip.name" : "Focus Power",
     "key.mechanic.focus_spell_power.tooltip.description" : "[key.mechanic.focus_spell_power] is how much extra [key.stat.magic.power] will be granted to spells cast using this [key.mechanic.spellcasting_focus].",
 
