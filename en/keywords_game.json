@@ -21,7 +21,7 @@
 
     "key.stat.category.magic" : "Magic",
     "key.stat.category.magic.tooltip.name" : "Magic",
-    "key.stat.category.magic.tooltip.description" : "Magic represents your apptitude at casting spells.\nSpells are cast using [key.stat.magic.mana].\n[key.flavour.negative](Spellcasting is not implemented yet. Sorry!)",
+    "key.stat.category.magic.tooltip.description" : "Magic represents your apptitude at [key.mechanic.spellcasting](Casting Spells).\nSpells are usually cast using [key.stat.magic.mana].",
 
     "key.stat.category.attack" : "Attack",
     "key.stat.category.attack.tooltip.name" : "Attack",
@@ -296,7 +296,7 @@
 
     "key.mechanic.spellcasting" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
-    "key.mechanic.spellcasting.tooltip.description" : "[key.flavour.negative](Spellcasting is not yet implemented.)\n[key.flavour.negative](Sorry!)",
+    "key.mechanic.spellcasting.tooltip.description" : "Casting spells is cool and fun :D",
 
     "key.mechanic.spellcasting_focus" : "Spellcasting Focus",
     "key.mechanic.spellcasting_focus.tooltip.name" : "Spellcasting Focus",
