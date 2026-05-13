@@ -1,0 +1,17 @@
+{
+  "item.trinket.old_locket.name" : "Old Locket",
+  "item.trinket.old_locket.description" : "Contains the faded silver emulsion of a lost love.",
+  "item.trinket.old_locket.flavour" : "Time doesn't heal all wounds.\nSometimes you simply keep growing, and they take up less of you.",
+
+  "item.trinket.preserved_leeches.name" : "Preserved Leeches",
+  "item.trinket.preserved_leeches.description" : "After [key.mechanic.kill](killing) an enemy, [key.flavour.positive](restore) [key.variable.static](1) [key.stat.health].",
+  "item.trinket.preserved_leeches.flavour" : "Suspened forms gently float within their formaldehyde coffin.",
+
+  "item.trinket.worn_pommel.name" : "Worn Pommel",
+  "item.trinket.worn_pommel.description" : "From your sparring days - a remnant of the weapon you trained with.",
+  "item.trinket.worn_pommel.flavour" : "Life has brought you far from home, but your muscles remember their purpose.",
+
+  "item.trinket.knuckle_dusters.name" : "Knuckle Dusters",
+  "item.trinket.knuckle_dusters.description" : "[key.flavour.positive](Increase) the [key.mechanic.damage] you deal with [key.item_tag.fists] by [key.variable.static](2) and [key.flavour.positive](reduce) the [key.mechanic.damage] you take while [key.mechanic.block](Blocking) with your [key.item_tag.fists] by [key.variable.static](35%)",
+  "item.trinket.knuckle_dusters.flavour" : "From a simpler time, a keepsake from your youth."
+}
