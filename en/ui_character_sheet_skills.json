@@ -3,6 +3,9 @@
     "skilltree.points.available" : "You have {0} {1} skill points available.",
     "skilltree.points.allocated" : "You have allocated {0} skill points.",
     "skill.preview.level" : "Preview Level:",
+
+    "spelltree.points.available" : "You have {0} {1} spell points available.",
+    "spelltree.points.allocated" : "You have allocated {0} spell points.",
     
     "skill.spell.level" : "Tier",
     "skill.spell.cantrip" : "Cantrip",
