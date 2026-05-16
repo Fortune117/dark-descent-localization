@@ -1,4 +1,4 @@
 {
     "ability.block_ward_pulse.name" : "Ward Pulse",
-    "ability.block_ward_pulse.description" : "Ward Pulse!"
+    "ability.block_ward_pulse.description" : "While [key.mechanic.block](Blocking), you may activate this ability to spend your remaining [key.stat.concentration] to deal [key.variable.positive]({0:N1}) [key.mechanic.posture_damage] and apply [key.variable.positive]({1:N0}) [key.stat.attack.knockback] to all enemies in front of you."
 }
