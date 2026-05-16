@@ -16,8 +16,8 @@
   "item.trinket.mind_talisman.flavour": "The crystal feels cool gainst your skin.",
 
   "item.trinket.will_talisman.name": "Owl's Pendant",
-  "item.trinket.will_talisman.description": "A wise owl, freed from an unknown wood by a sculptor long ago.",
-  "item.trinket.will_talisman.flavour": "A time, a place, a place, a place.\nStrength without guidance is cruelty, learn all that can be learnt and help all that can be helped.",
+  "item.trinket.will_talisman.description": "A wizened owl, set free from the wood by a sculptor long ago.",
+  "item.trinket.will_talisman.flavour": "A time, a place, a place, a place.\nStrength without wisdom is cruelty.",
 
   "item.trinket.oil_lantern.name" : "Oil Lantern",
   "item.trinket.oil_lantern.description" : "Cast's [key.flavour.important](light) around the wearer when turned on.\nCan be placed in the [key.flavour.important](Hotbar).",
