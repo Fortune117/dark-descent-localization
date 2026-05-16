@@ -61,8 +61,8 @@
     "ui.settings.ui.hud.show_concentration_bar.name" : "Show Concentration",
     "ui.settings.ui.hud.show_concentration_bar.description" : "Whether or not to show the concentration bar.",
 
-    "ui.settings.ui.hud.always_show_concentration_bar.name" : "Always Show Concentration",
-    "ui.settings.ui.hud.always_show_concentration_bar.description" : "Whether or not the concentration bar should always be showing.",
+    "ui.settings.ui.hud.always_show_concentration.name" : "Always Show Concentration",
+    "ui.settings.ui.hud.always_show_concentration.description" : "Whether or not the concentration bar should always be showing on the HUD.",
 
     "ui.settings.ui.hud.show_parry_window.name" : "Parry Indicator",
     "ui.settings.ui.hud.show_parry_window.description" : "Whether or not to show a symbol on your screen for when you're [key.mechanic.parry](Parrying).",
@@ -103,10 +103,8 @@
     "ui.settings.ui.show_resource_numbers.name" : "Resource Numbers", 
     "ui.settings.ui.show_resource_numbers.description" : "Show the actual numbers for your resource bars on your HUD (e.g. health and stamina).",
 
-
     "ui.settings.ui.show_keybind_reminders.name" : "Keybind Reminders", 
     "ui.settings.ui.show_keybind_reminders.description" : "Shows the keybinds for certain important actions you can take.\n(e.g. opening the map, using your flask)",
-
 
     "ui.settings.sound.master.name" : "Master Volume",
     "ui.settings.sound.master.description" : "The overall volume.",
