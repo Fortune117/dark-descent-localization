@@ -15,7 +15,7 @@
     "spell.telekinesis.description" : "Grabba",
 
     "spell.flaming_hands.name" : "Palm of Fire",
-    "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0:0.#}) [key.flag.fire] [key.mechanic.damage] per second.",
+    "spell.flaming_hands.description" : "Continuously shoot a gout of [key.flag.fire](flame) that deals [key.variable.positive]({0:0.#}) [key.flag.fire] [key.mechanic.damage] over [key.variable.positive]({1:0.#}) seconds.",
 
     "spell.magic_missile.name" : "Magic Missile",
     "spell.magic_missile.description" : "Conjure up to [key.variable.positive]({1:N0}) [key.flag.arcane](missiles) of [key.flag.arcane](arcane force), based on the [key.mechanic.ability_charge](Charge) of the spell.\nEach [key.flag.arcane](missile) deals [key.variable.positive]({0:0.#}) [key.flag.arcane] [key.mechanic.damage] and [key.variable.static](100%) of that [key.mechanic.damage] as [key.mechanic.posture_damage].\nThese [key.flag.arcane](missiles) will aggressively [key.mechanic.homing](home) [key.mechanic.homing](in) on their targets.",
