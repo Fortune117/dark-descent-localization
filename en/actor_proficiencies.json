@@ -1,0 +1,34 @@
+{
+    "proficiency.weapon.improvised.name" : "Improvised Weapons",
+    "proficiency.weapon.improvised.description" : "Improvised Weapons",
+
+    "proficiency.weapon.simple.name" : "Simple Weapons",
+    "proficiency.weapon.simple.description" : "Simple Weapons",
+
+    "proficiency.weapon.martial.name" : "Martial Weapons",
+    "proficiency.weapon.martial.description" : "Martial Weapons",
+
+    "proficiency.weapon.exotic.name" : "Exotic Weapons",
+    "proficiency.weapon.exotic.description" : "Exotic Weapons",
+
+    "proficiency.weapon.spellcasting.name" : "Spellcasting",
+    "proficiency.weapon.spellcasting.description" : "Spellcasting",
+
+    "proficiency.weapon.shield.name" : "Shields",
+    "proficiency.weapon.shield.description" : "Shields",
+
+    "proficiency.weapon.bow.name" : "Bow",
+    "proficiency.weapon.bow.description" : "Bow",
+
+    "proficiency.armor.heavy.name" : "Heavy Armor",
+    "proficiency.armor.heavy.description" : "Heavy Armor",
+
+    "proficiency.armor.medium.name" : "Medium Armor",
+    "proficiency.armor.medium.description" : "Medium Armor",
+
+    "proficiency.armor.light.name" : "Light Armor",
+    "proficiency.armor.light.description" : "Light Armor",
+
+    "proficiency.armor.clothing.name" : "Clothing",
+    "proficiency.armor.clothing.description" : "Clothing"
+}
