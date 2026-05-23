@@ -1,0 +1,5 @@
+{
+    "class.fighter.skill.lunge.name" : "Lunge",
+    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate][key.style.break_small]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown."
+
+}

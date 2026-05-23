@@ -476,12 +476,15 @@
     "key.flag.logos" : "Logos",
     "key.flag.summon" : "Summon",
 
+    "key.flag.fighter" : "Fighter",
+    "key.flag.warrior" : "Warrior",
+
     "key.flag.buff" : "Buff",
     "key.flag.debuff" : "Debuff",
 
     "key.flag.elite" : "Elite",
     "key.flag.elite.tooltip.name" : "Elite Enmies",
-    "key.flag.elite.tooltip.description" : "[key.flag.elite] enemies are much stronger than the average foe you'll encounter within the [key.flavour.dungeon], and will often have unique strengths and behaviours.",
+    "key.flag.elite.tooltip.description" : "[key.flag.elite] enemies are much stronger than the average foe you'll encounter within the [key.flavour.dungeon], and will often have unique abilities and behaviours.",
 
     "key.hold_type.two_handed" : "Two-Handed",
     "key.hold_type.two_handed.tooltip.name" : "Two-Handed",
