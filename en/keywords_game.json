@@ -220,7 +220,7 @@
 
     "key.mechanic.poise_damage" : "Poise Damage",
     "key.mechanic.poise_damage.tooltip.name" : "Poise Damage",
-    "key.mechanic.poise_damage.tooltip.description" : "[key.mechanic.poise_damage] is applied when you strike an enemy with a weapon.\nIt scales very weakly with your [key.stat.attack.knockback], but otherwise, no sources in the game currently increase your [key.mechanic.poise_damage] dealt.\n[key.mechanic.poise] is separate to [key.stat.posture], with [key.stat.posture] being responsible for [key.mechanic.stun](Stuns).",
+    "key.mechanic.poise_damage.tooltip.description" : "[key.mechanic.poise_damage] is applied when you strike an enemy with a weapon.\nIt scales very weakly with your [key.stat.attack.knockback], but otherwise, it is a flat value that depends on the weapon used.\nIt does not take much [key.mechanic.poise_damage] to [key.mechanic.stagger] an enemy.\n[key.mechanic.poise] is separate to [key.stat.posture], with [key.stat.posture] being responsible for [key.mechanic.stun](Stuns) and [key.mechanic.poise] being responsible for [key.mechanic.stagger](Staggers).",
 
     "key.mechanic.stun" : "Stun",
     "key.mechanic.stun.tooltip.name" : "Stuns",
@@ -478,6 +478,8 @@
 
     "key.flag.fighter" : "Fighter",
     "key.flag.warrior" : "Warrior",
+    "key.flag.skirmisher" : "Skirmisher",
+    "key.flag.knight" : "Knight",
 
     "key.flag.buff" : "Buff",
     "key.flag.debuff" : "Debuff",

@@ -52,9 +52,6 @@
     "class.fighter.skill.push_forwards.name" : "Push Forwards",
     "class.fighter.skill.push_forwards.description" : "[key.trigger.on_damaged][key.style.break_small]You can restore up to [key.variable.positive]({0:P0}) of the [key.stat.health] lost by dealing [key.mechanic.damage] with a [key.flag.melee] weapon for up to [key.variable.positive]({1}) seconds.\n[key.mechanic.damage] is converted into [key.stat.health] at a ratio of [key.variable.positive]({2:P0}).\nThis skill will not work on [key.mechanic.damage_over_time] effects.",
 
-    "class.fighter.skill.lunge.name" : "Lunge",
-    "class.fighter.skill.lunge.description" : "[key.trigger.on_activate][key.style.break_small]When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to dash forward and perform a downward strike.\nKills with this ability refresh its cooldown.",
-
     "class.fighter.skill.blademaster.name" : "Blademaster",
     "class.fighter.skill.blademaster.description" : "You can [key.mechanic.parry] with your opposite hand during attacks while [key.mechanic.dual_wielding] ([key.item_tag.shield](Shields) excluded).\nDoes not allow [key.mechanic.block](Blocking) during this window.",
 
@@ -63,9 +60,6 @@
 
     "class.fighter.skill.sundering_strikes.name" : "Shred",
     "class.fighter.skill.sundering_strikes.description" : "Your [key.hold_type.one_handed] [key.flag.melee] attacks reduce the targets [key.stat.defense.armor] by [key.variable.positive]({0}) for [key.variable.positive]({1}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({2}) times.",
-
-    "class.fighter.skill.twin_strike.name" : "Twin Strike",
-    "class.fighter.skill.twin_strike.description" : "If you strike a [key.mechanic.stun](Stunned) enemy with both weapons while [key.mechanic.dual_wielding] within [key.variable.positive]({0}) second(s) of each other, apply [key.variable.positive]({1}) [key.status.bleed] and restore [key.variable.positive]({2}) [key.stat.stamina].",
 
     "class.fighter.skill.executor.name" : "Executor",
     "class.fighter.skill.executor.description" : "[key.trigger.on_execute][key.style.break_small]If performed with a [key.hold_type.two_handed] [key.flag.melee] weapon gain [key.variable.positive]({0}) [key.stat.attack.power] for [key.variable.positive]({1}) second(s) and apply [key.variable.positive]({2}) [key.status.bleed].\nIn addition, you will [key.flavour.positive](instantly kill) [key.mechanic.execute](Executed) targets put below [key.variable.positive]({3:0.#%}) [key.stat.health].",
@@ -115,9 +109,6 @@
     "class.fighter.skill.medium_armor_master.name" : "Veteran",
     "class.fighter.skill.medium_armor_master.description" : "Increase the stats gained from [key.item_tag.medium] [key.item_tag.armor] by [key.variable.positive]({0:0.#%}).\nWhile wearing all [key.item_tag.medium] [key.item_tag.armor]:\n[key.variable.positive]({1:0.#%}) of the [key.mechanic.block](Unblocked) [key.mechanic.damage] you take is converted into [key.mechanic.posture_damage] instead at a [key.variable.negative]({2:P0}) ratio.\nIf you don't have enough [key.stat.posture], or if you're [key.mechanic.posture_break](Posture Broken), [key.mechanic.damage] will be applied as normal.\nThis [key.mechanic.posture_damage] cannot [key.mechanic.posture_break](Break) your [key.stat.posture].",
 
-    "class.fighter.skill.like_a_bug.name" : "Like a Bug",
-    "class.fighter.skill.like_a_bug.description" : "If you would [key.mechanic.posture_break_enemy](Break) an enemies [key.stat.posture] in [key.variable.static](one) hit with a [key.hold_type.two_handed] [key.flag.melee] weapon, [key.flavour.positive](kill them).\n[key.flavour.important](Dramatically).",
-
     "class.fighter.skill.indulgent.name" : "Indulgent",
     "class.fighter.skill.indulgent.description" : "When your [key.stat.grit] decays naturally, it is converted into [key.stat.stamina] and [key.stat.posture] at a [key.variable.positive]({0:P0}) ratio.\n[key.trigger.on_kill][key.style.break_small]When you [key.mechanic.kill] an enemy with a [key.hold_type.two_handed] [key.flag.melee] weapon, [key.variable.positive]({1:P0}) of your [key.stat.grit] is converted into [key.stat.health].",
 
@@ -126,12 +117,6 @@
   
     "class.fighter.skill.flow.name" : "Flow State",
     "class.fighter.skill.flow.description" : "Your [key.mechanic.parry_window] with [key.hold_type.two_handed] [key.flag.melee] weapons is [key.flavour.negative](reduced) by [key.variable.negative]({0:0.#%}).\n[key.trigger.on_parry][key.style.break_small]If performed with a [key.hold_type.two_handed] [key.flag.melee] weapon, gain [key.variable.positive]({1:P0}) [key.stat.attack.speed] and [key.variable.positive]({2:P0}) [key.mechanic.damage].\n[key.mechanic.stacks] up to [key.variable.positive]({3}) times, [key.mechanic.stacks] last indefinitely.\n[key.flavour.negative](All Stacks are lost upon taking damage, blocking an attack instead of parrying it, or swapping weapons.)",
-
-    "class.fighter.skill.vexation.name" : "Vexation",
-    "class.fighter.skill.vexation.description" : "Whenever your [key.hold_type.two_handed] [key.flag.melee] weapon attacks are [key.mechanic.block](Blocked) or [key.mechanic.parry](Parried), gain [key.variable.positive]({0:0.#%}) [key.stat.attack.speed] and [key.variable.positive]({1}) [key.stat.attack.power] for [key.variable.positive]({2}) second(s).\n[key.mechanic.stacks] up to [key.variable.positive]({3}) times.",  
-    
-    "class.fighter.skill.three_pronged_bell.name" : "Three Pronged Bell",
-    "class.fighter.skill.three_pronged_bell.description" : "After [key.variable.static]({0}) [key.flavour.important](consecutive) [key.mechanic.parry](Parries) with a [key.item_tag.shield] without taking [key.mechanic.damage], your next attack with a [key.item_tag.shield] will deal additional [key.mechanic.damage] equal to [key.variable.positive]({1:P0}) of your [key.stat.defense.armor] [key.variable.positive](({2:N0})).",
 
     "class.fighter.skill.thousand_cuts.name" : "Thousand Cuts",
     "class.fighter.skill.thousand_cuts.description" : "[key.trigger.on_parry][key.style.break_small]If performed with a [key.hold_type.one_handed] [key.flag.melee] weapon, inflict [key.variable.positive]({0:N0}) [key.status.bleed] on your [key.flavour.important](next) [key.variable.positive]({1}) attack(s) with a [key.hold_type.one_handed] [key.flag.melee] weapon within [key.variable.positive]({2}) seconds."
