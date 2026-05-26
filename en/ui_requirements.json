@@ -3,5 +3,7 @@
     
     "ui.requirements.class_level" : "{0} levels in {1}.",
 
-    "ui.requirements.proficiency" : "Proficiency with {0}"
+    "ui.requirements.proficiency" : "Proficiency with {0}",
+
+    "ui.requirements.skill" : "{1} {0}."
 }
