@@ -30,5 +30,5 @@
     "class.fighter.skill.dash.description" : "[key.flavour.important](Dash) in the direction you're moving.\n [key.flavour.negative](Cannot) be used while wearing [key.item_tag.heavy] or [key.item_tag.medium] [key.item_tag.armor].",
 
     "class.fighter.skill.shield_counter.name" : "Counter Bash",
-    "class.fighter.skill.shield_counter.description" : "[key.trigger.on_parry][key.style.break_small]Your [key.mechanic.block] will become active during your [key.flavour.important](next) [key.flag.melee] attack with a [key.item_tag.shield] within [key.variable.positive]({0}) seconds.\nIf you [key.mechanic.parry] or [key.flavour.important](fully) [key.mechanic.block] an attack during this window, gain [key.variable.positive]({1:N0}) [key.stat.defense.armor] and [key.variable.positive]({2:N0}) [key.stat.attack.power] for [key.variable.positive]({3}) seconds.\n[key.mechanic.stacks] up to [key.variable.static]({4}) times."
+    "class.fighter.skill.shield_counter.description" : "Perform a strike with your [key.item_tag.shield].\nYour [key.mechanic.block] will be active during this attack, and will [key.mechanic.parry] any attacks blocked."
 }
