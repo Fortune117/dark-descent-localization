@@ -1,6 +1,6 @@
 {
     "class.fighter.skill.lunge.name" : "Lunge",
-    "class.fighter.skill.lunge.description" : "When wielding a [key.hold_type.two_handed] weapon, you may activate this ability to quickly [key.flavour.important](dash) forwards and strike with [key.variable.positive](+{0:P0}) [key.stat.attack.speed] and [key.variable.positive](+{1:P0})[key.mechanic.damage].\nKills with this ability refresh its [key.flavour.important](cooldown).",
+    "class.fighter.skill.lunge.description" : "When wielding a [key.hold_type.two_handed] weapon, you may activate this ability.\n[key.trigger.on_activate][key.style.break_small]Quickly [key.flavour.important](dash) forwards and strike with [key.variable.positive](+{0:P0}) [key.stat.attack.speed] and [key.variable.positive](+{1:P0}) [key.mechanic.damage].\nKills with this ability refresh its [key.flavour.important](cooldown).",
 
     "class.fighter.skill.second_wind.name" : "Second Wind",
     "class.fighter.skill.second_wind.description" : "Activate to [key.flavour.positive](heal) [key.variable.positive]({0:N0}) [key.stat.health], [key.flavour.positive](restore) [key.variable.positive]({1:N0}) [key.stat.stamina] and [key.flavour.important](permanently) gain [key.variable.positive]({2:N0}) [key.stat.health.max].\nYou can only use this ability [key.variable.positive]({3:N0}) times.",
@@ -12,13 +12,13 @@
     "class.fighter.skill.sprint.description" : "Gain [key.variable.positive]({0:P0}) [key.stat.movement.speed] for [key.variable.positive]({1:0.#}) [key.flavour.important](seconds.)\nHas a [key.variable.positive]({2:0.#}) [key.flavour.important](second) [key.flavour.important](cooldown).",
 
     "class.fighter.skill.action_surge.name" : "Action Surge",
-    "class.fighter.skill.action_surge.description" : "Gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] and [key.flavour.important](restore) [key.variable.positive]({1:0.#}) [key.stat.stamina] [key.flavour.important](per second) for [key.variable.positive]({2:N1}) [key.flavour.important](seconds).\nHas a [key.variable.positive]({3:0.#}) [key.flavour.important](second) [key.flavour.important](cooldown).",
+    "class.fighter.skill.action_surge.description" : "Gain [key.variable.positive]({0:P0}) [key.stat.attack.speed] and [key.flavour.important](restore) [key.variable.positive]({1:0.#}) [key.stat.stamina] [key.flavour.important](per second) for [key.variable.positive]({2:N1}) [key.flavour.important](seconds).\n[key.variable.positive]({3:0.#}) [key.flavour.important](second) [key.flavour.important](cooldown).",
 
     "class.fighter.skill.like_a_bug.name" : "Like a Bug",
     "class.fighter.skill.like_a_bug.description" : "If you would [key.mechanic.posture_break_enemy](Break) an enemies [key.stat.posture] in [key.variable.static](one) hit with a [key.hold_type.two_handed] [key.flag.melee] weapon, [key.flavour.positive](kill them).\n[key.flavour.important](Dramatically).",
 
     "class.fighter.skill.vexation.name" : "Vexation",
-    "class.fighter.skill.vexation.description" : "Whenever your [key.hold_type.two_handed] [key.flag.melee] weapon attacks are [key.mechanic.block](Blocked) or [key.mechanic.parry](Parried), you can [key.flavour.important](activate) this skill for the next [key.variable.constant]({0:N1}) [key.flavour.important](seconds.)\n[key.trigger.on_activate][key.style.break_small]Instantly perform a melee attack with [key.variable.positive](+{1:P0}) [key.stat.attack.speed] and [key.variable.positive](+{2:P0}) [key.mechanic.damage].", 
+    "class.fighter.skill.vexation.description" : "Whenever your [key.hold_type.two_handed] [key.flag.melee] weapon attacks are [key.mechanic.block](Blocked) or [key.mechanic.parry](Parried), you can [key.flavour.important](activate) this skill for the next [key.variable.static]({0:0.#}) [key.flavour.important](seconds.)\n[key.trigger.on_activate][key.style.break_small]Instantly perform a melee attack with [key.variable.positive](+{1:P0}) [key.stat.attack.speed] and [key.variable.positive](+{2:P0}) [key.mechanic.damage].", 
 
     "class.fighter.skill.three_pronged_bell.name" : "Three Pronged Bell",
     "class.fighter.skill.three_pronged_bell.description" : "After [key.variable.static]({0}) [key.flavour.important](consecutive) [key.mechanic.parry](Parries) with a [key.item_tag.shield] without taking [key.mechanic.damage], your next attack with a [key.item_tag.shield] will deal additional [key.mechanic.damage] equal to [key.variable.positive]({1:P0}) of your [key.stat.defense.armor] [key.variable.positive](({2:N0})).",
@@ -27,7 +27,7 @@
     "class.fighter.skill.twin_strike.description" : "While [key.mechanic.dual_wielding] [key.hold_type.one_handed] weapons ([key.item_tag.shield](Shields) excluded), you can [key.flavour.important](activate) this ability.\n[key.trigger.on_activate][key.style.break_small]Strike with both weapons at [key.variable.positive](+{0:P0}) [key.stat.attack.speed] and inflict [key.variable.positive]({1:N0}) [key.status.bleed].",
 
     "class.fighter.skill.dash.name" : "Dash",
-    "class.fighter.skill.dash.description" : "[key.flavour.important](Dash) in the direction you're moving.\nNo cooldown.\n[key.flavour.negative](Cannot) be used while wearing [key.item_tag.heavy] or [key.item_tag.medium] [key.item_tag.armor].",
+    "class.fighter.skill.dash.description" : "[key.flavour.important](Dash) in the direction you're moving.\n[key.variable.positive](0.5s) [key.flavour.important](second cooldown.)\n[key.flavour.negative](Cannot) be used while wearing [key.item_tag.heavy] or [key.item_tag.medium] [key.item_tag.armor].",
 
     "class.fighter.skill.shield_counter.name" : "Counter Bash",
     "class.fighter.skill.shield_counter.description" : "Perform a strike with your [key.item_tag.shield].\nYour [key.mechanic.block] will be active during this attack, and will [key.mechanic.parry] any attacks blocked."
