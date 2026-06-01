@@ -6,7 +6,7 @@
     "class.fighter.skill.second_wind.description" : "Activate to [key.flavour.positive](heal) [key.variable.positive]({0:N0}) [key.stat.health], [key.flavour.positive](restore) [key.variable.positive]({1:N0}) [key.stat.stamina] and [key.flavour.important](permanently) gain [key.variable.positive]({2:N0}) [key.stat.health.max].\nYou can only use this ability [key.variable.positive]({3:N0}) times.",
 
     "class.fighter.skill.cheap_shot.name" : "Cheap Shot",
-    "class.fighter.skill.cheap_shot.description" : "Perform a quick strike with a [key.hold_type.one_handed] weapon at [key.variable.positive]({0:P0}) [key.stat.attack.speed].\nIf this hits an enemy while they are [key.flavour.important](attacking), they will take an additional [key.variable.positive]({1:0.#}) [key.mechanic.poise_damage], potentially [key.mechanic.stagger](Staggering) then.",
+    "class.fighter.skill.cheap_shot.description" : "Perform a quick strike with a [key.hold_type.one_handed] [key.item_tag.melee] weapon at [key.variable.positive]({0:P0}) [key.stat.attack.speed] but [key.variable.negative]({1:P0}).\nIf this hits an enemy while they are [key.flavour.important](attacking), they will take an additional [key.variable.positive]({2:0.#}) [key.mechanic.poise_damage], potentially [key.mechanic.stagger](Staggering) then.",
 
     "class.fighter.skill.sprint.name" : "Sprint",
     "class.fighter.skill.sprint.description" : "Gain [key.variable.positive]({0:P0}) [key.stat.movement.speed] for [key.variable.positive]({1:0.#}) [key.flavour.important](seconds.)\nHas a [key.variable.positive]({2:0.#}) [key.flavour.important](second) [key.flavour.important](cooldown).",
@@ -24,7 +24,7 @@
     "class.fighter.skill.three_pronged_bell.description" : "After [key.variable.static]({0}) [key.flavour.important](consecutive) [key.mechanic.parry](Parries) with a [key.item_tag.shield] without taking [key.mechanic.damage], your next attack with a [key.item_tag.shield] will deal additional [key.mechanic.damage] equal to [key.variable.positive]({1:P0}) of your [key.stat.defense.armor] [key.variable.positive](({2:N0})).",
     
     "class.fighter.skill.twin_strike.name" : "Twin Strike",
-    "class.fighter.skill.twin_strike.description" : "While [key.mechanic.dual_wielding] [key.hold_type.one_handed] weapons ([key.item_tag.shield](Shields) excluded), you can [key.flavour.important](activate) this ability.\n[key.trigger.on_activate][key.style.break_small]Strike with both weapons at [key.variable.positive](+{0:P0}) [key.stat.attack.speed] and inflict [key.variable.positive]({1:N0}) [key.status.bleed].",
+    "class.fighter.skill.twin_strike.description" : "While [key.mechanic.dual_wielding] [key.hold_type.one_handed] [key.item_tag.melee] weapons ([key.item_tag.shield](Shields) excluded), you can [key.flavour.important](activate) this ability.\n[key.trigger.on_activate][key.style.break_small]Strike with both weapons at [key.variable.positive](+{0:P0}) [key.stat.attack.speed]. Each strike will inflict [key.variable.positive]({1:N0}) [key.status.bleed] [key.trigger.on_hit].",
 
     "class.fighter.skill.dash.name" : "Dash",
     "class.fighter.skill.dash.description" : "[key.flavour.important](Dash) in the direction you're moving.\n[key.variable.positive](0.5s) [key.flavour.important](second cooldown.)\n[key.flavour.negative](Cannot) be used while wearing [key.item_tag.heavy] or [key.item_tag.medium] [key.item_tag.armor].",
