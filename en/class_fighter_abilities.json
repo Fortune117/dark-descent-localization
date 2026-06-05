@@ -1,6 +1,6 @@
 {
     "class.fighter.skill.lunge.name" : "Lunge",
-    "class.fighter.skill.lunge.description" : "When wielding a [key.hold_type.two_handed] weapon, you may activate this ability.\n[key.trigger.on_activate][key.style.break_small]Quickly [key.flavour.important](dash) forwards and strike with [key.variable.positive](+{0:P0}) [key.stat.attack.speed] and [key.variable.positive](+{1:P0}) [key.mechanic.damage].\nKills with this ability refresh its [key.flavour.important](cooldown).",
+    "class.fighter.skill.lunge.description" : "When wielding a [key.hold_type.two_handed] weapon, you may activate this ability.\n[key.trigger.on_activate][key.style.break_small]Quickly [key.flavour.important](dash) forwards and strike with [key.variable.positive](+{0:P0}) [key.stat.attack.speed] and [key.variable.positive](+{1:P0}) [key.mechanic.damage].",
 
     "class.fighter.skill.second_wind.name" : "Second Wind",
     "class.fighter.skill.second_wind.description" : "Activate to [key.flavour.positive](heal) [key.variable.positive]({0:N0}) [key.stat.health], [key.flavour.positive](restore) [key.variable.positive]({1:N0}) [key.stat.stamina] and [key.flavour.important](permanently) gain [key.variable.positive]({2:N0}) [key.stat.health.max].\nYou can only use this ability [key.variable.positive]({3:N0}) times.",
