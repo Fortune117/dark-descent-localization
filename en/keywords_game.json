@@ -498,6 +498,7 @@
 
     "key.enchantment.strength" : "Enchantment Strength",
     "key.enchantment.combined" : "(Enchantment Strength + Item Enhancement Bonus)",
+    "key.item.enhancement" : "Item Enhancement Bonus",
 
     "key.skill.level" : "Skill Level",
     "key.skill.tier" : "Skill Tier",

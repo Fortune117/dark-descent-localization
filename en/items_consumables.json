@@ -35,21 +35,21 @@
     "item.potion.healing.eternal.description" : "",
     "item.potion.healing.eternal.flavour" : "Small golden lights roil amidst the crimson liquid.",
 
-    "item.potion.haste.minor.name" : "Minor Haste Potion",
-    "item.potion.haste.minor.description" : "",
-    "item.potion.haste.minor.flavour" : "Small sparks leap out of the swirling liquid.",
+    "item.potion.haste.name" : "Haste Potion",
+    "item.potion.haste.description" : "",
+    "item.potion.haste.flavour" : "Small sparks leap out of the swirling liquid.",
 
-    "item.potion.casting.minor.name" : "Minor Casting Potion",
-    "item.potion.casting.minor.description" : "",
-    "item.potion.casting.minor.flavour" : "Pearlescent ichor, shifting in the light.",
+    "item.potion.casting.name" : "Casting Potion",
+    "item.potion.casting.description" : "",
+    "item.potion.casting.flavour" : "Pearlescent ichor, shifting in the light.",
 
-    "item.potion.attack_power.minor.name" : "Minor Power Potion",
-    "item.potion.attack_power.minor.description" : "",
-    "item.potion.attack_power.minor.flavour" : "Fleks of metal glint inside the dull orange liquid.",
+    "item.potion.attack_power.name" : "Minor Power Potion",
+    "item.potion.attack_power.description" : "",
+    "item.potion.attack_power.flavour" : "Fleks of metal glint inside the dull orange liquid.",
 
-    "item.potion.spell_power.minor.name" : "Minor Spell Power Potion",
-    "item.potion.spell_power.minor.description" : "",
-    "item.potion.spell_power.minor.flavour" : "Crackling power swims within the Zima.",
+    "item.potion.spell_power.name" : "Spell Power Potion",
+    "item.potion.spell_power.description" : "",
+    "item.potion.spell_power.flavour" : "Crackling power swims within the Zima.",
 
     "item.potion.experience.name" : "Potion of Knowledge",
     "item.potion.experience.description" : "Grants [key.variable.static]({0:N0}) [key.mechanic.experience] when consumed.\nCondensened understanding - bottled engrams from the [key.lore.lich] themselves.[key.style.break_small][key.flavour.secret](What could you possibly understand of it?)",
