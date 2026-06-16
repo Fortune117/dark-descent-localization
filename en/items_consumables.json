@@ -3,37 +3,9 @@
     "item.consumable.key.description" : "A skeleton key, capable of opening the many locks within the dungeon.",
     "item.consumable.key.flavour" : "",
 
-    "item.potion.healing.minor.name" : "Minor Healing Potion",
-    "item.potion.healing.minor.description" : "",
-    "item.potion.healing.minor.flavour" : "Small golden lights roil amidst the crimson liquid.",
-    
-    "item.potion.healing.small.name" : "Small Healing Potion",
-    "item.potion.healing.small.description" : "",
-    "item.potion.healing.small.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
-    "item.potion.healing.moderate.name" : "Moderate Healing Potion",
-    "item.potion.healing.moderate.description" : "",
-    "item.potion.healing.moderate.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
-    "item.potion.healing.large.name" : "Large Healing Potion",
-    "item.potion.healing.large.description" : "",
-    "item.potion.healing.large.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
-    "item.potion.healing.greater.name" : "Greater Healing Potion",
-    "item.potion.healing.greater.description" : "",
-    "item.potion.healing.greater.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
-    "item.potion.healing.grand.name" : "Greater Healing Potion",
-    "item.potion.healing.grand.description" : "",
-    "item.potion.healing.grand.flavour" : "Small golden lights roil amidst the crimson liquid.",
-
-    "item.potion.healing.divine.name" : "Divine Healing Potion",
-    "item.potion.healing.divine.description" : "",
-    "item.potion.healing.divine.flavour" : "Small golden lights roil amidst the crimson liquid.",
-    
-    "item.potion.healing.eternal.name" : "Eternal Healing Potion",
-    "item.potion.healing.eternal.description" : "",
-    "item.potion.healing.eternal.flavour" : "Small golden lights roil amidst the crimson liquid.",
+    "item.potion.healing.name" : "Healing Potion",
+    "item.potion.healing.description" : "",
+    "item.potion.healing.flavour" : "Small golden lights roil amidst the crimson liquid.",
 
     "item.potion.haste.name" : "Haste Potion",
     "item.potion.haste.description" : "",
@@ -43,9 +15,9 @@
     "item.potion.casting.description" : "",
     "item.potion.casting.flavour" : "Pearlescent ichor, shifting in the light.",
 
-    "item.potion.attack_power.name" : "Minor Power Potion",
+    "item.potion.attack_power.name" : "Power Potion",
     "item.potion.attack_power.description" : "",
-    "item.potion.attack_power.flavour" : "Fleks of metal glint inside the dull orange liquid.",
+    "item.potion.attack_power.flavour" : "Flecks of metal glint inside the pallid orange liquid.",
 
     "item.potion.spell_power.name" : "Spell Power Potion",
     "item.potion.spell_power.description" : "",
@@ -70,8 +42,26 @@
     "item.potion.shields.name" : "Potion of Shields",
     "item.potion.shields.description" : "Conjures [key.variable.static]({0:N0}) [key.flag.arcane](shields) to defend you.\nThese shields will each [key.mechanic.parry] an incoming attack before dissipating.",
     "item.potion.shields.flavour" : "Unsettling purple fluid follows your fingers as they trace across the glass.",
+
+    "item.potion.trolls_blood.name" : "Potion of Trolls Blood",
+    "item.potion.trolls_blood.description" : "",
+    "item.potion.trolls_blood.flavour" : "Ruddy purple liquid squirms inside, wriggling with uncanny life.",
+
+    "item.potion.grit.name" : "Potion of Grit",
+    "item.potion.grit.description" : "",
+    "item.potion.grit.flavour" : "Pale, viscous white liquid oozes within the glass bottle. The label seems almost redundant given the stomach one would require to ingest it.",
+
+    "item.potion.bone_servant.name" : "Potion of Bones",
+    "item.potion.bone_servant.description" : "Conjures {0} [key.flavour.important](Skeletons) to assist you when consumed.",
+    "item.potion.bone_servant.flavour" : "Congealed spiritual essence, a product derived from some morbid experiment.",
+
+    "item.potion.iron_skin.name" : "Potion of Iron",
+    "item.potion.iron_skin.description" : "",
+    "item.potion.iron_skin.flavour" : "Slivers of iron glow softly, suspended inside metallic oil.",
     
     "item.consumable.cost" : "Cost",
     "item.consumable.restores" : "Restores",
-    "item.consumable.grants" : "Grants"
+    "item.consumable.grants" : "Grants",
+    "item.consumable.duration.limited" : "Applies for {0:0.#}s",
+    "item.consumable.duration.infinite" : "Permanent"
 }
