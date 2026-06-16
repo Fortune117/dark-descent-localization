@@ -49,7 +49,7 @@
 
     "item.potion.grit.name" : "Potion of Grit",
     "item.potion.grit.description" : "",
-    "item.potion.grit.flavour" : "Pale, viscous white liquid oozes within the glass bottle. The label seems almost redundant given the stomach one would require to ingest it.",
+    "item.potion.grit.flavour" : "Pale, viscous white liquid oozes within the glass bottle.\nThe label seems almost redundant given the stomach one would require to ingest it.",
 
     "item.potion.bone_servant.name" : "Potion of Bones",
     "item.potion.bone_servant.description" : "Conjures {0} [key.flavour.important](Skeletons) to assist you when consumed.",
