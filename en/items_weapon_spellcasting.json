@@ -1,5 +1,9 @@
 {
     "item.weapon.spell_tome.name" : "Spell Tome",
     "item.weapon.spell_tome.description" : "",
-    "item.weapon.spell_tome.flavour" : ""
+    "item.weapon.spell_tome.flavour" : "",
+
+    "item.weapon.crystal_sword.name" : "Crystal Sword",
+    "item.weapon.crystal_sword.description" : "",
+    "item.weapon.crystal_sword.flavour" : ""
 }

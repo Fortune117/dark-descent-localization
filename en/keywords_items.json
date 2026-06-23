@@ -134,6 +134,10 @@
     "key.item_tag.dex.tooltip.name" : "Dexterity (Tag)",
     "key.item_tag.dex.tooltip.description" : "This weapon scales off of your [key.stat.dexterity].",
 
+    "key.item_tag.mind" : "MIND",
+    "key.item_tag.mind.tooltip.name" : "Mind (Tag)",
+    "key.item_tag.mind.tooltip.description" : "This weapon scales off of your [key.stat.mind].",
+
     "key.item_tag.heal" : "Healing",
     "key.item_tag.heal.tooltip.name" : "Healing (Tag)",
     "key.item_tag.heal.tooltip.description" : "This item is capable of [key.flag.healing](Healing) you.",
