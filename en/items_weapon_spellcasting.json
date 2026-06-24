@@ -4,6 +4,10 @@
     "item.weapon.spell_tome.flavour" : "",
 
     "item.weapon.crystal_sword.name" : "Crystal Sword",
-    "item.weapon.crystal_sword.description" : "",
-    "item.weapon.crystal_sword.flavour" : ""
+    "item.weapon.crystal_sword.description" : "[key.flavour.important](Restores) [key.variable.positive]({0:0.#}) [key.stat.magic.mana] [key.trigger.on_hit].",
+    "item.weapon.crystal_sword.flavour" : "",
+
+    "item.weapon.crystal_orb.name" : "Crystal Orb",
+    "item.weapon.crystal_orb.description" : "",
+    "item.weapon.crystal_orb.flavour" : ""
 }
