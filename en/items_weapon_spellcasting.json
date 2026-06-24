@@ -13,5 +13,9 @@
 
     "item.weapon.magic_staff.name" : "Mages' Staff",
     "item.weapon.magic_staff.description" : "",
-    "item.weapon.magic_staff.flavour" : ""
+    "item.weapon.magic_staff.flavour" : "",
+
+    "item.weapon.wand.name" : "Wand",
+    "item.weapon.wand.description" : "",
+    "item.weapon.wand.flavour" : ""
 }
