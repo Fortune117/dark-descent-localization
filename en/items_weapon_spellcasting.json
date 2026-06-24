@@ -9,5 +9,9 @@
 
     "item.weapon.crystal_orb.name" : "Crystal Orb",
     "item.weapon.crystal_orb.description" : "",
-    "item.weapon.crystal_orb.flavour" : ""
+    "item.weapon.crystal_orb.flavour" : "",
+
+    "item.weapon.magic_staff.name" : "Mages' Staff",
+    "item.weapon.magic_staff.description" : "",
+    "item.weapon.magic_staff.flavour" : ""
 }
