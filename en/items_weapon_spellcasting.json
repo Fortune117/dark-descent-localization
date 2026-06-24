@@ -17,5 +17,9 @@
 
     "item.weapon.wand.name" : "Wand",
     "item.weapon.wand.description" : "",
-    "item.weapon.wand.flavour" : ""
+    "item.weapon.wand.flavour" : "",
+
+    "item.weapon.scepter.name" : "Scepter",
+    "item.weapon.scepter.description" : "",
+    "item.weapon.scepter.flavour" : ""
 }
