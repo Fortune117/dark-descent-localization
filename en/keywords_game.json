@@ -100,7 +100,7 @@
 
     "key.stat.magic.mana" : "Mana",
     "key.stat.magic.mana.tooltip.name" : "Mana",
-    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast [key.mechanic.spellcasting](Spells), with higher tier [key.mechanic.spellcasting](Spells) costing more.\n[key.flavour.negative](Mana does not regenerate naturally.)\nMost [key.mechanic.spellcasting] [key.mechanic.class](Classes) will start each run with a [key.item_tag.flask] that can restore [key.stat.magic.mana].",
+    "key.stat.magic.mana.tooltip.description" : "[key.stat.magic.mana] is used to cast [key.mechanic.spellcasting](Spells), with higher tier [key.mechanic.spellcasting](Spells) costing more.\n[key.flavour.negative](Mana does not regenerate automatically.)\nMost [key.mechanic.spellcasting] [key.mechanic.class](Classes) will start each run with a [key.item_tag.flask] that can restore [key.stat.magic.mana].\nMost [key.mechanic.spellcasting_focus](Spellcasting Focuses) will have some way to restore [key.stat.magic.mana].",
 
     "key.stat.power.fire" : "Fire Power",
     "key.stat.power.frost" : "Frost Power",
@@ -300,7 +300,7 @@
 
     "key.mechanic.spellcasting_focus" : "Spellcasting Focus",
     "key.mechanic.spellcasting_focus.tooltip.name" : "Spellcasting Focus",
-    "key.mechanic.spellcasting_focus.tooltip.description" : "Some [key.mechanic.class](Classes) require a [key.mechanic.spellcasting_focus] in order to be able to [key.mechanic.spellcasting](cast Spells).\nThese often take the form of magical [key.item_tag.tome](Tomes) or [key.item_tag.staff](Staves), and usually confer some additional effects to spells cast through them.",
+    "key.mechanic.spellcasting_focus.tooltip.description" : "Some [key.mechanic.class](Classes) require a [key.mechanic.spellcasting_focus] in order to be able to [key.mechanic.spellcasting](cast Spells).\nThese often take the form of magical [key.item_tag.tome](Tomes), [key.item_tag.staff](Staves) and [key.item_tag.wand](Wands).\n[key.mechanic.spellcasting_focus](Focuses) typically confer some additional benefits to [key.mechanic.spellcasting](Spells) cast through them.",
 
     "key.mechanic.sustaining" : "Sustaining",
     "key.mechanic.sustaining.tooltip.name" : "Sustaining",

@@ -4,7 +4,7 @@
     "item.weapon.spell_tome.flavour" : "",
 
     "item.weapon.crystal_sword.name" : "Crystal Sword",
-    "item.weapon.crystal_sword.description" : "[key.flavour.important](Restores) [key.variable.positive]({0:0.#}) [key.stat.magic.mana] [key.trigger.on_hit].",
+    "item.weapon.crystal_sword.description" : "[key.flavour.important](Restores) [key.variable.positive]({0:0.#}) [key.stat.magic.mana] [key.trigger.on_hit].\nIf your other hand is [key.flavour.important](unoccupied) you can [key.mechanic.spellcasting](Cast Spells) with this weapon.",
     "item.weapon.crystal_sword.flavour" : "",
 
     "item.weapon.crystal_orb.name" : "Crystal Orb",

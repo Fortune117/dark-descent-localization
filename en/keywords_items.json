@@ -218,6 +218,10 @@
     "key.item_tag.tome.tooltip.name" : "Tome (Tag)",
     "key.item_tag.tome.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a book.\nTomes tend to have powerful [key.flavour.positive](bonuses) to your [key.mechanic.spellcasting] ability, at the cost of offering no other utility.",
 
+    "key.item_tag.wand" : "Wand",
+    "key.item_tag.wand.tooltip.name" : "Wand (Tag)",
+    "key.item_tag.wand.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a wand.\nWands can typically only cast the spell that they're imbued with, but their cast speed is much faster as a result.",
+
     "key.item_tag.arcane" : "Arcane",
     "key.item_tag.arcane.tooltip.name" : "Arcane (Tag)",
     "key.item_tag.arcane.tooltip.description" : "This item is specialized in the [key.flag.arcane] in some way.",
