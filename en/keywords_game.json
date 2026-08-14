@@ -298,6 +298,10 @@
     "key.mechanic.spellcasting.tooltip.name" : "Spellcasting",
     "key.mechanic.spellcasting.tooltip.description" : "Casting spells is cool and fun :D",
 
+    "key.mechanic.cantrips" : "Cantrips",
+    "key.mechanic.cantrips.tooltip.name" : "Cantrips",
+    "key.mechanic.cantrips.tooltip.description" : "[key.mechanic.cantrips] are a kind of [key.mechanic.spellcasting](Spell) that are typically [key.flavour.important](free) to cast and often weaker than regular, leveled spells.",
+
     "key.mechanic.spellcasting_focus" : "Spellcasting Focus",
     "key.mechanic.spellcasting_focus.tooltip.name" : "Spellcasting Focus",
     "key.mechanic.spellcasting_focus.tooltip.description" : "Some [key.mechanic.class](Classes) require a [key.mechanic.spellcasting_focus] in order to be able to [key.mechanic.spellcasting](cast Spells).\nThese often take the form of magical [key.item_tag.tome](Tomes), [key.item_tag.staff](Staves) and [key.item_tag.wand](Wands).\n[key.mechanic.spellcasting_focus](Focuses) typically confer some additional benefits to [key.mechanic.spellcasting](Spells) cast through them.",

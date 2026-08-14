@@ -16,7 +16,7 @@
     "item.weapon.magic_staff.flavour" : "",
 
     "item.weapon.wand.name" : "Wand",
-    "item.weapon.wand.description" : "",
+    "item.weapon.wand.description" : "[key.item_tag.wand](Wands) can [key.flavour.important](only) cast the [key.mechanic.cantrip] they're imbued with.",
     "item.weapon.wand.flavour" : "",
 
     "item.weapon.scepter.name" : "Scepter",
