@@ -418,6 +418,10 @@
     "key.trigger.on_activate.tooltip.name" : "On Activation",
     "key.trigger.on_activate.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you activate this ability.",
 
+    "key.trigger.on_spell_cast" : "On Cast",
+    "key.trigger.on_spell_cast.tooltip.name" : "On Cast (Trigger)",
+    "key.trigger.on_spell_cast.tooltip.description" : "[key.mechanic.trigger](Triggers) whenever you [key.mechanic.spellcasting](cast a spell).\nMay sometimes check for additional restrictions, such as only triggering if the spell cost [key.stat.mana] to cast.",
+
     "key.flag.melee" : "Melee",
     "key.flag.melee.tooltip.name" : "Melee",
     "key.flag.melee.tooltip.description" : "Smacking an enemy with a stick is a [key.flag.melee] attack. So is punching them in the face.\nVery occasionally, some [key.flag.ranged] or [key.mechanic.spellcasting] options may count as a [key.flag.melee] attack for the purpose of [key.mechanic.trigger](Triggering) extra effects.",
