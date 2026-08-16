@@ -510,6 +510,8 @@
 
     "key.skill.level" : "Skill Level",
     "key.skill.tier" : "Skill Tier",
+    "key.skill.tier.tooltip.name" : "Skill Tier",
+    "key.skill.tier.tooltip.description" : "The approximate 'rank' of a skill, ability or spell.\nUsed to roughly separate how powerful each skill is.",
 
     "key.flavour.important" : "You shouldn't see this! Yell at fortune :)",
     "key.flavour.fluff" : "You shouldn't see this! Yell at fortune :)",

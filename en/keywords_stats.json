@@ -271,7 +271,7 @@
     
     "stats.critical_negation.name" : "Critical Resistance",
     "stats.critical_negation.short" : "[key.stat.resistance.critical](CRT RES)",
-    "stats.critical_negation.categorized" : "[key.stat.resistance.critical](CRES)",
+    "stats.critical_negation.categorized" : "[key.stat.resistance.critical](CRIT)",
     "stats.critical_negation.description" : "[key.mechanic.critical_hit](Critical Hits) you receive have their [key.stat.attack.critical_multiplier] reduced by this value.\nThis cannot reduce damage from a [key.mechanic.critical](Critical) below its regular damage.",
     
     "stats.knockback_resistance.name" : "Knockback Resistance",
