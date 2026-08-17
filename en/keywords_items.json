@@ -220,11 +220,15 @@
 
     "key.item_tag.wand" : "Wand",
     "key.item_tag.wand.tooltip.name" : "Wand (Tag)",
-    "key.item_tag.wand.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a wand.\nWands can typically only cast the spell that they're imbued with, but their cast speed is much faster as a result.",
+    "key.item_tag.wand.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a wand.\nWands can typically only cast the spell that they're imbued with and cannot create a [key.mechanic.block](ward), but their cast speed is much faster as a result",
 
     "key.item_tag.staff" : "Staff",
     "key.item_tag.staff.tooltip.name" : "Staff (Tag)",
     "key.item_tag.staff.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a staff.\nStaves are capable melee weapons, and offer higher spell power than other casting implements, but cast slower as a result.",
+
+    "key.item_tag.sceptre" : "Scepter",
+    "key.item_tag.sceptre.tooltip.name" : "Scepter (Tag)",
+    "key.item_tag.sceptre.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a sceptre.\nSceptres are capable of [key.mechanic.block](blocking) and [key.mechanic.spellcasting](casting spells), but do not have a way to generate [key.stat.magic.mana].",
 
     "key.item_tag.arcane" : "Arcane",
     "key.item_tag.arcane.tooltip.name" : "Arcane (Tag)",
