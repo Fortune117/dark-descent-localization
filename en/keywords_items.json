@@ -230,6 +230,10 @@
     "key.item_tag.sceptre.tooltip.name" : "Scepter (Tag)",
     "key.item_tag.sceptre.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a sceptre.\nSceptres are capable of [key.mechanic.block](blocking) and [key.mechanic.spellcasting](casting spells), but do not have a way to generate [key.stat.magic.mana].",
 
+    "key.item_tag.orb" : "Orb",
+    "key.item_tag.orb.tooltip.name" : "Orb (Tag)",
+    "key.item_tag.orb.tooltip.description" : "This item is a [key.mechanic.spellcasting_focus] in the form of a orb.\nOrbs are slow but powerful [key.mechanic.spellcasting](spellcasting) implements, and can be held [key.hold_type.one_handed].\nThe trade off for this flexibility is the lack of [key.stat.magic.mana] generation or the ability to [key.mechanic.block](block).",
+
     "key.item_tag.arcane" : "Arcane",
     "key.item_tag.arcane.tooltip.name" : "Arcane (Tag)",
     "key.item_tag.arcane.tooltip.description" : "This item is specialized in the [key.flag.arcane] in some way.",
