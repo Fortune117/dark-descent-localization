@@ -7,6 +7,10 @@
     "item.potion.healing.description" : "",
     "item.potion.healing.flavour" : "Small golden lights roil amidst the crimson liquid.",
 
+    "item.potion.mana.name" : "Mana Potion",
+    "item.potion.mana.description" : "",
+    "item.potion.mana.flavour" : "Silver flecks glisten within the cerulean liquid.",
+
     "item.potion.haste.name" : "Haste Potion",
     "item.potion.haste.description" : "",
     "item.potion.haste.flavour" : "Small sparks leap out of the swirling liquid.",
