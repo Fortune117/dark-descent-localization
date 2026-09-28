@@ -6,7 +6,7 @@
     "class.fighter.skill.second_wind.description" : "Activate to [key.flavour.positive](heal) [key.variable.positive]({0:N0}) [key.stat.health], [key.flavour.positive](restore) [key.variable.positive]({1:N0}) [key.stat.stamina] and [key.flavour.important](permanently) gain [key.variable.positive]({2:N0}) [key.stat.health.max].\nYou can only use this ability [key.variable.positive]({3:N0}) times.",
 
     "class.fighter.skill.cheap_shot.name" : "Cheap Shot",
-    "class.fighter.skill.cheap_shot.description" : "Perform a quick strike with a [key.hold_type.one_handed] [key.item_tag.melee] weapon at [key.variable.positive]({0:P0}) [key.stat.attack.speed] but [key.variable.negative]({1:P0}).\nIf this hits an enemy while they are [key.flavour.important](attacking), they will take an additional [key.variable.positive]({2:0.#}) [key.mechanic.poise_damage], potentially [key.mechanic.stagger](Staggering) then.",
+    "class.fighter.skill.cheap_shot.description" : "Perform a quick strike with a [key.hold_type.one_handed] [key.item_tag.melee] weapon with [key.variable.positive]({0:+0%;-0%}) [key.stat.attack.speed] but [key.variable.negative]({1:P0}) [key.mechanic.damage].\nIf this hits an enemy while they are [key.flavour.important](attacking), they will take an additional [key.variable.positive]({2:0.#}) [key.mechanic.poise_damage], potentially [key.mechanic.stagger](Staggering) then.",
 
     "class.fighter.skill.sprint.name" : "Sprint",
     "class.fighter.skill.sprint.description" : "Gain [key.variable.positive]({0:P0}) [key.stat.movement.speed] for [key.variable.positive]({1:0.#}) [key.flavour.important](seconds.)\nHas a [key.variable.positive]({2:0.#}) [key.flavour.important](second) [key.flavour.important](cooldown).",
