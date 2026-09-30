@@ -70,6 +70,22 @@
     "key.item_tag.heavy.tooltip.name" : "Heavy (Tag)",
     "key.item_tag.heavy.tooltip.description" : "[key.item_tag.heavy] items weigh more than other items in their category and represent items that have prioritised bulk and weight over the comfort of the user.\nThe [key.item_tag.heavy] tag has no intrinsic effect.",
 
+    "key.item_tag.head" : "Head",
+    "key.item_tag.head.tooltip.name" : "Head (Tag)",
+    "key.item_tag.head.tooltip.description" : "[key.item_tag.head] armor that covers the head.\nThe [key.item_tag.head] tag has no intrinsic effect.",
+
+    "key.item_tag.chest" : "Chest",
+    "key.item_tag.chest.tooltip.name" : "Chest (Tag)",
+    "key.item_tag.chest.tooltip.description" : "[key.item_tag.chest] armor that covers the chest.\nThe [key.item_tag.chest] tag has no intrinsic effect.",
+
+    "key.item_tag.leg" : "Legs",
+    "key.item_tag.leg.tooltip.name" : "Legs (Tag)",
+    "key.item_tag.leg.tooltip.description" : "[key.item_tag.leg] armor that covers the legs.\nThe [key.item_tag.leg] tag has no intrinsic effect.",
+
+    "key.item_tag.hand" : "Hands",
+    "key.item_tag.hand.tooltip.name" : "Hands (Tag)",
+    "key.item_tag.hand.tooltip.description" : "[key.item_tag.hand] armor that covers the hands.\nThe [key.item_tag.hand] tag has no intrinsic effect.",
+
     "key.item_tag.peasant" : "Peasant",
     "key.item_tag.peasant.tooltip.name" : "Peasant (Tag)",
     "key.item_tag.peasant.tooltip.description" : "[key.item_tag.peasant] items represent things that one might find on a humble farmstead.\nOfcourse, the Dungeon is not a suitable place for such quaint things...",
