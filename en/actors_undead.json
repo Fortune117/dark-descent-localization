@@ -12,5 +12,14 @@
     "actor.skeleton_archer.description" : "Oooo spooky scary skeleton oooo",
 
     "actor.skeleton_greatsword.name" : "Skeleton Warrior",
-    "actor.skeleton_greatsword.description" : "Oooo spooky scary skeleton oooo"
+    "actor.skeleton_greatsword.description" : "Oooo spooky scary skeleton oooo",
+
+    "actor.mummy.name" : "Ancient Dead",
+    "actor.mummy.description" : "Been dead long time bruddah",
+
+    "actor.mummy_twinblades.name" : "Ancient Warrior",
+    "actor.mummy_twinblades.description" : "Been dead long time bruddah",
+
+    "actor.flame_skull.name" : "Flame Skull",
+    "actor.flame_skull.description" : "Been dead long time bruddah"
 }
